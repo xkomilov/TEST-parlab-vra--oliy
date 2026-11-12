@@ -1,0 +1,562 @@
+{
+ "106": [
+  {
+   "q": "Bifshteks qanday tayyorlanganda teniarinxoz xavfini tug'diradi?",
+   "c": "Qovurilmagan yoki kam pishirilgan",
+   "w": [
+    "Qovurilgan yoki yaxshi pishirilgan",
+    "Qovurilmagan yoki yaxshi muzlatilgan",
+    "Tuzlangan yoki yaxshi pishirilgan",
+    "Quritilgan yoki yaxshi sovutilgan"
+   ],
+   "x": "«qovurilmagan yoki kam pishirilgan bifshteks»"
+  },
+  {
+   "q": "Xom taomlarda lichinkalar nima sababdan tirik qolishi mumkin?",
+   "c": "Ichki qismi yetarli darajada qizimagan bo'ladi",
+   "w": [
+    "Ichki qismi yetarli darajada muzlagan bo'ladi",
+    "Tashqi qismi yetarli darajada qizimagan bo'ladi",
+    "Ichki qismi yetarli darajada tuzlangan bo'ladi",
+    "Ichki qismi yetarli darajada ifloslangan bo'ladi"
+   ],
+   "x": "«chunki ularning ichki qismi yetarli darajada qizimagan bo'ladi»"
+  },
+  {
+   "q": "Go'shtni qizdirish harorati nima bilan tekshirilsa, natija yanada ishonchli bo'ladi?",
+   "c": "O'lchash vositasi",
+   "w": [
+    "Pichoq vositasi",
+    "Kesish vositasi",
+    "Muzlatish vositasi",
+    "Veterinar vositasi"
+   ],
+   "x": "«Go'shtni qizdirish harorati o'lchash vositasi bilan tekshirilsa, natija yanada ishonchli bo'ladi»"
+  },
+  {
+   "q": "Muzlatish usuli uy sharoitida qanday bo'ladi?",
+   "c": "Har doim ham yetarli bo'lmaydi",
+   "w": [
+    "Har doim yetarli bo'ladi",
+    "Faqat bozorda yetarli bo'ladi",
+    "Har doim ham xavfli bo'ladi",
+    "Har doim ham ishonchli bo'ladi"
+   ],
+   "x": "«Muzlatish usuli uy sharoitida har doim ham yetarli bo'lmaydi»"
+  },
+  {
+   "q": "Do'konlar va bozorlarda veterinariya nazorati nimani tekshirishi kerak?",
+   "c": "Go'shtning sog'lig'ini",
+   "w": [
+    "Go'shtning sifatini",
+    "Go'shtning pishishini",
+    "Go'shtning muzlatilishini",
+    "Go'shtning tuzlanishini"
+   ],
+   "x": "«veterinariya nazorati go'shtning sog'lig'ini tekshirishi kerak»"
+  },
+  {
+   "q": "Finnalar bilan zararlangan go'sht aniqlansa, u qanday deb topiladi?",
+   "c": "Yaroqsiz",
+   "w": [
+    "Yaxshi",
+    "Ishonchli",
+    "Xavfsiz",
+    "Sifatli"
+   ],
+   "x": "«bu holatda go'sht yaroqsiz deb topiladi»"
+  },
+  {
+   "q": "Veterinar tekshiruv tizimi bo'lmagan joyda nima bo'lishi mumkin?",
+   "c": "Infeksiyali go'sht bozorga tushishi mumkin",
+   "w": [
+    "Infeksiyali go'sht bozordan chiqishi mumkin",
+    "Sifatli go'sht bozorga tushishi mumkin",
+    "Infeksiyali go'sht muzlatilishi mumkin",
+    "Infeksiyali go'sht pishirilishi mumkin"
+   ],
+   "x": "«Shu tekshiruv tizimi bo'lmagan joyda infeksiyali go'sht bozorga tushishi mumkin»"
+  },
+  {
+   "q": "Restoranlarda yoshlar orasida nima moda bo'lib qolishi xavfni oshiradi?",
+   "c": "Xom go'shtli taomlarni iste'mol qilish",
+   "w": [
+    "Pishgan go'shtli taomlarni iste'mol qilish",
+    "Xom go'shtli taomlarni muzlatish",
+    "Xom go'shtli taomlarni sotish",
+    "Pishgan go'shtli taomlarni tayyorlash"
+   ],
+   "x": "«Yoshlar orasida tez-tez restoranlarda xom go'shtli taomlarni iste'mol qilish moda bo'lib qolishi ham xavfni oshiradi»"
+  },
+  {
+   "q": "Ovqatlanish madaniyatini o'zgartirish qanday amalga oshiriladi?",
+   "c": "Ta'lim orqali",
+   "w": [
+    "Qonun orqali",
+    "Nazorat orqali",
+    "Moda orqali",
+    "Muzlatish orqali"
+   ],
+   "x": "«ovqatlanish madaniyatini o'zgartirish ta'lim orqali amalga oshiriladi»"
+  },
+  {
+   "q": "Restoran va oshxonalarda go'sht qabul qilinganda nima tekshiriladi?",
+   "c": "Veterinariya hujjatlari",
+   "w": [
+    "Veterinariya yorlig'i",
+    "Sanitariya hujjatlari",
+    "Pishirish jurnali",
+    "Sotuvchi guvohnomasi"
+   ],
+   "x": "«go'shtni qabul qilishda veterinariya hujjatlari tekshiriladi»"
+  }
+ ],
+ "107": [
+  {
+   "q": "Giardioz qo'zg'atuvchisi qanday parazit hisoblanadi?",
+   "c": "Bir hujayrali ichak paraziti",
+   "w": [
+    "Ko'p hujayrali ichak paraziti",
+    "Bir hujayrali qon paraziti",
+    "Bir hujayrali o'pka paraziti",
+    "Ko'p hujayrali jigar paraziti"
+   ],
+   "x": "«bir hujayrali ichak parazitining qo'zg'atadigan kasalligi bo'lib»"
+  },
+  {
+   "q": "Trofozoit ichak bo'shlig'ida qanday ko'payadi?",
+   "c": "Bo'linib ko'payadi",
+   "w": [
+    "Yopishib ko'payadi",
+    "Najas bilan ko'payadi",
+    "Suvda ko'payadi",
+    "Noksimon ko'payadi"
+   ],
+   "x": "«U ichak bo'shlig'ida bo'linib ko'payadi»"
+  },
+  {
+   "q": "Kistalar boshqa odamga qaysi yo'l bilan tushishi mumkin?",
+   "c": "Suv yoki oziq-ovqat orqali",
+   "w": [
+    "Havo yoki oziq-ovqat orqali",
+    "Suv yoki chivin orqali",
+    "Teri yoki oziq-ovqat orqali",
+    "Suv yoki antibiotik orqali"
+   ],
+   "x": "«Kistalar najas bilan tashqariga chiqadi va suv yoki oziq-ovqat orqali boshqa odamga tushishi mumkin»"
+  },
+  {
+   "q": "Najas tekshiruvida lambliyaning qaysi shakli ko'proq uchraydi?",
+   "c": "Kista",
+   "w": [
+    "Trofozoit",
+    "Antigen",
+    "Qobiq",
+    "Qamchi"
+   ],
+   "x": "«Najas tekshiruvida kista ko'proq uchraydi»"
+  },
+  {
+   "q": "Uzoq davom etgan lambliozda qanday holatlar rivojlanishi mumkin?",
+   "c": "Vazn yo'qolishi, holsizlik va vitaminlar yetishmovchiligi",
+   "w": [
+    "Vazn oshishi, holsizlik va vitaminlar yetishmovchiligi",
+    "Vazn yo'qolishi, kuchlilik va vitaminlar yetishmovchiligi",
+    "Vazn yo'qolishi, holsizlik va antibiotik yetishmovchiligi",
+    "Qon yo'qolishi, holsizlik va vitaminlar yetishmovchiligi"
+   ],
+   "x": "«vazn yo'qolishi, holsizlik va vitaminlar yetishmovchiligi rivojlanishi mumkin»"
+  },
+  {
+   "q": "Lamblioz belgilari qaysi kasalliklar bilan adashtirilishi mumkin?",
+   "c": "O'tkir ichak infeksiyalari, surunkali ichak kasalliklari va ovqat hazm qilish buzilishlari",
+   "w": [
+    "O'tkir ichak infeksiyalari, surunkali jigar kasalliklari va ovqat hazm qilish buzilishlari",
+    "O'tkir o'pka infeksiyalari, surunkali ichak kasalliklari va ovqat hazm qilish buzilishlari",
+    "O'tkir ichak infeksiyalari, surunkali ichak kasalliklari va antibiotik qabul qilish buzilishlari",
+    "Surunkali ichak infeksiyalari, o'tkir ichak kasalliklari va ovqat hazm qilish buzilishlari"
+   ],
+   "x": "«lamblioz belgilari o'tkir ichak infeksiyalari, surunkali ichak kasalliklari va ovqat hazm qilish buzilishlari bilan adashtirilishi mumkin»"
+  },
+  {
+   "q": "Bolalar muassasalarida jamoaviy nazorat qaysi bosqichlardan iborat?",
+   "c": "Bemor bolalarni aniqlash, tekshirish va davolash, gigiyena bo'yicha suhbat o'tkazish",
+   "w": [
+    "Bemor bolalarni aniqlash, tekshirish va davolash, antibiotik bo'yicha suhbat o'tkazish",
+    "Bemor bolalarni yopish, tekshirish va davolash, gigiyena bo'yicha suhbat o'tkazish",
+    "Bemor bolalarni aniqlash, tekshirish va dezinfeksiya qilish, gigiyena bo'yicha suhbat o'tkazish",
+    "Bemor bolalarni aniqlash, kuzatish va davolash, suv bo'yicha suhbat o'tkazish"
+   ],
+   "x": "«bemor bolalarni aniqlash, ularni tekshirish va davolash, shuningdek, xodimlar va ota-onalar bilan gigiyena bo'yicha suhbat o'tkazish»"
+  },
+  {
+   "q": "Namuna olishdan oldin bemordan qaysi dorilar haqida so'raladi?",
+   "c": "Antibiotik yoki bo'shatuvchi dorilar",
+   "w": [
+    "Antibiotik yoki vitamin dorilar",
+    "Antiparazit yoki bo'shatuvchi dorilar",
+    "Antigen yoki bo'shatuvchi dorilar",
+    "Antibiotik yoki oziq dorilar"
+   ],
+   "x": "«bemorga antibiotik yoki bo'shatuvchi dorilar qabul qilish haqida ma'lumot so'raladi»"
+  },
+  {
+   "q": "Lambliozni tashxislashda ikkinchi tipik xato nima?",
+   "c": "Najasdagi boshqa kistalar yoki sun'iy ob'ektlarni lamblia bilan adashtirish",
+   "w": [
+    "Najasdagi boshqa kistalar yoki sun'iy ob'ektlarni trofozoit bilan adashtirish",
+    "Najasdagi boshqa tuxumlar yoki sun'iy ob'ektlarni lamblia bilan adashtirish",
+    "Bitta najas namunasiga asoslangan manfiy xulosa chiqarish",
+    "Najasdagi boshqa kistalar yoki antigenlarni lamblia bilan adashtirish"
+   ],
+   "x": "«Ikkinchi xato esa najasdagi boshqa kistalar yoki sun'iy ob'ektlarni lamblia bilan adashtirishdir»"
+  },
+  {
+   "q": "Oilaviy kontaktlarni tekshirishda kimlar tekshirilishi tavsiya etiladi?",
+   "c": "Bemor bilan bir uyda yashaydigan kishilar",
+   "w": [
+    "Bemor bilan bir maktabda o'qiydigan kishilar",
+    "Bemor bilan bir uyda yashamaydigan kishilar",
+    "Bemor bilan bir bog'chada yashaydigan kishilar",
+    "Bemor bolalar guruhidagi kishilar"
+   ],
+   "x": "«bemor bilan bir uyda yashaydigan kishilarni tekshirish tavsiya etiladi»"
+  }
+ ],
+ "108": [
+  {
+   "q": "Skoleks (boshlig'i) lenta gijjasida nimani boshqaradigan asosiy organ hisoblanadi?",
+   "c": "Yangi bo'g'imlar hosil bo'lishini",
+   "w": [
+    "Yangi tuxumlar hosil bo'lishini",
+    "Yangi ilmoqlar hosil bo'lishini",
+    "Yangi finnalar hosil bo'lishini",
+    "Yangi dorilar hosil bo'lishini"
+   ],
+   "x": "«gijjaning ichakka mahkam yopishishi va yangi bo'g'imlar hosil bo'lishini boshqaradigan asosiy organdir»"
+  },
+  {
+   "q": "Davolashdan keyingi nazorat tekshiruvi nimalar bo'yicha o'tkaziladi?",
+   "c": "Bo'g'imlar va tuxumlar bo'yicha",
+   "w": [
+    "Bo'g'imlar va ilmoqlar bo'yicha",
+    "Finnalar va tuxumlar bo'yicha",
+    "Bo'g'imlar va dorilar bo'yicha",
+    "Skoleks va ilmoqlar bo'yicha"
+   ],
+   "x": "«davolashdan keyin bo'g'imlar va tuxumlar bo'yicha nazorat tekshiruvi o'tkaziladi»"
+  },
+  {
+   "q": "Skoleksdagi hujayralar tez bo'linib, nimaga aylanadi?",
+   "c": "Gijja o'sishining manbaiga",
+   "w": [
+    "Gijja tuxumining manbaiga",
+    "Gijja ilmoqlarining manbaiga",
+    "Gijja dorilarining manbaiga",
+    "Gijja tanasining manbaiga"
+   ],
+   "x": "«Boshlig'ida hujayralar tez bo'linib, yangi bo'g'imlar hosil qiladi, shu sababli u gijja o'sishining manbai hisoblanadi»"
+  },
+  {
+   "q": "Boshlig'i ichakda qolsa, bemor yana nima bo'ladi?",
+   "c": "Tuxum tarqatuvchi bo'ladi",
+   "w": [
+    "Tuxum yo'qotuvchi bo'ladi",
+    "Finna tarqatuvchi bo'ladi",
+    "Ilmoq tarqatuvchi bo'ladi",
+    "Boshliq tarqatuvchi bo'ladi"
+   ],
+   "x": "«gijja yangidan o'sadi va bemor yana tuxum tarqatuvchi bo'ladi»"
+  },
+  {
+   "q": "Skoleksning so'ruvchi chuqurchalari va ilmoqlari qanday vazifani bajaradi?",
+   "c": "Ichak shilliq qavatiga mahkam yopishishni",
+   "w": [
+    "Ichak shilliq qavatini eritishni",
+    "Ichak shilliq qavatini oziqlantirishni",
+    "Tuxumlarni ichakda saqlashni",
+    "Bo'g'imlarni najasga chiqarishni"
+   ],
+   "x": "«u ichak shilliq qavatiga mahkam yopishadi va gijjani ichakda ushlab turadi»"
+  },
+  {
+   "q": "Tibbiy amaliyotda boshlig'ni qanday ko'rish mumkin?",
+   "c": "To'g'ridan-to'g'ri ko'rish qiyin",
+   "w": [
+    "To'g'ridan-to'g'ri ko'rish oson",
+    "Najasda ko'rinadi",
+    "Tuxumda ko'rinadi",
+    "Finnada ko'rinadi"
+   ],
+   "x": "«Boshlig'ni tibbiy amaliyotda to'g'ridan-to'g'ri ko'rish qiyin»"
+  },
+  {
+   "q": "Bo'g'imlar qayta paydo bo'lsa, nimaning ehtimoli tekshiriladi?",
+   "c": "Boshlig'ning qoldiq qismi",
+   "w": [
+    "Boshlig'ning yangi qismi",
+    "Tuxumning qoldiq qismi",
+    "Finnaning qoldiq qismi",
+    "Ilmoqning yangi qismi"
+   ],
+   "x": "«Agar bo'g'imlar qayta paydo bo'lsa, boshlig'ning qoldiq qismi ehtimoli tekshiriladi»"
+  },
+  {
+   "q": "Skoleks tufayli gijja nima sababdan ichak peristaltikasi bilan ketib qolmaydi?",
+   "c": "So'ruvchi chuqurchalar ichak shilliq qavatiga yopishib, uni joyida ushlab turadi",
+   "w": [
+    "So'ruvchi chuqurchalar ichak shilliq qavatini eritib, uni joyida ushlab turadi",
+    "Ilmoqlar tuxum qavatiga yopishib, uni joyida ushlab turadi",
+    "So'ruvchi chuqurchalar ichak devorini teshib, uni joyida ushlab turadi",
+    "Bo'g'imlar ichak shilliq qavatiga yopishib, uni joyida ushlab turadi"
+   ],
+   "x": "«Skoleksning so'ruvchi chuqurchalari ichak shilliq qavatiga yopishib, gijjani o'z joyida ushlab turadi»"
+  },
+  {
+   "q": "Davolash samaradorligini baholash uchun nimalar o'tkaziladi?",
+   "c": "Najas tekshiruvi va klinik kuzatuv",
+   "w": [
+    "Najas tekshiruvi va jarrohlik kuzatuv",
+    "Tuxum tekshiruvi va dori kuzatuv",
+    "Qon tekshiruvi va klinik kuzatuv",
+    "Najas tekshiruvi va finna kuzatuv"
+   ],
+   "x": "«Davolash samaradorligini baholash uchun najas tekshiruvi va klinik kuzatuv o'tkaziladi»"
+  },
+  {
+   "q": "Bo'g'imlar qayta paydo bo'lsa, davolash qanday o'zgartiriladi?",
+   "c": "Davolash takrorlanadi yoki boshqa preparat tanlanadi",
+   "w": [
+    "Davolash to'xtatiladi yoki boshqa preparat tanlanadi",
+    "Davolash takrorlanadi yoki boshqa tashxis tanlanadi",
+    "Davolash kamaytiriladi yoki boshqa bo'g'im tanlanadi",
+    "Davolash takrorlanadi yoki tuxum tanlanadi"
+   ],
+   "x": "«Agar bo'g'imlar qayta paydo bo'lsa, davolash takrorlanadi yoki boshqa preparat tanlanadi»"
+  }
+ ],
+ "109": [
+  {
+   "q": "Chivin bir umr davomida bir necha marta chaqishi mumkin bo'lgani uchun u nima qiladi?",
+   "c": "Infeksiyani bir nechta odamga tarqatadi",
+   "w": [
+    "Infeksiyani bir nechta chivinga tarqatadi",
+    "Infeksiyani faqat bitta odamga tarqatadi",
+    "Infeksiyani bir nechta hovliga tarqatadi",
+    "Infeksiyani bir nechta odamdan yig'adi"
+   ],
+   "x": "«shuning uchun u infeksiyani bir nechta odamga tarqatadi»"
+  },
+  {
+   "q": "Vektor orqali yuqish zanjirini uzish uchun nimalar qilinadi?",
+   "c": "Bemor davolanadi, vektor kamaytiriladi va odam chaqishdan himoyalanadi",
+   "w": [
+    "Bemor davolanadi, vektor ko'paytiriladi va odam chaqishdan himoyalanadi",
+    "Bemor tekshiriladi, vektor kamaytiriladi va odam chaqishdan himoyalanadi",
+    "Bemor davolanadi, vektor kamaytiriladi va odam suvdan himoyalanadi",
+    "Bemor davolanadi, nektar kamaytiriladi va odam chaqishdan himoyalanadi"
+   ],
+   "x": "«Zanjirni uzish uchun bemor davolanadi, vektor kamaytiriladi va odam chaqishdan himoyalanadi»"
+  },
+  {
+   "q": "Erkak chivinlar nima bilan oziqlanadi?",
+   "c": "Nektar va shirinliklar",
+   "w": [
+    "Qon va shirinliklar",
+    "Nektar va oqsil",
+    "Suv va oqsil",
+    "Qon va nektar"
+   ],
+   "x": "«Erkaklari nektar va shirinliklar bilan oziqlanadi va odamni chaqmaydi»"
+  },
+  {
+   "q": "Urg'ochi chivin qon so'rgandan keyin tuxumlarini qayerga qo'yadi?",
+   "c": "Suv havzasiga",
+   "w": [
+    "Odam qoniga",
+    "Hovlilarga",
+    "Idishlarga",
+    "Chiroqli tuzoqlarga"
+   ],
+   "x": "«Urg'ochi chivin qon so'rgandan keyin dam olib, tuxumlarini suv havzasiga qo'yadi»"
+  },
+  {
+   "q": "Anopheles chivinlari va bezgak plazmodiylari nima sababdan moslashgan?",
+   "c": "Uzoq evolyutsiya davomida",
+   "w": [
+    "Uzoq iqlim davomida",
+    "Qisqa evolyutsiya davomida",
+    "Uzoq nazorat davomida",
+    "Uzoq mavsum davomida"
+   ],
+   "x": "«Anopheles chivinlari va bezgak plazmodiylari uzoq evolyutsiya davomida moslashgan»"
+  },
+  {
+   "q": "Juda issiq yoki juda sovuq sharoit parazitning rivojlanishiga qanday ta'sir qiladi?",
+   "c": "Sekinlashtiradi",
+   "w": [
+    "Kuchaytiradi",
+    "Oshiradi",
+    "Davom ettiradi",
+    "Yaxshilaydi"
+   ],
+   "x": "«Juda issiq yoki juda sovuq sharoit rivojlanishni sekinlashtiradi»"
+  },
+  {
+   "q": "Vektor orqali yuqish modelida asosiy parametrlar qaysilar?",
+   "c": "Vektor zichligi, yashash umri va bemor yuklamasi",
+   "w": [
+    "Vektor zichligi, yashash umri va populyatsiya yuklamasi",
+    "Vektor turi, yashash umri va bemor yuklamasi",
+    "Vektor zichligi, yashash joyi va bemor yuklamasi",
+    "Iqlim zichligi, yashash umri va bemor yuklamasi"
+   ],
+   "x": "«Bu modelda vektorning zichligi, uning yashash umri va bemor yuklamasi asosiy parametrlar hisoblanadi»"
+  },
+  {
+   "q": "Chivin nazorati faqat kim kuchi bilan amalga oshmaydi?",
+   "c": "Sanitariya xodimlari",
+   "w": [
+    "Mahalliy aholi",
+    "Maktablar",
+    "Jamoat tashkilotlari",
+    "Hamkorlar"
+   ],
+   "x": "«Chivin nazorati faqat sanitariya xodimlari kuchi bilan amalga oshmaydi»"
+  },
+  {
+   "q": "Iqlim o'zgarishi sababli issiqroq hududlarda chivinlar qanday bo'ladi?",
+   "c": "Uzoqroq mavsum davomida faol bo'ladi",
+   "w": [
+    "Qisqaroq mavsum davomida faol bo'ladi",
+    "Uzoqroq mavsum davomida kamayadi",
+    "Uzoqroq iqlim davomida faol bo'ladi",
+    "Uzoqroq mavsum davomida sovuq bo'ladi"
+   ],
+   "x": "«Issiqroq hududlarda chivinlar uzoqroq mavsum davomida faol bo'lib, bezgak xavfini oshiradi»"
+  },
+  {
+   "q": "Chivinlarga qarshi nazorat qanday tizim sifatida olib borilishi kerak?",
+   "c": "Uzluksiz tizim sifatida",
+   "w": [
+    "Qisqa kampaniya sifatida",
+    "Mavsumiy kampaniya sifatida",
+    "Doimiy kampaniya sifatida",
+    "Hududiy kampaniya sifatida"
+   ],
+   "x": "«Chivinlarga qarshi nazorat faqat qisqa muddatli kampaniya sifatida emas, balki uzluksiz tizim sifatida olib borilishi kerak»"
+  }
+ ],
+ "110": [
+  {
+   "q": "Bezgakning oldini olish qaysi uch yo'nalishda amalga oshiriladi?",
+   "c": "Bemorni erta aniqlash va davolash, chivinlarga qarshi kurash va odamni chaqishdan himoyalash",
+   "w": [
+    "Bemorni erta aniqlash va davolash, chivinlarga qarshi kurash va odamni dori bilan himoyalash",
+    "Bemorni tekshirish va davolash, chivinlarga qarshi kurash va odamni chaqishdan himoyalash",
+    "Bemorni erta aniqlash va davolash, aholiga qarshi kurash va odamni chaqishdan himoyalash",
+    "Bemorni erta aniqlash va ajratish, chivinlarga qarshi kurash va odamni chaqishdan himoyalash"
+   ],
+   "x": "«Bezgakning oldini olish uch yo'nalishda amalga oshiriladi: bemorni erta aniqlash va davolash, chivinlarga qarshi kurash va odamni chivin chaqishidan himoyalash»"
+  },
+  {
+   "q": "Endemik hududdan qaytgan isitmali bemor bilan nima qilinadi?",
+   "c": "Qon tekshiruvidan o'tkaziladi",
+   "w": [
+    "Darhol dori bilan davolanadi",
+    "Chivin tekshiruvidan o'tkaziladi",
+    "Hududga qaytariladi",
+    "Aholi bilan muhokama qilinadi"
+   ],
+   "x": "«Endemik hududdan qaytgan har bir isitmali bemor qon tekshiruvidan o'tkaziladi»"
+  },
+  {
+   "q": "Residivning oldini olish uchun qaysi davolash muhim?",
+   "c": "Radikal davolash",
+   "w": [
+    "Individual davolash",
+    "Hududiy davolash",
+    "Profilaktik davolash",
+    "Oddiy davolash"
+   ],
+   "x": "«residivning oldini olish uchun radikal davolash ham muhim»"
+  },
+  {
+   "q": "Chivinlarga qarshi kurashda nimalar tavsiya etiladi?",
+   "c": "Suv havzalarini yo'q qilish, insektitsidlar bilan ishlov berish va baliqlardan foydalanish",
+   "w": [
+    "Suv havzalarini ko'paytirish, insektitsidlar bilan ishlov berish va baliqlardan foydalanish",
+    "Suv havzalarini yo'q qilish, repellentlar bilan ishlov berish va baliqlardan foydalanish",
+    "Suv havzalarini yo'q qilish, insektitsidlar bilan ishlov berish va to'rlardan foydalanish",
+    "Chivinlarni yo'q qilish, insektitsidlar bilan ishlov berish va baliqlardan foydalanish"
+   ],
+   "x": "«chivin lichinkalari yashaydigan suv havzalarini yo'q qilish, insektitsidlar bilan ishlov berish va baliqlardan biologik nazoratda foydalanish tavsiya etiladi»"
+  },
+  {
+   "q": "Eng samarali shaxsiy himoya choralari qaysilar?",
+   "c": "Uy ichida to'rlar, repellentlar va yopiq kiyim",
+   "w": [
+    "Uy ichida to'rlar, insektitsidlar va yopiq kiyim",
+    "Uy tashqarisida to'rlar, repellentlar va yopiq kiyim",
+    "Uy ichida baliqlar, repellentlar va yopiq kiyim",
+    "Uy ichida to'rlar, repellentlar va ochiq kiyim"
+   ],
+   "x": "«Uy ichida to'rlar, repellentlar va yopiq kiyim eng samarali shaxsiy choralardir»"
+  },
+  {
+   "q": "Profilaktik dori tanlovi nimalarga bog'liq bo'ladi?",
+   "c": "Hudud bo'yicha bezgak turi, dori qarshiligi va bemorning sog'lig'iga",
+   "w": [
+    "Hudud bo'yicha bezgak turi, dori narxi va bemorning sog'lig'iga",
+    "Hudud bo'yicha chivin turi, dori qarshiligi va bemorning sog'lig'iga",
+    "Hudud bo'yicha bezgak turi, dori qarshiligi va bemorning yoshiga",
+    "Sayohat bo'yicha bezgak turi, dori qarshiligi va bemorning sog'lig'iga"
+   ],
+   "x": "«Dori tanlovi hudud bo'yicha bezgak turi, dori qarshiligi va bemorning sog'lig'iga bog'liq bo'ladi»"
+  },
+  {
+   "q": "Homiladorlarda va G6PD tanqisligi bo'lgan odamlarda profilaktik dorilar haqida nima deyiladi?",
+   "c": "Ba'zi profilaktik dorilar qo'llanilmaydi",
+   "w": [
+    "Barcha profilaktik dorilar qo'llaniladi",
+    "Ba'zi profilaktik dorilar ko'proq qo'llaniladi",
+    "Profilaktik dorilar umuman tavsiya etiladi",
+    "Ba'zi profilaktik dorilar bolalarga qo'llanilmaydi"
+   ],
+   "x": "«Homiladorlarda va G6PD tanqisligi bo'lgan odamlarda ba'zi profilaktik dorilar qo'llanilmaydi»"
+  },
+  {
+   "q": "Mavsum boshlanishidan oldin bezgakka qarshi profilaktika sifatida nimalar qilinadi?",
+   "c": "Suv havzalari tekshiriladi, to'rlar ta'mirlanadi va aholiga ma'lumot tarqatiladi",
+   "w": [
+    "Suv havzalari tekshiriladi, to'rlar yo'q qilinadi va aholiga ma'lumot tarqatiladi",
+    "Suv havzalari to'ldiriladi, to'rlar ta'mirlanadi va aholiga ma'lumot tarqatiladi",
+    "Suv havzalari tekshiriladi, to'rlar ta'mirlanadi va aholidan ma'lumot yig'iladi",
+    "Suv havzalari tekshiriladi, dorilar ta'mirlanadi va aholiga ma'lumot tarqatiladi"
+   ],
+   "x": "«suv havzalari tekshiriladi, to'rlar ta'mirlanadi va aholiga ma'lumot tarqatiladi»"
+  },
+  {
+   "q": "Qo'shni hududlar bilan hamkorlikda nimalar muhim?",
+   "c": "Ma'lumot almashish va birgalikda nazorat dasturlari",
+   "w": [
+    "Ma'lumot yashirish va birgalikda nazorat dasturlari",
+    "Ma'lumot almashish va alohida nazorat dasturlari",
+    "Dori almashish va birgalikda nazorat dasturlari",
+    "Ma'lumot almashish va birgalikda davolash dasturlari"
+   ],
+   "x": "«qo'shni hududlar bilan ma'lumot almashish va birgalikda nazorat dasturlari profilaktikaning muhim qismidir»"
+  },
+  {
+   "q": "Hududiy profilaktik dasturlar nimalar bilan baholanadi?",
+   "c": "Aholini qamrab olish darajasi, chivinlarga qarshi choralar va tibbiy yordam tezligi",
+   "w": [
+    "Aholini qamrab olish darajasi, chivinlarga qarshi choralar va tibbiy yordam narxi",
+    "Aholini qamrab olish darajasi, insektitsidlarga qarshi choralar va tibbiy yordam tezligi",
+    "Aholi ishtiroki darajasi, chivinlarga qarshi choralar va tibbiy yordam tezligi",
+    "Aholini qamrab olish darajasi, chivin ko'payishi va tibbiy yordam tezligi"
+   ],
+   "x": "«Hududiy profilaktik dasturlar aholini qamrab olish darajasi, chivinlarga qarshi choralar va tibbiy yordam tezligi bilan baholanadi»"
+  }
+ ]
+}

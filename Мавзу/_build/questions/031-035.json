@@ -1,0 +1,562 @@
+{
+  "031": [
+    {
+      "q": "Transmissiv kasalliklarda qo'zg'atuvchi vektorning qayerida to'planadi?",
+      "c": "So'lak bezlarida",
+      "w": [
+        "Ichagida",
+        "Tuxumida",
+        "Nektarida",
+        "Suv havzasida"
+      ],
+      "x": "«Vektor tashuvchi bo'lib, qo'zg'atuvchi uning so'lak bezlarida to'planadi»"
+    },
+    {
+      "q": "Chivin bemorni chaqqanda, qonga tushgan parazit chivinning qayerida rivojlanadi?",
+      "c": "Chivin ichagida",
+      "w": [
+        "So'lak bezlarida",
+        "Tuxumida",
+        "Nektarida",
+        "Suv havzasida"
+      ],
+      "x": "«Chivin bemorni chaqqanda, qonga birga tushgan parazit chivin ichagida rivojlanadi»"
+    },
+    {
+      "q": "Vektor orqali yuqish zanjiri qaysi bo'g'inlardan iborat?",
+      "c": "Bemor, vektor va sog'lom odam",
+      "w": [
+        "Bemor, vektor va nektar",
+        "Bemor, tuzoq va sog'lom odam",
+        "Vektor, tutgich va sog'lom odam",
+        "Bemor, model va chiroqli tuzoq"
+      ],
+      "x": "«Vektor orqali yuqish zanjiri bemor, vektor va sog'lom odamdan iborat»"
+    },
+    {
+      "q": "Chivinlarning qaysi jinsi qon so'radi?",
+      "c": "Faqat urg'ochilari",
+      "w": [
+        "Erkaklari",
+        "Nektar bilan oziqlanuvchilari",
+        "Shirinliklar bilan oziqlanuvchilari",
+        "Erkak va urg'ochilari"
+      ],
+      "x": "«Chivinlar faqat urg'ochilari qon so'radi, chunki tuxum rivojlanishi uchun oqsilga boy qon kerak»"
+    },
+    {
+      "q": "Urg'ochi chivin nima sababdan qon so'radi?",
+      "c": "Tuxum rivojlanishi uchun oqsilga boy qon kerak",
+      "w": [
+        "Parazit rivojlanishi uchun nektarga boy suyuqlik kerak",
+        "Tuxum rivojlanishi uchun shirinliklarga boy nektar kerak",
+        "Sporozoit rivojlanishi uchun oqsilga boy nektar kerak",
+        "Erkak chivinlar rivojlanishi uchun qon kerak"
+      ],
+      "x": "«Chivinlar faqat urg'ochilari qon so'radi, chunki tuxum rivojlanishi uchun oqsilga boy qon kerak»"
+    },
+    {
+      "q": "Vektor zichligi qanday vositalar orqali baholanadi?",
+      "c": "Tutgichlar, chiroqli tuzoqlar va dala kuzatuvlari",
+      "w": [
+        "Tutgichlar, nektar tuzoqlari va suv kuzatuvlari",
+        "Chiroqli tutgichlar, model va dala sinovlari",
+        "Tuzoqlar, shirinliklar va dala tahlillari",
+        "Chiroqlar, oqsil tutgichlari va suv kuzatuvlari"
+      ],
+      "x": "«Vektor zichligi tutgichlar, chiroqli tuzoqlar va dala kuzatuvlari orqali baholanadi»"
+    },
+    {
+      "q": "Chivinning yuqtirish samaradorligi nimalarga bog'liq?",
+      "c": "Yoshi, zichligi va chaqish chastotasiga",
+      "w": [
+        "Yoshi, nektari va chaqish rangiga",
+        "Zichligi, iqlimi va oqsil miqdoriga",
+        "Chaqish chastotasi, modeli va tuxum soniga",
+        "Yoshi, nektari va zichlik modeliga"
+      ],
+      "x": "«Chivinning yuqtirish samaradorligi uning yoshi, zichligi va chaqish chastotasiga bog'liq»"
+    },
+    {
+      "q": "Chivin populyatsiyasi yil davomida qanday o'zgaradi?",
+      "c": "Bahorda boshlanadi, yozda cho'qqiga chiqadi, kuzda kamayadi",
+      "w": [
+        "Bahorda cho'qqiga chiqadi, yozda kamayadi, kuzda boshlanadi",
+        "Yozda boshlanadi, kuzda cho'qqiga chiqadi, bahorda kamayadi",
+        "Kuzda boshlanadi, bahorda cho'qqiga chiqadi, yozda kamayadi",
+        "Bahorda kamayadi, yozda boshlanadi, kuzda cho'qqiga chiqadi"
+      ],
+      "x": "«bahorda tiriklik boshlanadi, yozda eng yuqori cho'qqiga chiqadi va kuzda kamayadi»"
+    },
+    {
+      "q": "Iqlim o'zgarishi chivinlarga qanday ta'sir qilishi mumkin?",
+      "c": "Yashash arealini kengaytirishi mumkin",
+      "w": [
+        "Yashash arealini qisqartirishi mumkin",
+        "Faol mavsumini qisqartirishi mumkin",
+        "Tiriklik boshlanishini kechiktirishi mumkin",
+        "Insektitsidga chidamliligini yo'qotishi mumkin"
+      ],
+      "x": "«Iqlim o'zgarishi harorat va yog'ingarchilik rejimini o'zgartirib, chivinlarning yashash arealini kengaytirishi mumkin»"
+    },
+    {
+      "q": "Anopheles populyatsiyalarining genetik farqi nimaga olib kelishi mumkin?",
+      "c": "Ba'zi guruhlarning insektitsidga chidamli bo'lishiga",
+      "w": [
+        "Ba'zi guruhlarning insektitsidga sezgir bo'lishiga",
+        "Populyatsiya tuzilishini o'rganishning to'xtashiga",
+        "Genetik monitoring natijalarining hisobga olinmasligiga",
+        "Yangi preparatlar tanlanmasligiga"
+      ],
+      "x": "«Anopheles populyatsiyalari genetik jihatdan farq qilishi mumkin, bu esa ba'zi guruhlarning insektitsidga chidamli bo'lishiga olib keladi»"
+    }
+  ],
+  "032": [
+    {
+      "q": "Lenta gijjasining boshlig'i (skoleks) qanday vazifani bajaradi?",
+      "c": "Gijjaning ichakka mahkam yopishishini ta'minlaydi",
+      "w": [
+        "Gijjaning bo'g'imlarini najas bilan chiqaradi",
+        "Gijjaning tuxumlarini ichakda saqlaydi",
+        "Gijjaning oziqlanishini sigirga o'tkazadi",
+        "Gijjaning turini ichakda aniqlaydi"
+      ],
+      "x": "«Skoleks gijjaning eng muhim organidir, chunki u ichak shilliq qavatiga mahkam yopishadi va gijjani ichakda ushlab turadi»"
+    },
+    {
+      "q": "Xo'kiz tizmasining boshlig'i qanday shaklda bo'ladi?",
+      "c": "Yumaloq shaklda",
+      "w": [
+        "Ilmoqli shaklda",
+        "Bo'g'imli shaklda",
+        "Qurol shaklida",
+        "Ilmoqsiz shaklda"
+      ],
+      "x": "«Xo'kiz tizmasining boshlig'i yumaloq shaklda bo'lib, to'rtta so'ruvchi chuqurchaga ega»"
+    },
+    {
+      "q": "Xo'kiz tizmasining boshlig'ida nima bo'lmaydi?",
+      "c": "Ilmoqlar",
+      "w": [
+        "So'ruvchi chuqurchalar",
+        "Hujayralar",
+        "Yumaloq shakl",
+        "O'sish zonasi"
+      ],
+      "x": "«Uning yuzasida ilmoqlar bo'lmaydi, bu uni qurol tizmasidan farqlashga yordam beradi»"
+    },
+    {
+      "q": "Boshlig'i ichakda qolsa, nima bo'ladi?",
+      "c": "Gijja yangidan o'sadi",
+      "w": [
+        "Gijja ichakdan chiqib ketadi",
+        "Davolash takrorlanmaydi",
+        "Bemor tuxum tarqatmaydi",
+        "Gijja bo'g'imlarini yo'qotadi"
+      ],
+      "x": "«Agar boshlig'i ichakda qolsa, gijja yangidan o'sadi va bemor yana tuxum tarqatuvchi bo'ladi»"
+    },
+    {
+      "q": "Xo'kiz tizmasi tashxisi odatda nima topish bilan qo'yiladi?",
+      "c": "Bo'g'imlar yoki tuxumlarni",
+      "w": [
+        "Boshliq yoki ilmoqlarni",
+        "Finna yoki lichinkalarni",
+        "So'ruvchi chuqurchalarni",
+        "Hujayra o'sish zonasini"
+      ],
+      "x": "«Boshlig'ini bemordan olish qiyin, shuning uchun tashxis odatda bo'g'imlar yoki tuxumlarni topish bilan qo'yiladi»"
+    },
+    {
+      "q": "Bo'g'imlar o'sishi nimaga bog'liq?",
+      "c": "Skoleksdagi hujayralar faoliyatiga",
+      "w": [
+        "Ichakdagi peristaltika faoliyatiga",
+        "Najasdagi tuxumlar faoliyatiga",
+        "Preparatlar dozasi faoliyatiga",
+        "Oziqlanish faoliyatiga"
+      ],
+      "x": "«Bo'g'im o'sishi skoleksdagi hujayralar faoliyatiga bog'liq»"
+    },
+    {
+      "q": "Ba'zi antigelmintik preparatlar gijjaning tanasini eritadi, lekin nimani to'liq yo'q qilmaydi?",
+      "c": "Boshlig'ini",
+      "w": [
+        "Bo'g'imlarini",
+        "Tuxumlarini",
+        "Finnasini",
+        "Hujayralarini"
+      ],
+      "x": "«Ba'zi antigelmintik preparatlar gijjaning tanasini eritib yuboradi, lekin boshlig'ini to'liq yo'q qilmaydi»"
+    },
+    {
+      "q": "Skoleks qayerda shakllanadi?",
+      "c": "Lichinka bosqichida, finna ichida",
+      "w": [
+        "Tuxum bosqichida, najasda",
+        "Tuxum bosqichida, bo'g'im ichida",
+        "Bo'g'im bosqichida, najasda",
+        "Lichinka bosqichida, ichak devorida"
+      ],
+      "x": "«Skoleks lichinka bosqichida, ya'ni finna ichida shakllanadi»"
+    },
+    {
+      "q": "Skoleksning so'ruvchi chuqurchalari qanday vazifani bajaradi?",
+      "c": "Gijjani o'z joyida ushlab turadi",
+      "w": [
+        "Gijjani ichakdan chiqarib yuboradi",
+        "Gijjaning tuxumlarini yo'q qiladi",
+        "Gijja bo'g'imlarini parchalaydi",
+        "Gijja tuxumlarini ichakka qaytaradi"
+      ],
+      "x": "«Skoleksning so'ruvchi chuqurchalari ichak shilliq qavatiga yopishib, gijjani o'z joyida ushlab turadi»"
+    },
+    {
+      "q": "Davolashdan keyin bo'g'imlar bir necha hafta ichida qayta topilsa, nima deb hisoblanadi?",
+      "c": "Skoleks qoldig'i ehtimoli yuqori",
+      "w": [
+        "Skoleks qoldig'i ehtimoli past",
+        "Davolash takrorlanmaydi",
+        "Bemor sog'lom",
+        "Tuxumlar yo'qolgan"
+      ],
+      "x": "«Agar bo'g'imlar bir necha hafta ichida qayta topilsa, skoleks qoldig'i ehtimoli yuqori deb hisoblanib, davolash takrorlanadi»"
+    }
+  ],
+  "033": [
+    {
+      "q": "Migratsiya qiluvchi gijja nimasi bilan ajralib turadi?",
+      "c": "Lichinkalari ichakdan chiqib, qon va limfa orqali harakatlanadi",
+      "w": [
+        "Lichinkalari ichakdan chiqib, najas orqali harakatlanadi",
+        "Tuxumlari qon va limfa orqali organlarga boradi",
+        "Voyaga yetgan shakli o'pka orqali harakatlanadi",
+        "Lichinkalari ichakda qolib, balg'am bilan chiqadi"
+      ],
+      "x": "«Migratsiya qiluvchi gijja — bu lichinkalari ichakdan chiqib, qon va limfa orqali organlar bo'ylab harakatlanadigan gelmintdir»"
+    },
+    {
+      "q": "Askarida lichinkasi qon oqimi bilan qaysi organlarga boradi?",
+      "c": "Jigarga, yurakka, so'ngra o'pkaga",
+      "w": [
+        "O'pkaga, yurakka, so'ngra jigarga",
+        "Yurakka, o'pkaga, so'ngra yutqunga",
+        "Jigarga, o'pkaga, so'ngra yurakka",
+        "Yutqunga, o'pkaga, so'ngra jigarga"
+      ],
+      "x": "«lichinka ichakda chiqib, qon oqimi bilan jigarga va yurakka, so'ngra o'pkaga boradi»"
+    },
+    {
+      "q": "O'pkadagi lichinka qaysi yo'l bilan yutqunga chiqadi?",
+      "c": "Nafas yo'llari orqali",
+      "w": [
+        "Qon oqimi orqali",
+        "Jigar orqali",
+        "Limfa orqali",
+        "Alveolalar orqali"
+      ],
+      "x": "«O'pka kapillyarlarida u alveolalarga o'tadi, nafas yo'llari orqali yutqunga chiqadi va qayta yutiladi»"
+    },
+    {
+      "q": "Migratsiya davridagi o'pka belgilari qaysi sindrom deb ataladi?",
+      "c": "Lyoffler sindromi",
+      "w": [
+        "Eozinofiliya sindromi",
+        "Alveola sindromi",
+        "Pnevmonit sindromi",
+        "Allergik sindrom"
+      ],
+      "x": "«Bu holat Lyoffler sindromi deb ham ataladi»"
+    },
+    {
+      "q": "Lichinkalar o'pkadan o'tayotganda qanday belgilar kuzatilishi mumkin?",
+      "c": "Yo'tal, balg'am, qon tupurish va nafas qisilishi",
+      "w": [
+        "Rentgendagi soyalar, eozinofiliya va balg'amdagi lichinkalar",
+        "Najasdagi tuxumlar, eozinofiliya va rentgen soyalar",
+        "Balg'amdagi lichinkalar, qon tahlili va najasdagi tuxumlar",
+        "Bolalarda yo'tal, kuzatuv va ovqatlanish"
+      ],
+      "x": "«Lichinkalar o'pkadan o'tayotganda yo'tal, balg'am, qon tupurish va nafas qisilishi kuzatilishi mumkin»"
+    },
+    {
+      "q": "Eozinofiliya nima?",
+      "c": "Qondagi eozinofil hujayralarning ortishi",
+      "w": [
+        "Qondagi eozinofil hujayralarning kamayishi",
+        "Balg'amdagi eozinofil hujayralarning ortishi",
+        "Balg'amdagi lichinkalarning ortishi",
+        "O'pkadagi soyalarning ortishi"
+      ],
+      "x": "«Ba'zi bemorlarda eozinofiliya, ya'ni qondagi eozinofil hujayralarning ortishi kuzatiladi»"
+    },
+    {
+      "q": "Rentgen tekshiruvida o'pkada qanday o'zgarishlar ko'rinishi mumkin?",
+      "c": "Bir necha hafta ichida yo'qoladigan vaqtinchalik soyalar",
+      "w": [
+        "Doimiy zarar qoldiradigan soyalar",
+        "Bir necha kun ichida paydo bo'ladigan doimiy soyalar",
+        "Voyaga yetgan gijjaning soyalari",
+        "Alveolalardagi doimiy yallig'lanish"
+      ],
+      "x": "«Rentgen tekshiruvida o'pkada vaqtinchalik soyalar ko'rinishi mumkin, ular bir necha hafta ichida yo'qoladi»"
+    },
+    {
+      "q": "Migratsiya bosqichida najasda tuxum nima sababdan bo'lmasligi mumkin?",
+      "c": "Voyaga yetgan urg'ochilar hali tuxum qo'ymagan",
+      "w": [
+        "Lichinkalar hali o'pkaga yetmagan",
+        "Tuxumlar balg'am bilan chiqib ketgan",
+        "Lichinkalar hali jigarga yetmagan",
+        "Eozinofiliya tuxumni yo'qotgan"
+      ],
+      "x": "«Migratsiya bosqichida najasda tuxum hali bo'lmasligi mumkin, chunki voyaga yetgan urg'ochilar hali tuxum qo'ymagan bo'ladi»"
+    },
+    {
+      "q": "Migratsiya bosqichini tasdiqlaydigan tekshiruv qaysi?",
+      "c": "Balg'amda lichinkalarni topish",
+      "w": [
+        "Najasda tuxumlarni topish",
+        "Rentgenda soyalarni ko'rish",
+        "O'pkada alveolalarni topish",
+        "Rentgenda lichinkalarni ko'rish"
+      ],
+      "x": "«Balg'amda lichinkalarni topish mumkin, bu esa migratsiya bosqichini tasdiqlaydi»"
+    },
+    {
+      "q": "Og'ir allergik reaksiyalarda qaysi preparatlar qo'shilishi mumkin?",
+      "c": "Kortikosteroid preparatlari",
+      "w": [
+        "Eozinofil preparatlari",
+        "Balg'am preparatlari",
+        "Alveola preparatlari",
+        "Rentgen preparatlari"
+      ],
+      "x": "«Og'ir allergik reaksiyalarda kortikosteroid preparatlari qo'shilishi mumkin»"
+    }
+  ],
+  "034": [
+    {
+      "q": "Mikroskop qanday joyda saqlanishi kerak?",
+      "c": "Quruq, toza va changsiz joyda",
+      "w": [
+        "Quyosh nuri tushadigan joyda",
+        "Harorat keskin o'zgaradigan joyda",
+        "Bo'yoqlar saqlanadigan ochiq joyda",
+        "Devor yonidagi joyda"
+      ],
+      "x": "«Javob: quruq, toza, changsiz, to'g'ridan-to'g'ri quyosh nuridan va harorat keskin o'zgarishidan uzoqda joy»"
+    },
+    {
+      "q": "Namlik mikroskopning qaysi qismiga zarar yetkazadi?",
+      "c": "Optikasiga",
+      "w": [
+        "Lampasiga",
+        "Stoliga",
+        "Qopqog'iga",
+        "Diafragmasiga"
+      ],
+      "x": "«Namlik optikaning zanglashiga va linzalarda chang yoki pardaning paydo bo'lishiga olib keladi»"
+    },
+    {
+      "q": "Ob'ektiv va okulyarlar ishdan keyin nima bilan artiladi?",
+      "c": "Maxsus salfetka",
+      "w": [
+        "Sovun eritmasi",
+        "Ksilol eritmasi",
+        "Yumshoq mato",
+        "Quruq qopqoq"
+      ],
+      "x": "«Mikroskopning ob'ektivlari va okulyarlari maxsus linzalar uchun mo'ljallangan salfetka bilan artiladi»"
+    },
+    {
+      "q": "Moyli immersiya ob'ektivi ishlatilgandan keyin moy qaysi vosita bilan olinadi?",
+      "c": "Ksilol yoki maxsus eritma",
+      "w": [
+        "Sovun eritmasi yoki suv",
+        "Qopqoq yoki yumshoq mato",
+        "Ksilol yoki sovun eritmasi",
+        "Lampa yoki maxsus salfetka"
+      ],
+      "x": "«Moyli immersiya ob'ektivi ishlatilgandan keyin moy ksilol yoki maxsus eritma bilan olinadi»"
+    },
+    {
+      "q": "Uzoq vaqt ishlatilmagan mikroskopni qanday saqlash kerak?",
+      "c": "Chang va namlikdan himoyalangan joyda, qopqoq bilan yopilgan holda",
+      "w": [
+        "Quyosh nuri tushadigan joyda, lampasi yoqilgan holda",
+        "Namlik yuqori joyda, qopqoqsiz va lampasi yoqilgan holda",
+        "Chang va namlikdan himoyalangan joyda, qopqoqsiz holda",
+        "Harorat keskin o'zgaradigan joyda, qopqoq bilan yopilgan holda"
+      ],
+      "x": "«Agar mikroskop uzoq vaqt ishlatilmasa, uni chang va namlikdan himoya qilingan joyda, qopqoq bilan yopilgan holda saqlash kerak»"
+    },
+    {
+      "q": "Lampani uzoq vaqt yoqilgan holda qoldirish nimaga olib keladi?",
+      "c": "Umrining qisqarishiga",
+      "w": [
+        "Qopqoqning yopilishiga",
+        "Diafragmaning o'zgarishiga",
+        "Kondensorning ochilishiga",
+        "Ob'ektivning yoritilishiga"
+      ],
+      "x": "«Lampani uzoq vaqt yoqilgan holda qoldirish uning umrini qisqartiradi va issiqlik ta'siri mikroskop qismlarini zararlashi mumkin»"
+    },
+    {
+      "q": "Mikroskopda diafragma nimani boshqaradi?",
+      "c": "Kondensorning ochilishini",
+      "w": [
+        "Lampaning yorug'ligini",
+        "Ob'ektivning yoritilishini",
+        "Okulyarning o'lchamini",
+        "Mikroskopning haroratini"
+      ],
+      "x": "«Diafragma kondensorning ochilishini boshqarib, kontrastni tartibga soladi»"
+    },
+    {
+      "q": "Mikroskopda o'lchov ishlari uchun qaysi mikrometrlar bilan kalibrlash zarur?",
+      "c": "Okulyar va ob'ektiv mikrometri",
+      "w": [
+        "Okulyar va kondensor mikrometri",
+        "Ob'ektiv va lampa mikrometri",
+        "Diafragma va ob'ektiv mikrometri",
+        "Kondensor va lampa mikrometri"
+      ],
+      "x": "«Mikroskopda o'lchov ishlarini bajarish uchun okulyar mikrometri va ob'ektiv mikrometri bilan kalibrlash zarur»"
+    },
+    {
+      "q": "Noto'g'ri kalibrlangan mikroskopda nima xato chiqadi?",
+      "c": "Kista va tuxum o'lchamlari",
+      "w": [
+        "Lampa va diafragma holati",
+        "Salfetka va qopqoq holati",
+        "Stol va stul balandligi",
+        "Qopqoq va shkaf o'lchami"
+      ],
+      "x": "«Noto'g'ri kalibrlangan mikroskopda kista va tuxum o'lchamlari xato chiqadi, bu esa tashxisning noaniqligiga olib keladi»"
+    },
+    {
+      "q": "Mikroskopda ish tugagach, qaysi ishlar bajariladi?",
+      "c": "Ob'ektiv pastga tushiriladi, lampa o'chiriladi va preparat olib tashlanadi",
+      "w": [
+        "Ob'ektiv yuqoriga ko'tariladi, lampa yoqiladi va preparat qoldiriladi",
+        "Ob'ektiv pastga tushiriladi, lampa yoqiladi va preparat qoldiriladi",
+        "Lampa o'chiriladi, qopqoq ochiladi va moy qoldiriladi",
+        "Ob'ektiv suvda yuviladi, lampa yoqiladi va preparat saqlanadi"
+      ],
+      "x": "«Mikroskopda ish tugagach, ob'ektiv pastga tushiriladi, lampa o'chiriladi va preparat olib tashlanadi»"
+    }
+  ],
+  "035": [
+    {
+      "q": "P. falciparum bezgagi qanday og'ir asoratlar bilan kechishi mumkin?",
+      "c": "Miya zararlanishi va buyrak yetishmovchiligi",
+      "w": [
+        "Miya zararlanishi va gipnozoit hosil bo'lishi",
+        "Buyrak yetishmovchiligi va residiv xavfi",
+        "Jigar hujayralari zararlanishi va residiv",
+        "Gipnozoit hosil bo'lishi va residiv xavfi"
+      ],
+      "x": "«P. falciparum bezgagi og'ir asoratlar, jumladan miya zararlanishi, buyrak yetishmovchiligi va qon zardobi muvozanatining buzilishi bilan kechishi mumkin»"
+    },
+    {
+      "q": "Shoshilinch yordamda suyuqlik balansini tiklash bilan birga nima nazorat qilinadi?",
+      "c": "Qon glyukozasi",
+      "w": [
+        "Eritrotsit yuzasi",
+        "Halqa shakli",
+        "Retseptor holati",
+        "Kapillyar devori"
+      ],
+      "x": "«Shoshilinch yordam tarkibiga suyuqlik balansini tiklash, qon glyukozasini nazorat qilish va organlar faoliyatini kuzatish kiradi»"
+    },
+    {
+      "q": "Tropik bezgakni davolash qaysi bosqichdagi parazitlarni yo'q qilishga qaratiladi?",
+      "c": "Qon bosqichidagi parazitlarni",
+      "w": [
+        "Jigar bosqichidagi gipnozoitlarni",
+        "Jigar hujayralaridagi gipnozoitlarni",
+        "Retseptorlardagi merozoitlarni",
+        "Kapillyar devoridagi shizontlarni"
+      ],
+      "x": "«Davolash qon bosqichidagi parazitlarni tez yo'q qilishga qaratiladi, chunki bu bosqich asoratlarning manbai bo'lib xizmat qiladi»"
+    },
+    {
+      "q": "Merozoitlar eritrotsitga kirgach, u yerda nimaga aylanadi?",
+      "c": "Halqa shaklidagi yosh trofozoitga",
+      "w": [
+        "Halqa shaklidagi yosh shizontga",
+        "Yosh gipnozoitga",
+        "Halqa shaklidagi sporozoitga",
+        "Yosh retseptorga"
+      ],
+      "x": "«Ular eritrotsitning yuzasiga bog'lanib, ichkariga kiradi va u yerda halqa shaklidagi yosh trofozoitga aylanadi»"
+    },
+    {
+      "q": "Merozoitlar eritrotsitlarga kirish uchun nimadan foydalanadi?",
+      "c": "Maxsus retseptorlardan",
+      "w": [
+        "Maxsus gipnozoitlardan",
+        "Maxsus kapillyarlardan",
+        "Maxsus endoteliydan",
+        "Maxsus trofozoitlardan"
+      ],
+      "x": "«Jigar hujayrasidan chiqqan merozoitlar qonga tushib, eritrotsitlarga kirish uchun maxsus retseptorlardan foydalanadi»"
+    },
+    {
+      "q": "Yetilgan P. falciparum shakllari qaysi tuzilmaga yopishadi?",
+      "c": "Kapillyar endoteliyasiga",
+      "w": [
+        "Jigar hujayralari yuzasiga",
+        "Qon zardobi muvozanatiga",
+        "Retseptor yuzasiga",
+        "Yosh trofozoit yuzasiga"
+      ],
+      "x": "«Yetilgan P. falciparum shakllari kapillyar endoteliyasiga yopishadi, bu esa mikrotsirkulyatsiyani buzadi»"
+    },
+    {
+      "q": "Buyrakda, o'pkada va ichakda yopishish qaysi asoratlarga sabab bo'lishi mumkin?",
+      "c": "Buyrak yetishmovchiligi, o'pka shishi va qon ketish",
+      "w": [
+        "Gipoglikemiya, ong buzilishi va tutqanoq",
+        "Kamqonlik, holsizlik va residiv",
+        "Dori qarshiligi, kislotalanish va gipnozoit",
+        "Miya zararlanishi, tutqanoq va ong buzilishi"
+      ],
+      "x": "«Bu holat buyrak yetishmovchiligi, o'pka shishi va qon ketish kabi asoratlarning sababi bo'lishi mumkin»"
+    },
+    {
+      "q": "Og'ir tropik bezgakda qanday davolash va kuzatuv talab qilinadi?",
+      "c": "Parenteral davolash va intensiv kuzatuv",
+      "w": [
+        "Parenteral davolash va oddiy kuzatuv",
+        "Parenteral davolash va uy kuzatuvi",
+        "Faqat intensiv kuzatuv va dori qarshiligi",
+        "Gipnozoit davolash va chivin kuzatuvi"
+      ],
+      "x": "«Og'ir tropik bezgakda parenteral davolash va intensiv kuzatuv talab qilinadi»"
+    },
+    {
+      "q": "Ong holati qaysi shkala bo'yicha baholanadi?",
+      "c": "Glazgo shkalasi bo'yicha",
+      "w": [
+        "Merozoit shkalasi bo'yicha",
+        "Laktat shkalasi bo'yicha",
+        "Retseptor shkalasi bo'yicha",
+        "Endoteliy shkalasi bo'yicha"
+      ],
+      "x": "«Ong holati Glazgo shkalasi bo'yicha baholanadi va o'zgarishlar tez qayd etiladi»"
+    },
+    {
+      "q": "Bemorning suyuqlik balansi nima sababdan qat'iy nazorat qilinadi?",
+      "c": "Ham dehidratatsiya, ham o'pka shishi xavfli bo'lishi mumkin",
+      "w": [
+        "Dehidratatsiya xavfli, o'pka shishi xavfsiz",
+        "O'pka shishi xavfli, dehidratatsiya xavfsiz",
+        "Ham glyukoza, ham laktat xavfli bo'lishi mumkin",
+        "Ham merozoit, ham shizont xavfli bo'lishi mumkin"
+      ],
+      "x": "«Bemorning suyuqlik balansi qat'iy nazorat qilinadi, chunki ham dehidratatsiya, ham o'pka shishi xavfli bo'lishi mumkin»"
+    }
+  ]
+}

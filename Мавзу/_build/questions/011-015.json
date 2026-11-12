@@ -1,0 +1,562 @@
+{
+  "011": [
+    {
+      "q": "Saskob usuli qaysi tuxumlarni aniqlaydi?",
+      "c": "Anal soha atrofidagi tuxumlarni",
+      "w": [
+        "Ichakdagi voyaga yetgan gijjalarni",
+        "Najasdagi tuxumlarni",
+        "Tirnoq ostidagi materialni",
+        "Kiyim va choyshabdagi tuxumlarni"
+      ],
+      "x": "«usul faqat anal soha atrofidagi tuxumlarni aniqlaydi»"
+    },
+    {
+      "q": "Saskob usulida yelim lenta qachon va qayerga bosiladi?",
+      "c": "Ertalab, hojatxonaga bormasdan oldin anal soha teri yuzasiga",
+      "w": [
+        "Kechqurun, hojatxonaga borgandan keyin anal soha teri yuzasiga",
+        "Ertalab, hojatxonaga borgandan keyin tirnoq ostiga",
+        "Kechasi, bemor uxlaganda buyum oynasiga",
+        "Ertalab, hojatxonaga bormasdan oldin najas namunasiga"
+      ],
+      "x": "«shaffof yelim lenta ertalab, bemor hojatxonaga bormasdan oldin anal soha teri yuzasiga bosiladi»"
+    },
+    {
+      "q": "Nima uchun eng yuqori natija ertalabki namunada olinadi?",
+      "c": "Tuxumlar kechasi teri yuzasiga chiqadi",
+      "w": [
+        "Tuxumlar ertalab tirnoq ostiga tushadi",
+        "Tuxumlar najasda notekis chiqadi",
+        "Lenta ertalab toza bo'ladi",
+        "Bemor ertalab qichishishni sezmaydi"
+      ],
+      "x": "«Tuxumlar kechasi teri yuzasiga chiqqani uchun eng yuqori natija ertalabki namunada olinadi»"
+    },
+    {
+      "q": "Ishonchli natija uchun saskob usuli necha marta ketma-ket o'tkazilishi tavsiya etiladi?",
+      "c": "Uch ketma-ket ertalab",
+      "w": [
+        "Bir ertalab",
+        "Ikki ketma-ket ertalab",
+        "Bir kechada",
+        "Ikki ketma-ket kechqurun"
+      ],
+      "x": "«saskob usuli uch ketma-ket ertalab o'tkazilishi tavsiya etiladi»"
+    },
+    {
+      "q": "CDC tavsiya qilgan tashxis yo'llaridan biri qaysi?",
+      "c": "Tirnoq ostidagi materialni mikroskopda ko'rish",
+      "w": [
+        "Najasdagi voyaga yetgan gijjalarni sanash",
+        "Tuxumlarni kiyim yuzasidan yig'ish",
+        "Najas bilan tuxumlarni topish",
+        "Choyshabdagi materialni mikroskopda ko'rish"
+      ],
+      "x": "«anal soha atrofidagi terini shaffof lenta bilan tekshirish, tirnoq ostidagi materialni mikroskopda ko'rish va ba'zi hollarda yopishqoq aplikator (pinworm paddle) dan foydalanish»"
+    },
+    {
+      "q": "Saskob usulining asosiy afzalligi nima?",
+      "c": "Tezligi, arzonligi va bemor uchun og'riqsizligi",
+      "w": [
+        "Najasdagi tuxumlarni ham aniqlashi",
+        "Ichakdagi voyaga yetgan gijjalarni topishi",
+        "Uskunani talab qilishi",
+        "Manfiy natijada kasallikni istisno qilishi"
+      ],
+      "x": "«Saskob usulining asosiy afzalligi tezligi, arzonligi va bemor uchun og'riqsizligidir»"
+    },
+    {
+      "q": "Saskob usulining cheklovi nimada?",
+      "c": "Faqat anal soha atrofidagi tuxumlarni aniqlaydi",
+      "w": [
+        "Ichakdagi voyaga yetgan gijjalarni ham topadi",
+        "Najasdagi tuxumlarni ham aniqlay oladi",
+        "Uskuna talab qilinadi va bemor uchun og'riqli",
+        "Tirnoq ostidagi materialni aniqlay olmaydi"
+      ],
+      "x": "«Cheklovi shundaki, usul faqat anal soha atrofidagi tuxumlarni aniqlaydi»"
+    },
+    {
+      "q": "Saskob natijasi manfiy bo'lsa, kasallik haqida nima deyish mumkin?",
+      "c": "Kasallik istisno qilinmaydi",
+      "w": [
+        "Kasallik to'liq tasdiqlanadi",
+        "Kasallik yo'q deb hisoblanadi",
+        "Tekshiruv takrorlanmaydi",
+        "Oila a'zolari tekshirilmaydi"
+      ],
+      "x": "«Saskob usulida ijobiy natija kasallikni to'liq tasdiqlaydi, ammo manfiy natija kasallikni istisno qilmaydi»"
+    },
+    {
+      "q": "Ostritsa tuxumi qobig'i qanday bo'ladi?",
+      "c": "Shaffof",
+      "w": [
+        "Yopishqoq",
+        "Assimetrik",
+        "Qavariq",
+        "Mikroskopik"
+      ],
+      "x": "«Uning qobig'i shaffof va ichida ko'pincha embrion ko'rinadi»"
+    },
+    {
+      "q": "Enterobioz oilada va jamoada nima sababdan tez tarqaladi?",
+      "c": "Tuxumlar kiyim va choyshab yuzasida uzoq saqlanadi",
+      "w": [
+        "Tuxumlar faqat ichakda uzoq vaqt saqlanadi",
+        "Tuxumlar teri yuzasida va tirnoq ostida saqlanmaydi",
+        "Tuxumlar buyum oynasida uzoq vaqt saqlanadi",
+        "Lenta choyshab yuzasiga yopishib uzoq saqlanadi"
+      ],
+      "x": "«Enterobioz oilada va jamoada tez tarqaladi, chunki tuxumlar kiyim, choyshab, o'yinchoq va mebel yuzasida uzoq saqlanadi»"
+    }
+  ],
+  "012": [
+    {
+      "q": "Enterobioz asosan qaysi yoshdagi bolalarda keng tarqalgan?",
+      "c": "Maktabgacha va maktab yoshidagi",
+      "w": [
+        "Faqat maktab yoshidagi",
+        "Ota-onalar yoshidagi",
+        "Oila a'zolari yoshidagi",
+        "Tibbiyot xodimlari yoshidagi"
+      ],
+      "x": "«asosan maktabgacha va maktab yoshidagi bolalarda keng tarqalgan»"
+    },
+    {
+      "q": "Zararlangan odamlarning ko'pchiligida belgilar qanday bo'ladi?",
+      "c": "Hech qanday belgi bo'lmaydi",
+      "w": [
+        "Qichishish kuzatiladi",
+        "Teri yuzasida tuxum ko'rinadi",
+        "Tirnoq ostida embrion ko'rinadi",
+        "Anal soha atrofida belgilar bo'ladi"
+      ],
+      "x": "«ko'pchilik zararlangan odamlarda hech qanday belgi bo'lmaydi»"
+    },
+    {
+      "q": "Belgilar paydo bo'lganda eng ko'p uchraydigan belgi qaysi?",
+      "c": "Anal soha atrofidagi qichishish",
+      "w": [
+        "Anal soha atrofidagi tuxum",
+        "Tirnoq ostidagi qichishish",
+        "Teri yuzasidagi embrion",
+        "Ichakdagi qichishish"
+      ],
+      "x": "«belgilar paydo bo'lganda esa eng ko'p uchraydigan belgi anal soha atrofidagi qichishish hisoblanadi»"
+    },
+    {
+      "q": "Tirnoq ostidagi materialni mikroskopda ko'rish usuli qachon ayniqsa foydali?",
+      "c": "Qichishish bilan birga bo'lganda",
+      "w": [
+        "Najasda tuxum topilganda",
+        "Lenta ertalab bosilganda",
+        "Natija manfiy bo'lganda",
+        "Bemor ertalab hojatxonaga borganda"
+      ],
+      "x": "«Ikkinchi usul ayniqsa qichishish bilan birga bo'lganda foydali, chunki bemor qichiganda tuxumlar tirnoq ostiga tushadi»"
+    },
+    {
+      "q": "Ostritsa tuxumi qanday shaklda bo'ladi?",
+      "c": "Assimetrik, bir tomoni tekis, ikkinchi tomoni qavariq oval shaklda",
+      "w": [
+        "Simmetrik, ikki tomoni ham tekis oval shaklda",
+        "Assimetrik, ikki tomoni ham qavariq yumaloq shaklda",
+        "Simmetrik, ikki tomoni ham qavariq oval shaklda",
+        "Assimetrik, bir tomoni qavariq, ikkinchi tomoni tirnoq shaklida"
+      ],
+      "x": "«Ostritsa tuxumi assimetrik, bir tomoni tekis, ikkinchi tomoni qavariq bo'lgan oval shaklda bo'ladi»"
+    },
+    {
+      "q": "Saskob preparatida tuxum bilan nima adashtirilishi mumkin?",
+      "c": "Tolalar yoki o'simlik qoldiqlari",
+      "w": [
+        "Ichakdagi voyaga yetgan gijjalar",
+        "Tirnoq ostidagi tuxumlar va qobiqlar",
+        "Shaffof yelim lenta bo'laklari",
+        "Yopishqoq aplikator va buyum oynasi"
+      ],
+      "x": "«saskob preparatida tolalar yoki o'simlik qoldiqlari bo'lishi mumkin»"
+    },
+    {
+      "q": "Enterobioz tashxisi qo'yilgandan keyin tekshiruv kimlarga o'tkaziladi?",
+      "c": "Bir xonada yashaydigan barcha kishilarga",
+      "w": [
+        "Faqat zararlangan bolaning o'ziga",
+        "Bog'cha yoki maktab ma'muriyatiga",
+        "Laborant va epidemiologga",
+        "Tibbiyot xodimi va ota-onaga"
+      ],
+      "x": "«Shu sababli bir xonada yashaydigan barcha kishilar bir vaqtda saskob usulida tekshiriladi»"
+    },
+    {
+      "q": "Bolalar jamoasida tekshiruvni tashkil etishda ma'muriyat nima qilishi kerak?",
+      "c": "Ota-onalarni oldindan xabardor qilishi",
+      "w": [
+        "Natijalarni maxfiy saqlamasligi",
+        "Tekshiruvni ota-onasiz o'tkazishi",
+        "Tekshiruv kunini belgilamasligi",
+        "Manfiy bolalarni davolashi"
+      ],
+      "x": "«bog'cha yoki maktab ma'muriyati ota-onalarni oldindan xabardor qilishi, tekshiruv kunini belgilashi va natijalarni maxfiy saqlashi kerak»"
+    },
+    {
+      "q": "Ota-onalarga qanday amaliy tavsiyalar berilishi kerak?",
+      "c": "Tirnoqlarni kesish, ichki kiyimni almashtirish va choyshabni yuvish",
+      "w": [
+        "Tirnoqlarni uzun qoldirish, kiyimni almashtirish va choyshabni yopish",
+        "Hojatxonaga bormaslik, lentani yuvish va natijani yashirish",
+        "Bolani oiladan ajratish, choyshabni yopish va tirnoqni kesish",
+        "Tekshiruvni qoldirish, kiyimni yuvish va lentani almashtirish"
+      ],
+      "x": "«Ota-onalarga bolaning tirnoqlarini kesish, kechqurun ichki kiyimni almashtirish va choyshabni yuvish kabi oddiy amaliy tavsiyalar berilishi kerak»"
+    },
+    {
+      "q": "Saskob tekshiruvi natijalari laboratoriya jurnalida qaysi ma'lumotlar bilan qayd etiladi?",
+      "c": "Tekshiruv sanasi, bemor identifikatori, namunalar soni va natija",
+      "w": [
+        "Tekshiruv sanasi, bemor ismi, lenta turi va natija",
+        "Namunalar soni, ota-ona ismi, hudud va natija",
+        "Bemor identifikatori, tuxum o'lchami, lenta turi va natija",
+        "Tekshiruv sanasi, laborant ismi, hudud va oila a'zolari"
+      ],
+      "x": "«Saskob tekshiruvi natijalari laboratoriya jurnalida tekshiruv sanasi, bemor identifikatori, namunalar soni va natija bilan qayd etiladi»"
+    }
+  ],
+  "013": [
+    {
+      "q": "Lamblia ingichka ichakning yuqori qismida qaysi bo'limlarda yashaydi?",
+      "c": "O'n ikki barmoq ichakda (duodenum) va jejunumda",
+      "w": [
+        "Ichak shilliq qavati yuzasida va jejunumda",
+        "O't pufagida va o't yo'llarida",
+        "Ichak shilliq qavatida va qorin bo'shlig'ida",
+        "Duodenumda va ichak bo'shlig'idan tashqarida"
+      ],
+      "x": "«Lamblia odatda ingichka ichakning yuqori qismida, ya'ni o'n ikki barmoq ichakda (duodenum) va ingichka ichakning boshlang'ich bo'limida (jejunum) yashaydi»"
+    },
+    {
+      "q": "Lamblia qaysi ikki asosiy shaklda uchraydi?",
+      "c": "Faol ko'payuvchi trofozoit va yuqish uchun xizmat qiluvchi kista",
+      "w": [
+        "Faol ko'payuvchi kista va yuqish uchun xizmat qiluvchi trofozoit",
+        "Noksimon trofozoit va ikki yadroli kista",
+        "Qamchisimon kista va qattiq qobiqli trofozoit",
+        "Ingichka ichakdagi trofozoit va najasdagi antigen"
+      ],
+      "x": "«Lamblia ikki asosiy shaklda uchraydi: faol ko'payuvchi trofozoit va yuqish uchun xizmat qiluvchi kista»"
+    },
+    {
+      "q": "Trofozoitlar ayrim hollarda qaysi tomon tarqalishi mumkin?",
+      "c": "O't pufagi hamda o't yo'llari tomon",
+      "w": [
+        "Ingichka ichak hamda ichak bo'shlig'i tomon",
+        "Ichak hamda ichak shilliq qavati tomon",
+        "Jejunum hamda duodenum tomon",
+        "Najas hamda tashqi muhit tomon"
+      ],
+      "x": "«Trofozoitlar ichakda ko'payadi va ayrim hollarda o't pufagi hamda o't yo'llari tomon tarqalishi mumkin, ammo bu holat kam uchraydi va alohida tekshiruvni talab qiladi»"
+    },
+    {
+      "q": "Najas tekshiruvidan tashqari lambliozda yana qaysi usullar qo'llaniladi?",
+      "c": "Antigen aniqlash testlari va molekulyar usullar",
+      "w": [
+        "Antibiotik va bo'shatuvchi dorilar",
+        "Suvni sinovdan o'tkazish va dezinfeksiya",
+        "Konsentratsiya va surtma usullari",
+        "Trofozoitlarni tashqi muhitda saqlash"
+      ],
+      "x": "«Antigen aniqlash testlari va molekulyar usullar ham qo'llaniladi, ammo ular har bir laboratoriyada mavjud bo'lmasligi mumkin»"
+    },
+    {
+      "q": "Lambliozda bemorlarda qaysi belgilar kuzatiladi?",
+      "c": "Qorin og'rig'i, shishish, gazning ko'payishi va ich ketishi",
+      "w": [
+        "Qorin og'rig'i, antibiotik qabul qilish va ich ketishi",
+        "Shishish, kistalar soni va ichak shilliq qavati",
+        "Gazning ko'payishi, najas namunasi va vazn",
+        "Ich ketishi, trofozoit shakli va holsizlik"
+      ],
+      "x": "«Bemorlarda qorin og'rig'i, shishish, gazning ko'payishi va ich ketishi kuzatiladi»"
+    },
+    {
+      "q": "Bolalarda uzoq davom etgan lamblioz nimaga olib keladi?",
+      "c": "O'sish va rivojlanishning orqada qolishiga",
+      "w": [
+        "Kistalarning najasda ko'payishiga",
+        "Trofozoitlarning yo'qolishiga",
+        "Ichak shilliq qavatining yaxshilanishiga",
+        "Yog' so'rilishining yaxshilanishiga"
+      ],
+      "x": "«Bolalarda bu holat o'sish va rivojlanishning orqada qolishiga olib keladi»"
+    },
+    {
+      "q": "Belgilari umuman bo'lmagan lamblioz bemorlari nima bo'lib qolishi mumkin?",
+      "c": "Parazit tashuvchisi",
+      "w": [
+        "Kasallik qo'zg'atuvchisi",
+        "Sun'iy ob'ekt",
+        "Bolalar muassasasi xodimi",
+        "Najasdagi kista"
+      ],
+      "x": "«Ba'zi bemorlarda belgilar umuman bo'lmaydi, ammo ular ham parazit tashuvchisi bo'lib qolishi va boshqalarga yuqtirishi mumkin»"
+    },
+    {
+      "q": "Lambliozning joylashuvi davolashda e'tiborni nimaga qaratadi?",
+      "c": "Ichak shilliq qavatiga ta'sir qiluvchi antiparazit preparatlarga",
+      "w": [
+        "Ichimlik suvini sinovdan o'tkazuvchi preparatlarga",
+        "Bolalar muassasalarini dezinfeksiya qiluvchi preparatlarga",
+        "Najas namunasini saqlovchi konservant preparatlarga",
+        "Kistalarni tashqi muhitda yo'qotuvchi preparatlarga"
+      ],
+      "x": "«Joylashuv ingichka ichakning yuqori qismi bo'lgani uchun, asosiy e'tibor ichak shilliq qavatiga ta'sir qiluvchi antiparazit preparatlarga qaratiladi»"
+    },
+    {
+      "q": "Lambliozni davolashda dozasi nimaga bog'liq?",
+      "c": "Bemorning yoshi va vazniga",
+      "w": [
+        "Najasdagi kistalar shakliga",
+        "Ichimlik suvi sifatiga",
+        "Bolalar jamoalari holatiga",
+        "Qo'l gigiyenasi holatiga"
+      ],
+      "x": "«Davolash shifokor tomonidan belgilanadi va dozasi bemorning yoshi va vazniga bog'liq»"
+    },
+    {
+      "q": "Lambliozni tashxislashda eng ko'p uchraydigan xato nima?",
+      "c": "Bitta najas namunasiga asoslangan manfiy xulosa",
+      "w": [
+        "Konsentratsiya usulini qo'llash",
+        "Namunani bir necha kun ketma-ket berish",
+        "Ichimlik suvini qaynatib ichish",
+        "Laboratoriya xodimining malakasini oshirish"
+      ],
+      "x": "«Lambliozni tashxislashda eng ko'p uchraydigan xato bitta najas namunasiga asoslangan manfiy xulosadir»"
+    }
+  ],
+  "014": [
+    {
+      "q": "Askaridozning yuqish yo'li qanday amalga oshadi?",
+      "c": "Tashqi muhitdagi yetilgan tuxumlar orqali",
+      "w": [
+        "Bemordan sog'lom odamga bevosita",
+        "Lichinkalarning o'pkadan o'tishi orqali",
+        "Lichinkalarning qonga o'tishi orqali",
+        "Najasdagi voyaga yetgan gijjalar orqali"
+      ],
+      "x": "«Askaridozning yuqish yo'li odamdan odamga bevosita emas, balki tashqi muhitdagi yetilgan tuxumlar orqali amalga oshadi»"
+    },
+    {
+      "q": "Tuxum tuproqda yuqumli holatga yetilishi uchun qancha vaqt kerak?",
+      "c": "Bir necha hafta ichida",
+      "w": [
+        "Bir necha soat ichida",
+        "Bir necha daqiqa ichida",
+        "Bir necha yil ichida",
+        "Bir necha kun ichida"
+      ],
+      "x": "«Tuxumlar najas bilan tashqariga chiqadi va tuproqda, nam va iliq sharoitda bir necha hafta ichida yuqumli holatga yetiladi»"
+    },
+    {
+      "q": "Yutilgan tuxumdan chiqqan lichinka qon oqimi bilan qaysi a'zoga boradi?",
+      "c": "O'pkaga",
+      "w": [
+        "Ichak devoriga",
+        "Yutqunga",
+        "Ingichka ichakka",
+        "Kapillyarlarga"
+      ],
+      "x": "«Lichinka qon oqimi bilan o'pkaga boradi, nafas yo'llari orqali yutqunga chiqadi va qayta yutiladi»"
+    },
+    {
+      "q": "Askarida tuxumlari qaysi omillar ta'sirida o'ladi?",
+      "c": "Quyosh nuri, quruqlik va yuqori harorat",
+      "w": [
+        "Nam tuproq va iliq sharoit",
+        "Oddiy xlorli eritmalar",
+        "Najas o'g'iti va sanitariya nazorati",
+        "Ifloslangan sabzavot va ko'katlar"
+      ],
+      "x": "«Quyosh nuri, quruqlik va yuqori harorat tuxumlarni o'ldiradi»"
+    },
+    {
+      "q": "Kasallik o'choqlarida askarida tuxumlariga qarshi nima tavsiya etiladi?",
+      "c": "Qaynoq suv yoki maxsus ishlov berish",
+      "w": [
+        "Oddiy xlorli eritmalar bilan ishlov berish",
+        "Ochiq quyoshli joylarda oziq-ovqat saqlash",
+        "Nam tuproqda ekinlarni yetishtirish",
+        "Najas o'g'itini ko'paytirish"
+      ],
+      "x": "«shuning uchun kasallik o'choqlarida qaynoq suv yoki maxsus ishlov berish tavsiya etiladi»"
+    },
+    {
+      "q": "Askaridoz qanday ikki xil zarar keltiradi?",
+      "c": "Mexanik va toksik-allergik",
+      "w": [
+        "Mexanik va yallig'lanish",
+        "Toksik va kapillyar",
+        "Allergik va sanitar",
+        "Kapillyar va sanitariya"
+      ],
+      "x": "«Askaridoz ikki xil zarar keltiradi: mexanik va toksik-allergik»"
+    },
+    {
+      "q": "Lichinkalar o'pkadan o'tayotganda nimani shikastlaydi?",
+      "c": "Kapillyarlarni",
+      "w": [
+        "Ichak devorini",
+        "Ichak yo'llarini",
+        "Nafas yo'llarini",
+        "Yutqunni"
+      ],
+      "x": "«Lichinkalar o'pkadan o'tayotganda kapillyarlarni shikastlaydi»"
+    },
+    {
+      "q": "Bolalarda kamqonlik va vazn yo'qotish nima sababdan rivojlanishi mumkin?",
+      "c": "Gijja ichakdagi oziq moddalarni iste'mol qiladi",
+      "w": [
+        "Lichinkalar qon ketishini to'xtatadi",
+        "Toksik moddalar oziq moddalarni ko'paytiradi",
+        "Gijja ichak yo'llarini kengaytiradi",
+        "Tuxumlar suv orqali tarqaladi"
+      ],
+      "x": "«Shu bilan birga, gijja ichakdagi oziq moddalarni iste'mol qilgani uchun bolalarda kamqonlik va vazn yo'qotish rivojlanishi mumkin»"
+    },
+    {
+      "q": "Askaridozning yuqish zanjiri qaysi bo'g'inlardan iborat?",
+      "c": "Bemor, tuxum, tashqi muhit va yangi xo'jayin",
+      "w": [
+        "Bemor, chivin, tashqi muhit va yangi xo'jayin",
+        "Bemor, lichinka, sabzavot va yangi xo'jayin",
+        "Tuxum, o'pka, suv va yangi xo'jayin",
+        "Bemor, tuxum, hasharot va oziq-ovqat"
+      ],
+      "x": "«Askaridozning yuqish zanjiri bemor, tuxum, tashqi muhit va yangi xo'jayindan iborat»"
+    },
+    {
+      "q": "Sabzavotni o'g'itlash uchun najas ishlatilmasligi kerak, chunki bu nimaga olib keladi?",
+      "c": "Tuxumlarning ko'payishiga",
+      "w": [
+        "Lichinkalarning yo'qolishiga",
+        "Tuproqning quruqlashishiga",
+        "Suv quvurlarining zichlashishiga",
+        "Ekinlarning sanitariya nazoratiga"
+      ],
+      "x": "«sabzavotni o'g'itlash uchun najas ishlatilmasligi kerak, chunki bu tuxumlarni ko'paytiradi»"
+    }
+  ],
+  "015": [
+    {
+      "q": "Chivinlar shamol kuchli bo'lganda qanday harakat qiladi?",
+      "c": "Kamroq harakat qiladi",
+      "w": [
+        "Ko'proq uchadi",
+        "Faqat tunda uchadi",
+        "Tong oldidan faol bo'ladi",
+        "Karbonat angidridni qaytaradi"
+      ],
+      "x": "«shamol kuchli bo'lganda esa kamroq harakat qiladi»"
+    },
+    {
+      "q": "Uy ichida eng samarali choralardan biri qaysi?",
+      "c": "Derazalarga himoya to'rlari o'rnatish",
+      "w": [
+        "Ochiq suv idishlarini ochiq qoldirish",
+        "Chiroqlarni kechqurun ko'paytirish",
+        "Eshiklarni kechqurun ochiq tutish",
+        "Karavotni derazaga yaqin qo'yish"
+      ],
+      "x": "«uy ichida derazalar va eshiklarga himoya to'rlari o'rnatish eng samarali choralardan biridir»"
+    },
+    {
+      "q": "Uy ichida ochiq suv idishlarini yopiq tutish nimani cheklaydi?",
+      "c": "Chivinlarning ko'payishini",
+      "w": [
+        "Chivinlarning kirishini",
+        "Repellentning ta'sirini",
+        "Sayohat paytida isitmani",
+        "Insektitsidli to'rlarning yirtilishini"
+      ],
+      "x": "«Uy ichida ochiq suv idishlarini yopiq tutish chivinlarning ko'payishini cheklaydi»"
+    },
+    {
+      "q": "Chivinlarni qaytaruvchi vositalar (repellentlar) qayerga surtiladi?",
+      "c": "Teri va kiyimning ochiq qismlariga",
+      "w": [
+        "Ko'z va og'iz atrofidagi shilliq qavatga",
+        "Bolaning yuziga, ko'ziga va og'ziga",
+        "Chivin kiradigan tirqishlarga",
+        "Karavot yopinchig'iga"
+      ],
+      "x": "«Chivinlarni qaytaruvchi vositalar (repellentlar) teri va kiyimning ochiq qismlariga surtiladi»"
+    },
+    {
+      "q": "Chivinlarning odamga yaqinlashishi qaysi signallarga bog'liq?",
+      "c": "Karbonat angidrid va tana issiqligi",
+      "w": [
+        "Uyqu paytidagi shamol va chiroqlar",
+        "Karavot to'ri va derazalarning zichligi",
+        "Quyosh botganidan keyingi shamol",
+        "Tong oldidagi issiq va nam muhit"
+      ],
+      "x": "«Chivinlarning odamga yaqinlashishi karbonat angidrid va tana issiqligi kabi signallarga bog'liq»"
+    },
+    {
+      "q": "Sayohatdan qaytgandan keyin isitma qancha vaqt davomida tibbiy yordam bilan tekshirilishi kerak?",
+      "c": "Bir necha hafta davomida",
+      "w": [
+        "Bir necha soat davomida",
+        "Bir necha yil davomida",
+        "Bir necha daqiqa davomida",
+        "Bir necha marta"
+      ],
+      "x": "«Sayohatdan qaytgandan keyin ham bir necha hafta davomida har qanday isitma tibbiy yordam bilan tekshirilishi kerak»"
+    },
+    {
+      "q": "Bolalar uchun repellent tanlashda qanday vositalar tanlanadi?",
+      "c": "Past konsentratsiyali va yosh chegarasiga mos",
+      "w": [
+        "Yuqori konsentratsiyali va yuzga surtiladigan",
+        "Kiyimga ishlov berilgan va yuzga surtiladigan",
+        "Yuqori konsentratsiyali va barcha yoshga mos",
+        "Insektitsid ishlangan va yuqori konsentratsiyali"
+      ],
+      "x": "«Bolalar uchun repellent tanlashda ularning terisi sezgir bo'lgani sababli past konsentratsiyali va yosh chegarasiga mos vositalar tanlanadi»"
+    },
+    {
+      "q": "Homilador ayollar uchun chivin chaqishidan himoya qilishda eng xavfsiz vositalar qaysilar?",
+      "c": "To'rli karavot va yopiq kiyim",
+      "w": [
+        "Kimyoviy repellentlar va insektitsid",
+        "Repellent va yopiq poyabzal",
+        "Elektr moslama va repellent",
+        "Insektitsid ishlangan kiyim va repellent"
+      ],
+      "x": "«Homilador ayollar uchun chivin chaqishidan himoya qilishda to'rli karavot va yopiq kiyim eng xavfsiz vositalar hisoblanadi»"
+    },
+    {
+      "q": "Himoya vositalarining samaradorligi nimalarga bog'liq?",
+      "c": "Sifatiga, to'g'ri qo'llanilishiga va muddatiga",
+      "w": [
+        "Chivinlar soniga, tong vaqtiga va shamolga",
+        "Bolalar yoshiga, homiladorlikka va immunitetga",
+        "Jamoa rahbarlariga, ota-onalarga va xodimlarga",
+        "Sayohat vaqtiga, endemik hududga va isitma belgilariga"
+      ],
+      "x": "«Himoya vositalarining samaradorligi ularning sifatiga, to'g'ri qo'llanilishiga va muddatiga bog'liq»"
+    },
+    {
+      "q": "Kiyimga ishlov berilgan insektitsid bilan repellentni bir vaqtda tanaga surtish haqida nima tavsiya etiladi?",
+      "c": "Tavsiya etilmaydi",
+      "w": [
+        "Eng ishonchli yo'l hisoblanadi",
+        "Homilador ayollarga ham tavsiya etiladi",
+        "Faqat bolalarga tavsiya etiladi",
+        "Sayohat paytida tavsiya etiladi"
+      ],
+      "x": "«Kiyimga ishlov berilgan insektitsid bilan repellentni bir vaqtda tanasiga surtish tavsiya etilmaydi»"
+    }
+  ]
+}

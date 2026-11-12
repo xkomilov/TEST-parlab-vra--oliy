@@ -1,0 +1,562 @@
+{
+  "056": [
+    {
+      "q": "Teniarinxoz odamga asosan qanday go'sht orqali yuqadi?",
+      "c": "Yetarlicha pishirilmagan mol go'shti",
+      "w": [
+        "Pishgan mol go'shti",
+        "Yaxshi qizigan mol go'shti",
+        "Sovutilgan pishgan mol go'shti",
+        "Veterinar tekshirgan mol go'shti"
+      ],
+      "x": "«Teniarinxoz (Taeniarhynchus saginatus, mol lentasi) odamga asosan lichinka (finna) saqlovchi yetarlicha pishirilmagan mol go'shti orqali yuqadi»"
+    },
+    {
+      "q": "Qaysi taom teniarinxoz xavfini tug'diradi?",
+      "c": "Tatarcha go'sht",
+      "w": [
+        "Pishgan go'sht",
+        "Veterinar tekshirgan go'sht",
+        "Sovutilgan go'sht",
+        "Yaxshi pishgan go'sht"
+      ],
+      "x": "«Xavf tug'diradigan taomlar orasida xom kabob, tatarcha go'sht, qovurilmagan yoki kam pishirilgan bifshteks, go'shtli sosiska va go'sht pastasi bor»"
+    },
+    {
+      "q": "Go'shtning markaziy qismi kamida qanday haroratga yetishi kerak?",
+      "c": "56–60 daraja",
+      "w": [
+        "40–45 daraja",
+        "30–35 daraja",
+        "70–80 daraja",
+        "20–25 daraja"
+      ],
+      "x": "«Go'shtning markaziy qismi kamida 56–60 daraja haroratga yetishi kerak, deb hisoblanadi, bu lichinkalarni o'ldirish uchun yetarli»"
+    },
+    {
+      "q": "Go'shtni xavfsiz qilishning eng ishonchli usuli qaysi?",
+      "c": "Yetarlicha pishirish",
+      "w": [
+        "Muzlatish va saqlash",
+        "Tuzlash va quritish",
+        "Sovutish va saqlash",
+        "Quritish va tuzlab saqlash"
+      ],
+      "x": "«Go'shtni yetarlicha pishirish eng ishonchli usuldir»"
+    },
+    {
+      "q": "Tuzlab yoki quritib tayyorlangan go'sht lichinkalarni qanday o'ldiradi?",
+      "c": "To'liq o'ldirmasligi mumkin",
+      "w": [
+        "To'liq o'ldiradi va ishonchli",
+        "Doim va to'liq o'ldiradi",
+        "Yaxshi va ishonchli o'ldiradi",
+        "Ishonchli o'ldiradi va doim"
+      ],
+      "x": "«bu usul ham lichinkalarni to'liq o'ldirmasligi mumkin»"
+    },
+    {
+      "q": "Sigirlarning finnalar bilan zararlanganligi qachon aniqlanishi mumkin?",
+      "c": "Go'shtni so'yish paytida",
+      "w": [
+        "Go'shtni sotish paytida",
+        "Go'shtni pishirish paytida",
+        "Go'shtni tayyorlash paytida",
+        "Go'shtni muzlatish paytida"
+      ],
+      "x": "«Sigirlarning finnalar bilan zararlanganligi go'shtni so'yish paytida aniqlanishi mumkin, bu holatda go'sht yaroqsiz deb topiladi»"
+    },
+    {
+      "q": "Oshxonada xom va pishgan go'sht uchun nima ishlatilishi kerak?",
+      "c": "Alohida kesish taxtalari va pichoqlar",
+      "w": [
+        "Bir xil kesish taxtalari va pichoqlar",
+        "Alohida idish va kolbasa",
+        "Umumiy taxtalar va qo'l gigiyenasi",
+        "Alohida pichoq va umumiy taxta"
+      ],
+      "x": "«Oshxonalarda xom va pishgan go'sht uchun alohida kesish taxtalari va pichoqlar ishlatilishi, ishlovchilarning qo'l gigiyenasiga rioya qilinishi muhim»"
+    },
+    {
+      "q": "Finnalar ko'proq qanday yemni iste'mol qiladigan hayvonlarda bo'lishi mumkin?",
+      "c": "Ifloslangan yemni",
+      "w": [
+        "Yaxshi yemni",
+        "Pishgan yemni",
+        "Sovutilgan yemni",
+        "Quritilgan yemni"
+      ],
+      "x": "«Otlangan, kam harakatlanadigan yoki ifloslangan yemni iste'mol qiladigan hayvonlarda finnalar ko'proq bo'lishi mumkin»"
+    },
+    {
+      "q": "Kolbasa, sosiska va tuzlangan go'sht mahsulotlarida nima qolishi mumkin?",
+      "c": "Lichinkalar",
+      "w": [
+        "Veterinar belgilari",
+        "Yorliqlar",
+        "Yaroqlilik muddati",
+        "Restoranlar"
+      ],
+      "x": "«Kolbasa, sosiska, go'sht konservalari va tuzlangan go'sht mahsulotlarida ham lichinkalar qolishi mumkin, agar ular yetarli ishlov bermagan bo'lsa»"
+    },
+    {
+      "q": "Go'sht mahsulotlarini sotishda qaysi hujjat talab qilinadi?",
+      "c": "Veterinariya guvohnomasi",
+      "w": [
+        "Sanitariya guvohnomasi",
+        "Restoran guvohnomasi",
+        "Yoshlar guvohnomasi",
+        "Kolbasa guvohnomasi"
+      ],
+      "x": "«Go'sht mahsulotlarini sotishda veterinariya guvohnomasi va sifat belgilari talab qilinadi»"
+    }
+  ],
+  "057": [
+    {
+      "q": "Davolash rejasi bemorga qanday tilda tushuntirilishi kerak?",
+      "c": "Oddiy va aniq tilda",
+      "w": [
+        "Ilmiy va aniq tilda",
+        "Xalqaro va oddiy tilda",
+        "Oddiy va qisqa tilda",
+        "Telefon va aniq tilda"
+      ],
+      "x": "«Davolash rejasi bemorga oddiy va aniq tilda tushuntirilishi kerak»"
+    },
+    {
+      "q": "Yozma ko'rsatma bemorga nimada yordam beradi?",
+      "c": "Qabul qilish tartibini unutmaslikka",
+      "w": [
+        "Qabul qilish tartibini o'zgartirishga",
+        "Dorini to'xtatishga",
+        "Dorini almashtirishga",
+        "Primakin kursini qisqartirishga"
+      ],
+      "x": "«Yozma ko'rsatma berish qabul qilish tartibini unutmaslikka yordam beradi»"
+    },
+    {
+      "q": "Isitma pasayganda shifokor bemorni nima haqida ogohlantiradi?",
+      "c": "Jigardagi gipnozoitlar haqida",
+      "w": [
+        "Gemoliz belgilari haqida",
+        "Xlorokin kursi haqida",
+        "Eslatma tizimi haqida",
+        "Qon ko'rsatkichlari haqida"
+      ],
+      "x": "«Shu sababli shifokor jigardagi gipnozoitlar haqida ogohlantiradi va radikal davolash majburiy ekanini tushuntiradi»"
+    },
+    {
+      "q": "Qaysi nojo'ya ta'sirlar ko'pincha engil bo'ladi?",
+      "c": "Ko'ngil aynishi, qorin og'rig'i va bosh og'rig'i",
+      "w": [
+        "Qon ko'rsatkichlarining keskin o'zgarishi, ko'ngil aynishi",
+        "Ong o'zgarishi, qorin og'rig'i va bosh og'rig'i",
+        "Kuchli holsizlik, qon ketishi va ko'ngil aynishi",
+        "Siydik rangi, qorin og'rig'i va qon ketishi"
+      ],
+      "x": "«Ko'ngil aynishi, qorin og'rig'i va bosh og'rig'i ko'pincha engil bo'ladi, lekin qon ko'rsatkichlarining keskin o'zgarishi jiddiy belgi hisoblanadi»"
+    },
+    {
+      "q": "Davolash davrida qaysi o'zgarish jiddiy belgi hisoblanadi?",
+      "c": "Qon ko'rsatkichlarining keskin o'zgarishi",
+      "w": [
+        "Ko'ngil aynishi va bosh og'rig'i",
+        "Qorin og'rig'i va ko'ngil aynishi",
+        "Engil holsizlik va bosh og'rig'i",
+        "Bosh og'rig'i va qorin og'rig'i"
+      ],
+      "x": "«lekin qon ko'rsatkichlarining keskin o'zgarishi jiddiy belgi hisoblanadi»"
+    },
+    {
+      "q": "Bemorda ong o'zgarishi, kuchli holsizlik yoki qon ketishi kuzatilsa, nima qilinadi?",
+      "c": "Davolash shifokor tomonidan darhol ko'rib chiqiladi",
+      "w": [
+        "Davolash shifokor tomonidan qayta boshlanadi",
+        "Davolash rejasi o'zgartirilmaydi va dori davom ettiriladi",
+        "Bemor uyiga yuboriladi va dori to'xtatiladi",
+        "Davolash telefon orqali ko'rib chiqiladi"
+      ],
+      "x": "«Agar bemorda ong o'zgarishi, kuchli holsizlik yoki qon ketishi kuzatilsa, davolash shifokor tomonidan darhol ko'rib chiqiladi»"
+    },
+    {
+      "q": "Xlorokin va primakin bir vaqtda qabul qilinganda nima kuchayishi mumkin?",
+      "c": "Ba'zi nojo'ya ta'sirlar",
+      "w": [
+        "Ba'zi dalillar",
+        "Ba'zi imkoniyatlar",
+        "Ba'zi tajribalar",
+        "Ba'zi yondashuvlar"
+      ],
+      "x": "«Xlorokin va primakin bir vaqtda qabul qilinganda ba'zi nojo'ya ta'sirlar kuchayishi mumkin»"
+    },
+    {
+      "q": "Shifokor bemorning barcha dorilari bilan nima qiladi?",
+      "c": "Ro'yxatga oladi",
+      "w": [
+        "Almashtiradi",
+        "Yangilaydi",
+        "To'xtatadi",
+        "Qisqartiradi"
+      ],
+      "x": "«Shuning uchun shifokor bemorning barcha dorilarini ro'yxatga oladi va xavfli kombinatsiyalarni oldindan aniqlaydi»"
+    },
+    {
+      "q": "Bemorlarning rioya qilish darajasi nima sababdan past bo'lishi mumkin?",
+      "c": "Radikal davolash uzoq davom etadi",
+      "w": [
+        "Radikal davolash qisqa davom etadi",
+        "Xlorokin kursi uzoq davom etadi",
+        "Primakin kursi qisqa davom etadi",
+        "Gemoliz uzoq davom etadi"
+      ],
+      "x": "«Radikal davolash uzoq davom etgani uchun bemorlarning rioya qilish darajasi past bo'lishi mumkin»"
+    },
+    {
+      "q": "Bemorning rioya qilishini nima oshiradi?",
+      "c": "Qabul qilish tartibini oddiylashtirish va eslatma tizimi",
+      "w": [
+        "Qabul qilish tartibini murakkablashtirish va telefon",
+        "Dozani oshirish va eslatma tizimi",
+        "Tartibsiz qabul va eslatmasiz tizim",
+        "Qabul qilish tartibini unutish va eslatma"
+      ],
+      "x": "«Dori qabul qilish tartibini oddiylashtirish va eslatma tizimi rioyani oshiradi»"
+    }
+  ],
+  "058": [
+    {
+      "q": "Xlorokin va primakin orasidagi vaqt nimaga qarab belgilanadi?",
+      "c": "Bemorning holatiga qarab",
+      "w": [
+        "Dori tanloviga qarab",
+        "Reja muddatiga qarab",
+        "Ish grafigiga qarab",
+        "Tajribaga qarab"
+      ],
+      "x": "«Ikki preparat orasidagi vaqt bemorning holatiga qarab belgilanadi»"
+    },
+    {
+      "q": "Radikal davolash odatda qachon boshlanadi?",
+      "c": "Qon bosqichidan keyin",
+      "w": [
+        "Qon bosqichidan oldin",
+        "Qon bosqichi davomida",
+        "G6PD tekshiruvidan oldin",
+        "Isitma boshlanishidan oldin"
+      ],
+      "x": "«ammo radikal davolash odatda qon bosqichidan keyin boshlanadi»"
+    },
+    {
+      "q": "Davolash bosqichlarining boshlanish va tugash sanasi qayerda ko'rsatiladi?",
+      "c": "Bemor kartasida",
+      "w": [
+        "Telefon eslatmasida",
+        "Dori jurnalida",
+        "Yozma ko'rsatmada",
+        "Oila rejasida"
+      ],
+      "x": "«Har bir bosqichning boshlanish va tugash sanasi bemor kartasida ko'rsatiladi»"
+    },
+    {
+      "q": "G6PD natijasi kechiksa, nima bo'lishi mumkin?",
+      "c": "Davolash boshlanishi ham kechikishi mumkin",
+      "w": [
+        "Davolash boshlanishi tezlashishi mumkin",
+        "Davolash muddati qisqarishi mumkin",
+        "Davolash natijasi aniqlashishi mumkin",
+        "Davolash kechikishi shart emas"
+      ],
+      "x": "«natija kechiksa, davolash boshlanishi ham kechikishi mumkin»"
+    },
+    {
+      "q": "Turli mamlakatlarda P. vivax davolash sxemalari nimaga bog'liq holda farq qiladi?",
+      "c": "Milliy tajriba va dori mavjudligiga",
+      "w": [
+        "Dori tanlovi va reja muddatiga",
+        "Milliy tajriba va dori narxiga",
+        "Dori mavjudligi va sug'urta tizimiga",
+        "Ilmiy dalillar va telefon tizimiga"
+      ],
+      "x": "«Turli mamlakatlarda P. vivax infeksiyasini davolash sxemalari milliy tajriba va dori mavjudligiga bog'liq holda farq qiladi»"
+    },
+    {
+      "q": "Har bir sxemada qaysi tekshiruv majburiy shart bo'lib qoladi?",
+      "c": "G6PD tekshiruvi",
+      "w": [
+        "Siydik tekshiruvi",
+        "Xlorokin tekshiruvi",
+        "Telefon tekshiruvi",
+        "Ruxsat tekshiruvi"
+      ],
+      "x": "«Shu bilan birga G6PD tekshiruvi har bir sxemada majburiy shart bo'lib qoladi»"
+    },
+    {
+      "q": "Dori qabul qilish jurnali nimaga yordam beradi?",
+      "c": "Muammolarni erta aniqlashga",
+      "w": [
+        "Dorini almashtirishga",
+        "Primakin kursini qisqartirishga",
+        "Xlorokinni almashtirishga",
+        "Dorini to'xtatishga"
+      ],
+      "x": "«Kuzatuv davrida bemorning dori qabul qilish jurnali yuritilsa, bu muammolarni erta aniqlashga yordam beradi»"
+    },
+    {
+      "q": "Dori qabul qilish jurnali kim bilan birga tuziladi?",
+      "c": "Oila a'zolari",
+      "w": [
+        "Telefon tizimi",
+        "Tibbiy yordam",
+        "Xalqaro dalillar",
+        "Milliy tajriba"
+      ],
+      "x": "«Jurnal oila a'zolari bilan birga tuziladi»"
+    },
+    {
+      "q": "Radikal davolash rejasi bemorning qaysi omillarini hisobga olib tuziladi?",
+      "c": "Ish grafigi, oilaviy majburiyatlar va yashash joyining uzoqligi",
+      "w": [
+        "Ish grafigi, dori tanlovi va telefon",
+        "Oilaviy majburiyatlar, qon rangi va jurnal",
+        "Yashash joyining uzoqligi, siydik rangi va sug'urta",
+        "Ish grafigi, ilmiy dalillar va xalqaro tajriba"
+      ],
+      "x": "«Radikal davolash rejasi bemorning ish grafigi, oilaviy majburiyatlari va yashash joyining uzoqligini hisobga olgan holda tuziladi»"
+    },
+    {
+      "q": "Bezgakdan tiklanayotgan bemorga qanday ovqatlanish tavsiya etiladi?",
+      "c": "Yengil va to'yimli",
+      "w": [
+        "Og'ir va yengil",
+        "Og'ir va tartibsiz",
+        "Yengil, lekin kam suyuqlik",
+        "To'yimli, lekin og'ir"
+      ],
+      "x": "«Bezgakdan tiklanayotgan bemorga yengil va to'yimli ovqatlanish tavsiya etiladi»"
+    }
+  ],
+  "059": [
+    {
+      "q": "Najas namunasining miqdori nimaga ta'sir qiladi?",
+      "c": "Kistani topish imkoniyatiga",
+      "w": [
+        "Namuna narxiga",
+        "Konservant ta'siriga",
+        "Utilizatsiya jurnaliga",
+        "Bemor manziliga"
+      ],
+      "x": "«Najas namunasining miqdori kistani topish imkoniyatiga bevosita ta'sir qiladi»"
+    },
+    {
+      "q": "Juda kichik namuna nimaga olib keladi?",
+      "c": "Kistalarni topmaslikka",
+      "w": [
+        "Kistalarni aniqlashga",
+        "Namunani arxivlashga",
+        "Parazitni ajratishga",
+        "Natijani yaxshilashga"
+      ],
+      "x": "«Juda kichik namuna kistalarni topmaslikka olib keladi»"
+    },
+    {
+      "q": "Laboratoriyada najas namunalari qanday saqlanadi?",
+      "c": "Sovutgichda yoki xona haroratida, qisqa vaqt",
+      "w": [
+        "Quyoshda yoki issiqda, uzoq vaqt",
+        "Sovutgichda yoki quyoshda, uzoq vaqt",
+        "Issiq xonada yoki sovutgichda, uzoq vaqt",
+        "Formalinda yoki quyoshda, qisqa vaqt"
+      ],
+      "x": "«Laboratoriyada najas namunalari maxsus sovutgichda yoki xona haroratida, tekshiruvgacha qisqa vaqt saqlanadi»"
+    },
+    {
+      "q": "Uzoq saqlash kistalarga qanday ta'sir qilishi mumkin?",
+      "c": "Shaklini o'zgartirishi",
+      "w": [
+        "Sonini o'zgartirishi",
+        "Yadrolarini o'zgartirishi",
+        "O'lchamini o'zgartirishi",
+        "Raqamini o'zgartirishi"
+      ],
+      "x": "«Uzoq saqlash kistalarning shaklini va ko'rinishini o'zgartirishi mumkin»"
+    },
+    {
+      "q": "Najas namunasidagi shilimshiq yoki qon nimaning belgisi bo'lishi mumkin?",
+      "c": "Ichak yallig'lanishining",
+      "w": [
+        "Kista shaklining",
+        "Namuna sifati yuqoriligining",
+        "Konservant ta'sirining",
+        "Duodenal aspirat belgisining"
+      ],
+      "x": "«Shilimshiq va qon ichak yallig'lanishining belgisi bo'lishi mumkin, shuning uchun laborant bu haqda shifokorga xabar beradi»"
+    },
+    {
+      "q": "Kistalar najas namunasida qachon yashirinishi mumkin?",
+      "c": "Namunada shilimshiq yoki qon bo'lsa",
+      "w": [
+        "Namunada konservant bo'lsa",
+        "Namunada Lugol bo'lsa",
+        "Namunada formalin bo'lsa",
+        "Namunada fiziologik eritma bo'lsa"
+      ],
+      "x": "«Najas namunasida shilimshiq yoki qon bo'lsa, u tekshiruv sifatini o'zgartirishi mumkin, chunki kistalar bu aralashmada yashirinishi mumkin»"
+    },
+    {
+      "q": "Kistalarni boshqa parazit tuxumlaridan farqlash uchun laborant nimalarni tahlil qiladi?",
+      "c": "Kista o'lchami, shakli va yadrolari sonini",
+      "w": [
+        "Kista rangi, narxi va yadrolari sonini",
+        "Kista o'lchami, narxi va hajmini",
+        "Namuna rangi, shakli va hajmini",
+        "Kista shakli, raqami va sanasini"
+      ],
+      "x": "«Shu sababli laborant kista o'lchami, shakli va yadrolari sonini sinchiklab tahlil qiladi»"
+    },
+    {
+      "q": "Immunofluoressent bo'yash va antigen aniqlash testlari nimani oshiradi?",
+      "c": "Sezgirlikni",
+      "w": [
+        "Hisobotni",
+        "Utilizatsiyani",
+        "Raqamni",
+        "Partiyani"
+      ],
+      "x": "«Immunofluoressent bo'yash va antigen aniqlash testlari ham sezgirlikni oshiradi, ammo ularni har bir laboratoriya qo'llay olmasligi mumkin»"
+    },
+    {
+      "q": "Namuna sifati nimalar bilan baholanadi?",
+      "c": "Hajmi, tozaligi, aralashmalar yo'qligi va saqlanish vaqti",
+      "w": [
+        "Hajmi, narxi, aralashmalar yo'qligi va saqlanish vaqti",
+        "Rangi, tozaligi, aralashmalar yo'qligi va saqlanish narxi",
+        "Hajmi, tozaligi, aralashmalar soni va saqlanish raqami",
+        "Narxi, rangi, aralashmalar yo'qligi va yig'ish vaqti"
+      ],
+      "x": "«Namuna sifati uning hajmi, tozaligi, aralashmalar yo'qligi va tekshiruvgacha saqlanish vaqti bilan baholanadi»"
+    },
+    {
+      "q": "Tahlil tugagach, namuna va ishlatilgan buyumlar bilan nima qilinadi?",
+      "c": "Dezinfeksiya qilinib, maxsus chiqindi idishiga joylanadi",
+      "w": [
+        "Arxivlanib, maxsus idishga joylanadi",
+        "Konservant bilan sovutgichga joylanadi",
+        "Dezinfeksiya qilinib, arxivlanib joylanadi",
+        "Qayta tayyorlanib, boshqa laborantga topshiriladi"
+      ],
+      "x": "«Tahlil tugagach, namuna va ishlatilgan buyumlar dezinfeksiya qilinib, maxsus chiqindi idishiga joylanadi»"
+    }
+  ],
+  "060": [
+    {
+      "q": "Fassiola (Fasciola hepatica) qanday gijja?",
+      "c": "Yassi, barg shaklidagi gijja",
+      "w": [
+        "Yassi, tarmoqsimon gijja",
+        "Yirik, barg shaklidagi lichinka",
+        "Yassi, barg shaklidagi lichinka",
+        "Yirik, kiprikli gijja"
+      ],
+      "x": "«Fassiola (Fasciola hepatica, jigar qurti) yassi, barg shaklidagi gijja bo'lib, asosan o'simlikxo'r sutemizuvchilar jigarida yashaydi»"
+    },
+    {
+      "q": "Odam fassiola uchun qanday xo'jayin hisoblanadi?",
+      "c": "Tasodifan yuqtiradigan xo'jayin",
+      "w": [
+        "Oraliq xo'jayin sifatida",
+        "Asosiy xo'jayin sifatida",
+        "Chorvachilik xo'jayini sifatida",
+        "Biologik xo'jayin sifatida"
+      ],
+      "x": "«Odam ko'pincha tasodifan yuqtiradigan xo'jayin hisoblanadi»"
+    },
+    {
+      "q": "Suv havzasiga tushgan tuxumdan qaysi lichinka chiqadi?",
+      "c": "Miratsidiy",
+      "w": [
+        "Serkariy",
+        "Metaserkariy",
+        "Salyangoq",
+        "Fassiola"
+      ],
+      "x": "«Suv havzasiga tushgan tuxumdan kiprikli lichinka, miratsidiy, chiqadi va u suv salyangog'iga kirib, u yerda ko'payadi»"
+    },
+    {
+      "q": "Serkariylar suv o'simliklariga yopishib, qaysi shaklga o'tadi?",
+      "c": "Metaserkariy",
+      "w": [
+        "Miratsidiy",
+        "Serkariy",
+        "Voyaga yetgan gijja",
+        "Kiprikli lichinka"
+      ],
+      "x": "«Serkariylar suv o'simliklariga yopishib, inkistlanadi va metaserkariy shaklini oladi»"
+    },
+    {
+      "q": "Odam metaserkariylarni yutganda lichinkalar qayerda chiqadi?",
+      "c": "Ingichka ichakda",
+      "w": [
+        "Jigarda",
+        "O't yo'llarida",
+        "Qorin bo'shlig'ida",
+        "Salyangoq ichida"
+      ],
+      "x": "«lichinkalar ingichka ichakda chiqadi»"
+    },
+    {
+      "q": "Lichinkalar ichak devorini kesib o'tgach, qayerga boradi?",
+      "c": "Qorin bo'shlig'iga, so'ngra jigarga",
+      "w": [
+        "O't yo'llariga, so'ngra jigarga",
+        "Jigarga, so'ngra ichakka",
+        "Ingichka ichakka, so'ngra qorin bo'shlig'iga",
+        "Jigarga, so'ngra salyangoqqa"
+      ],
+      "x": "«Ular ichak devorini kesib o'tib, qorin bo'shlig'iga, so'ngra jigarga boradi va jigar to'qimasi orqali harakatlanadi»"
+    },
+    {
+      "q": "Voyaga yetgan fassiola odam organizmining qayerida yashaydi?",
+      "c": "O't yo'llarida",
+      "w": [
+        "Jigar to'qimasida",
+        "Ingichka ichakda",
+        "Qorin bo'shlig'ida",
+        "Salyangoq ichida"
+      ],
+      "x": "«Voyaga yetgan fassiola o't yo'llarida bir necha yil yashashi mumkin»"
+    },
+    {
+      "q": "Fassiolezning o'tkir bosqichi qanday belgilar bilan kechadi?",
+      "c": "Jigar og'rig'i, isitma, qorin og'rig'i va eozinofiliya",
+      "w": [
+        "O't yo'llari yallig'lanishi va jigar funksiyasining buzilishi",
+        "Fibroz, o't tosh va qorin og'rig'i",
+        "Jigar og'rig'i, fibroz, isitma va o't tosh",
+        "O't yo'llari yallig'lanishi, isitma va eozinofiliya"
+      ],
+      "x": "«Fassiolez o'tkir bosqichda jigar og'rig'i, isitma, qorin og'rig'i va eozinofiliya bilan kechadi»"
+    },
+    {
+      "q": "Fassiolezni davolashda qo'llaniladigan antigelmintik preparat qaysi?",
+      "c": "Triklabendazol",
+      "w": [
+        "Bilirubin",
+        "Eozinofil",
+        "Serologik testlar",
+        "Ultratovush"
+      ],
+      "x": "«Davolashda triklabendazol kabi antigelmintik preparatlar qo'llaniladi, dozasi bemor vazniga qarab shifokor tomonidan belgilanadi»"
+    },
+    {
+      "q": "Fassiola hayot siklida salyangoq qanday xo'jayin hisoblanadi?",
+      "c": "Oraliq xo'jayin",
+      "w": [
+        "Asosiy xo'jayin",
+        "Biologik xo'jayin",
+        "Tasodifan xo'jayin",
+        "Veterinar xo'jayin"
+      ],
+      "x": "«Fassiola hayot siklida salyangoq oraliq xo'jayin bo'lgani uchun, salyangoqlar yashaydigan suv havzalarini nazorat qilish kasallikni kamaytiradi»"
+    }
+  ]
+}

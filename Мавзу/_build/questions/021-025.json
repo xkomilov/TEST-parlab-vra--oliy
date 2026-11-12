@@ -1,0 +1,562 @@
+{
+  "021": [
+    {
+      "q": "Qalin tomchi nimani aniqlashda kerak?",
+      "c": "Qondagi plazmodiylarning mavjudligi va zichligini",
+      "w": [
+        "Plazmodiylarning turini aniq farqlashni",
+        "Eritrotsitlarning shaklini va yadrosini",
+        "Bo'yash vaqtini aniqlashni",
+        "Mikroskop ob'ektivi turini tanlashni"
+      ],
+      "x": "«Javob: bemorning qonidagi plazmodiylarning mavjudligi va zichligi, ya'ni kasallikning og'irlik darajasi»"
+    },
+    {
+      "q": "Qalin tomchida parazitlar zichligi qanday ko'rsatkich bilan ifodalanadi?",
+      "c": "Bir mikrolitr qondagi parazitlar soni",
+      "w": [
+        "Bir mikrolitr qondagi eritrotsitlar soni",
+        "Bir mikrolitr qondagi leykotsitlar soni",
+        "Bir maydondagi parazitlar shakli",
+        "Bir tomchidagi bo'yoq miqdori"
+      ],
+      "x": "«Parazitlar soni hisoblanib, odatda bir mikrolitr qondagi parazitlar soni bilan ifodalanadi»"
+    },
+    {
+      "q": "Qalin tomchi nima sababdan tur aniqlash uchun yetarli emas?",
+      "c": "Plazmodiylarning turini aniq ko'rsatishi qiyin",
+      "w": [
+        "Plazmodiylar borligini aniqlay olmaydi",
+        "Parazit zichligini baholay olmaydi",
+        "Yupqa surtmadan kam sezgir",
+        "Bo'yoq bilan bo'yalmaydi"
+      ],
+      "x": "«Qalin tomchi plazmodiylarning borligini aniqlaydi, lekin ularning turini aniq ko'rsatishi qiyin»"
+    },
+    {
+      "q": "Tur aniqlash uchun qalin tomchi bilan birga nima tayyorlanadi?",
+      "c": "Yupqa surtma",
+      "w": [
+        "Qalin qatlam",
+        "Bufer eritmasi",
+        "Immersiya ob'ektivi",
+        "Nazorat preparati"
+      ],
+      "x": "«Shu sababli tur aniqlash uchun yupqa surtma ham tayyorlanadi»"
+    },
+    {
+      "q": "Qalin tomchining afzalligi nimada?",
+      "c": "Yuqori sezgirligi",
+      "w": [
+        "Turni aniq farqlash",
+        "Mikroskopchi malakasiga bog'liq emasligi",
+        "Bo'yoqsiz tekshirish",
+        "Parazit shaklini o'zgartirmasligi"
+      ],
+      "x": "«Qalin tomchining afzalligi yuqori sezgirligi: kam miqdordagi parazit ham topilishi mumkin»"
+    },
+    {
+      "q": "Qalin tomchining cheklovi nimada?",
+      "c": "Mikroskopchining malakasiga juda bog'liq",
+      "w": [
+        "Parazitni topish juda qiyin",
+        "Faqat yupqa surtma bilan tayyorlanadi",
+        "Bir vaqtda bitta namunani tekshiradi",
+        "Arzon va bo'yoqsiz tayyorlanadi"
+      ],
+      "x": "«Cheklovi shundaki, mikroskopchining malakasiga juda bog'liq va turni aniq farqlash qiyin»"
+    },
+    {
+      "q": "Qalin tomchi mikroskopda qaysi ob'ektiv bilan tekshiriladi?",
+      "c": "Immersiya ob'ektivi",
+      "w": [
+        "Bo'yoq va bufer eritmasi",
+        "Bufer eritmasi pH darajasi",
+        "Yorug'lik manbai",
+        "Parazitlar zichligi hisobi"
+      ],
+      "x": "«Mikroskopda tekshiruv katta kattalashtirishda, immersiya ob'ektivi bilan olib boriladi»"
+    },
+    {
+      "q": "Qalin tomchida parazitlar nima sababdan bir necha maydonda ko'riladi?",
+      "c": "Parazitlar tomchi bo'ylab notekis taqsimlangan bo'ladi",
+      "w": [
+        "Parazitlar tomchi bo'ylab tekis taqsimlanadi",
+        "Bo'yoq tomchi bo'ylab notekis tarqaladi",
+        "Eritrotsitlar bir necha qatlamda yotadi",
+        "Yorug'lik tomchi bo'ylab o'zgaradi"
+      ],
+      "x": "«Ko'rish paytida bir necha maydon ko'rib chiqiladi, chunki parazitlar tomchi bo'ylab notekis taqsimlangan bo'ladi»"
+    },
+    {
+      "q": "Qon olishda birinchi tomchi bilan nima qilinadi?",
+      "c": "Artib tashlanadi",
+      "w": [
+        "Buyum oynasiga qo'yiladi",
+        "Bo'yoq bilan eritiladi",
+        "Suv bilan eritiladi",
+        "Immersiya ostida ko'riladi"
+      ],
+      "x": "«Birinchi tomchi artib tashlanadi, ikkinchi tomchi esa buyum oynasiga qo'yiladi»"
+    },
+    {
+      "q": "Ichki nazoratda sifat qanday ta'minlanadi?",
+      "c": "Bir xil preparat ikki xodim tomonidan ko'riladi",
+      "w": [
+        "Preparat boshqa laboratoriyaga yuboriladi",
+        "Ikki xodim bir xil preparatni ko'rmaydi",
+        "Preparat bo'yoqsiz qoldiriladi",
+        "Natija elektron tizimga kiritiladi"
+      ],
+      "x": "«Ichki nazoratda bir xil preparat ikki xodim tomonidan ko'riladi va natijalar solishtiriladi»"
+    }
+  ],
+  "022": [
+    {
+      "q": "P. falciparumda ekzoeritrositar shizogoniya tugagach, bitta shizontdan nechta merozoit chiqadi?",
+      "c": "Juda ko'p merozoit",
+      "w": [
+        "Bitta merozoit",
+        "Gipnozoit hosil bo'ladi",
+        "Sporozoit chiqadi",
+        "Shizont ichida merozoit bo'lmaydi"
+      ],
+      "x": "«bitta shizontdan juda ko'p merozoit chiqadi va ular eritrotsitlarni zararlaydi»"
+    },
+    {
+      "q": "P. falciparum odam organizmida qaysi ikki bosqichdan o'tadi?",
+      "c": "Jigardagi (ekzoeritrositar) va qon ichidagi (eritrotsitar)",
+      "w": [
+        "Jigardagi (eritrotsitar) va qon ichidagi (ekzoeritrositar)",
+        "Chivindagi (sporozoit) va qon ichidagi (eritrotsitar)",
+        "Jigardagi (ekzoeritrositar) va chivindagi (jinsiy)",
+        "Qon ichidagi (eritrotsitar) va miyadagi (nevrologik)"
+      ],
+      "x": "«Uning rivojlanish sikli odam organizmida ikki bosqichdan iborat: jigardagi (ekzoeritrositar) va qon ichidagi (eritrotsitar) bosqichlar»"
+    },
+    {
+      "q": "P. falciparumda jigardagi bosqich P. vivax ga qaraganda qanday?",
+      "c": "Qisqaroq va gipnozoit hosil qilmaydi",
+      "w": [
+        "Uzunroq va gipnozoit hosil qiladi",
+        "Qisqaroq va gipnozoit hosil qiladi",
+        "Uzunroq va gipnozoit hosil qilmaydi",
+        "Bir xil va residivga sabab bo'ladi"
+      ],
+      "x": "«P. falciparum da jigardagi bosqich odatda P. vivax ga qaraganda qisqaroq va jigar ichida gipnozoit hosil qilmaydi, bu esa residiv xavfini pasaytiradi»"
+    },
+    {
+      "q": "P. falciparum bilan kasallangan bemorning ahvoli nima sababdan og'irlashadi?",
+      "c": "Ko'p merozoit chiqishi tufayli parazit yuklamasi ortadi",
+      "w": [
+        "Merozoitlar jigarda qolishi tufayli parazit yuklamasi kamayadi",
+        "Eritrotsitlar ko'payishi tufayli parazit yuklamasi kamayadi",
+        "Shizont hosil bo'lmasligi tufayli parazit yuklamasi kamayadi",
+        "Sporozoit chivinga qaytishi tufayli parazit yuklamasi ortadi"
+      ],
+      "x": "«Ko'p sonli merozoitlar bitta shizontdan chiqishi tufayli parazit yuklamasi tez ortadi va bemorning ahvoli og'irlashadi»"
+    },
+    {
+      "q": "Yetilgan P. falciparum shakllari kapillyarlarga yopishganda nima buziladi?",
+      "c": "Mikrotsirkulyatsiya",
+      "w": [
+        "Gipnozoit hosil bo'lishi",
+        "Ekzoeritrositar shizogoniya",
+        "Merozoit chiqishi",
+        "Dori qarshiligi"
+      ],
+      "x": "«Yetilgan shakllar kapillyarlar devoriga yopishib, mikrotsirkulyatsiyani buzadi»"
+    },
+    {
+      "q": "Miya kapillyarlarida parazitlarning yopishishi qanday belgilarga olib keladi?",
+      "c": "Ong buzilishi va tutqanoqqa",
+      "w": [
+        "Buyrak yetishmovchiligi va o'pka shishiga",
+        "Kamqonlik va holsizlikka",
+        "Gipoglikemiya va nafas buzilishiga",
+        "Qon ketishi va o'pka shishiga"
+      ],
+      "x": "«Miya kapillyarlarida bunday yopishish og'ir nevrologik belgilarga, masalan ong buzilishi va tutqanoqqa olib keladi»"
+    },
+    {
+      "q": "Tropik bezgakda gipoglikemiya nima sababdan ayniqsa xavfli?",
+      "c": "Parazit glyukoza iste'molini oshiradi",
+      "w": [
+        "Parazit glyukoza iste'molini kamaytiradi",
+        "Parazit kislorod iste'molini oshiradi",
+        "Parazit glyukoza yuborilishini to'xtatadi",
+        "Parazit elektrolitlar balansini tiklaydi"
+      ],
+      "x": "«Gipoglikemiya tropik bezgakda ayniqsa xavfli, chunki parazit glyukoza iste'molini oshiradi va bemor ongini yo'qotishi mumkin»"
+    },
+    {
+      "q": "Qon surtmasi natijasi kutilayotgan davrda tropik bezgak shubhasi bor bemorga nima qilinadi?",
+      "c": "Davolash boshlanishi shart",
+      "w": [
+        "Davolash natijadan keyin boshlanishi shart",
+        "Bemor uyiga qaytarilishi shart",
+        "Suyuqlik balansi tiklanishi shart",
+        "Parazit yuklamasi kamayishi shart"
+      ],
+      "x": "«Natija kutish davrida bemorga davolash boshlanishi shart, chunki kechikish o'limga olib kelishi mumkin»"
+    },
+    {
+      "q": "P. falciparum ayrim hududlarda qaysi dorilarga qarshilik ko'rsatgan?",
+      "c": "Xloroxinga",
+      "w": [
+        "Artemizininga",
+        "Glyukozaga",
+        "Parenteral davolashga",
+        "Gipoglikemiyaga"
+      ],
+      "x": "«P. falciparum ayrim hududlarda xloroxinga qarshilik ko'rsatgan»"
+    },
+    {
+      "q": "Artemizinin asosidagi kombinatsiyalar ko'pchilik hududlarda qanday hisoblanadi?",
+      "c": "Birinchi tanlov",
+      "w": [
+        "Shoshilinch yordam",
+        "Nazorat mezoni",
+        "Qarshilik ko'rsatgan dori",
+        "Parenteral davolash"
+      ],
+      "x": "«Artemizinin asosidagi kombinatsiyalar ko'pchilik hududlarda birinchi tanlov hisoblanadi»"
+    }
+  ],
+  "023": [
+    {
+      "q": "Prazikvantel qo'llashdan oldin bemorda nima aniqlanadi?",
+      "c": "Ichak tutilishi yoki boshqa og'ir holat borligi",
+      "w": [
+        "Najas bilan chiqadigan lenta bo'laklari",
+        "Mol go'shti iste'mol qilish miqdori",
+        "Hududiy statistikadagi holatlar soni",
+        "Oila a'zolarining gigiyena odatlari"
+      ],
+      "x": "«Davolashdan oldin bemorda ichak tutilishi yoki boshqa og'ir holat borligi aniqlanadi, chunki bunday holatlarda davolash alohida rejalashtiriladi»"
+    },
+    {
+      "q": "Lenta gijjasini davolash paytida bemorga qanday ovqatlanish tavsiya etiladi?",
+      "c": "Yengil ovqatlanish",
+      "w": [
+        "Mol go'shtini ko'p iste'mol qilish",
+        "Chala pishirilgan go'sht iste'mol qilish",
+        "Muzlatilgan go'sht iste'mol qilish",
+        "Dori bilan birga ovqatlanish"
+      ],
+      "x": "«Lenta gijjasini davolash paytida bemorga yengil ovqatlanish tavsiya etiladi»"
+    },
+    {
+      "q": "Najasni ehtiyotkorlik bilan yo'q qilish va qo'lni sovun bilan yuvish natijasida nimaning oldi olinadi?",
+      "c": "Tuxumlarning boshqa a'zolarga tarqalishi",
+      "w": [
+        "Dori najas bilan chiqishi",
+        "Mol go'shtidagi finnalarning ko'payishi",
+        "Najas tekshiruvining manfiy bo'lishi",
+        "Isitma va qorin og'rig'ining paydo bo'lishi"
+      ],
+      "x": "«Bemorga najasni ehtiyotkorlik bilan yo'q qilish va hojatxonadan keyin qo'lni sovun bilan yuvish tushuntiriladi, shunda tuxumlar boshqa a'zolarga tarqalmaydi»"
+    },
+    {
+      "q": "Davolanishdan keyin qaysi belgilar paydo bo'lsa, shifokorni xabardor qilish kerak?",
+      "c": "Isitma, qorin og'rig'i, ko'ngil aynishi yoki allergik toshma",
+      "w": [
+        "Yengil ovqatlanish, qo'lni yuvish va najasni yo'q qilish",
+        "Bo'g'imlar va tuxumlar najas tekshiruvida topilishi",
+        "Mol go'shti, finnalar va sigirlarni tekshirish",
+        "Homiladorlik, qo'shma kasalliklar va bolalik yoshi"
+      ],
+      "x": "«Bemor davolanishdan keyin isitma, qorin og'rig'i, ko'ngil aynishi yoki allergik toshma kabi belgilar paydo bo'lsa, bu haqida shifokorni xabardor qilishi kerak»"
+    },
+    {
+      "q": "Oilada yashovchi boshqa a'zolarni tekshirish nima sababdan zarur?",
+      "c": "Oilaviy ovqatlanish va uy sharoiti yuqish xavfini oshirishi mumkin",
+      "w": [
+        "Bemor uyidagi mol go'shti yetarlicha pishirilmaydi",
+        "Oila a'zolari davolanishdan keyin ham najasni ifloslantiradi",
+        "Bemor kartasi hududiy statistikaga kiritiladi",
+        "Homilador a'zolarda dori tanlovi alohida baholanadi"
+      ],
+      "x": "«Oilada yashovchi boshqa a'zolar ham tekshirilishi kerak, chunki oilaviy ovqatlanish va uy sharoiti yuqish xavfini oshirishi mumkin»"
+    },
+    {
+      "q": "Davolash rejasi tuzilganda qaysi holatlar hisobga olinadi?",
+      "c": "Umumiy holat, qo'shma kasalliklar va homiladorlik",
+      "w": [
+        "Umumiy holat, hududiy statistika va bemor kartasi",
+        "Qo'shma kasalliklar, mol go'shti sotuvi va veterinariya nazorati",
+        "Homiladorlik, najas tekshiruvi va oilaviy ovqatlanish",
+        "Bemor kartasi, sertifikatlash va hududiy statistika"
+      ],
+      "x": "«Davolash rejasi bemorning umumiy holati, qo'shma kasalliklari va homiladorlik kabi holatlarni hisobga olgan holda tuziladi»"
+    },
+    {
+      "q": "Davolanmagan bemor hududda nimaning manbai bo'lib qoladi?",
+      "c": "Atrofdagilarni ifloslantiruvchi tuxumlar",
+      "w": [
+        "Veterinariya nazorati qoidalari",
+        "Mol go'shtidagi finnalar",
+        "Oilaviy nazorat rejasi",
+        "Hududiy statistika ma'lumotlari"
+      ],
+      "x": "«Davolanmagan bemor atrofdagilarni ifloslantiruvchi tuxumlar manbai bo'lib qoladi, bu esa tuproq va suv orqali tarqalish xavfini oshiradi»"
+    },
+    {
+      "q": "Davolashdan keyingi najas tekshiruvi ijobiy bo'lsa, bu nimani bildiradi?",
+      "c": "Gijja to'liq yo'qotilmaganini yoki qayta yuqqanini",
+      "w": [
+        "Gijja to'liq yo'qotilganini va qayta yuqmaganini",
+        "Dori qabul qilinmaganini yoki ortiqcha dozalanganini",
+        "Bemor kuzatuvdan chiqarilishi mumkinligini",
+        "Mol go'shti yaxshi pishirilganini"
+      ],
+      "x": "«Davolashdan keyingi najas tekshiruvi natijasi ijobiy bo'lsa, bu gijja to'liq yo'qotilmaganini yoki qayta yuqqanini bildiradi»"
+    },
+    {
+      "q": "Go'sht ichidagi lenta gijjasi lichinkalari (finnalar) qachon inson ichagida rivojlanadi?",
+      "c": "Issiqlik bilan ishlov berilmaganda",
+      "w": [
+        "Issiqlik bilan to'liq ishlov berilganda",
+        "Veterinariya nazorati o'tkazilganda",
+        "Go'sht sertifikatlanganda",
+        "Go'sht ichki qismigacha pishganda"
+      ],
+      "x": "«ular issiqlik bilan ishlov berilmaganda inson ichagida rivojlanadi»"
+    },
+    {
+      "q": "Veterinariya nazorati nimalarni o'z ichiga oladi?",
+      "c": "Sigirlarni tekshirish va go'shtni sertifikatlash",
+      "w": [
+        "Bemorni davolash va najas tekshirish",
+        "Najasni yo'q qilish va qo'l yuvish",
+        "Oila a'zolarini tekshirish va dori belgilash",
+        "Hududiy statistikaga kiritish, xabar qilish va hisobot"
+      ],
+      "x": "«Veterinariya nazorati sigirlarni tekshirishni, go'shtni sertifikatlashni va sotuvni tartibga solishni o'z ichiga oladi»"
+    }
+  ],
+  "024": [
+    {
+      "q": "Xo'kiz tizmasi (Taenia saginata) oxirgi xo'jayini kim?",
+      "c": "Odam",
+      "w": [
+        "Sigir",
+        "Finna",
+        "Chorva",
+        "Mushak"
+      ],
+      "x": "«Xo'kiz tizmasi uchun bu odam hisoblanadi, chunki gijja aynan odam ichagida voyaga yetadi»"
+    },
+    {
+      "q": "Xo'kiz tizmasi hayot siklida oraliq xo'jayin kim?",
+      "c": "Sigir",
+      "w": [
+        "Odam",
+        "Chorvador",
+        "Finna",
+        "Bemor"
+      ],
+      "x": "«uning hayot siklida ikki xo'jayin ishtirok etadi: oraliq xo'jayin sigir va oxirgi xo'jayin odam»"
+    },
+    {
+      "q": "Oxirgi xo'jayin qanday organizm hisoblanadi?",
+      "c": "Gijja voyaga yetgan, jinsiy ko'payadigan organizm",
+      "w": [
+        "Gijja lichinka bosqichida bo'ladigan organizm",
+        "Gijja mushaklarda joylashadigan organizm",
+        "Gijja tuxumdan chiqmaydigan organizm",
+        "Gijja faqat finna hosil qiladigan organizm"
+      ],
+      "x": "«Oxirgi xo'jayin — gijja voyaga yetgan, jinsiy ko'payadigan organizm»"
+    },
+    {
+      "q": "Sigirda gijja qaysi bosqichda bo'ladi va qayerda joylashadi?",
+      "c": "Finna bosqichida, mushaklarda",
+      "w": [
+        "Voyaga yetgan shaklda, ichakda",
+        "Tuxum bosqichida, ichakda",
+        "Finna bosqichida, ichakda",
+        "Voyaga yetgan shaklda, mushaklarda"
+      ],
+      "x": "«Oraliq xo'jayin — sigir, unda gijja lichinka (finna) bosqichida bo'ladi va mushaklarda joylashadi»"
+    },
+    {
+      "q": "Odam T. saginata uchun nimaning xo'jayini hisoblanadi?",
+      "c": "Faqat voyaga yetgan gijjaning",
+      "w": [
+        "Finnaning",
+        "Lichinkaning va tuxumning",
+        "Oraliq bosqichning",
+        "Mushaklardagi lichinkaning"
+      ],
+      "x": "«Odam oraliq xo'jayin bo'la olmaydi, chunki T. saginata uchun odam faqat voyaga yetgan gijjaning xo'jayini hisoblanadi»"
+    },
+    {
+      "q": "Odamda xo'kiz tizmasining mavjudligi nima bilan tasdiqlanadi?",
+      "c": "Najasda bo'g'imlar yoki tuxumlar topilishi",
+      "w": [
+        "Najasda finnalar topilishi",
+        "Mushaklarda lichinkalar topilishi",
+        "Sigir mushaklarida finna topilishi",
+        "Ichak devorida yallig'lanish topilishi"
+      ],
+      "x": "«Odamda gijjaning mavjudligi najasda bo'g'imlar yoki tuxumlar topilishi bilan tasdiqlanadi»"
+    },
+    {
+      "q": "Voyaga yetgan lenta gijjasi odam ichagining qaysi qismida yashaydi?",
+      "c": "Ingichka ichakning jejunum va ileum qismida",
+      "w": [
+        "Ichak devorining mushak qavatida",
+        "Ingichka ichakning ichak devori ostida",
+        "Ichakning bo'g'imlar joylashgan qismida",
+        "Ichakning oziq muhitdan tashqarisida"
+      ],
+      "x": "«Voyaga yetgan lenta gijjasi odamning ingichka ichagida, asosan jejunum va ileum qismida yashaydi»"
+    },
+    {
+      "q": "Gijja ichak devoriga qaysi qismi bilan mahkam yopishadi?",
+      "c": "Boshi",
+      "w": [
+        "Bo'g'imlari",
+        "Tuxumi",
+        "Finnasi",
+        "Zanjiri"
+      ],
+      "x": "«Gijja boshi bilan ichak devoriga mahkam yopishadi, bo'g'imlari esa uzun zanjir shaklida cho'ziladi»"
+    },
+    {
+      "q": "Odam oxirgi xo'jayin bo'lgani uchun qaysi manbaga aylanadi?",
+      "c": "Tuxum tarqatuvchi asosiy manbaga",
+      "w": [
+        "Finna tarqatuvchi asosiy manbaga",
+        "Lichinka tarqatuvchi oraliq manbaga",
+        "Sigirni zararlovchi oraliq manbaga",
+        "Bo'g'im yutuvchi asosiy manbaga"
+      ],
+      "x": "«Odam oxirgi xo'jayin bo'lgani uchun, u tuxum tarqatuvchi asosiy manbaga aylanadi»"
+    },
+    {
+      "q": "Davolashdan keyin bemorning najasi qanday oraliqda tekshiriladi?",
+      "c": "Bir necha hafta oraliqda",
+      "w": [
+        "Bir necha soat oraliqda",
+        "Bir necha yil oraliqda",
+        "Bir necha daqiqa oraliqda",
+        "Bir necha oy oraliqda"
+      ],
+      "x": "«Davolashdan keyin bemorning najasi bir necha hafta oraliqda tekshiriladi»"
+    }
+  ],
+  "025": [
+    {
+      "q": "Asoratlanmagan uch kunlik bezgakni davolash ketma-ketligi qaysi bosqichlardan iborat?",
+      "c": "Qon bosqichini tugatish va jigardagi gipnozoitlarni yo'q qilish",
+      "w": [
+        "Jigardagi gipnozoitlarni yo'q qilish va qon bosqichini tugatish",
+        "Qon bosqichini tugatish va chivinlarni yo'q qilish",
+        "Jigardagi gipnozoitlarni saqlash va qon bosqichini tugatish",
+        "Qon bosqichini kuzatish va dorilarni to'xtatish"
+      ],
+      "x": "«Asoratlanmagan uch kunlik bezgak (P. vivax) davolash ketma-ketligi ikki bosqichdan iborat: qon bosqichini tugatish va jigardagi gipnozoitlarni yo'q qilish»"
+    },
+    {
+      "q": "Birinchi bosqichda qon bosqichini davolash uchun qaysi preparatlar beriladi?",
+      "c": "Xlorokin yoki gidroksixlorokin",
+      "w": [
+        "Primakin yoki tafenokin",
+        "Artemizinin yoki primakin",
+        "Tafenokin yoki artemizinin",
+        "Primakin va G6PD"
+      ],
+      "x": "«Birinchi bosqichda qondagi parazitlarni tez yo'q qilish uchun xlorokin yoki gidroksixlorokin beriladi»"
+    },
+    {
+      "q": "Ikkinchi bosqichda jigardagi gipnozoitlarni yo'q qilish uchun qaysi preparat beriladi?",
+      "c": "Primakin",
+      "w": [
+        "Xlorokin",
+        "Gidroksixlorokin",
+        "Artemizinin",
+        "G6PD fermenti"
+      ],
+      "x": "«Ikkinchi bosqichda jigardagi gipnozoitlarni yo'q qilish uchun primakin beriladi»"
+    },
+    {
+      "q": "Isitma pasaysa ham, nima uchun ikkinchi bosqich zarur?",
+      "c": "Isitma pasayishi gipnozoitlar yo'qotilganini anglatmaydi",
+      "w": [
+        "Isitma pasayishi xlorokin ta'sirini kamaytiradi",
+        "Isitma pasayishi G6PD faolligini oshiradi",
+        "Isitma pasayishi qon bosqichini tugatadi",
+        "Isitma pasayishi primakin dozasini oshiradi"
+      ],
+      "x": "«Davolash boshlanishi bilan bemorning isitmasi tez pasayadi, lekin bu gipnozoitlar yo'qotilganini anglatmaydi, shuning uchun ikkinchi bosqich zarur»"
+    },
+    {
+      "q": "Primakin odatda necha kun davomida qo'llaniladi?",
+      "c": "14 kun davomida",
+      "w": [
+        "3 kun davomida",
+        "28 kun davomida",
+        "6 kun davomida",
+        "90 kun davomida"
+      ],
+      "x": "«Preparat odatda 14 kun davomida, bemor vazniga qarab hisoblangan dozada qo'llaniladi»"
+    },
+    {
+      "q": "Xlorokin bilan davolash odatda necha kun davom etadi?",
+      "c": "Uch kun",
+      "w": [
+        "Bir kun",
+        "Ikki kun",
+        "Haftalik sxema",
+        "14 kun"
+      ],
+      "x": "«xlorokin bilan davolash odatda uch kun davom etadi»"
+    },
+    {
+      "q": "Primakin qo'llashdan oldin nima tekshiriladi?",
+      "c": "G6PD fermenti faolligi",
+      "w": [
+        "Xlorokin fermenti faolligi",
+        "Gipnozoit fermenti faolligi",
+        "Qon bosqichi fermenti faolligi",
+        "Jigar fermenti faolligi"
+      ],
+      "x": "«Primakin qo'llashdan oldin G6PD fermenti faolligi tekshiriladi, chunki bu fermentning yetishmovchiligi gemoliz xavfini oshiradi»"
+    },
+    {
+      "q": "Dori ketma-ketligi buzilsa, nima bo'lishi mumkin?",
+      "c": "Kasallik qayta tiklanishi yoki residiv paydo bo'lishi",
+      "w": [
+        "Xlorokin ta'siri kuchayishi yoki isitma pasayishi",
+        "G6PD faolligi pasayishi yoki gemoliz kamayishi",
+        "Gipnozoitlar yo'qotilishi yoki kasallik tugashi",
+        "Primakin kursi qisqarishi yoki dori almashishi"
+      ],
+      "x": "«Agar birinchi bosqich bajarilmasa yoki primakin muddatidan oldin to'xtatilsa, kasallik qayta tiklanishi yoki residiv paydo bo'lishi mumkin»"
+    },
+    {
+      "q": "Artemizinin asosidagi kombinatsiyalar bilan birga qaysi preparat qabul qilinmaydi?",
+      "c": "Tafenokin",
+      "w": [
+        "Xlorokin",
+        "Primakin",
+        "Gidroksixlorokin",
+        "Artemizinin"
+      ],
+      "x": "«Artemizinin asosidagi kombinatsiyalar bilan birgalikda tafenokin qabul qilinmaydi, chunki bu holatda samaradorlik va xavfsizlik pasayishi mumkin»"
+    },
+    {
+      "q": "Radikal davolash muddati nimaga bog'liq?",
+      "c": "G6PD natijasiga",
+      "w": [
+        "Isitma pasayishiga",
+        "Bemor vazniga",
+        "Qon bosqichi davomiyligiga",
+        "Bemor ish rejasiga"
+      ],
+      "x": "«Radikal davolash muddati G6PD natijasiga bog'liq bo'lib, natija kechiksa, davolash boshlanishi ham kechikishi mumkin»"
+    }
+  ]
+}

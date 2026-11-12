@@ -1,0 +1,114 @@
+{
+ "121": [
+  {
+   "q": "Qonda parazitni yillab saqlab qolishi bilan qaysi bezgak turi xarakterlanadi?",
+   "c": "To'rt kunlik bezgak (P. malariae)",
+   "w": [
+    "Uch kunlik bezgak (P. vivax)",
+    "To'rt kunlik bezgak (P. vivax)",
+    "Uch kunlik bezgak (P. ovale)",
+    "To'rt kunlik bezgak (P. ovale)"
+   ],
+   "x": "«Ayniqsa to'rt kunlik bezgak (P. malariae) qonda parazitni yillab saqlab qolishi»"
+  },
+  {
+   "q": "P. malariae infeksiyasi qanday parazit yuklamasi bilan kechadi?",
+   "c": "Past parazit yuklamasi",
+   "w": [
+    "Yashirin parazit yuklamasi",
+    "Sezgir parazit yuklamasi",
+    "Qonda parazit yuklamasi",
+    "Jigar parazit yuklamasi"
+   ],
+   "x": "«P. malariae infeksiyasi past parazit yuklamasi bilan kechadi»"
+  },
+  {
+   "q": "P. vivax va P. ovale jigarda nimani saqlashi mumkin?",
+   "c": "Gipnozoit",
+   "w": [
+    "Shizont",
+    "Merozoit",
+    "Komplekslar",
+    "Cho'kma"
+   ],
+   "x": "«P. vivax va P. ovale jigarda gipnozoit saqlashi mumkin»"
+  },
+  {
+   "q": "Uzoq davom etgan P. malariae infeksiyasi qaysi asorat bilan bog'liq bo'ladi?",
+   "c": "Nefrotik sindrom kabi immunokompleks asoratlar",
+   "w": [
+    "Nefrotik sindrom kabi bakterial asoratlar",
+    "Jigar sindromi kabi immunokompleks asoratlar",
+    "Nefrotik sindrom kabi residiv asoratlar",
+    "Nefrotik sindrom kabi tashxis asoratlar"
+   ],
+   "x": "«Uzoq davom etgan infeksiya ba'zan nefrotik sindrom kabi immunokompleks asoratlar bilan bog'liq bo'ladi»"
+  },
+  {
+   "q": "Buyrakda immun komplekslar yig'ilishi nimalarga olib keladi?",
+   "c": "Shishlar va siydikda oqsil chiqishiga",
+   "w": [
+    "Shishlar va qonda oqsil chiqishiga",
+    "Isitma va siydikda oqsil chiqishiga",
+    "Shishlar va siydikda parazit chiqishiga",
+    "Kamqonlik va qonda oqsil chiqishiga"
+   ],
+   "x": "«cho'kmalar hosil qilib, shishlar va siydikda oqsil chiqishiga olib keladi»"
+  },
+  {
+   "q": "P. malariae uchun isitma xuruji qancha takrorlanadi?",
+   "c": "Har to'rt kunda bir marta",
+   "w": [
+    "Har uch kunda bir marta",
+    "Har ikki kunda bir marta",
+    "Har to'rt kunda ikki marta",
+    "Har kuni bir marta"
+   ],
+   "x": "«P. malariae uchun isitma xuruji har to'rt kunda bir marta takrorlanadi»"
+  },
+  {
+   "q": "P. malariae ning qon bosqichi xloroxinga nisbatan qanday?",
+   "c": "Sezgir bo'ladi",
+   "w": [
+    "Qarshilik bo'ladi",
+    "Residiv bo'ladi",
+    "Yashirin bo'ladi",
+    "Past bo'ladi"
+   ],
+   "x": "«P. malariae infeksiyasi xloroxin bilan yaxshi davolanadi, chunki uning qon bosqichi xloroxinga sezgir»"
+  },
+  {
+   "q": "Uzoq muddatli kuzatuvda qaysi ko'rsatkichlar muntazam baholanadi?",
+   "c": "Buyrak funksiyasi va siydik tahlili",
+   "w": [
+    "Jigar funksiyasi va siydik tahlili",
+    "Buyrak funksiyasi va qon tahlili",
+    "Buyrak funksiyasi va parazit tahlili",
+    "Isitma funksiyasi va siydik tahlili"
+   ],
+   "x": "«Uzoq muddatli kuzatuvda buyrak funksiyasi va siydik tahlili muntazam baholanadi»"
+  },
+  {
+   "q": "Yashirin P. malariae infeksiyasi bo'lgan bemorlarning qon topshirishi qanday bo'ladi?",
+   "c": "Cheklanadi",
+   "w": [
+    "Davom etadi",
+    "Nazorat qilinadi",
+    "Tavsiya etiladi",
+    "Beriladi"
+   ],
+   "x": "«bunday bemorlarning qon topshirishi cheklanadi»"
+  },
+  {
+   "q": "Bolalarda uzoq davom etgan P. malariae infeksiyasi nimaga ta'sir qilishi mumkin?",
+   "c": "O'sish va rivojlanishga salbiy ta'sir qiladi",
+   "w": [
+    "O'sish va rivojlanishga ijobiy ta'sir qiladi",
+    "O'sish va rivojlanishga ta'sir qilmaydi",
+    "Faqat ruhiy holatga salbiy ta'sir qiladi",
+    "Siydik tarkibiga salbiy ta'sir qiladi"
+   ],
+   "x": "«Bolalarda uzoq davom etgan infeksiya o'sish va rivojlanishga salbiy ta'sir qilishi mumkin»"
+  }
+ ]
+}

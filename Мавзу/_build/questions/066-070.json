@@ -1,0 +1,562 @@
+{
+ "066": [
+  {
+   "q": "Tropik bezgakda dispanser kuzatuvi uch kunlik bezgakdan nimasi bilan farq qiladi?",
+   "c": "Jigarda gipnozoit bo'lmaydi va residiv kuzatilmaydi",
+   "w": [
+    "Jigarda gipnozoit bo'ladi va residiv kuzatiladi",
+    "Jigarda gipnozoit bo'lmaydi va residiv kuzatiladi",
+    "Jigarda gipnozoit bo'ladi va residiv kuzatilmaydi",
+    "Jigarda gipnozoit bo'lmaydi va residiv ko'proq uchraydi"
+   ],
+   "x": "«bu turda jigarda gipnozoit bo'lmaydi va residiv odatda kuzatilmaydi»"
+  },
+  {
+   "q": "Davolash tugagandan keyin bemorning qonida nima bir necha marta tekshiriladi?",
+   "c": "Parazit yo'qligi",
+   "w": [
+    "Dori yo'qligi",
+    "Gemoglobin yo'qligi",
+    "Trombotsitlar yo'qligi",
+    "Buyrak yo'qligi"
+   ],
+   "x": "«Davolash tugagandan keyin bemorning qonida parazit yo'qligi bir necha marta tekshiriladi»"
+  },
+  {
+   "q": "Og'ir tropik bezgakdan keyin ba'zi bemorlarda qanday asoratlar qolishi mumkin?",
+   "c": "Anemiya, buyrak funksiyasi pasayishi yoki nevrologik o'zgarishlar",
+   "w": [
+    "Anemiya, jigar funksiyasi oshishi yoki nevrologik tiklanish",
+    "Buyrak funksiyasi oshishi yoki qon bosimi tiklanishi",
+    "Qon ko'rsatkichlari yaxshilanishi yoki nevrologik tiklanish",
+    "Trombotsitlar oshishi yoki jigar tiklanishi"
+   ],
+   "x": "«ba'zi bemorlarda anemiya, buyrak funksiyasining pasayishi yoki nevrologik o'zgarishlar qolishi mumkin»"
+  },
+  {
+   "q": "Kuzatuv davrida parazit qayta paydo bo'lsa, nima tekshiriladi?",
+   "c": "Yangi infeksiya yoki davolanmagan qoldiq ehtimoli",
+   "w": [
+    "Yangi infeksiya yoki davolangan qoldiq ehtimoli",
+    "Yangi infeksiya yoki davolash natijasi ehtimoli",
+    "Yangi dori yoki davolanmagan laboratoriya ehtimoli",
+    "Yangi kasallik yoki davolanmagan oilaviy ehtimoli"
+   ],
+   "x": "«Agar parazit qayta paydo bo'lsa, yangi infeksiya yoki davolanmagan qoldiq ehtimoli tekshiriladi»"
+  },
+  {
+   "q": "Dispanser kuzatuvi qaysi xizmatlar hamkorligida olib boriladi?",
+   "c": "Oilaviy shifokor, laboratoriya va sanitariya-epidemiologiya xizmati",
+   "w": [
+    "Oilaviy shifokor, maktab va sanitariya-epidemiologiya xizmati",
+    "Laboratoriya, mahalla va sanitariya-epidemiologiya xizmati",
+    "Oilaviy shifokor, hokimiyat va reabilitatsiya xizmati",
+    "Mahalla, laboratoriya va psixologik xizmat"
+   ],
+   "x": "«Kuzatuv oilaviy shifokor, laboratoriya va sanitariya-epidemiologiya xizmati hamkorligida olib boriladi»"
+  },
+  {
+   "q": "Davolashdan keyin qon surtmasi tekshiruvi tez-tez takrorlanishi nimani aniqlashga xizmat qiladi?",
+   "c": "Parazitlarning qaytishi yoki davolashning to'liq samara bermaganligini",
+   "w": [
+    "Gemoglobin pasayishi yoki davolashning to'liq samara bermaganligini",
+    "Parazitlarning qaytishi yoki jigar funksiyasining pasayishini",
+    "Buyrak funksiyasining pasayishi yoki gemoglobin tiklanishini",
+    "Parazitlarning qaytishi yoki bemorning oilaviy sharoitini"
+   ],
+   "x": "«parazitlarning qaytishi yoki davolashning to'liq samara bermaganligi tekshiriladi»"
+  },
+  {
+   "q": "Tropik bezgak miya, buyrak yoki o'pkani zararlagan bo'lsa, kuzatuv qanday bo'ladi?",
+   "c": "Uzoqroq davom etadi",
+   "w": [
+    "Tezroq tugallanadi",
+    "Erta chiqariladi",
+    "Muntazam tugatiladi",
+    "Dastlabki kunlarda tugatiladi"
+   ],
+   "x": "«kuzatuv uzoqroq davom etadi»"
+  },
+  {
+   "q": "Kuzatuv davrida chivin chaqishidan himoya bo'yicha qanday maslahat beriladi?",
+   "c": "To'rli karavot va repellentlar bo'yicha",
+   "w": [
+    "To'rli karavot va dori zaxirasi bo'yicha",
+    "Repellentlar va qon tekshiruvi bo'yicha",
+    "Endemik hududga qaytish bo'yicha",
+    "Psixologik qo'llab-quvvatlash bo'yicha"
+   ],
+   "x": "«kuzatuv davrida chivin chaqishidan himoya, to'rli karavot va repellentlar bo'yicha maslahat beriladi»"
+  },
+  {
+   "q": "Dispanser hisobidan chiqarish qachon amalga oshiriladi?",
+   "c": "Barcha ko'rsatkichlar me'yorga kelgandan keyin",
+   "w": [
+    "Birinchi tekshiruvdan keyin",
+    "Davolash tugagandan keyin",
+    "Faqat bemor talab qilganda",
+    "Dastlabki ko'rsatkichlar me'yorga kelgandan keyin"
+   ],
+   "x": "«Dispanser hisobidan chiqarish faqat barcha ko'rsatkichlar me'yorga kelgandan keyin amalga oshiriladi»"
+  },
+  {
+   "q": "Dispanser kuzatuv kartasida qaysi ma'lumotlar yoziladi?",
+   "c": "Tekshiruv sanasi, qon natijasi, dori qabul qilish va nojo'ya ta'sirlar",
+   "w": [
+    "Tekshiruv sanasi, oila daromadi, dori qabul qilish va nojo'ya ta'sirlar",
+    "Qon natijasi, ish joyi, chivin soni va nojo'ya ta'sirlar",
+    "Tekshiruv sanasi, hudud statistikasi va ruhiy holat",
+    "Dori zaxirasi, qon natijasi va hudud kartasi"
+   ],
+   "x": "«dispanser kuzatuv kartasida har bir tekshiruv sanasi, qon natijasi, dori qabul qilish va nojo'ya ta'sirlar yoziladi»"
+  }
+ ],
+ "067": [
+  {
+   "q": "Voyaga yetgan askarida ichakda bir necha oy yashab, bu davrda nima qiladi?",
+   "c": "Tuxum qo'yadi",
+   "w": [
+    "Tuproqda yetiladi",
+    "Ichak shirasini chiqaradi",
+    "O'pkaga qaytib boradi",
+    "Oraliq xo'jayinda yashaydi"
+   ],
+   "x": "«Voyaga yetgan gijja ichakda bir necha oy yashaydi va bu davr davomida tuxum qo'yadi»"
+  },
+  {
+   "q": "Ko'p hollarda askaridozda qanday davolash yetarli bo'ladi?",
+   "c": "Bir martalik davolash",
+   "w": [
+    "Uzoq muddatli davolash",
+    "Shoshilinch davolash",
+    "Jamoaviy davolash",
+    "Oilaviy davolash"
+   ],
+   "x": "«Ko'p hollarda bir martalik davolash yetarli bo'ladi»"
+  },
+  {
+   "q": "Odam askarida tuxumlarini qaysi yo'l bilan yutadi?",
+   "c": "Og'iz orqali",
+   "w": [
+    "Qon orqali",
+    "Ichak orqali",
+    "Kontaktlar orqali",
+    "Oraliq xo'jayin orqali"
+   ],
+   "x": "«Odam tuxumlarni og'iz orqali yutganda»"
+  },
+  {
+   "q": "Askaridoz zanjirini uzishning eng samarali usuli qaysi?",
+   "c": "Oilaviy va jamoaviy kontaktlarni tekshirish va davolash",
+   "w": [
+    "Oilaviy va jamoaviy gigiyena qoidalariga rioya qilish",
+    "Faqat bemorning ovqatlanish dasturini tuzish",
+    "Shifokor va diyetolog bilan ovqatlanishni tashkil qilish",
+    "Gijjalar sonini hisoblash va natijani baholash"
+   ],
+   "x": "«Oilaviy va jamoaviy kontaktlarni tekshirish hamda ularni davolash zanjirni uzishning eng samarali usuli hisoblanadi»"
+  },
+  {
+   "q": "Askarida ichak oziqlanishiga ta'sir qilsa, bemorda nima bo'lishi mumkin?",
+   "c": "Vazn yo'qotish va holsizlik",
+   "w": [
+    "Allergik reaksiya va tiklanish",
+    "Immun javob va chidamlilik",
+    "Gijja sonining kamayishi va tiklanish",
+    "Tuxum yetilishi va holat yaxshilanishi"
+   ],
+   "x": "«Bu holat bemorda vazn yo'qotish va holsizlikka sabab bo'lishi mumkin»"
+  },
+  {
+   "q": "Gijjalar chigallashib ichak tutilishiga olib kelsa, qanday yordam talab qilinadi?",
+   "c": "Shoshilinch tibbiy yordam",
+   "w": [
+    "Oilaviy tekshiruv va nazorat",
+    "Gigiyena qoidalari targ'iboti",
+    "Ovqatlanish dasturi tavsiyasi",
+    "Jamoaviy nazorat qilish"
+   ],
+   "x": "«Bunday holat shoshilinch tibbiy yordam talab qiladi»"
+  },
+  {
+   "q": "Oxirgi xo'jayin odam bo'lgani uchun kimlar bir xil darajada zararlanadi?",
+   "c": "Bolalar va kattalar",
+   "w": [
+    "Faqat bolalar",
+    "Oila va kattalar",
+    "Bolalar va hamjamiyat",
+    "Kattalar va maktab"
+   ],
+   "x": "«bolalar va kattalar bir xil darajada zararlanadi»"
+  },
+  {
+   "q": "Gijjaning ichki organlarga o'tishi qachon ko'proq kuzatiladi?",
+   "c": "Ichak faoliyati buzilganda yoki gijjalar soni juda ko'p bo'lganda",
+   "w": [
+    "Ichak faoliyati yaxshilanganda yoki gijjalar soni kam bo'lganda",
+    "Davolash tugaganda yoki oqsil ko'p bo'lganda",
+    "Ovqatlanish yaxshilanganda yoki gijjalar kamayganda",
+    "Gigiyena yaxshi bo'lganda yoki gijja yo'q bo'lganda"
+   ],
+   "x": "«Gijjaning ichki organlarga o'tishi ko'pincha bemorning ichak faoliyatini buzilgan holatida yoki gijjalar soni juda ko'p bo'lganda kuzatiladi»"
+  },
+  {
+   "q": "Gijja ichak devorini zararlaganda bolalarda nima kuzatilishi mumkin?",
+   "c": "Vazn yetishmovchiligi va o'sish sekinlashuvi",
+   "w": [
+    "Vazn yetishmovchiligi va ichak tutilishi",
+    "Immun javob va o'sish sekinlashuvi",
+    "Ichak tutilishi va immun javob kuchayishi",
+    "Gijja sonining kamayishi va o'sish tezlashuvi"
+   ],
+   "x": "«Ayniqsa bolalarda bu holat vazn yetishmovchiligi va o'sish sekinlashuviga olib kelishi mumkin»"
+  },
+  {
+   "q": "Gijjalar soni qaysi omillar bilan bog'liq?",
+   "c": "Yosh, ovqatlanish va gigiyena darajasi",
+   "w": [
+    "Yosh, jins va maktab darajasi",
+    "Ovqatlanish, oila va mahalla darajasi",
+    "Jins, vazn va hamjamiyat darajasi",
+    "Maktab, mahalla va kasb darajasi"
+   ],
+   "x": "«Gijjalar soni bemorning yoshi, ovqatlanishi va gigiyena darajasi bilan bog'liq»"
+  }
+ ],
+ "068": [
+  {
+   "q": "Jigar bosqichi tugagach, shizont yorilib qonga nima chiqadi?",
+   "c": "Minglab merozoit",
+   "w": [
+    "Minglab hepatotsit",
+    "Minglab sporozoit",
+    "Bir nechta shizont",
+    "Bir nechta antikoagulyant"
+   ],
+   "x": "«shizont yorilib, minglab merozoit qonga chiqadi»"
+  },
+  {
+   "q": "P. falciparum uchun jigar bosqichi odatda qanday bo'ladi?",
+   "c": "Qisqaroq bo'ladi",
+   "w": [
+    "Juda uzoq davom etadi",
+    "Hali aniqlanmagan",
+    "Faqat odamda bo'ladi",
+    "Chivin ichagida yashaydi"
+   ],
+   "x": "«P. falciparum uchun jigar bosqichi odatda qisqaroq bo'ladi»"
+  },
+  {
+   "q": "Qanday chivinlar ko'proq yuqumli bo'ladi?",
+   "c": "Eski chivinlar",
+   "w": [
+    "Katta chivinlar",
+    "Sog'lom chivinlar",
+    "Erkin chivinlar",
+    "Sust chivinlar"
+   ],
+   "x": "«shuning uchun eski chivinlar ko'proq yuqumli bo'ladi»"
+  },
+  {
+   "q": "Endemik hududlarda yashaydigan aholida bezgakka qarshi tabiiy immunitet qanday shakllanadi?",
+   "c": "Takroriy infeksiyalar natijasida",
+   "w": [
+    "Vaktsina natijasida",
+    "Chivin so'lagi natijasida",
+    "Davolash natijasida",
+    "Jigar bosqichi natijasida"
+   ],
+   "x": "«Bezgakka qarshi tabiiy immunitet asosan endemik hududlarda yashaydigan aholida uzoq vaqt davomida takroriy infeksiyalar natijasida shakllanadi»"
+  },
+  {
+   "q": "Sporozoitlarning ko'pchiligi qachon nobud bo'ladi?",
+   "c": "Jigarga yetmasdan oldin",
+   "w": [
+    "Jigarga yetib borgandan keyin",
+    "Teri ostiga tushgandan keyin",
+    "Chivin chaqqanda",
+    "Jigarda ko'payib bo'lgach"
+   ],
+   "x": "«Sporozoitlarning ko'pchiligi jigarga yetmasdan oldin nobud bo'ladi»"
+  },
+  {
+   "q": "Sporozoitlar jigarga yetib borishi odatda qancha vaqt ichida tugaydi?",
+   "c": "Bir necha soat ichida",
+   "w": [
+    "Bir necha kun ichida",
+    "Bir necha hafta ichida",
+    "Bir necha oy ichida",
+    "Bir necha yil ichida"
+   ],
+   "x": "«Bu bosqich odatda bir necha soat ichida tugaydi»"
+  },
+  {
+   "q": "Sayohatdan qaytgan bemorlarda nima tekshirilishi zarur?",
+   "c": "Har qanday isitma",
+   "w": [
+    "Chaqish belgisi",
+    "Jigar ko'payishi",
+    "Teri qichishishi",
+    "Sporozoit soni"
+   ],
+   "x": "«sayohatdan qaytgan bemorlar uchun har qanday isitma tekshirilishi zarur»"
+  },
+  {
+   "q": "Sporozoitga qarshi vaktsina sohasidagi natijalar hozircha qanday?",
+   "c": "Hali cheklangan",
+   "w": [
+    "Aniq yoritilmagan",
+    "Juda katta",
+    "Hozircha qo'llanilmaydi",
+    "Ishonchli va istiqbolli"
+   ],
+   "x": "«Bu sohadagi natijalar hali cheklangan»"
+  },
+  {
+   "q": "Jigarda sporozoitlar hepatotsitlarga kirish uchun nimadan foydalanadi?",
+   "c": "Maxsus oqsillardan",
+   "w": [
+    "Maxsus hujayralardan",
+    "Maxsus eritrotsitlardan",
+    "Maxsus antikoagulyantlardan",
+    "Maxsus merozoitlardan"
+   ],
+   "x": "«Jigarda ular hepatotsitlarga kirish uchun maxsus oqsillardan foydalanadi»"
+  },
+  {
+   "q": "Guruh bo'lib yashovchi odamlar uchun chivin xavfi nima uchun katta?",
+   "c": "Chivin qonni tezda so'rib, ko'p odamlarni chaqishi mumkin",
+   "w": [
+    "Chivin chaqishi har doim sezilarli bo'ladi",
+    "Chivin so'lagida sporozoit bo'lmaydi",
+    "Chivin qonni tezda so'rib, bir odamni chaqishi mumkin",
+    "Chivin qonni tezda so'rib, jigarga yetib boradi"
+   ],
+   "x": "«Chaqish paytida chivin qonni tezda so'radi va uzoqlashadi, bu esa uning ko'p odamlarni chaqishiga imkon beradi»"
+  }
+ ],
+ "069": [
+  {
+   "q": "Odamning askarida tarqalishidagi javobgarligining asosiy qismi nimalardan iborat?",
+   "c": "Shaxsiy gigiyena, tuxumlarni yo'q qilish va davolanishga rioya qilish",
+   "w": [
+    "Shaxsiy gigiyena, kontaktlarni tekshirish va davolanishga rioya qilish",
+    "Shaxsiy gigiyena, tuxumlarni yo'q qilish va oraliq xo'jayinni davolash",
+    "Oilaviy gigiyena, ovqatlanish dasturi va davolanishga rioya qilish",
+    "Jamoaviy gigiyena, tuxumlarni yo'q qilish va profilaktikaga rioya qilish"
+   ],
+   "x": "«Shaxsiy gigiyena, tuxumlarni yo'q qilish va davolanishga rioya qilish bu javobgarlikning asosiy qismidir»"
+  },
+  {
+   "q": "Bolalarga va oilaga askaridozning yuqish yo'llari tushuntirilsa, ular qaysi mas'uliyatni his qiladi?",
+   "c": "O'z xavfsizligi uchun mas'uliyatni",
+   "w": [
+    "Maktab xavfsizligi uchun mas'uliyatni",
+    "Hamjamiyat xavfsizligi uchun mas'uliyatni",
+    "Mahalla xavfsizligi uchun mas'uliyatni",
+    "Shifokor xavfsizligi uchun mas'uliyatni"
+   ],
+   "x": "«ular o'z xavfsizligi uchun mas'uliyatni his qiladi va profilaktikada faol ishtirok etadi»"
+  },
+  {
+   "q": "Askarida nima uchun ingichka ichakning yuqori qismida yashaydi?",
+   "c": "U yerda oziq moddalar yetarli bo'ladi",
+   "w": [
+    "U yerda oziq moddalar kam bo'ladi",
+    "U yerda immun javob kuchli bo'ladi",
+    "U yerda ichak shirasi bo'lmaydi",
+    "U yerda tuxum yetilmaydi"
+   ],
+   "x": "«Askarida odam ingichka ichagining yuqori qismida yashaydi, u yerda oziq moddalar yetarli bo'ladi»"
+  },
+  {
+   "q": "Odam organizmi askarida infeksiyasiga qanday javob beradi?",
+   "c": "Immun javob bilan javob beradi",
+   "w": [
+    "Allergik javob bilan javob beradi",
+    "Oqsil yetishmovchiligi bilan javob beradi",
+    "Ichak tutilishi bilan javob beradi",
+    "Vazn yo'qotish bilan javob beradi"
+   ],
+   "x": "«Odam organizmi askarida infeksiyasiga immun javob bilan javob beradi»"
+  },
+  {
+   "q": "Askaridozni davolash nimaga qaratilgan?",
+   "c": "Ichakdagi voyaga yetgan gijjalarni yo'q qilishga",
+   "w": [
+    "Ichakdagi lichinkalarni ko'paytirishga",
+    "Tuproqdagi tuxumlarni saqlashga",
+    "Bemorning ovqatlanish dasturini tuzishga",
+    "Oilaviy kontaktlarni tekshirishga"
+   ],
+   "x": "«Davolash odamning ichagidagi voyaga yetgan gijjalarni yo'q qilishga qaratilgan»"
+  },
+  {
+   "q": "Askaridaning ichki organlarga kirib qolishi klinik jihatdan qanday?",
+   "c": "Kam uchraydi, lekin jiddiy",
+   "w": [
+    "Ko'p uchraydi va engil",
+    "Ko'pincha uchraydi va jiddiy",
+    "Kam uchraydi va engil",
+    "Kam uchraydi va xavfsiz"
+   ],
+   "x": "«Bunday holatlar kam uchraydi, lekin klinik jihatdan jiddiy bo'lib, tez aralashuvni talab qiladi»"
+  },
+  {
+   "q": "Oilada bir necha kishi yashasa, askarida tuxumlarining tarqalishi qanday bo'ladi?",
+   "c": "Tezlashadi",
+   "w": [
+    "Sekinlashadi",
+    "Kamayadi",
+    "Saqlanadi",
+    "Yo'qoladi"
+   ],
+   "x": "«Oilada bir necha kishi yashasa, askarida tuxumlarining tarqalishi tezlashadi»"
+  },
+  {
+   "q": "Ovqatlanish holati yaxshilansa, bemor gijja yuklamasiga nisbatan qanday bo'ladi?",
+   "c": "Chidamliroq bo'ladi",
+   "w": [
+    "Og'irroq bo'ladi",
+    "Holsizroq bo'ladi",
+    "Sekinroq bo'ladi",
+    "Kamqonroq bo'ladi"
+   ],
+   "x": "«Ovqatlanish holati yaxshilansa, bemor gijja yuklamasiga nisbatan chidamliroq bo'ladi»"
+  },
+  {
+   "q": "Bolalar uchun ovqatlanish dasturi nimaga mos tuzilishi kerak?",
+   "c": "Yosh va vaznga",
+   "w": [
+    "Yosh va maktabga",
+    "Oila va vaznga",
+    "Oqsil va vaznga",
+    "Yosh va oqsilga"
+   ],
+   "x": "«Bolalar uchun ovqatlanish dasturi yosh va vaznga mos tuzilishi kerak»"
+  },
+  {
+   "q": "Oilaviy tekshiruv va bir vaqtda davolash nimani kamaytiradi?",
+   "c": "Gijjaning qayta paydo bo'lishini",
+   "w": [
+    "Gijjaning yashash muddatini",
+    "Gijjaning ichki organlarga o'tishini",
+    "Gijjaning ichak devorini zararlashini",
+    "Gijjaning sonini hisoblashini"
+   ],
+   "x": "«Oilaviy tekshiruv va bir vaqtda davolash gijjaning qayta paydo bo'lishini kamaytiradi»"
+  }
+ ],
+ "070": [
+  {
+   "q": "Harakat rejasi qaysi vazifalar bajarilishi uchun tuziladi?",
+   "c": "Vaziyatni baholash, resurslarni taqsimlash va choralarni muvofiqlashtirish",
+   "w": [
+    "Vaziyatni baholash, dori zaxirasini taqsimlash va xodimlarni o'qitish",
+    "Resurslarni taqsimlash, hisobotni yakunlash va aholini o'qitish",
+    "Vaziyatni baholash, kasallanishni kamaytirish va hududlarni qamrab olish",
+    "Choralarni muvofiqlashtirish, maqsadlarni belgilash va resurslarni ajratish"
+   ],
+   "x": "«harakat rejasi epidemiologik vaziyatni baholash, resurslarni taqsimlash va nazorat choralarini muvofiqlashtirish uchun tuziladi»"
+  },
+  {
+   "q": "Reja aniq ma'lumotlarga asoslanmasa, u qanday bo'ladi?",
+   "c": "Samarasiz bo'ladi",
+   "w": [
+    "Samarali bo'ladi",
+    "Ishonchli bo'ladi",
+    "Shaffof bo'ladi",
+    "Ochiq bo'ladi"
+   ],
+   "x": "«Reja aniq ma'lumotlarga asoslanmasa, u samarasiz bo'ladi»"
+  },
+  {
+   "q": "Epidemiologik ma'lumotlar qanday kesimda tahlil qilinadi?",
+   "c": "Yillar kesimida",
+   "w": [
+    "Hududiy kesimida",
+    "Mavsumiy kesimida",
+    "Turlari kesimida",
+    "Joylari kesimida"
+   ],
+   "x": "«Ma'lumotlar yillar kesimida tahlil qilinadi»"
+  },
+  {
+   "q": "Reja tuzishda tibbiy muassasalarning qaysi imkoniyatlari hisobga olinadi?",
+   "c": "Tashxis va davolash imkoniyatlari, dori zaxirasi va malakali kadrlar",
+   "w": [
+    "Tashxis imkoniyatlari, hokimiyat zaxirasi va xalqaro kadrlar",
+    "Davolash imkoniyatlari, dori zaxirasi va ilmiy kadrlar",
+    "Tashxis imkoniyatlari, byudjeti zaxirasi va malakali donorlar",
+    "Laboratoriya imkoniyatlari, mablag'lar zaxirasi va xalqaro kadrlar"
+   ],
+   "x": "«Reja tuzishda tibbiy muassasalarning tashxis va davolash imkoniyatlari, dori zaxirasi va malakali kadrlar hisobga olinadi»"
+  },
+  {
+   "q": "Harakat rejasidagi maqsadlar qanday ko'rsatkichlar bilan bog'lanadi?",
+   "c": "O'lchanadigan ko'rsatkichlar",
+   "w": [
+    "Moliyaviy ko'rsatkichlar",
+    "Ilmiy ko'rsatkichlar",
+    "Mavsumiy ko'rsatkichlar",
+    "Ijtimoiy ko'rsatkichlar"
+   ],
+   "x": "«Maqsadlar o'lchanadigan ko'rsatkichlar bilan bog'lanadi»"
+  },
+  {
+   "q": "Reja samaradorligi ma'lumotlari qachon tahlil qilinadi?",
+   "c": "Har chorakda",
+   "w": [
+    "Har yili",
+    "Har mavsumda",
+    "Yillik hisobotda",
+    "Har bosqichda"
+   ],
+   "x": "«Ma'lumotlar har chorakda tahlil qilinib, zarur hollarda reja o'zgartiriladi»"
+  },
+  {
+   "q": "Resurslarni taqsimlashda qaysi hududlar birinchi o'ringa qo'yiladi?",
+   "c": "Eng xavfli hududlar",
+   "w": [
+    "Eng katta hududlar",
+    "Eng sog'lom hududlar",
+    "Eng ochiq hududlar",
+    "Eng cheklangan hududlar"
+   ],
+   "x": "«Resurslarni taqsimlashda eng xavfli hududlar birinchi o'ringa qo'yiladi»"
+  },
+  {
+   "q": "Reja qaysi tarmoqlar hamkorligida tuzilganda samaraliroq bo'ladi?",
+   "c": "Sog'liqni saqlash, ta'lim, veterinariya va mahalliy hokimiyat",
+   "w": [
+    "Sog'liqni saqlash, moliya, transport va mahalliy hokimiyat",
+    "Sog'liqni saqlash, ta'lim, donorlar va xalqaro tashkilotlar",
+    "Ta'lim, veterinariya, maktab va mahalliy donorlar",
+    "Veterinariya, laboratoriya, mahalla va xalqaro donorlar"
+   ],
+   "x": "«Reja sog'liqni saqlash, ta'lim, veterinariya va mahalliy hokimiyat hamkorligida tuzilganda samaraliroq bo'ladi»"
+  },
+  {
+   "q": "Jamoatchilik ishtiroki kimlar orqali ta'minlanadi?",
+   "c": "Mahalla faollari, o'qituvchilar va ota-onalar",
+   "w": [
+    "Mahalla faollari, shifokorlar va donorlar",
+    "Hokimiyat, o'qituvchilar va donorlar",
+    "Epidemiologlar, laborantlar va sanitariya xodimlari",
+    "Veterinarlar, shifokorlar va ota-onalar"
+   ],
+   "x": "«Jamoatchilik ishtiroki mahalla faollari, o'qituvchilar va ota-onalar orqali ta'minlanadi»"
+  },
+  {
+   "q": "Parazitar kasalliklarga qarshi reja qaysi mablag'lar hisobiga moliyalashtiriladi?",
+   "c": "Davlat byudjeti, xalqaro grantlar va hamkor tashkilotlar mablag'lari",
+   "w": [
+    "Davlat byudjeti, xalqaro grantlar va aholi mablag'lari",
+    "Davlat byudjeti, mahalla grantlari va hamkor tashkilotlar mablag'lari",
+    "Mahalla byudjeti, xalqaro donorlar va hamkor tashkilotlar mablag'lari",
+    "Davlat grantlari, ilmiy donorlar va hamkor tashkilotlar mablag'lari"
+   ],
+   "x": "«reja davlat byudjeti, xalqaro grantlar va hamkor tashkilotlar mablag'lari hisobiga moliyalashtiriladi»"
+  }
+ ]
+}

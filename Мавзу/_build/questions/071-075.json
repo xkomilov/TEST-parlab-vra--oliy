@@ -1,0 +1,562 @@
+{
+ "071": [
+  {
+   "q": "ZVL qaysi ichki organlarni zararlaydi?",
+   "c": "Jigar, taloq va suyak iligini",
+   "w": [
+    "Jigar, makrofaglar va suyak iligini",
+    "Taloq, hujayralar va suyak iligini",
+    "Jigar, taloq va qon hujayralarini",
+    "Taloq, jigar va ichki hujayralarni"
+   ],
+   "x": "«ichki organlarni (jigar, taloq, suyak iligi) zararlaydigan og'ir kasallik»"
+  },
+  {
+   "q": "ZVL tashxisi qanday usullar bilan qo'yiladi?",
+   "c": "Punktatda parazitni topish, serologik testlar va molekulyar usullar",
+   "w": [
+    "Punktatda parazitni topish, ovqatlanish tahlili va molekulyar usullar",
+    "Qon tahlili, serologik testlar va epidemiologik usullar",
+    "Punktatda parazitni topish, vazn tahlili va ijobiy usullar",
+    "Isitma tahlili, serologik testlar va molekulyar baholash"
+   ],
+   "x": "«Tashxis suyak iligi yoki taloq punktatida parazitni topish, serologik testlar va molekulyar usullar bilan qo'yiladi»"
+  },
+  {
+   "q": "Pantsitopeniya nima?",
+   "c": "Qon hujayralarining kamayishi",
+   "w": [
+    "Taloq hujayralarining kattalashishi",
+    "Jigar hajmining kattalashishi",
+    "Qon hujayralarining ko'payishi",
+    "Suyak iligining kattalashishi"
+   ],
+   "x": "«pantsitopeniya (qon hujayralarining kamayishi) kuzatiladi»"
+  },
+  {
+   "q": "Bolalarda visseral leyshmanioz qanday kechadi?",
+   "c": "Tezroq rivojlanadi va og'irroq kechishi mumkin",
+   "w": [
+    "Tezroq rivojlanadi va davolash talab qilmaydi",
+    "Sekinroq rivojlanadi va muntazam kechadi",
+    "Kamroq rivojlanadi va qayta paydo bo'ladi",
+    "Tezroq rivojlanadi va qimmat bo'lishi mumkin"
+   ],
+   "x": "«Bolalarda kasallik tezroq rivojlanadi va og'irroq kechishi mumkin»"
+  },
+  {
+   "q": "Visseral leyshmaniozda immun tizimi nimaning faolligini yo'qotadi?",
+   "c": "T-hujayralar",
+   "w": [
+    "Makrofaglar",
+    "Taloq hujayralari",
+    "Suyak iligi hujayralari",
+    "Jigar hujayralari"
+   ],
+   "x": "«immun tizimi T-hujayralar faolligini yo'qotadi»"
+  },
+  {
+   "q": "Davolashdan keyin bemor nima sababdan qayta tekshiriladi?",
+   "c": "Ba'zi hollarda kasallik qayta paydo bo'lishi mumkin",
+   "w": [
+    "Ba'zi hollarda qon hujayralari kamayishi mumkin",
+    "Ba'zi hollarda immun tizimi susayishi mumkin",
+    "Ba'zi hollarda taloq hajmi kattalashishi mumkin",
+    "Ba'zi hollarda isitma boshlanishi mumkin"
+   ],
+   "x": "«Davolashdan keyin bemor qayta tekshiriladi, chunki ba'zi hollarda kasallik qayta paydo bo'lishi mumkin»"
+  },
+  {
+   "q": "Davolanmagan visseral leyshmanioz qanday o'tadi?",
+   "c": "Og'ir shaklda va ko'p hollarda o'lim bilan yakunlanishi mumkin",
+   "w": [
+    "Asosiy belgilarsiz va ko'p hollarda davolash bilan yakunlanishi mumkin",
+    "Og'ir shaklda va ko'p hollarda faqat bolalarda kuzatilishi mumkin",
+    "Og'ir shaklda va ko'p hollarda immun tizimi bilan yakunlanishi mumkin",
+    "Ikkilamchi shaklda va ko'p hollarda o'lim bilan yakunlanmaydi"
+   ],
+   "x": "«Davolanmagan visseral leyshmanioz og'ir shaklda o'tadi va ko'p hollarda o'lim bilan yakunlanishi mumkin»"
+  },
+  {
+   "q": "Og'ir kechayotgan bemorlarda o'lim xavfini qaysi ikkilamchi infeksiyalar oshiradi?",
+   "c": "Pnevmoniya va sepsis",
+   "w": [
+    "Leykopeniya va kamqonlik",
+    "Pantsitopeniya va leykopeniya",
+    "Kamqonlik va isitma",
+    "Taloq va jigar kattalashishi"
+   ],
+   "x": "«Ikkilamchi infeksiyalar, masalan pnevmoniya va sepsis, og'ir kechayotgan bemorlarda o'lim xavfini oshiradi»"
+  },
+  {
+   "q": "Epidemiologik nazoratda qaysi hayvon va hasharot nazorati muhim o'rin tutadi?",
+   "c": "It va qum pashshasi",
+   "w": [
+    "Bolalar va qum pashshasi",
+    "It va hududiy dasturlar",
+    "Oila va qum pashshasi",
+    "It va xayriya tashkilotlari"
+   ],
+   "x": "«Epidemiologik nazoratda it va qum pashshasi nazorati muhim o'rin tutadi»"
+  },
+  {
+   "q": "Bolalar uchun davolash dozasi nimaga qarab aniq hisoblanadi?",
+   "c": "Vazniga qarab",
+   "w": [
+    "Taloq hajmiga qarab",
+    "Qon ko'rsatkichlariga qarab",
+    "Isitma darajasiga qarab",
+    "Immun holatga qarab"
+   ],
+   "x": "«Bolalar uchun davolash dozasi vazniga qarab aniq hisoblanadi»"
+  }
+ ],
+ "072": [
+  {
+   "q": "Ba'zi antigelmintik preparatlar davolashdan keyin najasda nimalar kuzatilishiga sabab bo'lishi mumkin?",
+   "c": "Bo'g'imlar yoki boshlig'ining qoldiqlari",
+   "w": [
+    "Bo'g'imlar yoki lichinkaning qoldiqlari",
+    "Tuxumlar yoki finnaning qoldiqlari",
+    "Ilmoqlar yoki jinsiy organlarning qoldiqlari",
+    "Bo'g'imlar yoki ichakning qoldiqlari"
+   ],
+   "x": "«davolashdan keyin najasda bo'g'imlar yoki boshlig'ining qoldiqlari kuzatilishi mumkin»"
+  },
+  {
+   "q": "Skoleks bo'g'imlar hosil bo'ladigan qaysi qismni o'z ichiga oladi?",
+   "c": "O'sish zonasini",
+   "w": [
+    "Jinsiy organlar zonasini",
+    "Ilmoqlar zonasini",
+    "Shilliq qavat zonasini",
+    "Oziqlanish zonasini"
+   ],
+   "x": "«Skoleks bo'g'imlar hosil bo'ladigan o'sish zonasini ham o'z ichiga oladi»"
+  },
+  {
+   "q": "Laboratoriyada turni aniq ajratish uchun nima tekshiriladi?",
+   "c": "Bo'g'imlarning tuzilishi va jinsiy organlari",
+   "w": [
+    "Bo'g'imlarning tuzilishi va ichak devori",
+    "Najasning tuzilishi va jinsiy organlari",
+    "Tuxumning tuzilishi va ilmoqlari",
+    "Boshlig'ining shakli va ichak devori"
+   ],
+   "x": "«bo'g'imlarning matkap tuzilishi va jinsiy organlarini tekshirish turni aniq ajratishga imkon beradi»"
+  },
+  {
+   "q": "Oxirgi xo'jayinning ichagiga tushgach, skoleks nima qiladi?",
+   "c": "Ichak devoriga yopishadi va yangi bo'g'imlar hosil qilishni boshlaydi",
+   "w": [
+    "Ichak devoriga yopishadi va tuxum qo'yishni boshlaydi",
+    "Ichak devorini eritib yuboradi va yangi bo'g'imlar hosil qiladi",
+    "Ichakdan tashqariga chiqadi va yangi bo'g'imlar hosil qilishni boshlaydi",
+    "Najas bilan chiqib ketadi va lichinka hosil qilishni boshlaydi"
+   ],
+   "x": "«Oxirgi xo'jayinning ichagiga tushgach, skoleks ichak devoriga yopishadi va yangi bo'g'imlar hosil qilishni boshlaydi»"
+  },
+  {
+   "q": "Skoleks ichakdan tashqariga chiqqan holatlar qanday uchraydi?",
+   "c": "Kam uchraydi",
+   "w": [
+    "Odatda uchraydi",
+    "Yuqori uchraydi",
+    "Faol uchraydi",
+    "Qiyin uchraydi"
+   ],
+   "x": "«Skoleks ichakdan tashqariga chiqqan holatlar kam uchraydi»"
+  },
+  {
+   "q": "Skoleksning to'liq yo'qolganini tasdiqlash uchun nima o'tkazilishi mumkin?",
+   "c": "Uzoq muddatli kuzatuv",
+   "w": [
+    "Uzoq muddatli davolash",
+    "Uzoq muddatli preparat",
+    "Uzoq muddatli tashxis",
+    "Uzoq muddatli tahlil"
+   ],
+   "x": "«Skoleksning to'liq yo'qolganini tasdiqlash uchun uzoq muddatli kuzatuv o'tkazilishi mumkin»"
+  },
+  {
+   "q": "Skoleks zararlangan yoki shikastlangan bo'lsa, gijjaning oziqlanishi va o'sishi qanday bo'ladi?",
+   "c": "Buziladi",
+   "w": [
+    "Kengayadi",
+    "Ta'minlanadi",
+    "Saqlanadi",
+    "Kamayadi"
+   ],
+   "x": "«gijja oziqlanishi va o'sishi buziladi»"
+  },
+  {
+   "q": "Skoleksning ko'rinishi nimani farqlashga yordam beradi?",
+   "c": "Teniarinxoz va boshqa lenta turlarini",
+   "w": [
+    "Teniarinxoz va boshqa najas turlarini",
+    "Davolash va boshqa lenta turlarini",
+    "Teniarinxoz va boshqa finna turlarini",
+    "Bo'g'imlar va boshqa tuxum turlarini"
+   ],
+   "x": "«uning ko'rinishi teniarinxoz va boshqa lenta turlarini farqlashga yordam beradi»"
+  },
+  {
+   "q": "Preparat tanlashda qaysi dorilar afzal ko'riladi?",
+   "c": "Skoleksga ta'sir qiluvchi dorilar",
+   "w": [
+    "Bo'g'imlarga ta'sir qiluvchi dorilar",
+    "Ichakka ta'sir qiluvchi dorilar",
+    "Najasga ta'sir qiluvchi dorilar",
+    "Gijja tanasini eritib yuboruvchi dorilar"
+   ],
+   "x": "«Preparat tanlashda skoleksga ta'sir qiluvchi dorilar afzal ko'riladi»"
+  },
+  {
+   "q": "Skoleks gijjani ichakda qanday ushlab turadi?",
+   "c": "Ichak shilliq qavatiga mahkam yopishib",
+   "w": [
+    "Ichak shilliq qavatini eritib",
+    "Ichak shilliq qavatidan chiqib",
+    "Ichak tarkibidagi mahsulotlarga yopishib",
+    "Ichak peristaltikasi bilan ketib"
+   ],
+   "x": "«u ichak shilliq qavatiga mahkam yopishadi va gijjani ichakda ushlab turadi»"
+  }
+ ],
+ "073": [
+  {
+   "q": "Mikroskopning noto'g'ri saqlanishi nimaga olib keladi?",
+   "c": "Optik qismlar zararlanishiga va tekshiruv aniqligi pasayishiga",
+   "w": [
+    "Optik qismlar zararlanishiga va tekshiruv aniqligi oshishiga",
+    "Lampa umri qisqarishiga va tekshiruv aniqligi pasayishiga",
+    "Optik qismlar tozalanishiga va tekshiruv aniqligi pasayishiga",
+    "Linzalar tozalanishiga va tekshiruv aniqligi oshishiga"
+   ],
+   "x": "«Mikroskopning noto'g'ri saqlanishi optik qismlarni zararlab, tekshiruv aniqligini pasaytiradi»"
+  },
+  {
+   "q": "Namlik linzalarda nimaning paydo bo'lishiga olib keladi?",
+   "c": "Chang yoki parda",
+   "w": [
+    "Chang yoki moy",
+    "Kista yoki parda",
+    "Moy yoki sovun",
+    "Chang yoki salfetka"
+   ],
+   "x": "«Namlik optikaning zanglashiga va linzalarda chang yoki pardaning paydo bo'lishiga olib keladi»"
+  },
+  {
+   "q": "Qaysi holatda tuxum va kista shaffof ko'rinmaydi?",
+   "c": "Yorug'lik juda kuchli bo'lsa",
+   "w": [
+    "Yorug'lik juda kuchsiz bo'lsa",
+    "Lampa o'chirilgan bo'lsa",
+    "Mikroskop qopqoq bilan yopilgan bo'lsa",
+    "Moyli ob'ektiv ishlatilgan bo'lsa"
+   ],
+   "x": "«Yorug'lik juda kuchli bo'lsa, tuxum va kista shaffof ko'rinmaydi»"
+  },
+  {
+   "q": "Sovun va suvdan foydalanish linzaga qanday ta'sir qilishi mumkin?",
+   "c": "Zarar yetkazishi mumkin",
+   "w": [
+    "Tozalashi mumkin",
+    "Yaxshilashi mumkin",
+    "Sozlashi mumkin",
+    "Kamaytirishi mumkin"
+   ],
+   "x": "«Sovun va suvdan foydalanish linzaga zarar yetkazishi mumkin»"
+  },
+  {
+   "q": "Kalibrlash natijasi qayerda qayd etiladi?",
+   "c": "Laboratoriya jurnalida",
+   "w": [
+    "Laboratoriya stolida",
+    "Laboratoriya shkafda",
+    "Laboratoriya qutisida",
+    "Laboratoriya xonada"
+   ],
+   "x": "«Kalibrlash natijasi laboratoriya jurnalida qayd etiladi»"
+  },
+  {
+   "q": "Yangi laborantlar qanday sharoitda ishlaydi?",
+   "c": "Tajribali mutaxassis nazorati ostida",
+   "w": [
+    "Tajribali xodim tavsiyasi ostida",
+    "Tibbiy ko'rik nazorati ostida",
+    "Yillik texnik ko'rik ostida",
+    "Elektr xavfsizligi nazorati ostida"
+   ],
+   "x": "«Yangi laborantlar tajribali mutaxassis nazorati ostida ishlaydi»"
+  },
+  {
+   "q": "Laboratoriya xodimi qaysi himoya vositalaridan foydalanishi majburiy?",
+   "c": "Qo'lqop, xalat va ko'z himoyasi",
+   "w": [
+    "Qo'lqop, salfetka va ko'z himoyasi",
+    "Xalat, sovun va ko'z himoyasi",
+    "Qo'lqop, xalat va quyosh himoyasi",
+    "Qo'lqop, mato va ko'z qopqog'i"
+   ],
+   "x": "«qo'lqop, xalat va ko'z himoyasi vositalaridan foydalanish majburiy»"
+  },
+  {
+   "q": "Namuna tushgan joy bilan nima qilinadi?",
+   "c": "Darhol dezinfeksiya qilinadi",
+   "w": [
+    "Darhol yopib tashlanadi",
+    "Darhol yoritiladi",
+    "Darhol sozlanadi",
+    "Darhol tekshiriladi"
+   ],
+   "x": "«Namuna tushgan joy darhol dezinfeksiya qilinadi»"
+  },
+  {
+   "q": "Namunalar navbatida qaysilar birinchi tekshiriladi?",
+   "c": "Og'ir bemorlar va shoshilinch so'rovlar",
+   "w": [
+    "Yangi laborantlar va shoshilinch so'rovlar",
+    "Og'ir bemorlar va yillik so'rovlar",
+    "Yangi bemorlar va tasodifiy so'rovlar",
+    "Toza namunalar va ketma-ket so'rovlar"
+   ],
+   "x": "«og'ir bemorlar va shoshilinch so'rovlar birinchi navbatda tekshiriladi»"
+  },
+  {
+   "q": "Parazitologik laboratoriya ish jarayoni qaysi bosqichlardan iborat?",
+   "c": "Namunalarni qabul qilish, ro'yxatga olish, tayyorlash, tekshirish va natijani topshirish",
+   "w": [
+    "Namunalarni qabul qilish, kalibrlash, tayyorlash, tekshirish va natijani topshirish",
+    "Namunalarni qabul qilish, ro'yxatga olish, dezinfeksiya qilish, tekshirish va natijani yozish",
+    "Namunalarni ko'chirish, ro'yxatga olish, tayyorlash, tekshirish va natijani topshirish",
+    "Namunalarni qabul qilish, ro'yxatga olish, tayyorlash, kalibrlash va natijani yozish"
+   ],
+   "x": "«ish jarayoni namunalarni qabul qilish, ro'yxatga olish, tayyorlash, tekshirish va natijani topshirish bosqichlaridan iborat»"
+  }
+ ],
+ "074": [
+  {
+   "q": "Erta aniqlash uchun shifokorlar nimani bilishi kerak?",
+   "c": "Parazitar kasalliklarning asosiy belgilarini",
+   "w": [
+    "Parazitar kasalliklarning ilmiy tarixini",
+    "Antiparazit preparatlarning asosiy belgilarini",
+    "Parazitar kasalliklarning ekologik zanjirini",
+    "Laboratoriya jihozlarining asosiy belgilarini"
+   ],
+   "x": "«shifokorlar parazitar kasalliklarning asosiy belgilarini bilishi»"
+  },
+  {
+   "q": "Aholi orasida muntazam tekshiruvlar erta aniqlashning samarali usuli hisoblanadi, ayniqsa kimlar uchun?",
+   "c": "Bolalar va xavf guruhlari",
+   "w": [
+    "Maktab va mahalla faollari",
+    "Shifokorlar va hokimiyat faollari",
+    "Mutaxassislar va viloyat shifokorlari",
+    "Ayollar va mahalla faollari"
+   ],
+   "x": "«Aholi orasida muntazam tekshiruvlar, ayniqsa bolalar va xavf guruhlari uchun, erta aniqlashning samarali usuli hisoblanadi»"
+  },
+  {
+   "q": "Parazitar kasalliklarni davolash qanday o'tkaziladi?",
+   "c": "Tegishli antiparazit preparat bilan, belgilangan doza va muddatda",
+   "w": [
+    "Tegishli antiparazit preparat bilan, belgilangan hisobot va muddatda",
+    "Tegishli ilmiy preparat bilan, belgilangan doza va hisobotda",
+    "Ommaviy antiparazit preparat bilan, yagona doza va muddatda",
+    "Tegishli antiparazit preparat bilan, belgilangan doza va yillik hisobotda"
+   ],
+   "x": "«tegishli antiparazit preparat bilan, belgilangan doza va muddatda o'tkaziladi»"
+  },
+  {
+   "q": "Profilaktika qaysi sanitariya sohalarini nazorat qilishni o'z ichiga oladi?",
+   "c": "Ichimlik suvi, oziq-ovqat xavfsizligi, hojatxonalar va tuproq holati",
+   "w": [
+    "Ichimlik suvi, oziq-ovqat xavfsizligi, mobil brigadalar va tuproq holati",
+    "Ichimlik suvi, ilmiy materiallar, hojatxonalar va tuproq holati",
+    "Ichimlik suvi, oziq-ovqat xavfsizligi, hojatxonalar va hisobot holati",
+    "Darslar, oziq-ovqat xavfsizligi, hojatxonalar va tuproq holati"
+   ],
+   "x": "«ichimlik suvi va oziq-ovqat xavfsizligi, hojatxonalar va tuproqning sanitariya holatini nazorat qilishni o'z ichiga oladi»"
+  },
+  {
+   "q": "Monitoring natijalari qanday tahlilga solishtiriladi?",
+   "c": "Yillik tahlilga",
+   "w": [
+    "Milliy tahlilga",
+    "Ilmiy tahlilga",
+    "Hududiy tahlilga",
+    "Ekologik tahlilga"
+   ],
+   "x": "«Monitoring natijalari yillik tahlil bilan solishtiriladi»"
+  },
+  {
+   "q": "Targ'ibot materiallari qanday bo'lishi kerak?",
+   "c": "Oddiy va tushunarli",
+   "w": [
+    "Ilmiy va ommaviy",
+    "Milliy va ekologik",
+    "Ommaviy va ochiq",
+    "Ilmiy va mobil"
+   ],
+   "x": "«Targ'ibot materiallari oddiy va tushunarli bo'lishi kerak»"
+  },
+  {
+   "q": "Ko'pgina davlatlarda parazitar kasalliklarga qarshi dasturlar nimaga asoslanadi?",
+   "c": "Jahon sog'liqni saqlash tashkilotining tavsiyalariga",
+   "w": [
+    "Jahon sog'liqni saqlash tashkilotining hisobotiga",
+    "Milliy sog'liqni saqlash vazirligining tavsiyalariga",
+    "Jahon sog'liqni saqlash tashkilotining shartnomalariga",
+    "Xalqaro hamkor tashkilotlarning hisobotiga"
+   ],
+   "x": "«dasturlar Jahon sog'liqni saqlash tashkilotining tavsiyalariga asoslanadi»"
+  },
+  {
+   "q": "Xizmatlar sifatini oshirish uchun nimalar qilinadi?",
+   "c": "Shifokorlar muntazam o'qitiladi va laboratoriya uskunalari yangilanadi",
+   "w": [
+    "Shifokorlar muntazam o'qitiladi va laboratoriya hisobotlari yangilanadi",
+    "Shifokorlar ommaviy tekshiriladi va laboratoriya uskunalari yangilanadi",
+    "Mobil brigadalar muntazam o'qitiladi va tibbiyot punktlari yangilanadi",
+    "Xodimlar muntazam tekshiriladi va laboratoriya uskunalari yo'q qilinadi"
+   ],
+   "x": "«Xizmatlarning sifatini oshirish uchun shifokorlar muntazam o'qitiladi va laboratoriya uskunalari yangilanadi»"
+  },
+  {
+   "q": "Parazitar kasalliklarga qarshi kurashda qaysi tashkilotlar o'z vazifalarini aniq bajaradi?",
+   "c": "Sog'liqni saqlash vazirligi, sanitariya-epidemiologiya xizmati, ta'lim muassasalari va mahalliy hokimiyat",
+   "w": [
+    "Sog'liqni saqlash vazirligi, sanitariya-epidemiologiya xizmati, ta'lim muassasalari va viloyat hokimiyat",
+    "Sog'liqni saqlash vazirligi, hamkor tashkilotlar, ta'lim muassasalari va mahalliy hokimiyat",
+    "Sog'liqni saqlash vazirligi, sanitariya-epidemiologiya xizmati, investitsiyalar va mahalliy hokimiyat",
+    "Ilmiy tashkilotlar, sanitariya-epidemiologiya xizmati, ta'lim muassasalari va mahalliy hokimiyat"
+   ],
+   "x": "«Sog'liqni saqlash vazirligi, sanitariya-epidemiologiya xizmati, ta'lim muassasalari va mahalliy hokimiyat parazitar kasalliklarga qarshi kurashda o'z vazifalarini aniq bajaradi»"
+  },
+  {
+   "q": "Ko'rsatkichlar tarixiy ma'lumotlar bilan solishtirilsa, nima aniqlanadi?",
+   "c": "Tendensiya",
+   "w": [
+    "Investitsiya",
+    "Qamrov",
+    "Hokimiyat",
+    "Strategiya"
+   ],
+   "x": "«Bu ko'rsatkichlar tarixiy ma'lumotlar bilan solishtirilib, tendensiya aniqlanadi»"
+  }
+ ],
+ "075": [
+  {
+   "q": "Gimenolepidoz asosan kimlarda uchraydi?",
+   "c": "Bolalarda",
+   "w": [
+    "Homilador ayollarda",
+    "Katta yoshli bemorlarda",
+    "Immuniteti pasaygan bemorlarda",
+    "Ayollarda"
+   ],
+   "x": "«asosan bolalarda uchraydi»"
+  },
+  {
+   "q": "Gimenolepidozni davolashda niklozamid qanday variant sifatida ishlatilishi mumkin?",
+   "c": "Muqobil variant",
+   "w": [
+    "Birinchi variant",
+    "Asosiy variant",
+    "Qo'shimcha variant",
+    "Oddiy variant"
+   ],
+   "x": "«Niklozamid ham muqobil variant sifatida ishlatilishi mumkin»"
+  },
+  {
+   "q": "Prazikvantel gimenolepidozda qanday kurs sifatida beriladi?",
+   "c": "Bir martalik yoki qisqa kurs",
+   "w": [
+    "Qisqa takroriy kurs",
+    "Har doim takroriy kurs",
+    "Bir martalik yoki katta kurs",
+    "Qo'shimcha takroriy kurs"
+   ],
+   "x": "«bir martalik yoki qisqa kurs sifatida beriladi»"
+  },
+  {
+   "q": "Gimenolepidozni davolash nimaga qarab tanlanadi?",
+   "c": "Bemorning yoshi va vazniga",
+   "w": [
+    "Bemorning yoshi va ovqatlanishiga",
+    "Bemorning najasi va vazniga",
+    "Bemorning yoshi va kasalligiga",
+    "Bemorning vazni va kasalligiga"
+   ],
+   "x": "«Davolash bemorning yoshi va vazniga qarab tanlanadi»"
+  },
+  {
+   "q": "Praziquantel gijjalar mushaklariga qanday ta'sir qiladi?",
+   "c": "Kalsiy ionlarining kirishini oshirib, falajlanishga olib keladi",
+   "w": [
+    "Kalsiy ionlarining kirishini kamaytirib, falajlanishga olib keladi",
+    "Energiya almashinuvini buzib, falajlanishga olib keladi",
+    "Kalsiy ionlarining kirishini oshirib, ichak harakatini kuchaytiradi",
+    "Energiya almashinuvini buzib, nobud bo'lishga olib keladi"
+   ],
+   "x": "«Praziquantel gijjalar mushaklarida kalsiy ionlarining kirishini oshirib, mushaklarning falajlanishiga olib keladi»"
+  },
+  {
+   "q": "Niklozamid gijjalarga qanday ta'sir qiladi?",
+   "c": "Energiya almashinuvini buzadi",
+   "w": [
+    "Kalsiy almashinuvini buzadi",
+    "Ichak harakatini buzadi",
+    "Mushaklarni falajlantiradi",
+    "Energiya kirishini oshiradi"
+   ],
+   "x": "«Niklozamid gijjalarning energiya almashinuvini buzadi va ularni nobud qiladi»"
+  },
+  {
+   "q": "Davolash boshlanishidan oldin bemorning qaysi organlari holati baholanadi?",
+   "c": "Jigar va buyrak",
+   "w": [
+    "Jigar va ichak",
+    "Buyrak va mushaklar",
+    "Ichak va najas",
+    "Qorin va jigar"
+   ],
+   "x": "«Davolash boshlanishidan oldin bemorning jigar va buyrak holati baholanadi»"
+  },
+  {
+   "q": "Davolash bilan birga qaysi gigiyena choralari o'tkaziladi?",
+   "c": "Qo'l yuvish, tirnoqlarni qisqa tutish va bolalar buyumlarini tozalash",
+   "w": [
+    "Qo'l yuvish, tirnoqlarni qisqa tutish va ichak harakatini kuzatish",
+    "Qo'l yuvish, suyuqlik ko'p ichish va bolalar buyumlarini tozalash",
+    "Yengil ovqatlanish, tirnoqlarni qisqa tutish va bolalar buyumlarini tozalash",
+    "Hojatxona gigiyenasi, suyuqlik ichish va qo'l tozalash"
+   ],
+   "x": "«gigiyena choralari, ya'ni qo'l yuvish, tirnoqlarni qisqa tutish va bolalar buyumlarini tozalash o'tkaziladi»"
+  },
+  {
+   "q": "Tabletka yutishda qiynalgan bolalarda qaysi shakl ustun turadi?",
+   "c": "Suspenziya shakli",
+   "w": [
+    "Tabletka shakli",
+    "Oddiy shakli",
+    "Qisqa shakli",
+    "Katta shakli"
+   ],
+   "x": "«Tabletka yutishda qiynalgan bolalarda suspenziya shakli ustun turadi»"
+  },
+  {
+   "q": "Praziquantel qabul qilgan ayrim bemorlarda qanday nojo'ya ta'sirlar kuzatilishi mumkin?",
+   "c": "Bosh og'rig'i, uyqusizlik yoki qisqa muddatli bezovtalik",
+   "w": [
+    "Bosh og'rig'i, najas manfiyligi yoki qisqa muddatli bezovtalik",
+    "Mushaklar falajlanishi, uyqusizlik yoki qisqa muddatli bezovtalik",
+    "Bosh og'rig'i, uyqusizlik yoki doim ichak harakati",
+    "Energiya almashinuvi buzilishi, uyqusizlik yoki bezovtalik"
+   ],
+   "x": "«Ayrim bemorlarda bosh og'rig'i, uyqusizlik yoki qisqa muddatli bezovtalik kuzatilishi mumkin»"
+  }
+ ]
+}

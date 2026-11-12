@@ -1,0 +1,562 @@
+{
+  "046": [
+    {
+      "q": "Mikroskopni saqlashda changdan himoya qilish uchun qaysi chora tavsiya etiladi?",
+      "c": "Qopqoq bilan yopib qo'yish",
+      "w": [
+        "Lampani yoqilgan holda qoldirish",
+        "Moyli ob'ektivni ochiq qoldirish",
+        "Sovun va suvdan foydalanish",
+        "Quyosh nuri tushgan joyga qo'yish"
+      ],
+      "x": "«Mikroskopni qopqoq bilan yopib qo'yish, uni tez-tez changdan tozalash va haroratni barqaror saqlash tavsiya etiladi»"
+    },
+    {
+      "q": "Mikroskop ko'chirilganda nima kerak?",
+      "c": "Ehtiyotkorlik bilan ko'tarilishi",
+      "w": [
+        "Zarba bilan ko'tarilishi",
+        "Tebranish bilan ko'tarilishi",
+        "Lampa yoqilgan holda ko'tarilishi",
+        "Moyli ob'ektiv bilan ko'tarilishi"
+      ],
+      "x": "«Mikroskop ko'chirilganda ehtiyotkorlik bilan ko'tarilishi kerak, zarba va tebranish optik qismlarni buzishi mumkin»"
+    },
+    {
+      "q": "Zarba va tebranish mikroskopning qaysi qismlarini buzishi mumkin?",
+      "c": "Optik qismlarini",
+      "w": [
+        "Stolini",
+        "Salfetkasini",
+        "Reaktivlarini",
+        "Qopqog'ini"
+      ],
+      "x": "«zarba va tebranish optik qismlarni buzishi mumkin»"
+    },
+    {
+      "q": "Mikroskopik tekshiruv o'tkaziladigan xona qanday bo'lishi kerak?",
+      "c": "Yaxshi yoritilgan, shamollatiladigan va changdan holi",
+      "w": [
+        "Yaxshi yoritilgan, namlik yuqori va changdan holi",
+        "Qorong'i, shamollatiladigan va changdan holi",
+        "Yaxshi yoritilgan, shamollatilmaydigan va changli",
+        "Quyoshli, shamollatiladigan va changli"
+      ],
+      "x": "«Mikroskopik tekshiruv o'tkaziladigan xona yaxshi yoritilgan, shamollatiladigan va changdan holi bo'lishi kerak»"
+    },
+    {
+      "q": "Mikroskop xonada qayerda turishi kerak?",
+      "c": "Stol ustida, devordan uzoqroqda",
+      "w": [
+        "Stol ostida, devordan uzoqroqda",
+        "Stol ustida, devor yonida",
+        "Stulda, devorga yopishgan holda",
+        "Shkaf ustida, quyosh nuri tushadigan joyda"
+      ],
+      "x": "«Mikroskop stol ustida, devordan uzoqroqda, quyosh nuri to'g'ridan-to'g'ri tushmaydigan joyda turadi»"
+    },
+    {
+      "q": "Mikroskopik tekshiruv xonasida nima taqiqlanadi?",
+      "c": "Ovqat yeyish va boshqa ishlar",
+      "w": [
+        "Namunalarni tekshirish va boshqa ishlar",
+        "Mikroskop bilan ishlash va boshqa ishlar",
+        "Natijalarni yozish va boshqa ishlar",
+        "Preparat tayyorlash va boshqa ishlar"
+      ],
+      "x": "«Xonada ovqat yeyish va boshqa ishlar taqiqlanadi, chunki bu namunalarni ifloslantiradi»"
+    },
+    {
+      "q": "Mikroskop yonida bo'yoqlar, reaktivlar va buyum oynalari qayerda saqlanadi?",
+      "c": "Alohida, yopiq shkafda",
+      "w": [
+        "Stol ustida, mikroskop yonida",
+        "Alohida, yopiq stolda",
+        "Stol ostida, qopqoqsiz",
+        "Devor yonida, quyosh nurida"
+      ],
+      "x": "«Mikroskop yonida bo'yoqlar, reaktivlar va buyum oynalari alohida, yopiq shkafda saqlanadi»"
+    },
+    {
+      "q": "Ko'z charchashini kamaytirish uchun nima muhim?",
+      "c": "Stul balandligi va yorug'lik yo'nalishi",
+      "w": [
+        "Stol rangi va qopqoq o'lchami",
+        "Lampa quvvati va moy miqdori",
+        "Stol ustida preparat qutisi",
+        "Shkaf balandligi va devor rangi"
+      ],
+      "x": "«stul balandligi va yorug'lik yo'nalishi ko'z charchashini kamaytiradi»"
+    },
+    {
+      "q": "Laboratoriya rahbari xodimlarning natijalarini qanday tekshiradi?",
+      "c": "Tasodifiy tanlab tekshiradi",
+      "w": [
+        "Har kuni to'liq tekshiradi",
+        "Yillik ko'rikda tekshiradi",
+        "Xodimning o'zi tekshiradi",
+        "Tekshirmaydi"
+      ],
+      "x": "«Laboratoriya rahbari xodimlarning natijalarini tasodifiy tanlab tekshiradi, bu esa xatolarni erta aniqlashga yordam beradi»"
+    },
+    {
+      "q": "Laboratoriya mikroskopni qanday oraliqda texnik ko'rikdan o'tkazadi?",
+      "c": "Yillik texnik ko'rikdan o'tkazadi",
+      "w": [
+        "Har kuni texnik ko'rikdan o'tkazadi",
+        "Har bir ishdan keyin texnik ko'rikdan o'tkazadi",
+        "Nosozlik bo'lganda texnik ko'rikdan o'tkazadi",
+        "Texnik ko'rikdan o'tkazmaydi"
+      ],
+      "x": "«Shu sababli laboratoriya mikroskopni yillik texnik ko'rikdan o'tkazadi»"
+    }
+  ],
+  "047": [
+    {
+      "q": "Askaridaning oxirgi xo'jayini kim?",
+      "c": "Odam",
+      "w": [
+        "Oraliq xo'jayin",
+        "Gijja lichinkasi",
+        "Odam tuxumi",
+        "Ichak shirasi"
+      ],
+      "x": "«Gijja bitta xo'jayinda, ya'ni odam organizmida voyaga yetadi, shuning uchun odam uning oxirgi xo'jayini hisoblanadi»"
+    },
+    {
+      "q": "Voyaga yetgan askarida odam organizmining qayerida yashaydi?",
+      "c": "Ingichka ichagida",
+      "w": [
+        "O'pkasida",
+        "Tuproqda",
+        "Oshqozonda",
+        "Ichak devorida"
+      ],
+      "x": "«Voyaga yetgan askarida odam ingichka ichagida yashaydi va tuxum qo'yadi»"
+    },
+    {
+      "q": "Odam tuxumni yutgach, lichinka qaysi yo'l bilan voyaga yetadi?",
+      "c": "O'pkaga, so'ngra yana ichakka",
+      "w": [
+        "Ichakka, so'ngra yana o'pkaga",
+        "Tuproqqa, so'ngra yana o'pkaga",
+        "O'pkaga, so'ngra yana tuxumga",
+        "Ichakka, so'ngra yana oshqozonga"
+      ],
+      "x": "«lichinka ichakda chiqib, qon orqali o'pkaga boradi va so'ngra yana ichakka qaytib voyaga yetadi»"
+    },
+    {
+      "q": "Davolashdan keyin qayta yuqishning oldini olish uchun nima tekshiriladi?",
+      "c": "Kontaktlarni tekshirish",
+      "w": [
+        "Bemorni tekshirish",
+        "Tuxumni tekshirish",
+        "Gijjani tekshirish",
+        "Ovqatni tekshirish"
+      ],
+      "x": "«Ko'p hollarda bir martalik davolash yetarli bo'ladi, ammo kontaktlarni tekshirish qayta yuqishning oldini oladi»"
+    },
+    {
+      "q": "Askaridaning hayot sikli oraliq xo'jayinsiz kechishi nimani oshiradi?",
+      "c": "Mahalliy tarqalishini",
+      "w": [
+        "Gijjaning ichakdagi sonini",
+        "Davolash samaradorligini",
+        "Tuxumning yetilishini",
+        "Oilaviy tekshiruvni"
+      ],
+      "x": "«Bu xususiyat kasallikning mahalliy tarqalishini oshiradi»"
+    },
+    {
+      "q": "Askarida ichakda nima bilan oziqlanadi?",
+      "c": "Ichak shirasi",
+      "w": [
+        "Oziq moddalar",
+        "Tuproq",
+        "Oshqozon osti bezi",
+        "Kambag'al ovqat"
+      ],
+      "x": "«Gijja ichak shirasi bilan oziqlanadi va ichakning oziqlanish jarayoniga qisman ta'sir qiladi»"
+    },
+    {
+      "q": "Immun javob kuchli bo'lsa ham, gijjalar ko'pincha nima sababdan to'liq yo'qolmaydi?",
+      "c": "Parazit immun ta'sirini kamaytiruvchi moddalar chiqaradi",
+      "w": [
+        "Parazit immun ta'sirini oshiruvchi moddalar chiqaradi",
+        "Eozinofillar va IgE antitanalari kamayadi",
+        "Gijja immunitetni to'liq oshiradi",
+        "Allergik reaksiyalar parazitni yo'q qiladi"
+      ],
+      "x": "«chunki parazit o'zining immun ta'sirini kamaytiruvchi moddalar chiqaradi»"
+    },
+    {
+      "q": "Bolalarda gijja soni nima sababdan ko'pincha yuqori bo'ladi?",
+      "c": "Gigiyena odatlari kam shakllangan",
+      "w": [
+        "Gigiyena odatlari yaxshi shakllangan",
+        "Ovqatlanishi yetarli bo'ladi",
+        "Immuniteti kuchli bo'ladi",
+        "Ichak devori kuchli bo'ladi"
+      ],
+      "x": "«Ammo bolalarda gijjaning soni ko'pincha yuqori bo'ladi, chunki ularning gigiyena odatlari kam shakllangan»"
+    },
+    {
+      "q": "Askarida ba'zan ichakdan qaysi tuzilmalarga kirib qolishi mumkin?",
+      "c": "O't yo'llari, oshqozon osti bezi kanali yoki appendiks",
+      "w": [
+        "O'pka, oshqozon osti bezi kanali yoki appendiks",
+        "O't yo'llari, o'pka kanali yoki appendiks",
+        "O't yo'llari, oshqozon osti bezi yoki ichak devori",
+        "O'pka, ichak devori yoki oshqozon osti bezi"
+      ],
+      "x": "«Askarida odatda ichakda yashaydi, ammo ba'zan u o't yo'llari, oshqozon osti bezi kanali yoki appendiksga kirib qolishi mumkin»"
+    },
+    {
+      "q": "Ko'p gijjali bemorlarda ovqatdagi qaysi moddalarni iste'mol qilinishi kamayadi?",
+      "c": "Oqsil va temir",
+      "w": [
+        "Vitamin va oqsil",
+        "Temir va vitamin",
+        "Oziq va vitamin",
+        "Moddalar va oziq"
+      ],
+      "x": "«Ko'p gijjali bemorlarda ovqatdagi oqsil va temir iste'mol qilinishi kamayadi, bu esa kamqonlik va vazn yo'qotishga olib keladi»"
+    }
+  ],
+  "048": [
+    {
+      "q": "Exinokokkoz odam uchun qanday xo'jayin holatida kasallik keltirib chiqaradi?",
+      "c": "Oraliq xo'jayin",
+      "w": [
+        "Chorva xo'jayin",
+        "Tarqatuvchi xo'jayin",
+        "Hayvon xo'jayin",
+        "Itlar xo'jayin"
+      ],
+      "x": "«Exinokokkoz (kistali exinokokkoz) odam uchun oraliq xo'jayin holatida kasallik keltirib chiqaradigan parazitar infeksiya bo'lib»"
+    },
+    {
+      "q": "Exinokokkoz bilan qanday zararlanish mumkin?",
+      "c": "Itning najasidagi tuxumlarni og'iz orqali yutish",
+      "w": [
+        "Itning najasidagi kistalarni og'iz orqali yutish",
+        "Itning najasidagi tuxumlarni qonga yutish",
+        "Sigirning najasidagi tuxumlarni og'iz orqali yutish",
+        "Itning junidagi kistalarni qo'l orqali yutish"
+      ],
+      "x": "«Javob: itning najasidagi tuxumlarni og'iz orqali yutish, ya'ni ifloslangan qo'l, sabzavot va suv orqali»"
+    },
+    {
+      "q": "Itning junida nima bo'lishi mumkin?",
+      "c": "Tuxumlar",
+      "w": [
+        "Kistalar",
+        "Lichinkalar",
+        "Bo'g'imlar",
+        "Sabzavotlar"
+      ],
+      "x": "«Itning junida ham tuxumlar bo'lishi mumkin, shuning uchun it bilan aloqa qilgandan keyin qo'l yuvilishi kerak»"
+    },
+    {
+      "q": "Lichinka qonga o'tgach, asosan qaysi organlarda kista hosil qiladi?",
+      "c": "Jigar va o'pkada",
+      "w": [
+        "Itning ichagida va junida",
+        "Bo'g'im va sabzavotda",
+        "Suv va sabzavotda",
+        "Qo'l va itning junida"
+      ],
+      "x": "«Tuxum odam ichagida parchalanib, lichinka qonga o'tadi va organlarda, asosan jigar va o'pkada, kista hosil qiladi»"
+    },
+    {
+      "q": "Nima sababdan exinokokkoz kech aniqlanadi?",
+      "c": "Kistalar yillar davomida sezilmasdan rivojlanadi",
+      "w": [
+        "Kistalar yillar davomida og'riq bilan rivojlanadi",
+        "Kistalar faqat itning junida rivojlanadi",
+        "Kistalar sabzavotda sezilmasdan rivojlanadi",
+        "Kistalar itning junida sezilmasdan rivojlanadi"
+      ],
+      "x": "«Kistalar yillar davomida sezilmasdan rivojlanishi mumkin, shuning uchun kasallik kech aniqlanadi»"
+    },
+    {
+      "q": "Kista yorilsa, nima bo'lishi mumkin?",
+      "c": "Allergik reaksiya yoki yangi kistalar hosil bo'lishi",
+      "w": [
+        "Allergik reaksiya yoki it junida tuxum hosil bo'lishi",
+        "Organ funksiyasi yaxshilanishi yoki yangi kistalar yo'qolishi",
+        "Allergik reaksiya yoki kista kichik bo'lishi",
+        "Suyuqlik yo'qolishi yoki kistalar kattalashishi"
+      ],
+      "x": "«Kista yorilsa, undagi suyuqlik va lichinkalar boshqa joylarga tarqalib, allergik reaksiya yoki yangi kistalar hosil bo'lishiga sabab bo'lishi mumkin»"
+    },
+    {
+      "q": "Kista tashxisi qaysi usullar yordamida qo'yiladi?",
+      "c": "Ultratovush, kompyuter tomografiyasi va serologik testlar",
+      "w": [
+        "Ultratovush, qo'l yuvish va serologik testlar",
+        "Kompyuter tomografiyasi, deparazitatsiya va ultratovush",
+        "Serologik testlar, veterinariya nazorati va ultratovush",
+        "Ultratovush, sabzavot yuvish va tomografiya"
+      ],
+      "x": "«Kista tashxisi ultratovush, kompyuter tomografiyasi va serologik testlar yordamida qo'yiladi»"
+    },
+    {
+      "q": "Itlarga xom ichki organ nima sababdan berilmasligi kerak?",
+      "c": "Ularning infeksiyalanishini oldini oladi",
+      "w": [
+        "Ularning infeksiyalanishini kuchaytiradi",
+        "Ularning junini tozalaydi",
+        "Ularning ichagini tozalaydi",
+        "Ularning tuxumlari tarqalib ketadi"
+      ],
+      "x": "«Shuning uchun itlarga xom ichki organ berilmasligi kerak, bu ham ularning infeksiyalanishini oldini oladi»"
+    },
+    {
+      "q": "Xo'jalik hayvonlarini so'yish paytida nima xavfni oshiradi?",
+      "c": "Ichki organlarni ochiq joyda qoldirish",
+      "w": [
+        "Ichki organlarni chuqur ko'mish",
+        "Ichki organlarni xavfsiz yo'q qilish",
+        "Itlarni muntazam deparazitatsiya qilish",
+        "Veterinariya nazoratini joriy etish"
+      ],
+      "x": "«Xo'jalik hayvonlarini so'yish paytida ichki organlarni ochiq joyda qoldirish va itlarning ularga kirishiga yo'l qo'yish xavfni oshiradi»"
+    },
+    {
+      "q": "Bolalarda exinokokkoz xavfi nima sababdan yuqori?",
+      "c": "Bolalar itlar bilan ko'proq o'ynaydi va ularni erkalaydi",
+      "w": [
+        "Bolalar itlar bilan o'ynamaydi va ularni yuvadi",
+        "Bolalar kistalarni ko'proq aniqlaydi",
+        "Bolalar itlarni deparazitatsiya qiladi",
+        "Bolalar kistalarni erta aniqlaydi"
+      ],
+      "x": "«Bolalar itlar bilan ko'proq o'ynaydi va ularni erkalaydi, shuning uchun exinokokkoz xavfi bolalarda yuqori bo'ladi»"
+    }
+  ],
+  "049": [
+    {
+      "q": "Yetilgan askarida tuxumi ichida nima rivojlangan bo'ladi?",
+      "c": "Lichinka",
+      "w": [
+        "Gijja",
+        "Tirnoq",
+        "Hasharot",
+        "Quduq"
+      ],
+      "x": "«Yetilgan tuxum ichida lichinka rivojlangan bo'ladi, bu tuxum yuqish manbai hisoblanadi»"
+    },
+    {
+      "q": "Askaridoz profilaktikasining birinchi bosqichi nima?",
+      "c": "Shaxsiy gigiyena",
+      "w": [
+        "Sanitariya nazorati",
+        "Profilaktik davolash",
+        "Hududiy tekshiruv",
+        "Ichimlik suvi nazorati"
+      ],
+      "x": "«Profilaktikaning birinchi bosqichi shaxsiy gigiyena: ovqatdan oldin, hojatxonadan keyin va o'yindan so'ng qo'lni sovun bilan yuvish»"
+    },
+    {
+      "q": "Askaridoz profilaktikasining ikkinchi bosqichi nima?",
+      "c": "Sanitariya nazorati",
+      "w": [
+        "Shaxsiy gigiyena",
+        "Profilaktik davolash",
+        "Hududiy tekshiruvlar",
+        "Tibbiy ko'rik"
+      ],
+      "x": "«Ikkinchi bosqich sanitariya nazorati: hojatxonalarni tozalab turish, ichimlik suvining sifatini tekshirish, oziq-ovqatni yaxshi yuvish va issiqlik bilan ishlov berish»"
+    },
+    {
+      "q": "Askaridoz profilaktikasining uchinchi bosqichi nimadan iborat?",
+      "c": "Muntazam profilaktik davolash va hududiy tekshiruvlar",
+      "w": [
+        "Shaxsiy gigiyena va ichimlik suvi nazorati",
+        "Sanitariya nazorati va oziq-ovqat yuvish",
+        "Hojatxonalarni tozalash va qo'lni yuvish",
+        "Bolalarga tirnoq kesish va qo'lni yuvish"
+      ],
+      "x": "«Uchinchi bosqich muntazam profilaktik davolash va hududiy tekshiruvlar bo'lib, bu sanitariya-epidemiologiya xizmati tomonidan amalga oshiriladi»"
+    },
+    {
+      "q": "Nam tuproqda askarida tuxumlari qancha saqlanishi mumkin?",
+      "c": "Bir necha yil davomida",
+      "w": [
+        "Bir necha hafta davomida",
+        "Bir necha marta davomida",
+        "Bir necha kurs davomida",
+        "Bir necha bosqich davomida"
+      ],
+      "x": "«Nam tuproqda ular bir necha yil davomida yuqumli holatda saqlanishi mumkin»"
+    },
+    {
+      "q": "Oddiy xlorli eritmalar askarida tuxumlariga qanday ta'sir qilishi mumkin?",
+      "c": "Zararsiz bo'lishi mumkin",
+      "w": [
+        "Tuxumlarni o'ldirishi mumkin",
+        "Lichinkani ko'paytirishi mumkin",
+        "Gijjani o'ldirishi mumkin",
+        "Chivinni o'ldirishi mumkin"
+      ],
+      "x": "«Oddiy xlorli eritmalar askarida tuxumlariga zararsiz bo'lishi mumkin»"
+    },
+    {
+      "q": "Ichimlik suvi sanitar nazoratdan o'tmagan manbadan olinsa, tuxumlar qanday tarqalishi mumkin?",
+      "c": "Suv orqali",
+      "w": [
+        "Nafas orqali",
+        "Teri orqali",
+        "Quyosh orqali",
+        "Filtr orqali"
+      ],
+      "x": "«Ichimlik suvi sanitar nazoratdan o'tmagan manbalardan olinsa, tuxumlar suv orqali ham tarqalishi mumkin»"
+    },
+    {
+      "q": "Askaridozning eng keng tarqalgan yuqish manbalaridan biri nima?",
+      "c": "Ifloslangan sabzavot va mevalar",
+      "w": [
+        "Filtrlangan ichimlik suvi",
+        "Qaynatilgan ichimlik suvi",
+        "Yuvilgan sabzavot va mevalar",
+        "Issiqlik bilan ishlangan ovqat"
+      ],
+      "x": "«Ifloslangan sabzavot va mevalar askaridozning eng keng tarqalgan yuqish manbalaridan biridir»"
+    },
+    {
+      "q": "Dehqonchilik hududlarida nima qat'iy nazorat qilinadi?",
+      "c": "O'g'itlash qoidalari va sanitariya talablari",
+      "w": [
+        "Sovun qoidalari va sanitariya talablari",
+        "O'g'itlash qoidalari va davolash talablari",
+        "Qo'l yuvish qoidalari va gigiyena talablari",
+        "Filtrlash qoidalari va gigiyena talablari"
+      ],
+      "x": "«Shu sababli dehqonchilik hududlarida o'g'itlash qoidalari va sanitariya talablari qat'iy nazorat qilinadi»"
+    },
+    {
+      "q": "Uy sharoitida askaridozning oldini olishda eng oddiy va samarali chora nima?",
+      "c": "Suvni qaynatib ichish",
+      "w": [
+        "Quduqni ifloslantirish",
+        "Suvni ifloslangan holda ichish",
+        "Suv quvurlarini ochiq qoldirish",
+        "Suvni sanitar nazoratdan o'tkazmaslik"
+      ],
+      "x": "«Suvni qaynatib ichish uy sharoitida eng oddiy va samarali chora bo'lib qoladi»"
+    }
+  ],
+  "050": [
+    {
+      "q": "Bezgak chivinlari qayerda hayot kechiradi?",
+      "c": "Suv va havoda",
+      "w": [
+        "Daryo va havoda",
+        "Axlat va botqoqda",
+        "Daryo va botqoqda",
+        "Axlat va havoda"
+      ],
+      "x": "«Bezgak chivinlari suv va havoda hayot kechiradi»"
+    },
+    {
+      "q": "Chivinlar ko'payishi uchun qulay joylardan biri qaysi?",
+      "c": "Daryo sohillari",
+      "w": [
+        "Himoya to'rlari",
+        "Dezinfeksiya stansiyalari",
+        "Eshik va derazalar",
+        "To'rli karavot"
+      ],
+      "x": "«Ko'payish uchun eng qulay joylar daryo sohillari, botqoqlashgan suv havzalari, sholipoyalar, axlat chiqindilari to'plangan joylar va turg'un suvli ariqlardir»"
+    },
+    {
+      "q": "Bezgak yuqishini kamaytirish uchun qaysi ikki yo'nalishda chora ko'riladi?",
+      "c": "Bemorni davolash va chivinlarga qarshi kurash",
+      "w": [
+        "Bemorni aniqlash va donorni davolash",
+        "Chivinni ko'paytirish va bemorni davolash",
+        "Donor qonini tekshirish va transplantatsiya",
+        "Himoya to'rlari va bemorni yashirish"
+      ],
+      "x": "«Yuqishni kamaytirish uchun ikki yo'nalishda chora ko'riladi. Birinchisi, bemorni erta aniqlash va to'liq davolash, ikkinchisi chivinlarga qarshi kurashdir»"
+    },
+    {
+      "q": "Ochiq teri yuzasini nima bilan yopish tavsiya etiladi?",
+      "c": "Kiyim",
+      "w": [
+        "Himoya to'rlari",
+        "Insektitsid",
+        "Baliq",
+        "Karavot"
+      ],
+      "x": "«ochiq teri yuzasini kiyim bilan yopish tavsiya etiladi»"
+    },
+    {
+      "q": "Odam organizmida bezgak parazit qanday ko'payadi?",
+      "c": "Jinssiz",
+      "w": [
+        "Jinsiy",
+        "Mavsumiy",
+        "Ketma-ket",
+        "Yashirin"
+      ],
+      "x": "«Odam organizmida parazit jinssiz ko'payadi va qonda miqdori oshadi»"
+    },
+    {
+      "q": "Chivin qachon yuqtirish qobiliyatiga ega bo'ladi?",
+      "c": "Faqat kasallangan odam bilan aloqada bo'lgandan keyin",
+      "w": [
+        "Faqat sog'lom odam bilan aloqada bo'lgandan keyin",
+        "Kasallangan odam bilan aloqada bo'lmagan holda",
+        "Suvga tuxum qo'ygandan keyin",
+        "Sovuq mavsum boshlanishidan oldin"
+      ],
+      "x": "«Shu sababli chivin faqat kasallangan odam bilan aloqada bo'lgandan keyin yuqtirish qobiliyatiga ega bo'ladi»"
+    },
+    {
+      "q": "Chivinda parazitning yuqumli shaklga o'tish jarayoni qancha davom etadi?",
+      "c": "Bir necha hafta",
+      "w": [
+        "Bir necha marta",
+        "Bir necha bosqich",
+        "Bir necha yo'nalish",
+        "Bir necha guruh"
+      ],
+      "x": "«Ushbu jarayon bir necha hafta davom etadi, shu bilan birga chivin umri davomida bir necha marta odamlarni chaqishi mumkin»"
+    },
+    {
+      "q": "Chivin umri davomida odamlarni necha marta chaqishi mumkin?",
+      "c": "Bir necha marta",
+      "w": [
+        "Faqat bir marta",
+        "Bitta marta",
+        "Ikki marta",
+        "Birinchi marta"
+      ],
+      "x": "«chivin umri davomida bir necha marta odamlarni chaqishi mumkin»"
+    },
+    {
+      "q": "Bezgak xavfi yuqori bo'lgan guruhlarga kimlar kiradi?",
+      "c": "Bolalar, homilador ayollar, immuniteti past odamlar",
+      "w": [
+        "Bolalar, donorlar, sayohat qilmaydigan kishilar",
+        "Epidemiologlar, homilador ayollar, baliqlar",
+        "Bolalar, epidemiologlar, dezinfeksiya xodimlari",
+        "Donorlar, epidemiologlar, immuniteti yuqori odamlar"
+      ],
+      "x": "«Bunga bolalar, homilador ayollar, immuniteti past odamlar va chet ellarga sayohat qiladigan kishilar kiradi»"
+    },
+    {
+      "q": "Sovuq mavsumda chivinlarning soni qanday bo'ladi?",
+      "c": "Kamayadi",
+      "w": [
+        "Keskin oshadi",
+        "Ko'payadi",
+        "Ortadi",
+        "Mavsumda ortadi"
+      ],
+      "x": "«Sovuq mavsumda chivinlarning soni kamayadi»"
+    }
+  ]
+}

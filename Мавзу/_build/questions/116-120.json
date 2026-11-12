@@ -1,0 +1,562 @@
+{
+ "116": [
+  {
+   "q": "Teniarinxozni davolash asosan qanday preparat bilan amalga oshiriladi?",
+   "c": "Bitta antigelmintik preparat",
+   "w": [
+    "Bir necha antigelmintik preparat",
+    "Bitta profilaktik preparat",
+    "Bitta muqobil preparat",
+    "Bitta allergik preparat"
+   ],
+   "x": "«davolash asosan bitta antigelmintik preparat bilan amalga oshiriladi»"
+  },
+  {
+   "q": "Prazikvantel lenta gijjasining qaysi shaklini yo'q qiladi?",
+   "c": "Ichakdagi voyaga yetgan shaklini",
+   "w": [
+    "Ichakdagi lichinka shaklini",
+    "Go'shtdagi voyaga yetgan shaklini",
+    "Ichakdagi tuxum shaklini",
+    "Qondagi voyaga yetgan shaklini"
+   ],
+   "x": "«bu lenta gijjasining ichakdagi voyaga yetgan shaklini yo'q qiladi»"
+  },
+  {
+   "q": "Niklozamid odatda qanday dozada beriladi?",
+   "c": "Bir martalik yoki qisqa kursli dozada",
+   "w": [
+    "Bir martalik yoki uzoq kursli dozada",
+    "Doimiy yoki qisqa kursli dozada",
+    "Bir martalik yoki qisqa kursli ovqatda",
+    "Muqobil yoki qisqa kursli dozada"
+   ],
+   "x": "«Niklozamid odatda bir martalik yoki qisqa kursli dozada beriladi»"
+  },
+  {
+   "q": "Davolashdan oldin bemordan nimalarni aniqlash mumkin?",
+   "c": "Lenta bo'g'imlarini yoki tuxumlarni",
+   "w": [
+    "Lenta bo'g'imlarini yoki finnalarni",
+    "Lenta bo'laklarini yoki lichinkalarni",
+    "Gijja bo'g'imlarini yoki dorilarni",
+    "Lenta tuxumlarini yoki ichaklarni"
+   ],
+   "x": "«Bemordan lenta bo'g'imlarini yoki tuxumlarni aniqlash mumkin»"
+  },
+  {
+   "q": "Homilador ayollarda va bolalarda dori tanlovi qanday baholanadi?",
+   "c": "Alohida baholanadi",
+   "w": [
+    "Umumiy baholanadi",
+    "Baholanmaydi",
+    "Qisqa baholanadi",
+    "Guruh baholanadi"
+   ],
+   "x": "«Homilador ayollarda va bolalarda dori tanlovi alohida baholanadi»"
+  },
+  {
+   "q": "O'z-o'zidan dori qabul qilish nimaga olib kelishi mumkin?",
+   "c": "Samarasiz bo'lishi va noto'g'ri doza tufayli zarar yetkazishiga",
+   "w": [
+    "Samarali bo'lishi va noto'g'ri doza tufayli zarar yetkazishiga",
+    "Samarasiz bo'lishi va to'g'ri doza tufayli foyda yetkazishiga",
+    "Samarasiz bo'lishi va noto'g'ri tashxis tufayli zarar yetkazishiga",
+    "Samarasiz bo'lishi va noto'g'ri go'sht tufayli zarar yetkazishiga"
+   ],
+   "x": "«O'z-o'zidan dori qabul qilish samarasiz bo'lishi va noto'g'ri doza tufayli zarar yetkazishi mumkin»"
+  },
+  {
+   "q": "Tekshiruvni to'xtatib qo'yish nimaga olib keladi?",
+   "c": "Takroriy yuqishni aniqlamaslikka",
+   "w": [
+    "Takroriy yuqishni oshirishga",
+    "Takroriy davolashni aniqlamaslikka",
+    "Prazikvantelni tanlashga",
+    "Oilaviy nazoratni kuchaytirishga"
+   ],
+   "x": "«tekshiruvni to'xtatib qo'yish takroriy yuqishni aniqlamaslikka olib keladi»"
+  },
+  {
+   "q": "Davolash natijalari kimga xabar qilinadi?",
+   "c": "Sanitariya-epidemiologiya xizmatiga",
+   "w": [
+    "Veterinariya nazorati xizmatiga",
+    "Laboratoriya tekshiruvi xizmatiga",
+    "Oilaviy nazorat xizmatiga",
+    "Veterinariya sertifikat xizmatiga"
+   ],
+   "x": "«davolash natijalari sanitariya-epidemiologiya xizmatiga xabar qilinadi»"
+  },
+  {
+   "q": "Najas tekshiruvi manfiy bo'lsa, bemor bilan nima qilinishi mumkin?",
+   "c": "Kuzatuvdan chiqarilishi mumkin",
+   "w": [
+    "Qayta davolanishi mumkin",
+    "Kuzatuvga qo'yilishi mumkin",
+    "Qayta tekshirilishi mumkin",
+    "Dori qabul qilishi mumkin"
+   ],
+   "x": "«Agar tekshiruv manfiy bo'lsa, bemor kuzatuvdan chiqarilishi mumkin»"
+  },
+  {
+   "q": "Go'shtni qaynatish yoki qovurishda nimani tekshirish muhim?",
+   "c": "Ichki qismi to'liq pishganini",
+   "w": [
+    "Ichki qismi to'liq muzlaganini",
+    "Tashqi qismi to'liq pishganini",
+    "Ichki qismi sertifikatlanganini",
+    "Ichki qismi to'liq sotilganini"
+   ],
+   "x": "«go'shtni qaynatish yoki qovurishda uning ichki qismi to'liq pishganini tekshirish muhim»"
+  }
+ ],
+ "117": [
+  {
+   "q": "Bezgak tashxisi nimalar asosida qo'yiladi?",
+   "c": "Klinik belgilar, epidemiologik anamnez va laboratoriya tekshiruvi",
+   "w": [
+    "Klinik belgilar, epidemiologik anamnez va sayohat tekshiruvi",
+    "Klinik belgilar, bakterial anamnez va laboratoriya tekshiruvi",
+    "Epidemiologik belgilar, klinik anamnez va laboratoriya tekshiruvi",
+    "Klinik belgilar, epidemiologik hisobot va laboratoriya tekshiruvi"
+   ],
+   "x": "«Bezgak tashxisi klinik belgilar, epidemiologik anamnez va laboratoriya tekshiruvi asosida qo'yiladi»"
+  },
+  {
+   "q": "Bezgakning eng ishonchli va asosiy tashxis usuli qaysi?",
+   "c": "Qon surtmasini mikroskopda tekshirish",
+   "w": [
+    "Qon surtmasini bo'yash",
+    "Antigenlarni mikroskopda tekshirish",
+    "Antigen diagnostik test",
+    "Bemor tarixini tekshirish"
+   ],
+   "x": "«Eng ishonchli va asosiy usul qon surtmasini mikroskopda tekshirishdir»"
+  },
+  {
+   "q": "Qalin tomchi bezgak tashxisida nimani aniqlash uchun ishlatiladi?",
+   "c": "Parazit borligini",
+   "w": [
+    "Parazit turini",
+    "Antigen turini",
+    "Hujayra borligini",
+    "Kasallik turini"
+   ],
+   "x": "«Qalin tomchi parazit borligini aniqlash uchun»"
+  },
+  {
+   "q": "Yupqa surtma bezgak tashxisida nimani aniqlash uchun ishlatiladi?",
+   "c": "Parazit turini",
+   "w": [
+    "Parazit borligini",
+    "Parazit zichligini",
+    "Antigen borligini",
+    "Kasallik borligini"
+   ],
+   "x": "«yupqa surtma esa turini aniqlash uchun ishlatiladi»"
+  },
+  {
+   "q": "Tez diagnostik testlar (RDT) qonda nimani aniqlaydi?",
+   "c": "Antigenlarni",
+   "w": [
+    "Parazitlarni",
+    "Hujayralarni",
+    "Surtmalarni",
+    "Natijalarni"
+   ],
+   "x": "«Tez diagnostik testlar (RDT) qonda antigenlarni aniqlaydi»"
+  },
+  {
+   "q": "Birinchi surtma manfiy bo'lsa, nima qilinadi?",
+   "c": "Ikkinchi va uchinchi surtma olinadi",
+   "w": [
+    "Faqat ikkinchi surtma olinadi",
+    "Tashxis qo'yiladi",
+    "Davolash boshlanadi",
+    "Uchinchi surtma bekor qilinadi"
+   ],
+   "x": "«Agar birinchi surtma manfiy bo'lsa, ikkinchi va uchinchi surtma»"
+  },
+  {
+   "q": "Bezgakni isitma bilan kechadigan qaysi kasalliklardan ajratish kerak?",
+   "c": "Virusli infeksiyalar, tifo, bakterial sepsis va boshqa parazitar kasalliklar",
+   "w": [
+    "Virusli infeksiyalar, tifo, bakterial sepsis va boshqa bakterial kasalliklar",
+    "Virusli infeksiyalar, jigar, bakterial sepsis va boshqa parazitar kasalliklar",
+    "Bakterial infeksiyalar, tifo, virusli sepsis va boshqa parazitar kasalliklar",
+    "Virusli infeksiyalar, tifo, bakterial sepsis va boshqa klinik kasalliklar"
+   ],
+   "x": "«virusli infeksiyalar, tifo, bakterial sepsis va boshqa parazitar kasalliklar inobatga olinadi»"
+  },
+  {
+   "q": "Og'ir bezgak shubhasida nima qilinadi?",
+   "c": "Natija kutilmasdan davolash boshlanadi",
+   "w": [
+    "Natija kutilib davolash boshlanadi",
+    "Natija kutilmasdan tekshiruv to'xtatiladi",
+    "Natija kutilmasdan RDT bekor qilinadi",
+    "Natija kutilib davolash to'xtatiladi"
+   ],
+   "x": "«Og'ir bezgak shubhasida tekshiruv shoshilinch o'tkaziladi va natija kutilmasdan davolash boshlanadi»"
+  },
+  {
+   "q": "Bezgak tashxisida xatolar ko'pincha nimalar tufayli kelib chiqadi?",
+   "c": "Surtmaning sifatsiz tayyorlanishi, parazitni boshqa hujayra bilan adashtirish yoki klinik ma'lumot yetishmasligi",
+   "w": [
+    "Surtmaning sifatli tayyorlanishi, parazitni boshqa hujayra bilan adashtirish yoki klinik ma'lumot yetishmasligi",
+    "Surtmaning sifatsiz tayyorlanishi, parazitni boshqa antigen bilan adashtirish yoki klinik ma'lumot yetishmasligi",
+    "Surtmaning sifatsiz tayyorlanishi, parazitni boshqa hujayra bilan adashtirish yoki hisobot yetishmasligi",
+    "Surtmaning sifatsiz bo'yalishi, parazitni boshqa hujayra bilan adashtirish yoki epidemiologik ma'lumot ko'pligi"
+   ],
+   "x": "«xatolar ko'pincha surtmaning sifatsiz tayyorlanishi, parazitni boshqa hujayra bilan adashtirish yoki klinik ma'lumotning yetishmasligi tufayli kelib chiqadi»"
+  },
+  {
+   "q": "Tashxis xatolarini bartaraf etish tizimida natijalar qanday tekshiriladi?",
+   "c": "Ikki laborant tomonidan tekshiriladi",
+   "w": [
+    "Bir laborant tomonidan tekshiriladi",
+    "Ikki shifokor tomonidan tekshiriladi",
+    "Bemor tomonidan tekshiriladi",
+    "Ikki laborant tomonidan yozib olinadi"
+   ],
+   "x": "«natijalar ikki laborant tomonidan tekshiriladi va nizoli holatlar muhokama qilinadi»"
+  }
+ ],
+ "118": [
+  {
+   "q": "Jigar hujayralarida sporozoit nima hosil qiladi?",
+   "c": "Shizont",
+   "w": [
+    "Merozoit",
+    "Gipnozoit",
+    "Trofozoit",
+    "Sporozoit"
+   ],
+   "x": "«jigar hujayralariga kirib, ularning ichida ko'payadi. Bu bosqichda parazit shizont hosil qiladi»"
+  },
+  {
+   "q": "Tropik bezgak asosan qayerlarda keng tarqalgan?",
+   "c": "Afrika va boshqa tropik hududlarda",
+   "w": [
+    "Afrika va boshqa endemik hududlarda",
+    "Evropa va boshqa tropik hududlarda",
+    "Afrika va boshqa mamlakatlarda",
+    "Sayohatchilar va boshqa tropik hududlarda"
+   ],
+   "x": "«tropik bezgak asosan Afrika va boshqa tropik hududlarda keng tarqalgan»"
+  },
+  {
+   "q": "Tropik hududdan qaytgan isitmali bemor bilan nima qilinadi?",
+   "c": "Zudlik bilan qon surtmasi tekshiruvidan o'tkaziladi",
+   "w": [
+    "Zudlik bilan dori buyuriladi",
+    "Kuzatuvga qo'yiladi",
+    "Zudlik bilan intensiv terapiyaga yotqiziladi",
+    "Keyin qon surtmasi tekshiruvidan o'tkaziladi"
+   ],
+   "x": "«zudlik bilan qon surtmasi tekshiruvidan o'tkaziladi»"
+  },
+  {
+   "q": "Shoshilinch yordam tarkibiga nimalar kiradi?",
+   "c": "Suyuqlik balansini tiklash, qon glyukozasini nazorat qilish va organlar faoliyatini kuzatish",
+   "w": [
+    "Suyuqlik balansini tiklash, qon bosimini nazorat qilish va organlar faoliyatini kuzatish",
+    "Suyuqlik balansini buzish, qon glyukozasini nazorat qilish va organlar faoliyatini kuzatish",
+    "Suyuqlik balansini tiklash, qon glyukozasini oshirish va organlar faoliyatini kuzatish",
+    "Elektrolit balansini tiklash, qon glyukozasini nazorat qilish va parazitlar faoliyatini kuzatish"
+   ],
+   "x": "«Shoshilinch yordam tarkibiga suyuqlik balansini tiklash, qon glyukozasini nazorat qilish va organlar faoliyatini kuzatish kiradi»"
+  },
+  {
+   "q": "Qon bosimi pasayganda qanday tayanch choralar qo'llaniladi?",
+   "c": "Suyuqlik va elektrolitlar balansini tiklash, kislorod terapiyasi",
+   "w": [
+    "Suyuqlik va elektrolitlar balansini buzish, kislorod terapiyasi",
+    "Suyuqlik va glyukoza balansini tiklash, nafas terapiyasi",
+    "Elektrolit va ishqor balansini tiklash, kislota terapiyasi",
+    "Suyuqlik va elektrolitlar balansini tiklash, shizont terapiyasi"
+   ],
+   "x": "«suyuqlik va elektrolitlar balansini tiklash, kislorod terapiyasi va boshqa tayanch choralar qo'llaniladi»"
+  },
+  {
+   "q": "Endemik mintaqalarda nima muntazam monitoring qilinadi?",
+   "c": "Dori qarshiligi",
+   "w": [
+    "Chivin miqdori",
+    "Sayohatchilar yuklamasi",
+    "Shizont yuklamasi",
+    "Kasallik xavfi"
+   ],
+   "x": "«endemik mintaqalarda dori qarshiligi muntazam monitoring qilinadi»"
+  },
+  {
+   "q": "Og'ir P. falciparum bemorida qaysi ko'rsatkichlar kuzatiladi?",
+   "c": "Parazit zichligi, qon glyukozasi, laktat darajasi va buyrak funksiyasi",
+   "w": [
+    "Parazit zichligi, qon bosimi, laktat darajasi va buyrak funksiyasi",
+    "Parazit zichligi, qon glyukozasi, laktat darajasi va jigar funksiyasi",
+    "Parazit zichligi, qon glyukozasi, kislota darajasi va buyrak funksiyasi",
+    "Merozoit zichligi, qon glyukozasi, laktat darajasi va buyrak funksiyasi"
+   ],
+   "x": "«parazit zichligi, qon glyukozasi, laktat darajasi va buyrak funksiyasi har bir soat yoki bir necha soatda kuzatiladi»"
+  },
+  {
+   "q": "Tiklangan bemorlarda kamqonlik va holsizlik qancha davom etishi mumkin?",
+   "c": "Bir necha hafta",
+   "w": [
+    "Bir necha soat",
+    "Bir necha dori",
+    "Bir necha bosqich",
+    "Bir necha holat"
+   ],
+   "x": "«kamqonlik va holsizlik bir necha hafta davom etishi mumkin»"
+  },
+  {
+   "q": "Tropik bezgak tashxisi qo'yilgunga qadar kechikish davrida nima ortishi mumkin?",
+   "c": "Parazit miqdori",
+   "w": [
+    "Dori qarshiligi",
+    "Chivin miqdori",
+    "Elektrolit miqdori",
+    "Glyukoza miqdori"
+   ],
+   "x": "«Shu kechikish davrida parazit miqdori ortishi mumkin»"
+  },
+  {
+   "q": "Davolashdan keyin parazit qayta paydo bo'lsa, nimalar tekshiriladi?",
+   "c": "Dori qarshiligi yoki davolashning noto'g'ri tartibi",
+   "w": [
+    "Dori narxi yoki davolashning noto'g'ri tartibi",
+    "Dori qarshiligi yoki davolashning to'g'ri tartibi",
+    "Chivin qarshiligi yoki davolashning noto'g'ri tartibi",
+    "Dori qarshiligi yoki sayohatning noto'g'ri tartibi"
+   ],
+   "x": "«Parazit qayta paydo bo'lsa, dori qarshiligi yoki davolashning noto'g'ri tartibi tekshiriladi»"
+  }
+ ],
+ "119": [
+  {
+   "q": "Lamblioz qanday yuqadi?",
+   "c": "Kistani og'iz orqali yutish natijasida",
+   "w": [
+    "Kistani teri orqali yutish natijasida",
+    "Trofozoitni og'iz orqali yutish natijasida",
+    "Kistani chivin orqali yutish natijasida",
+    "Kistani suvga yutish natijasida"
+   ],
+   "x": "«Giardia lamblia kistasini og'iz orqali yutish natijasida yuqadi»"
+  },
+  {
+   "q": "Kistalar qanday suvda uzoq vaqt saqlanadi?",
+   "c": "Xlorlanmagan yoki yetarlicha tozalanmagan suvda",
+   "w": [
+    "Xlorlangan yoki yetarlicha tozalangan suvda",
+    "Xlorlanmagan yoki yetarlicha qaynatilgan suvda",
+    "Xlorlanmagan yoki yetarlicha tozalangan suvda",
+    "Xlorlangan yoki yetarlicha tozalanmagan suvda"
+   ],
+   "x": "«Kistalar xlorlanmagan yoki yetarlicha tozalanmagan suvda uzoq vaqt saqlanadi»"
+  },
+  {
+   "q": "Suv orqali yuqish qaysi guruhlar orasida ayniqsa keng uchraydi?",
+   "c": "Bolalar va sayohatchilar",
+   "w": [
+    "Bolalar va xodimlar",
+    "Oila va sayohatchilar",
+    "Bolalar va mijozlar",
+    "Sayohatchilar va restoranlar"
+   ],
+   "x": "«Suv orqali yuqish bolalar va sayohatchilar orasida ayniqsa keng uchraydi»"
+  },
+  {
+   "q": "Lambliyani qaysi omillar tarqatadi?",
+   "c": "Yuvilmagan sabzavot va mevalar, ifloslangan qo'llar va bemor bilan bevosita aloqa",
+   "w": [
+    "Yuvilgan sabzavot va mevalar, ifloslangan qo'llar va bemor bilan bevosita aloqa",
+    "Yuvilmagan sabzavot va mevalar, toza qo'llar va bemor bilan bevosita aloqa",
+    "Yuvilmagan sabzavot va mevalar, ifloslangan qo'llar va bemor bilan hujjat aloqa",
+    "Yuvilmagan sabzavot va mevalar, ifloslangan idishlar va bemor bilan ochiq aloqa"
+   ],
+   "x": "«Yuvilmagan sabzavot va mevalar, ifloslangan qo'llar va bemor bilan bevosita aloqa lambliyani tarqatadi»"
+  },
+  {
+   "q": "Lambliozda autoinfeksiya nima bilan bog'liq?",
+   "c": "Qo'l orqali kistalarning og'izga tushishi",
+   "w": [
+    "Qo'l orqali trofozoitlarning og'izga tushishi",
+    "Suv orqali kistalarning og'izga tushishi",
+    "Qo'l orqali kistalarning ichakka tushishi",
+    "Kiyim orqali kistalarning og'izga tushishi"
+   ],
+   "x": "«Bu holat qo'l orqali kistalarning og'izga tushishi bilan bog'liq»"
+  },
+  {
+   "q": "Kistalar ichakda nimaga aylanadi?",
+   "c": "Trofozoitlarga",
+   "w": [
+    "Kistalarga",
+    "Giardialarga",
+    "Xodimlarga",
+    "Bolalarga"
+   ],
+   "x": "«Kistalar ichakda trofozoitlarga aylanib, ichak devorida ko'payadi»"
+  },
+  {
+   "q": "Sayohatchilarga qanday tavsiyalar beriladi?",
+   "c": "Suvni qaynatib ichish, muzni ehtiyotkorlik bilan tanlash va ko'chma ovqatdan saqlanish",
+   "w": [
+    "Suvni qaynatib ichish, muzni ko'p ishlatish va ko'chma ovqatdan saqlanish",
+    "Suvni xlorlab ichish, muzni ehtiyotkorlik bilan tanlash va ko'chma ovqatdan saqlanish",
+    "Suvni qaynatib ichish, muzni ehtiyotkorlik bilan tanlash va ko'chma ovqatni ko'proq iste'mol qilish",
+    "Suvni qaynatib ichish, muzni ehtiyotkorlik bilan tanlash va restoranlardan saqlanish"
+   ],
+   "x": "«Sayohatchilarga suvni qaynatib ichish, muzni ehtiyotkorlik bilan tanlash va ko'chma ovqatdan saqlanish tavsiya etiladi»"
+  },
+  {
+   "q": "Sayohatdan qaytgan bemorda ich ketishi davom etsa, nima qilinadi?",
+   "c": "Lamblioz tekshiruvdan o'tkaziladi",
+   "w": [
+    "Lamblioz tekshiruvdan o'tkazilmaydi",
+    "Suv tekshiruvdan o'tkaziladi",
+    "Sayohat tekshiruvdan o'tkaziladi",
+    "Hojatxona tekshiruvdan o'tkaziladi"
+   ],
+   "x": "«Sayohatdan qaytgan bemorda ich ketishi davom etsa, lamblioz tekshiruvdan o'tkaziladi»"
+  },
+  {
+   "q": "Sanitariya infratuzilmasi eski yoki buzilgan bo'lsa, nima bo'lishi mumkin?",
+   "c": "Najas ichimlik suviga aralashib, kistalar tarqalishi mumkin",
+   "w": [
+    "Najas ichimlik suviga aralashib, kistalar kamayishi mumkin",
+    "Suv najasga aralashib, kistalar tarqalishi mumkin",
+    "Najas ichimlik suviga aralashib, trofozoitlar tarqalishi mumkin",
+    "Najas oziq-ovqatga aralashib, kistalar tarqalmasligi mumkin"
+   ],
+   "x": "«najas ichimlik suviga aralashib, kistalar tarqalishi mumkin»"
+  },
+  {
+   "q": "Bolalar bog'chasiga qaytishda nima talab qilinishi xavfni kamaytiradi?",
+   "c": "Tekshiruvdan o'tgani haqida hujjat",
+   "w": [
+    "Davolanganlik haqida hujjat",
+    "Tekshiruvdan o'tmagani haqida hujjat",
+    "Tekshiruvdan o'tgani haqida eslatma",
+    "Sayohatdan qaytgani haqida hujjat"
+   ],
+   "x": "«Bolalar bog'chasiga qaytishda bolalarning tekshiruvdan o'tgani haqida hujjat talab qilinishi xavfni kamaytiradi»"
+  }
+ ],
+ "120": [
+  {
+   "q": "Askaridaning inson organizmidagi hayot aylanishi qaysi hodisa bilan tugaydi?",
+   "c": "Tuxumlarning tashqi muhitga chiqishi",
+   "w": [
+    "Tuxumlarning ichakda yetilishi",
+    "Lichinkaning o'pkaga o'tishi",
+    "Tuxumlarning odamga yutilishi",
+    "Gijjaning ichakda yetilishi"
+   ],
+   "x": "«tuxumlar tashqi muhitga chiqishi bilan tugaydi»"
+  },
+  {
+   "q": "Yutilgan tuxumdan chiqqan lichinka ichak devori orqali qayerga o'tadi?",
+   "c": "Qonga",
+   "w": [
+    "Tuproqqa",
+    "Najasga",
+    "Alveolaga",
+    "Yutqunga"
+   ],
+   "x": "«lichinka ingichka ichak devori orqali qonga o'tadi»"
+  },
+  {
+   "q": "Lichinka nafas yo'llariga chiqqach, qayerga ko'tarilib, qayta yutiladi?",
+   "c": "Yutqunga",
+   "w": [
+    "Alveolaga",
+    "Jigarga",
+    "Yurakka",
+    "Qonga"
+   ],
+   "x": "«so'ngra lichinka yutqunga ko'tarilib, qayta yutiladi»"
+  },
+  {
+   "q": "Hayot aylanishining qaysi bosqichi o'pka belgilariga sabab bo'lishi mumkin?",
+   "c": "Lichinka bosqichi",
+   "w": [
+    "Tuxum bosqichi",
+    "Voyaga yetgan bosqich",
+    "Najas bosqichi",
+    "Tuproq bosqichi"
+   ],
+   "x": "«Lichinka bosqichi o'pka belgilariga sabab bo'lishi mumkin, voyaga yetgan bosqich esa ichak belgilarini keltirib chiqaradi»"
+  },
+  {
+   "q": "Urug'lanmagan tuxumlar haqida nima deyiladi?",
+   "c": "Odatda kasallik qo'zg'atmaydi, lekin tekshiruvda ko'rinadi",
+   "w": [
+    "Odatda kasallik qo'zg'atadi, lekin tekshiruvda ko'rinmaydi",
+    "Odatda kasallik qo'zg'atmaydi va tekshiruvda ko'rinmaydi",
+    "Odatda kasallik qo'zg'atadi va tekshiruvda ko'rinadi",
+    "Odatda lichinka qo'zg'atmaydi, lekin tuproqda ko'rinadi"
+   ],
+   "x": "«Urug'lanmagan tuxumlar odatda kasallik qo'zg'atmaydi, lekin ular tekshiruvda ko'rinadi»"
+  },
+  {
+   "q": "Najas bilan chiqqan tuxumlar tashqi muhitda nima bo'ladi?",
+   "c": "Yetilib, yangi yuqish manbaiga aylanadi",
+   "w": [
+    "Yetilib, yangi lichinkaga aylanadi",
+    "Parchalanib, yangi yuqish manbaiga aylanadi",
+    "Yetilib, yangi ichak manbaiga aylanadi",
+    "Yetilib, yangi yuqish zanjiriga aylanadi"
+   ],
+   "x": "«Tuxumlar tashqi muhitda yetilib, yangi yuqish manbaiga aylanadi»"
+  },
+  {
+   "q": "Askarida tuxumlari tuproqda qanday saqlanadi?",
+   "c": "Uzoq vaqt, ba'zan yillab yashovchan bo'lib qoladi",
+   "w": [
+    "Qisqa vaqt, ba'zan kunlab yashovchan bo'lib qoladi",
+    "Uzoq vaqt, ba'zan yillab yashovchan bo'lmay qoladi",
+    "Uzoq vaqt, ba'zan yillab quruq bo'lib qoladi",
+    "Uzoq vaqt, ba'zan yillab ifloslangan bo'lib qoladi"
+   ],
+   "x": "«Askarida tuxumlari tuproqda uzoq vaqt, ba'zan yillab yashovchan bo'lib qoladi»"
+  },
+  {
+   "q": "Uchta bo'g'indan birortasi bajarilmasa, yuqish zanjiri nima bo'ladi?",
+   "c": "Davom etadi",
+   "w": [
+    "Tugaydi",
+    "Sekinlashadi",
+    "Kamayadi",
+    "Tezlashadi"
+   ],
+   "x": "«Agar bu uchta bo'g'indan birortasi bajarilmasa, zanjir davom etadi»"
+  },
+  {
+   "q": "Askaridaning hayot siklida inson qanday bo'g'in hisoblanadi?",
+   "c": "Ham zararlanuvchi, ham tuxum tarqatuvchi",
+   "w": [
+    "Zararlanuvchi bo'g'in",
+    "Faqat tuxum tarqatuvchi",
+    "Ham oraliq, ham oxirgi xo'jayin",
+    "Ham zararlanuvchi, ham lichinka tarqatuvchi"
+   ],
+   "x": "«inson ham zararlanuvchi, ham tuxum tarqatuvchi bo'g'in hisoblanadi»"
+  },
+  {
+   "q": "Tuproqning ifloslanishini kamaytirish uchun nima zarur?",
+   "c": "Najasni ochiq joyga tashlamaslik va sanitariya tartibini saqlash",
+   "w": [
+    "Najasni ochiq joyga tashlash va sanitariya tartibini saqlash",
+    "Najasni ochiq joyga tashlamaslik va tuproqni namlash",
+    "Najasni yopiq joyga tashlamaslik va sanitariya tartibini buzish",
+    "Tuxumni ochiq joyga tashlamaslik va sanitariya tartibini saqlash"
+   ],
+   "x": "«Tuproqning ifloslanishini kamaytirish uchun najasni ochiq joyga tashlamaslik va sanitariya tartibini saqlash zarur»"
+  }
+ ]
+}

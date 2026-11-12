@@ -1,0 +1,562 @@
+{
+  "016": [
+    {
+      "q": "Ostritsaning oxirgi xo'jayini kim?",
+      "c": "Odamning o'zi",
+      "w": [
+        "Oraliq xo'jayin",
+        "Urg'ochi gijja",
+        "Erkak gijja",
+        "Bemor kontaktlari"
+      ],
+      "x": "«Shuning uchun gijjaning oxirgi xo'jayini odamning o'zi hisoblanadi»"
+    },
+    {
+      "q": "Ostritsa gijjasi odam organizmida qayerda yashaydi?",
+      "c": "Yo'g'on ichakda va ko'r ichak atrofida",
+      "w": [
+        "Ingichka ichakda va anal soha terisida",
+        "Yo'g'on ichakda va tirnoq ostida",
+        "Ko'r ichakda va ingichka ichakda",
+        "Ingichka ichakda va to'g'ri ichak ostida"
+      ],
+      "x": "«Gijja odamning yo'g'on ichagida va ko'r ichak atrofida yashaydi, urg'ochilari esa tuxum qo'yish uchun anal soha tomon harakat qiladi»"
+    },
+    {
+      "q": "Voyaga yetgan urg'ochi ostritsa odatda qachon anal soha atrofiga chiqib tuxum qo'yadi?",
+      "c": "Kechqurun yoki tunda",
+      "w": [
+        "Davolashdan keyin yoki ikki hafta oralig'ida",
+        "Qichishish paytida yoki tirnoq ostida",
+        "Ertalab yoki davolash vaqtida",
+        "Najas bilan yoki kiyim almashtirilganda"
+      ],
+      "x": "«Voyaga yetgan urg'ochi gijja odatda kechqurun yoki tunda anal soha atrofiga chiqib, tuxum qo'yadi»"
+    },
+    {
+      "q": "Retroinfeksiya nima?",
+      "c": "Bemorning o'zini qayta zararlashi",
+      "w": [
+        "Urg'ochi gijjaning ichakka qaytishi",
+        "Erkak gijjaning ichakda o'lishi",
+        "Tuxumlarning changda havoga ko'tarilishi",
+        "Davolashdan keyin qayta tekshirish"
+      ],
+      "x": "«Tuxumlar qichishish paytida bemorning tirnog'i ostiga tushadi va qo'l orqali og'izga qayta yutiladi. Shu tarzda bemor o'zini qayta zararlaydi, bu jarayon retroinfeksiya deb ataladi va kasallikni uzoq davom ettiradi»"
+    },
+    {
+      "q": "Retroinfeksiya nimaning asosiy sababi hisoblanadi?",
+      "c": "Kasallikning davolashdan keyin ham takrorlanishi",
+      "w": [
+        "Erkak gijjaning najasda topilishi",
+        "Tuxumlarning ingichka ichakda chiqishi",
+        "Bir martalik tekshiruvda manfiy natija",
+        "Gijja siklining bir necha hafta davom etishi"
+      ],
+      "x": "«Retroinfeksiya kasallikning davolashdan keyin ham takrorlanishining asosiy sababi hisoblanadi»"
+    },
+    {
+      "q": "Enterobiozni davolashdan keyin samaradorlik qaysi usul orqali tekshirilib baholanadi?",
+      "c": "Saskob usuli orqali",
+      "w": [
+        "Najas tekshiruvi orqali",
+        "Davolash muddati orqali",
+        "Immunitet holati orqali",
+        "Gigiyena qoidalari orqali"
+      ],
+      "x": "«Davolash samaradorligi davolashdan keyin saskob usuli bilan tekshirilib baholanadi»"
+    },
+    {
+      "q": "Ikki hafta oralig'idagi takroriy doza nimani yo'q qilish uchun zarur?",
+      "c": "Tuxumdan chiqqan yangi gijjalarni",
+      "w": [
+        "Voyaga yetgan erkak gijjalarni",
+        "Tuxumlarni teri yuzasidan",
+        "Kiyim va choyshabdagi tuxumlarni",
+        "Yo'g'on ichakdagi lichinkalarni"
+      ],
+      "x": "«Ko'pincha ikki hafta oralig'ida takroriy doza beriladi, bu tuxumdan chiqqan yangi gijjalarni yo'q qilish uchun zarur»"
+    },
+    {
+      "q": "Odam organizmi ostritsa infeksiyasiga nisbatan qanday immunitet hosil qiladi?",
+      "c": "Kuchli immunitet hosil qilmaydi",
+      "w": [
+        "Tuxum qo'yilgandan keyin immunitet hosil qiladi",
+        "Bolalarda kuchli immunitet hosil qiladi",
+        "Davolashdan keyin kuchli immunitet hosil qiladi",
+        "Oilada kuchli immunitet hosil qiladi"
+      ],
+      "x": "«Odam organizmi ostritsa infeksiyasiga nisbatan kuchli immunitet hosil qilmaydi»"
+    },
+    {
+      "q": "Erkak ostritsani najasda topish nima uchun qiyin?",
+      "c": "Ichakda juftlashgandan keyin ko'pincha o'ladi",
+      "w": [
+        "Anal soha atrofiga chiqib tuxum qo'yadi",
+        "Urg'ochisidan kattaroq va tirnoq ostida yashaydi",
+        "Kechqurun yo'g'on ichakda yashiringan bo'ladi",
+        "Qo'l orqali og'izga qayta yutiladi"
+      ],
+      "x": "«Erkak gijja ichakda juftlashgandan keyin ko'pincha o'ladi, shu sababli ularni najasda topish odatda qiyin bo'ladi»"
+    },
+    {
+      "q": "Oilada bir necha bemor bo'lsa, davolash necha kun ichida bajarilishi tavsiya etiladi?",
+      "c": "Bitta kun ichida",
+      "w": [
+        "Ikki hafta ichida",
+        "Bir necha hafta ichida",
+        "Bir necha kun ichida",
+        "Har bir bemorda alohida kunlarda"
+      ],
+      "x": "«Oilada bir necha bemor bo'lsa, davolash bitta kun ichida bajarilishi va ularning kiyim-kechaklari bir vaqtda almashtirilishi tavsiya etiladi»"
+    }
+  ],
+  "017": [
+    {
+      "q": "Sporozoit nima?",
+      "c": "Chivin so'lak bezlarida yetilgan yuqumli shakl",
+      "w": [
+        "Eritrotsitlarda yetilgan yuqumli shakl",
+        "Jigarda hosil bo'lgan merozoit shakli",
+        "Chivin ichagida yetilgan jinsiy shakl",
+        "Teri ostida yetilgan yuqumsiz shakl"
+      ],
+      "x": "«Sporozoit bezgak qo'zg'atuvchisining chivin so'lak bezlarida yetilgan yuqumli shakli bo'lib, u chivin chaqqanda odam qoniga tushadi»"
+    },
+    {
+      "q": "Sporozoitlar jigarda qaysi hujayralarga kiradi?",
+      "c": "Hepatotsitlarga",
+      "w": [
+        "Eritrotsitlarga",
+        "Kapillyarlarga",
+        "Merozoitlarga",
+        "Shizontlarga"
+      ],
+      "x": "«qon oqimi orqali jigarga boradi va hepatotsitlarga kiradi»"
+    },
+    {
+      "q": "Sporozoitlar jigarda qaysi bosqichda ko'payadi?",
+      "c": "Ekzoeritrositar bosqichda",
+      "w": [
+        "Eritrotsitar bosqichda",
+        "Jinsiy bosqichda",
+        "Yashirin bosqichda",
+        "Sporozoit bosqichida"
+      ],
+      "x": "«Bu yerda ular ekzoeritrositar bosqichda ko'payadi»"
+    },
+    {
+      "q": "Merozoitlar jigardan qonga chiqqanda qaysi bosqich boshlanadi?",
+      "c": "Eritrotsitar bosqich",
+      "w": [
+        "Ekzoeritrositar bosqich",
+        "Jinsiy bosqich",
+        "Yashirin bosqich",
+        "Sporozoit bosqichi"
+      ],
+      "x": "«Jigarda bir necha kun davomida parazit yetiladi va merozoitlar hosil qilib, qonga chiqadi, bu eritrotsitar bosqichning boshlanishi bo'ladi»"
+    },
+    {
+      "q": "Sporozoitlarning kam dozada yuqishi nimaning muhimligini oshiradi?",
+      "c": "Chivin nazoratining",
+      "w": [
+        "Immunitetni baholashning",
+        "Vaktsina yaratishning",
+        "Jigar bosqichi davomiyligining",
+        "Shizont yorilishining"
+      ],
+      "x": "«Sporozoitlarning kam dozada yuqishi chivin nazoratining muhimligini oshiradi»"
+    },
+    {
+      "q": "Sporozoitga qarshi vaktsina nimani to'xtatishi kerak?",
+      "c": "Sporozoitlarni jigarga kirishdan oldin",
+      "w": [
+        "Merozoitlarni eritrotsitlarga kirishdan oldin",
+        "Shizontlarni jigarda yorilishdan oldin",
+        "Chivinni odamni chaqishdan oldin",
+        "Sporozoitlarni chivin so'lagiga o'tishdan oldin"
+      ],
+      "x": "«Vaktsina sporozoitlarni jigarga kirishdan oldin to'xtatishi kerak, shuning uchun ushbu bosqich ilmiy tadqiqotlarda alohida e'tiborga olinadi»"
+    },
+    {
+      "q": "Chivin so'lagida qanday moddalar bo'ladi?",
+      "c": "Antikoagulyant va og'riqsizlantiruvchi moddalar",
+      "w": [
+        "Immunitetni oshiruvchi va qonni quyultiruvchi moddalar",
+        "Hepatotsitlarni yo'qotuvchi moddalar",
+        "Merozoitlarni yo'qotuvchi moddalar",
+        "Sporozoitlarni to'xtatuvchi moddalar"
+      ],
+      "x": "«Chivin so'lagida antikoagulyant va og'riqsizlantiruvchi moddalar bo'ladi»"
+    },
+    {
+      "q": "Chivin chaqishi nima uchun ko'pincha odam tomonidan sezilmaydi?",
+      "c": "So'lakdagi moddalar og'riq va qichishishni kamaytiradi",
+      "w": [
+        "So'lakdagi moddalar qonni quyultiradi",
+        "So'lakdagi moddalar sporozoitlarni to'xtatadi",
+        "Chaqish belgisi bir necha kun saqlanadi",
+        "Chivin qonni uzoq vaqt so'radi"
+      ],
+      "x": "«Chivin chaqishi ko'pincha odam tomonidan sezilmaydi, chunki chivin so'lagidagi moddalar og'riqni va qichishishni kamaytiradi»"
+    },
+    {
+      "q": "Sporozoitlar chivin so'lak bezlariga qachon yetiladi?",
+      "c": "Parazit chivin ichagida jinsiy bosqichdan o'tgandan keyin",
+      "w": [
+        "Parazit eritrotsitlarda jinsiy bosqichdan o'tgandan keyin",
+        "Parazit jigarda shizont hosil qilgandan keyin",
+        "Parazit teri ostida merozoit hosil qilgandan keyin",
+        "Chivin odamni chaqqandan keyin"
+      ],
+      "x": "«Sporozoitlar chivin so'lak bezlariga faqat chivinning ichagida parazit jinsiy bosqichdan o'tgandan keyin yetiladi»"
+    },
+    {
+      "q": "Tabiiy immunitet bezgakka qarshi nimani kamaytiradi?",
+      "c": "Og'ir kasallik xavfini",
+      "w": [
+        "Sporozoitlar sonini",
+        "Chivin chaqishini",
+        "Jigar bosqichi davomiyligini",
+        "Vaktsina samaradorligini"
+      ],
+      "x": "«Bu immunitet to'liq himoya bermaydi, lekin og'ir kasallik xavfini kamaytiradi»"
+    }
+  ],
+  "018": [
+    {
+      "q": "Bezgak istisno qilinishi uchun odatda necha marta manfiy natija olinishi kerak?",
+      "c": "Uch marta",
+      "w": [
+        "Bir marta",
+        "Ikki marta",
+        "Har bir surtmada",
+        "Har 12 soatda"
+      ],
+      "x": "«Odatda uch marta manfiy natija olinmaguncha bezgak istisno qilinmaydi»"
+    },
+    {
+      "q": "Birinchi tekshiruv manfiy, lekin belgilar saqlansa, tahlil qancha vaqtda takror olinadi?",
+      "c": "Har 12–24 soatda",
+      "w": [
+        "Har bir surtmada",
+        "Bir necha minutda",
+        "Tekshiruv tugagandan keyin",
+        "Tekshiruvdan oldin"
+      ],
+      "x": "«tahlil har 12–24 soatda takror olinadi»"
+    },
+    {
+      "q": "Qalin tomchi qanday maqsadda ishlatiladi?",
+      "c": "Parazitni aniqlash",
+      "w": [
+        "Turini aniqlash",
+        "Eritrotsitlarni sanash",
+        "Bo'yoqni tekshirish",
+        "Mikroskopni tekshirish"
+      ],
+      "x": "«Qalin tomchi parazitni aniqlash uchun, yupqa surtma esa turini aniqlash uchun ishlatiladi»"
+    },
+    {
+      "q": "Tez diagnostik test (RDT) manfiy bo'lsa ham, nima zarur?",
+      "c": "Surtma tekshiruvi",
+      "w": [
+        "Qon quyish",
+        "Surtmani quritish",
+        "Ikkinchi mutaxassisni chaqirmaslik",
+        "Bo'yoqni tekshirish"
+      ],
+      "x": "«Tez diagnostik test (RDT) manfiy bo'lsa ham surtma tekshiruvi zarur, chunki RDT ba'zi turlarni aniqlamasligi mumkin»"
+    },
+    {
+      "q": "Bemor qon bo'yicha kasallikdan xoli deb qachon baholanishi mumkin?",
+      "c": "Surtmalar bir necha marta manfiy bo'lsa",
+      "w": [
+        "Faqat bitta surtma manfiy bo'lsa",
+        "RDT manfiy bo'lsa, surtma olinmasa",
+        "Isitma belgilari saqlanib qolgan bo'lsa",
+        "Parazit miqdori past bo'lishi mumkin bo'lsa"
+      ],
+      "x": "«Bir necha marta olingan surtmalar manfiy bo'lsa va bemorda isitma belgilari yo'qolgan bo'lsa, bemor qon bo'yicha kasallikdan xoli deb baholanishi mumkin»"
+    },
+    {
+      "q": "Surtma tayyorlashdagi kamchiliklar natijani qanday qilishi mumkin?",
+      "c": "Soxta manfiy",
+      "w": [
+        "Soxta musbat",
+        "Aniq manfiy",
+        "Ishonchli musbat",
+        "Dinamik manfiy"
+      ],
+      "x": "«Surtma tayyorlashdagi kamchiliklar natijani soxta manfiy qilishi mumkin»"
+    },
+    {
+      "q": "Surtma natijasining ishonchliligi uchun nima tavsiya etiladi?",
+      "c": "Ikkinchi mutaxassis tomonidan tasdiqlash",
+      "w": [
+        "Bitta mikroskopchi tomonidan tasdiqlash",
+        "RDT natijasi bilan almashtirish",
+        "Bemor tomonidan tasdiqlash",
+        "Bir necha minutda o'qish"
+      ],
+      "x": "«Natijaning ishonchliligi uchun ikkinchi mutaxassis tomonidan tasdiqlash tavsiya etiladi»"
+    },
+    {
+      "q": "Bezgak parazitlari qonda qanday bo'ladi?",
+      "c": "Davriy ravishda ko'payib, qonga chiqadi",
+      "w": [
+        "Doimiy ravishda ko'payib, qonda turadi",
+        "Jigar bosqichida ko'payib, qonga chiqadi",
+        "Isitma bilan birga qonda yo'qoladi",
+        "Soxta manfiy natija berib, yo'qoladi"
+      ],
+      "x": "«Bezgak parazitlari qonda doimiy emas, balki davriy ravishda ko'payib, qonga chiqadi»"
+    },
+    {
+      "q": "Bezgakda qon tahlilining qaysi ko'rsatkichi ko'p hollarda kamayadi?",
+      "c": "Trombotsitlar",
+      "w": [
+        "Bilirubin",
+        "Jigar fermentlari",
+        "Yupqa surtma",
+        "Qalin tomchi"
+      ],
+      "x": "«Trombotsitlarning kamayishi ko'p hollarda bezgakda kuzatiladi va tashxisda yordamchi belgi hisoblanadi»"
+    },
+    {
+      "q": "Qon surtmasi natijasi qaysi ma'lumotlar bilan qayd etiladi?",
+      "c": "Tekshiruv sanasi, vaqti, usuli va tekshiruvchi imzosi",
+      "w": [
+        "Tekshiruv sanasi, bemor manzili, usuli va ota-ona imzosi",
+        "Bemor ismi, vaqti, usuli va shifokor imzosi",
+        "Tekshiruv sanasi, vaqti, narxi va bemor imzosi",
+        "Mikroskop holati, sanasi, usuli va tekshiruvchi imzosi"
+      ],
+      "x": "«Qon surtmasi natijasi tekshiruv sanasi, vaqti, usuli va tekshiruvchi imzosi bilan qayd etiladi»"
+    }
+  ],
+  "019": [
+    {
+      "q": "Lamblya kistasi odatda qanday shaklda bo'ladi?",
+      "c": "Ovalsimon shaklda",
+      "w": [
+        "Nok shaklida",
+        "Qaychi shaklida",
+        "Qamchi shaklida",
+        "Ixcham shaklda"
+      ],
+      "x": "«Odatda kista ovalsimon shaklda bo'lib, uzunligi taxminan 8–12 mikrometr, eni esa 7–10 mikrometr atrofida bo'ladi»"
+    },
+    {
+      "q": "Lamblya kistasining uzunligi taxminan qancha?",
+      "c": "8–12 mikrometr",
+      "w": [
+        "7–10 mikrometr",
+        "10–20 mikrometr",
+        "4–6 mikrometr",
+        "25–30 mikrometr"
+      ],
+      "x": "«Odatda kista ovalsimon shaklda bo'lib, uzunligi taxminan 8–12 mikrometr, eni esa 7–10 mikrometr atrofida bo'ladi»"
+    },
+    {
+      "q": "Yetilgan lamblya kistasi odatda nechta yadroga ega?",
+      "c": "4 ta yadro",
+      "w": [
+        "2 ta yadro",
+        "1 ta yadro",
+        "8 ta yadro",
+        "3 ta yadro"
+      ],
+      "x": "«Yetilgan kista odatda to'rtta yadroga ega»"
+    },
+    {
+      "q": "Trofozoitning uzunligi taxminan qancha?",
+      "c": "10–20 mikrometr",
+      "w": [
+        "8–12 mikrometr",
+        "7–10 mikrometr",
+        "4–6 mikrometr",
+        "25–30 mikrometr"
+      ],
+      "x": "«Trofozoit kistaga nisbatan kattaroq va shakli nok yoki qaychi shaklini eslatadi, uzunligi taxminan 10–20 mikrometr atrofida bo'ladi»"
+    },
+    {
+      "q": "Kista tashqi muhitda nima sababdan uzoq yashay oladi?",
+      "c": "Qobig'i qalin va chidamli",
+      "w": [
+        "Suvda uzoq yashamaydi",
+        "Faqat hujayra ichida yashaydi",
+        "Ichida qamchilar bo'lmaydi",
+        "Trofozoitdan kichik bo'ladi"
+      ],
+      "x": "«Qobig'i qalin va chidamli, shu sababli kista tashqi muhitda, masalan suvda, uzoq vaqt yashashi mumkin»"
+    },
+    {
+      "q": "Mikroskopda kistaning o'lchami nima yordamida o'lchanadi?",
+      "c": "Kalibrlangan okulyar yordamida",
+      "w": [
+        "Konsentratsiya usuli yordamida",
+        "Bo'yoq va preparat qalinligi yordamida",
+        "Filtr teshiklari yordamida",
+        "Standart birliklar yordamida"
+      ],
+      "x": "«Mikroskopda kistaning o'lchami kalibrlangan okulyar yordamida o'lchanadi»"
+    },
+    {
+      "q": "Kistani zararsizlantirish uchun eng ishonchli usul qaysi?",
+      "c": "Suvni qaynatish",
+      "w": [
+        "Suvni faqat xlor bilan tozalash",
+        "Oziq-ovqatni sovuq suvda yuvish",
+        "Suvni sovuq holda saqlash",
+        "Namunani konsentratsiya qilish"
+      ],
+      "x": "«Kistani zararsizlantirish uchun suvni qaynatish eng ishonchli usuldir»"
+    },
+    {
+      "q": "Filtrlash usulida kistalar o'tib ketmasligi uchun filtr teshiklari qanday bo'lishi kerak?",
+      "c": "Kistadan kichik",
+      "w": [
+        "Kistadan katta",
+        "Trofozoitdan katta",
+        "Trofozoitdan kichik",
+        "Yadrodan katta"
+      ],
+      "x": "«Filtrlash usullarida filtr teshiklari kistadan kichik bo'lishi kerak, aks holda kistalar o'tib ketadi»"
+    },
+    {
+      "q": "Kistaning qobig'i kistani nimadan himoya qiladi?",
+      "c": "Xlor va boshqa dezinfeksiya vositalaridan",
+      "w": [
+        "Trofozoit va qamchilar hamda yadrolardan",
+        "Filtr, qaynatish va ultrabinafsha nurlashdan",
+        "Najas, sabzavot va ifloslangan suvdan",
+        "Mikroskop, bo'yoq va preparat qalinligidan"
+      ],
+      "x": "«Lamblya kistasi qalin va elastik qobiq bilan o'ralgan bo'lib, bu qobiq kistani xlor va boshqa dezinfeksiya vositalaridan himoya qiladi»"
+    },
+    {
+      "q": "Kistalar sonining kamayishi nimani ko'rsatadi?",
+      "c": "Davolanish samaradorligini",
+      "w": [
+        "Kasallik og'irligini",
+        "Suv ta'minoti sifatining pasayishini",
+        "Filtr teshiklarining kattalashishini",
+        "Kista shaklini"
+      ],
+      "x": "«Miqdoriy baholash davolash natijasini aniqlashda foydali, chunki kistalar sonining kamayishi davolanish samaradorligini ko'rsatadi»"
+    }
+  ],
+  "020": [
+    {
+      "q": "Kasallik va o'limni kamaytirish uchun zarur chora-tadbirlar qaysi uch yo'nalishni o'z ichiga oladi?",
+      "c": "Erta aniqlash, samarali davolash va profilaktika",
+      "w": [
+        "Erta aniqlash, ommaviy davolash va monitoring",
+        "Monitoring, hisobot va davlat dasturi",
+        "Samarali davolash, xalqaro tajriba va hisobot",
+        "Profilaktika, ta'lim va hokimiyat"
+      ],
+      "x": "«Javob uch yo'nalishni o'z ichiga oladi: erta aniqlash, samarali davolash va profilaktika»"
+    },
+    {
+      "q": "Erta aniqlash nimani ta'minlaydi?",
+      "c": "Og'ir shaklga o'tishidan oldin tashxis qo'yilishini",
+      "w": [
+        "Hisobotlar yagona shaklda qayd etilishini",
+        "Davolash rejasiga rioya qilinishini",
+        "Resurslar xavfli hududga yo'naltirilishini",
+        "Resurslar taqsimlanishini"
+      ],
+      "x": "«Erta aniqlash bemorning kasallikni og'ir shaklga o'tishidan oldin tashxis qo'yilishini ta'minlaydi»"
+    },
+    {
+      "q": "Davolashning to'liqligi nimani kamaytiradi?",
+      "c": "Kasallikning takrorlanishini",
+      "w": [
+        "Sanitariya nazorati tizimini",
+        "Aholi xabardorligi darajasini",
+        "Xavf guruhlari holatini",
+        "Sanitariya xizmati holatini"
+      ],
+      "x": "«Davolashning to'liqligi kasallikning takrorlanishini kamaytiradi»"
+    },
+    {
+      "q": "Profilaktika chora-tadbirlari kasallikning qaysi zanjirini uzadi?",
+      "c": "Yuqish zanjirini",
+      "w": [
+        "Davolash zanjirini",
+        "Hisobot zanjirini",
+        "Monitoring zanjirini",
+        "Hamkorlik zanjirini"
+      ],
+      "x": "«Bu chora-tadbirlar kasallikning yuqish zanjirini uzadi»"
+    },
+    {
+      "q": "Har bir holat, davolash natijasi va o'lim sababi qayerda qayd etilishi kerak?",
+      "c": "Yagona hisobotda",
+      "w": [
+        "Yillik tahlilda",
+        "Targ'ibot materiallarida",
+        "Hamkorlik shartnomasida",
+        "Milliy strategiyada"
+      ],
+      "x": "«Har bir holat, davolash natijasi va o'lim sababi yagona hisobotda qayd etilishi kerak»"
+    },
+    {
+      "q": "Parazitar kasalliklar eng ko'p qaysi guruhlarda og'ir kechadi?",
+      "c": "Bolalar, homilador ayollar va qariyalar",
+      "w": [
+        "Mahalliy hokimiyat va sanitariya xodimlari",
+        "Sanitariya-epidemiologiya xizmati xodimlari",
+        "Mutaxassislar va shifokorlar hamda hokimiyat",
+        "Maktab va mahalla faollari"
+      ],
+      "x": "«Parazitar kasalliklar eng ko'p bolalar, homilador ayollar, qariyalar va immuniteti pasaygan odamlarda og'ir kechadi»"
+    },
+    {
+      "q": "Xavf guruhlarini aniqlash uchun qaysi vositalar birgalikda qo'llaniladi?",
+      "c": "Epidemiologik tahlil, tibbiy ko'riklar va aholi so'rovlari",
+      "w": [
+        "Epidemiologik tahlil, mobil brigadalar va laboratoriya uskunalari",
+        "Tibbiy ko'riklar, hamkorlik shartnomalari va yillik rejalar",
+        "Aholi so'rovlari, targ'ibot materiallari va mahalla faollari",
+        "Monitoring ko'rsatkichlari, xalqaro tavsiyalar va dasturlar"
+      ],
+      "x": "«Xavf guruhlarini aniqlash uchun epidemiologik tahlil, tibbiy ko'riklar va aholi so'rovlari birgalikda qo'llaniladi»"
+    },
+    {
+      "q": "Milliy darajada strategiyani amalga oshirish uchun nimalar belgilanishi kerak?",
+      "c": "Aniq maqsadlar, muddatlar va baholash mezonlari",
+      "w": [
+        "Aniq maqsadlar, shartnomalar va xalqaro tavsiyalar",
+        "Muddatlar, hamkor tashkilotlar va ko'rsatkichlar",
+        "Baholash mezonlari, targ'ibot materiallari va uskunalar",
+        "Maqsadlar, hamkor tashkilotlar va investitsiyalar"
+      ],
+      "x": "«Milliy darajada strategiyani amalga oshirish uchun aniq maqsadlar, muddatlar va baholash mezonlari belgilanishi kerak»"
+    },
+    {
+      "q": "Parazitologik xizmatning samaradorligi nimalarga bog'liq?",
+      "c": "Laboratoriya jihozlari, malakali kadrlar va ma'lumot tizimi sifati",
+      "w": [
+        "Hokimiyat qarorlari, shartnomalar va yillik rejalar",
+        "Mobil brigadalar, tibbiyot punktlari va qishloq shifokorlari",
+        "Targ'ibot materiallari, darslar va mahalla faollari",
+        "Hisobotlar, tahlil va monitoring ko'rsatkichlari"
+      ],
+      "x": "«Parazitologik xizmatning samaradorligi laboratoriya jihozlari, malakali kadrlar va ma'lumot tizimining sifatiga bog'liq»"
+    },
+    {
+      "q": "Qishloq va chekka hududlarda tekshiruv va davolashni nimalar ta'minlaydi?",
+      "c": "Mobil brigadalar, qishloq shifokorlari va tibbiyot punktlari",
+      "w": [
+        "Mahalla faollari va maktab o'qituvchilari",
+        "Davlat dasturlari, shartnomalar va yillik rejalar",
+        "Xalqaro tashkilotlar, hokimiyat va vazirlik",
+        "Laboratoriya jihozlari, ma'lumot tizimi va kadrlar"
+      ],
+      "x": "«Mobil brigadalar, qishloq shifokorlari va tibbiyot punktlari tekshiruv va davolashni ta'minlaydi»"
+    }
+  ]
+}

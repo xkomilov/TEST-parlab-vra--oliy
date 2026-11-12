@@ -1,0 +1,562 @@
+{
+ "100": [
+  {
+   "q": "Gimenolepidozda eng keng tarqalgan yuqish yo'li qaysi?",
+   "c": "Tuxumlarni bevosita yutish",
+   "w": [
+    "Tuxumlarni bevosita teshib o'tish",
+    "Lichinkani bevosita yutish",
+    "Tuxumlarni oraliq xo'jayin orqali yutish",
+    "Hasharotlarni bevosita yutish"
+   ],
+   "x": "«Eng keng tarqalgan yo'l — tuxumlarni bevosita yutish»"
+  },
+  {
+   "q": "Tuxumlar boshqa odamga qaysi yo'l bilan tushadi?",
+   "c": "Qo'llar, o'yinchoq yoki oziq-ovqat orqali",
+   "w": [
+    "Qo'llar, o'yinchoq yoki hojatxona orqali",
+    "Qo'llar, sport yoki oziq-ovqat orqali",
+    "Choyshab, o'yinchoq yoki ovqat orqali",
+    "Qo'llar, o'yinchoq yoki kiyimlar orqali"
+   ],
+   "x": "«qo'llar, o'yinchoq yoki oziq-ovqat orqali boshqa odamga tushadi»"
+  },
+  {
+   "q": "Hymenolepis nana uchun oraliq xo'jayin shartmi?",
+   "c": "Shart emas",
+   "w": [
+    "Shart",
+    "Asosiy",
+    "Hasharot",
+    "Oraliq"
+   ],
+   "x": "«Hymenolepis nana uchun oraliq xo'jayin shart emas»"
+  },
+  {
+   "q": "Najas bilan chiqqan gimenolepidoz tuxumlari qanday bo'ladi?",
+   "c": "Darhol yuqumli bo'ladi",
+   "w": [
+    "Oraliq xo'jayinda yuqumli bo'ladi",
+    "Hasharotda yuqumli bo'ladi",
+    "Ichak devorida yuqumli bo'ladi",
+    "Changda yuqumli bo'ladi"
+   ],
+   "x": "«tuxumlari najas bilan tashqariga chiqqandan keyin darhol yuqumli bo'ladi»"
+  },
+  {
+   "q": "Autoinfeksiya gimenolepidozda nima bilan bog'liq?",
+   "c": "Lichinkaning ichak devorini teshib, qayta tarqalishi",
+   "w": [
+    "Lichinkaning ichak devorini teshib, hasharotga tushishi",
+    "Tuxumning ichak devorini teshib, qayta tarqalishi",
+    "Lichinkaning najas bilan chiqib, qayta tarqalishi",
+    "Lichinkaning oraliq xo'jayinda qayta tarqalishi"
+   ],
+   "x": "«autoinfeksiya tuxumdan chiqqan lichinkaning ichak devorini teshib, qayta qon va ichak bo'lib tarqalishi bilan bog'liq»"
+  },
+  {
+   "q": "Bog'chada bitta bemor aniqlansa, nima qilinadi?",
+   "c": "Darhol tekshiriladi va davolanadi, guruhdagi boshqa bolalar ham tekshiriladi",
+   "w": [
+    "Darhol tekshiriladi va davolanadi, guruhdagi o'yinchoqlar ham tekshiriladi",
+    "Keyin tekshiriladi va davolanadi, guruhdagi boshqa bolalar ham tekshiriladi",
+    "Darhol tekshiriladi va dezinfeksiya qilinadi, guruhdagi boshqa bolalar ham tekshiriladi",
+    "Darhol tekshiriladi va davolanadi, guruhdagi boshqa bolalar ham davolanadi"
+   ],
+   "x": "«bitta bemor aniqlansa, u darhol tekshiriladi va davolanadi, shuningdek guruhdagi boshqa bolalar ham tekshiruvga jalb qilinadi»"
+  },
+  {
+   "q": "Gimenolepidoz tuxumlari hojatxonadan keyin qaysi yo'l bilan tarqaladi?",
+   "c": "Qo'l orqali",
+   "w": [
+    "Hasharot orqali",
+    "Choyshab orqali",
+    "Chang orqali",
+    "Oziq orqali"
+   ],
+   "x": "«Gimenolepidoz tuxumlari hojatxonadan keyin qo'l orqali tarqaladi»"
+  },
+  {
+   "q": "Oilaviy gigiyena jadvalida haftada bir marta nima belgilanadi?",
+   "c": "Choyshab almashtirish",
+   "w": [
+    "Qo'l yuvish",
+    "Tirnoqni tozalash",
+    "Hojatxonani almashtirish",
+    "Ovqatni almashtirish"
+   ],
+   "x": "«har kuni qo'l yuvish, haftada bir marta choyshab almashtirish va o'yinchoqlarni tozalash belgilanadi»"
+  },
+  {
+   "q": "Muassasalarda hojatxonalarni nazorat qilish va muntazam dezinfeksiya qilish nimani kamaytiradi?",
+   "c": "Yuqishni",
+   "w": [
+    "Gigiyenani",
+    "Jadvalni",
+    "Dinamikani",
+    "Nazoratni"
+   ],
+   "x": "«Muassasalarda hojatxonalarni nazorat qilish va muntazam dezinfeksiya qilish yuqishni kamaytiradi»"
+  },
+  {
+   "q": "Bolalarga gigiyena ko'nikmalari qanday o'rgatiladi?",
+   "c": "Yoshiga mos o'yin va hikoyalar orqali",
+   "w": [
+    "Yoshiga mos jadval va hikoyalar orqali",
+    "Yoshiga mos o'yin va jihozlar orqali",
+    "Vazniga mos o'yin va hikoyalar orqali",
+    "Yoshiga mos eslatmalar va hikoyalar orqali"
+   ],
+   "x": "«yoshiga mos o'yin va hikoyalar orqali o'rgatiladi»"
+  }
+ ],
+ "096": [
+  {
+   "q": "Najas namunasi imkon qadar tez laboratoriyaga yetkazilishi kerak, chunki trofozoitlar tashqi muhitda nima bo'ladi?",
+   "c": "Parchalanadi",
+   "w": [
+    "Saqlanadi",
+    "Yaxshi ko'rinadi",
+    "Notekis chiqadi",
+    "Idishda saqlanadi"
+   ],
+   "x": "«trofozoitlar tashqi muhitda tez parchalanadi»"
+  },
+  {
+   "q": "Duodenal aspirat qaysi shaklni aniqlashda foydali bo'lishi mumkin?",
+   "c": "Trofozoitlarni",
+   "w": [
+    "Kistalarni",
+    "Antigenlarni",
+    "Sistalarni",
+    "Formalinni"
+   ],
+   "x": "«Bu usul trofozoitlarni aniqlashda foydali bo'lishi mumkin»"
+  },
+  {
+   "q": "Antigen aniqlash testlari qanday cheklovga ega?",
+   "c": "Har bir laboratoriyada mavjud bo'lmasligi mumkin",
+   "w": [
+    "Har bir laboratoriyada sezgirligi past bo'lishi mumkin",
+    "Faqat invaziv laboratoriyada mavjud bo'lishi mumkin",
+    "Har bir namunada mavjud bo'lmasligi mumkin",
+    "Har bir hamshirada mavjud bo'lmasligi mumkin"
+   ],
+   "x": "«ammo har bir laboratoriyada mavjud bo'lmasligi mumkin»"
+  },
+  {
+   "q": "Namuna buyum oynasiga yoyilgach, qanday oyna bilan yopiladi?",
+   "c": "Qoplag'ich oyna",
+   "w": [
+    "Standart oyna",
+    "Rasmli oyna",
+    "Toza oyna",
+    "Yozma oyna"
+   ],
+   "x": "«Qoplag'ich oyna bilan yopilib, mikroskopda ko'riladi»"
+  },
+  {
+   "q": "Najas namunasi nimadan xoli bo'lishi kerak?",
+   "c": "Qon yoki shilimshiqdan",
+   "w": [
+    "Kista yoki antigendan",
+    "Formalin yoki konservantdan",
+    "Parazit yoki trofozoitdan",
+    "Lugol yoki eritmadan"
+   ],
+   "x": "«u suyuq yoki qattiq, qon yoki shilimshiqsiz bo'lishi kerak»"
+  },
+  {
+   "q": "Bemor najas namunasini o'zi yig'ishi uchun qanday ko'rsatma olishi kerak?",
+   "c": "Toza idish, namuna miqdori va topshirish vaqti",
+   "w": [
+    "Toza idish, konservant miqdori va topshirish vaqti",
+    "Sovutgich idish, namuna miqdori va topshirish vaqti",
+    "Toza idish, namuna miqdori va saqlash raqami",
+    "Toza idish, namuna ismi va topshirish arxivi"
+   ],
+   "x": "«toza idish, namuna miqdori va topshirish vaqti»"
+  },
+  {
+   "q": "Qanday ko'rsatma bo'lsa, bemor najas yig'ishda xatolar kamayadi?",
+   "c": "Yozma va rasmli",
+   "w": [
+    "Yozma va qisqa",
+    "Qisqa va ilmiy",
+    "Standart va qisqa",
+    "Ilmiy va invaziv"
+   ],
+   "x": "«Ko'rsatma yozma va rasmli bo'lsa, xatolar kamayadi»"
+  },
+  {
+   "q": "Namuna laboratoriyaga kelganda ro'yxatga olinganda qaysi ma'lumotlar yoziladi?",
+   "c": "Bemor ismi, yoshi, manzili, namuna turi va olingan sana",
+   "w": [
+    "Bemor ismi, yoshi, manzili, namuna turi va topshirish vaqti",
+    "Bemor ismi, yoshi, manzili, namuna raqami va olingan sana",
+    "Shifokor ismi, yoshi, manzili, namuna turi va olingan sana",
+    "Bemor ismi, yoshi, manzili, namuna hajmi va olingan sana"
+   ],
+   "x": "«bemor ismi, yoshi, manzili, namuna turi va olingan sana yozib qo'yiladi»"
+  },
+  {
+   "q": "Namuna sifati mezonlari qayerda yozma belgilanadi?",
+   "c": "Laboratoriya ichki reglamentida",
+   "w": [
+    "Laboratoriya ichki jurnalida",
+    "Laboratoriya ichki arxivida",
+    "Laboratoriya ichki hisobotida",
+    "Laboratoriya ichki ro'yxatida"
+   ],
+   "x": "«Sifat mezonlari laboratoriya ichki reglamentida yozma belgilanadi»"
+  },
+  {
+   "q": "Shubhali natijalarda namuna kim tomonidan qayta ko'riladi?",
+   "c": "Boshqa laborant tomonidan",
+   "w": [
+    "Shifokor tomonidan",
+    "Bemor tomonidan",
+    "Hamshira tomonidan",
+    "Hamshira va shifokor tomonidan"
+   ],
+   "x": "«namuna qayta tayyorlanib, boshqa laborant tomonidan ko'riladi»"
+  }
+ ],
+ "097": [
+  {
+   "q": "Parazitar kasalliklarga qarshi strategiya qaysi sohalarni o'z ichiga oladi?",
+   "c": "Tibbiy xizmat, sanitariya, ta'lim va ekologik nazorat",
+   "w": [
+    "Tibbiy xizmat, sanitariya, hokimiyat va ekologik nazorat",
+    "Tibbiy xizmat, mobil brigadalar, ta'lim va ekologik nazorat",
+    "Hukumat xizmati, sanitariya, ta'lim va ekologik nazorat",
+    "Tibbiy xizmat, sanitariya, ta'lim va xususiy nazorat"
+   ],
+   "x": "«Strategiya tibbiy xizmat, sanitariya, ta'lim va ekologik nazoratni o'z ichiga oladi»"
+  },
+  {
+   "q": "Davlat dasturlari nimalarni o'z ichiga oladi?",
+   "c": "Aholini ommaviy davolash, sanitariya sharoitini yaxshilash va tekshiruvlarni kengaytirish",
+   "w": [
+    "Aholini ommaviy o'qitish, sanitariya sharoitini yaxshilash va tekshiruvlarni kengaytirish",
+    "Aholini ommaviy davolash, sanitariya sharoitini yaxshilash va hisobotlarni kengaytirish",
+    "Aholini ommaviy davolash, hojatxona sharoitini yaxshilash va tekshiruvlarni kamaytirish",
+    "Aholini ommaviy davolash, sanitariya sharoitini kamaytirish va tekshiruvlarni kengaytirish"
+   ],
+   "x": "«Bu dasturlar aholini ommaviy davolash, sanitariya sharoitini yaxshilash va tekshiruvlarni kengaytirishni o'z ichiga oladi»"
+  },
+  {
+   "q": "Qaysi kundalik tadbirlar uzoq muddatli natija beradi?",
+   "c": "Sog'lom turmush tarzi darslari, ovqatlanish madaniyati va ochiq hojatxona sharoitini bartaraf etish",
+   "w": [
+    "Sog'lom turmush tarzi darslari, ovqatlanish madaniyati va ochiq hojatxona sharoitini yaxshilash",
+    "Sog'lom turmush tarzi darslari, ovqatlanish madaniyati va yopiq hojatxona sharoitini bartaraf etish",
+    "Sog'lom turmush tarzi darslari, mobil madaniyat va ochiq hojatxona sharoitini bartaraf etish",
+    "Xavfli turmush tarzi darslari, ovqatlanish madaniyati va ochiq hojatxona sharoitini bartaraf etish"
+   ],
+   "x": "«sog'lom turmush tarzi darslari, oilada ovqatlanish madaniyati va ochiq hojatxona sharoitini bartaraf etish kabi kundalik tadbirlar uzoq muddatli natija beradi»"
+  },
+  {
+   "q": "Jamoatchilik bilan olib boriladigan ishlar aholining nimasini oshiradi?",
+   "c": "Tibbiy xizmatga ishonchini",
+   "w": [
+    "Tibbiy xizmat xavfsizligini",
+    "Tibbiy brigadalar madaniyatini",
+    "Tibbiy xodimlar madaniyatini",
+    "Sanitariya hokimiyat ishonchini"
+   ],
+   "x": "«aholining tibbiy xizmatga ishonchini oshirib, kasallikni erta aniqlashga yordam beradi»"
+  },
+  {
+   "q": "Parazitologik xizmat mutaxassislari qaysi darajada ishlaydi?",
+   "c": "Tuman va viloyat darajasida",
+   "w": [
+    "Mahalla va viloyat darajasida",
+    "Tuman va maktab darajasida",
+    "Milliy va mahalla darajasida",
+    "Tuman va jahon darajasida"
+   ],
+   "x": "«Mutaxassislar tuman va viloyat darajasida ishlaydi»"
+  },
+  {
+   "q": "Parazitologik xizmat sohasidagi investitsiyalar qanday foyda beradi?",
+   "c": "Uzoq muddatli",
+   "w": [
+    "Ilmiy muddatli",
+    "Ommaviy muddatli",
+    "Mobil muddatli",
+    "Davlat muddatli"
+   ],
+   "x": "«bu sohadagi investitsiyalar uzoq muddatli foyda beradi»"
+  },
+  {
+   "q": "Ko'rsatkichlar doimiy kuzatilsa, tezda nima belgilanadi?",
+   "c": "Nazorat choralarining qaysi bosqichda kuchaytirilishi kerakligi",
+   "w": [
+    "Nazorat choralarining qaysi bosqichda kamaytirilishi kerakligi",
+    "Nazorat choralarining qaysi hududda kuchaytirilishi kerakligi",
+    "Dastur choralarining qaysi bosqichda kuchaytirilishi kerakligi",
+    "Nazorat choralarining qaysi bosqichda tasdiqlanishi kerakligi"
+   ],
+   "x": "«nazorat choralarining qaysi bosqichda kuchaytirilishi kerakligi tezda belgilanadi»"
+  },
+  {
+   "q": "Hamkorlik shartnomalari va yillik ish rejalari nimani belgilaydi?",
+   "c": "Javobgarlikni aniq",
+   "w": [
+    "Hamkorlikni aniq",
+    "Tendensiyani aniq",
+    "Javobgarlikni ilmiy",
+    "Strategiyani aniq"
+   ],
+   "x": "«Hamkorlik shartnomalari va yillik ish rejalari bu jarayonni tartibga soladi, javobgarlikni aniq belgilaydi»"
+  },
+  {
+   "q": "Yillik tahlil nimaga xizmat qiladi?",
+   "c": "Resurslarni eng ko'p kerak bo'lgan joyga yo'naltirishga",
+   "w": [
+    "Resurslarni eng kam kerak bo'lgan joyga yo'naltirishga",
+    "Hisobotni eng ko'p kerak bo'lgan joyga yo'naltirishga",
+    "Resurslarni eng ko'p kerak bo'lgan hokimiyatga yo'naltirishga",
+    "Hududlarni eng ko'p kerak bo'lgan joyga almashtirishga"
+   ],
+   "x": "«Bunday tahlil resurslarni eng ko'p kerak bo'lgan joyga yo'naltirishga xizmat qiladi»"
+  },
+  {
+   "q": "Bemorlarning tibbiy xizmatga kirishi qulay bo'lsa, nima bo'ladi?",
+   "c": "Kasallik erta aniqlanadi va asoratlar kamayadi",
+   "w": [
+    "Kasallik kech aniqlanadi va asoratlar kamayadi",
+    "Kasallik erta aniqlanadi va asoratlar ko'payadi",
+    "Kasallik erta aniqlanadi va xarajatlar kamayadi",
+    "Xizmat erta aniqlanadi va asoratlar kamayadi"
+   ],
+   "x": "«kasallik erta aniqlanadi va asoratlar kamayadi»"
+  }
+ ],
+ "098": [
+  {
+   "q": "Isitma xuruji nimalar bilan bog'liq deb hisoblanadi?",
+   "c": "Eritrotsitlar parchalanganda qonga chiqqan parazit oqsillari va moddalari",
+   "w": [
+    "Eritrotsitlar parchalanganda qonga chiqqan gemoglobin oqsillari va moddalari",
+    "Leykotsitlar parchalanganda qonga chiqqan parazit oqsillari va moddalari",
+    "Eritrotsitlar to'planganda qonga chiqqan parazit oqsillari va moddalari",
+    "Eritrotsitlar parchalanganda taloqqa chiqqan parazit oqsillari va moddalari"
+   ],
+   "x": "«Isitma xuruji eritrotsitlar parchalanganda qonga chiqqan parazit oqsillari va moddalari bilan bog'liq deb hisoblanadi»"
+  },
+  {
+   "q": "Parazit moddalari gipotalamusda nimani o'zgartiradi?",
+   "c": "Harorat boshqaruvini",
+   "w": [
+    "Qon boshqaruvini",
+    "Nafas boshqaruvini",
+    "Jigar boshqaruvini",
+    "Immun boshqaruvini"
+   ],
+   "x": "«gipotalamusda harorat boshqaruvini o'zgartiradi»"
+  },
+  {
+   "q": "Bezgakda kamqonlik qaysi organda qon hosil bo'lishining sekinlashuvi bilan ham bog'liq?",
+   "c": "Suyak iligida",
+   "w": [
+    "Taloqda",
+    "Jigarda",
+    "Gipotalamusda",
+    "Qorinda"
+   ],
+   "x": "«suyak iligida qon hosil bo'lishining sekinlashuvi»"
+  },
+  {
+   "q": "Kamqonlik qaysi guruhlarda ayniqsa xavfli bo'ladi?",
+   "c": "Bolalarda va homilador ayollarda",
+   "w": [
+    "Kattalarda va homilador ayollarda",
+    "Bolalarda va kattalarda",
+    "Homilador ayollarda va leykemiyada",
+    "Bolalarda va endemik ayollarda"
+   ],
+   "x": "«Kamqonlik bolalarda va homilador ayollarda ayniqsa xavfli bo'ladi»"
+  },
+  {
+   "q": "Bolalarda isitma tez ko'tarilib, nima bilan birga kelishi mumkin?",
+   "c": "Tutqanoq yoki qusish",
+   "w": [
+    "Nafas qisilishi yoki charchoq",
+    "Bosh aylanishi yoki qusish",
+    "Charchoq yoki holsizlik",
+    "Nafas qisilishi yoki terlash"
+   ],
+   "x": "«Isitma tez ko'tarilib, tutqanoq yoki qusish bilan birga kelishi mumkin»"
+  },
+  {
+   "q": "Davolashdan keyin ham isitma davom etsa, bu nimaning belgisi bo'lishi mumkin?",
+   "c": "Dori qarshiligi yoki boshqa asorat",
+   "w": [
+    "Dori narxi yoki boshqa asorat",
+    "Dori qarshiligi yoki boshqa kasallik",
+    "Parazit qarshiligi yoki boshqa asorat",
+    "Dori qarshiligi yoki boshqa guruh"
+   ],
+   "x": "«bu dori qarshiligi yoki boshqa asorat belgisi bo'lishi mumkin»"
+  },
+  {
+   "q": "Triada belgilari qaysi kasalliklar bilan farqlanishi kerak?",
+   "c": "Yuqumli mononukleoz, leykemiya yoki surunkali jigar kasalliklari",
+   "w": [
+    "Yuqumli mononukleoz, leykemiya yoki surunkali taloq kasalliklari",
+    "Yuqumli mononukleoz, kamqonlik yoki surunkali jigar kasalliklari",
+    "Yuqumli bezgak, leykemiya yoki surunkali jigar kasalliklari",
+    "Yuqumli mononukleoz, leykemiya yoki surunkali isitma kasalliklari"
+   ],
+   "x": "«masalan yuqumli mononukleoz, leykemiya yoki surunkali jigar kasalliklari bilan farqlanishi kerak»"
+  },
+  {
+   "q": "Taloq yorilishi xavfi bor bemorlarda shifokor nimani yaqindan kuzatadi?",
+   "c": "Qorin og'rig'i va qon bosimini",
+   "w": [
+    "Jigar og'rig'i va qon bosimini",
+    "Qorin og'rig'i va nafas bosimini",
+    "Qorin hajmi va qon bosimini",
+    "Qorin og'rig'i va isitma bosimini"
+   ],
+   "x": "«shifokor qorin og'rig'i va qon bosimini yaqindan kuzatadi»"
+  },
+  {
+   "q": "Davolash boshlangach isitma xurujlari odatda qancha vaqt ichida to'xtaydi?",
+   "c": "Bir necha kun ichida",
+   "w": [
+    "Bir necha soat ichida",
+    "Bir necha hafta ichida",
+    "Bir necha marta ichida",
+    "Bir necha xuruj ichida"
+   ],
+   "x": "«isitma xurujlari odatda bir necha kun ichida to'xtaydi»"
+  },
+  {
+   "q": "Triada belgilari yo'qolgach, bemor qancha vaqt holsizlik sezishi mumkin?",
+   "c": "Bir necha hafta davomida",
+   "w": [
+    "Bir necha kun davomida",
+    "Bir necha soat davomida",
+    "Bir necha marta davomida",
+    "Bir necha xuruj davomida"
+   ],
+   "x": "«bemor bir necha hafta davomida holsizlik va charchoq sezishi mumkin»"
+  }
+ ],
+ "099": [
+  {
+   "q": "O'zbekistonda eng ko'p uchraydigan bezgak turi qaysi?",
+   "c": "Uch kunlik bezgak (P. vivax)",
+   "w": [
+    "To'rt kunlik bezgak (P. malariae)",
+    "Tropik bezgak (P. falciparum)",
+    "Uchga o'xshash bezgak (P. ovale)",
+    "Uch kunlik bezgak (P. malariae)"
+   ],
+   "x": "«eng ko'p uchraydigan tur uch kunlik bezgak (P. vivax) hisoblanadi»"
+  },
+  {
+   "q": "Tropik bezgak O'zbekistonda asosan qaysi bemorlarda uchrashi mumkin?",
+   "c": "Chetdan kelgan bemorlarda",
+   "w": [
+    "Mahalliy bemorlarda",
+    "Chegaradosh bemorlarda",
+    "Endemik bemorlarda",
+    "Yosh bemorlarda"
+   ],
+   "x": "«tropik bezgak (P. falciparum) esa asosan chetdan kelgan bemorlarda uchrashi mumkin»"
+  },
+  {
+   "q": "Bezgak uchun asosiy xavf guruhini kimlar tashkil qiladi?",
+   "c": "Chet ellarga sayohat qilgan va ularga qaytgan fuqarolar",
+   "w": [
+    "Chet ellarga sayohat qilmagan fuqarolar",
+    "Qo'shni davlatlarga sayohat qilmagan fuqarolar",
+    "Mahalliy sayohat qilgan va qaytgan fuqarolar",
+    "Chet ellarga sayohat qilgan va qaytgan mutaxassislar"
+   ],
+   "x": "«chet ellarga sayohat qilgan va ularga qaytgan fuqarolar bezgak uchun asosiy xavf guruhini tashkil qiladi»"
+  },
+  {
+   "q": "Turlarni farqlash uchun qaysi usul asosiy bo'lib qoladi?",
+   "c": "Qon surtmasi mikroskopiyasi",
+   "w": [
+    "Qon surtmasi monitoringi",
+    "Molekulyar mikroskopiya",
+    "Tezkor diagnostik testlar",
+    "Rezistentlik monitoringi"
+   ],
+   "x": "«qon surtmasi mikroskopiyasi asosiy usul bo'lib qoladi»"
+  },
+  {
+   "q": "Qalin surtmada nima aniqlanadi?",
+   "c": "Parazitlar zichligi",
+   "w": [
+    "Parazit shakli",
+    "Eritrotsitlarga ta'siri",
+    "Jinsiy shakllar",
+    "Plazmodiy turi"
+   ],
+   "x": "«qalin surtmada esa parazitlar zichligi aniqlanadi»"
+  },
+  {
+   "q": "Tezkor diagnostik testlarning ba'zilari qaysi turlarni farqlay olmaydi?",
+   "c": "P. vivax, P. ovale va P. malariae",
+   "w": [
+    "P. vivax, P. ovale va P. falciparum",
+    "P. falciparum, P. ovale va P. malariae",
+    "P. vivax, P. falciparum va P. malariae",
+    "P. vivax, P. ovale va tropik turlar"
+   ],
+   "x": "«ularning ba'zilari P. vivax, P. ovale va P. malariae turlarini farqlay olmaydi»"
+  },
+  {
+   "q": "Plazmodiy turini aniqlashda nimalar hisobga olinadi?",
+   "c": "Eritrotsitlar o'zgarishi, yosh shakllar va jinsiy shakllar xususiyatlari",
+   "w": [
+    "Eritrotsitlar o'zgarishi, eski shakllar va jinsiy shakllar xususiyatlari",
+    "Eritrotsitlar o'zgarishi, yosh shakllar va ijobiy shakllar xususiyatlari",
+    "Eritrotsitlar o'zgarishi, yosh shakllar va endemik shakllar xususiyatlari",
+    "Eritrotsitlar o'zgarishi, passiv shakllar va jinsiy shakllar xususiyatlari"
+   ],
+   "x": "«Plazmodiy turini aniqlashda eritrotsitlar o'zgarishi, yosh shakllar va jinsiy shakllarning xususiyatlari hisobga olinadi»"
+  },
+  {
+   "q": "Passiv usulda kimlar tekshiriladi?",
+   "c": "Shifokorga murojaat qilgan isitmali bemorlar",
+   "w": [
+    "Shifokorga murojaat qilgan endemik bemorlar",
+    "Xavf guruhlaridagi isitmali bemorlar",
+    "Sayohatdan qaytgan isitmali fuqarolar",
+    "Shifokorga murojaat qilmagan isitmali bemorlar"
+   ],
+   "x": "«Passiv usulda shifokorga murojaat qilgan isitmali bemorlar tekshiriladi»"
+  },
+  {
+   "q": "Bezgak holati hisobotida nimalar ko'rsatiladi?",
+   "c": "Qo'zg'atuvchi turi, bemorning yoshi, kasallanish joyi, sayohat tarixi va davolash sanasi",
+   "w": [
+    "Qo'zg'atuvchi turi, bemorning yoshi, kasallanish joyi, sayohat tarixi va hisobot sanasi",
+    "Qo'zg'atuvchi turi, bemorning yoshi, kasallanish joyi, tibbiy tarixi va davolash sanasi",
+    "Chivin turi, bemorning yoshi, kasallanish joyi, sayohat tarixi va davolash sanasi",
+    "Qo'zg'atuvchi turi, bemorning yoshi, kasallanish joyi, sayohat tarixi va davolash tizimi"
+   ],
+   "x": "«Hisobotda qo'zg'atuvchi turi, bemorning yoshi, kasallanish joyi, sayohat tarixi va davolash boshlangan sana ko'rsatiladi»"
+  },
+  {
+   "q": "Bezgak hisobotlari qayerga topshirilishi kerak?",
+   "c": "Sanitariya-epidemiologiya xizmatiga",
+   "w": [
+    "Sanitariya-epidemiologiya loyihasiga",
+    "Laboratoriya tarmog'iga",
+    "Mutaxassis xizmatiga",
+    "Global fond xizmatiga"
+   ],
+   "x": "«Hisobotlar sanitariya-epidemiologiya xizmatiga muddatida topshirilishi kerak»"
+  }
+ ]
+}

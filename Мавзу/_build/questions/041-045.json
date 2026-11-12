@@ -1,0 +1,562 @@
+{
+  "041": [
+    {
+      "q": "Voyaga yetgan tasmasimon gijja odam ichagida qancha yashashi mumkin?",
+      "c": "Bir necha yil",
+      "w": [
+        "Bir necha hafta",
+        "Bir necha bosqich",
+        "Qisqaroq muddat",
+        "Bir necha bo'g'im"
+      ],
+      "x": "«Ichakdagi yashash muddati gijjaning turiga bog'liq, ba'zi turlar bir necha yil yashashi mumkin»"
+    },
+    {
+      "q": "Voyaga yetgan lenta gijjasi ichak devoriga qaysi qismi bilan yopishadi?",
+      "c": "Boshlig'i",
+      "w": [
+        "Bo'g'imlari",
+        "Tuxumi",
+        "Bo'yin qismi",
+        "Lichinkasi"
+      ],
+      "x": "«Odam ichagida voyaga yetgan lenta gijjasi boshlig'i bilan ichak devoriga yopishadi va bo'g'imlar hosil qiladi»"
+    },
+    {
+      "q": "Lichinka (finna yoki sistitserk) qayerda rivojlanadi?",
+      "c": "Oraliq xo'jayin organizmida",
+      "w": [
+        "Oxirgi xo'jayin ichagida",
+        "Najasda",
+        "Ichak devorida",
+        "Tuxum ichida"
+      ],
+      "x": "«Lichinka (finna yoki sistitserk) oraliq xo'jayin organizmida rivojlanadi»"
+    },
+    {
+      "q": "Odam oraliq xo'jayin bo'lganda lichinka qayerda joylashishi mumkin?",
+      "c": "Mushak yoki boshqa organlarda",
+      "w": [
+        "Najas yoki boshqa tuxumlarda",
+        "Ichak yoki boshqa bo'g'imlarda",
+        "Skoleks yoki boshqa chuqurchalarda",
+        "Bo'yin yoki boshqa bo'g'imlarda"
+      ],
+      "x": "«Odam ayrim turlarda oraliq xo'jayin bo'lib, lichinka mushak yoki boshqa organlarda joylashishi mumkin»"
+    },
+    {
+      "q": "Tasmasimon gijja tanasi qanday qismlardan iborat?",
+      "c": "Skoleks, bo'yin qismi va ko'plab bo'g'imlar",
+      "w": [
+        "Skoleks, ichak qismi va ko'plab tuxumlar",
+        "Bo'yin, skoleks va ko'plab lichinkalar",
+        "Skoleks, bo'yin va ko'plab tuxumlar",
+        "Bo'g'imlar, ichak qismi va ko'plab lichinkalar"
+      ],
+      "x": "«Tasmasimon gijjalarning tanasi boshdan — skoleksdan, bo'yin qismidan va ko'plab bo'g'imlardan iborat»"
+    },
+    {
+      "q": "Tasmasimon gijjaning har bir bo'g'imida nima rivojlangan bo'ladi?",
+      "c": "Erkak va urg'ochi jinsiy tizim",
+      "w": [
+        "Erkak va urg'ochi ichak tizimi",
+        "Faqat erkak jinsiy tizim",
+        "Skoleks va bo'yin tizimi",
+        "Lichinka va tuxum tizimi"
+      ],
+      "x": "«Har bir bo'g'imda erkak va urg'ochi jinsiy tizim rivojlangan bo'ladi, shu sababli gijja o'z-o'zini urug'lantirishi mumkin»"
+    },
+    {
+      "q": "Tasmasimon gijjalar davolanganidan keyin kuzatuv muddati qancha davom etadi?",
+      "c": "Bir necha oy",
+      "w": [
+        "Bir necha hafta",
+        "Bir necha yil",
+        "Uzoq yillar",
+        "Bir necha bosqich"
+      ],
+      "x": "«Tasmasimon gijjalar davolanganidan keyin kuzatuv muddati bir necha oy davom etadi»"
+    },
+    {
+      "q": "Tasmasimon gijjalar oziq moddalarni qanday oladi?",
+      "c": "Butun tana yuzasi bilan so'radi",
+      "w": [
+        "Ovqat hazm qilish tizimi bilan hazm qiladi",
+        "Skoleks orqali so'radi",
+        "Bo'g'imlar ichida hosil qiladi",
+        "Tuxumlar orqali oladi"
+      ],
+      "x": "«Tasmasimon gijjalar ichak devori orqali oziq moddalarni butun tana yuzasi bilan so'radi, chunki ularning ovqat hazm qilish tizimi yo'q»"
+    },
+    {
+      "q": "Odam oraliq xo'jayin bo'lganda qanday davolash talab qilinishi mumkin?",
+      "c": "Qo'shimcha jarrohlik yoki maxsus davolash",
+      "w": [
+        "Antigelmintik davolash",
+        "Najas tekshiruvi yoki kuzatuv",
+        "Gigiyena yoki ovqatlanish qoidalari",
+        "Tuxum yoki bo'g'im tekshiruvi"
+      ],
+      "x": "«oxirgi xo'jayinda antigelmintik davolash, oraliq xo'jayinda esa qo'shimcha jarrohlik yoki maxsus davolash talab qilinishi mumkin»"
+    },
+    {
+      "q": "Yetilgan bo'g'imlar gijja tanasining qaysi qismida joylashib, najas bilan chiqadi?",
+      "c": "Eng pastda",
+      "w": [
+        "Boshga yaqin",
+        "Boshida",
+        "Bo'yin qismida",
+        "Skoleks qismida"
+      ],
+      "x": "«Yetilgan bo'g'imlar eng pastda joylashib, najas bilan chiqib ketadi»"
+    }
+  ],
+  "042": [
+    {
+      "q": "Askarida va qilbosh gijjasi tuxumlari odam organizmidan qanday yo'l bilan chiqadi?",
+      "c": "Najas orqali",
+      "w": [
+        "Tuproq orqali",
+        "Ichak orqali",
+        "Hojatxona orqali",
+        "Ichki gigiyena orqali"
+      ],
+      "x": "«Javob: asosan najas orqali, bemorning hojatxona va ichki gigiyena sharoitiga qarab»"
+    },
+    {
+      "q": "Najasda askarida tuxumlarining qaysi turlari bo'lishi mumkin?",
+      "c": "Urug'langan va urug'lanmagan",
+      "w": [
+        "Urug'langan va lemonsimon",
+        "Tiqinli va urug'lanmagan",
+        "Qalin va tiqinli",
+        "Mamelonli va tiqinli"
+      ],
+      "x": "«Najasda urug'langan va urug'lanmagan tuxumlar bo'lishi mumkin»"
+    },
+    {
+      "q": "Qilbosh gijjasi tuxumlari qanday shaklda bo'ladi?",
+      "c": "Lemonsimon, ikki uchida tiqinli",
+      "w": [
+        "Oval, qalin qobiqli va mamelonli",
+        "Oval, ikki uchida tiqinli",
+        "Lemonsimon, mamelon qatlamli",
+        "Barrel, qalin mamelonli"
+      ],
+      "x": "«Qilbosh tuxumlari lemonsimon shaklda, ikki uchida tiqinli bo'ladi, bu ularni tashxisda aniqlashga yordam beradi»"
+    },
+    {
+      "q": "Tuxumlarning yetilishi uchun qanday muhit kerak?",
+      "c": "Nam, iliq va kislorodli muhit",
+      "w": [
+        "Quruq, quyoshli va issiq muhit",
+        "Nam, sovuq va kislorodsiz muhit",
+        "Quruq, iliq va kislorodli muhit",
+        "Nam, issiq va quyoshli muhit"
+      ],
+      "x": "«Tuxumlarning yetilishi uchun nam, iliq va kislorodli muhit kerak bo'ladi»"
+    },
+    {
+      "q": "Bitta namunada tuxum topilmasa, kasallik haqida nima deyish mumkin?",
+      "c": "Kasallik istisno qilinmaydi",
+      "w": [
+        "Kasallik istisno qilinadi",
+        "Namuna miqdoriy baholanadi",
+        "Davolash samaradorligi baholanadi",
+        "Najas kompostlanadi"
+      ],
+      "x": "«Shu sababli bitta namunada tuxum topilmasligi kasallikni istisno qilmaydi, va bir necha kun ketma-ket tekshiruv o'tkazish tavsiya etiladi»"
+    },
+    {
+      "q": "Miqdoriy usullar (Kato-Katz) najasdagi tuxumlarni qanday hisobda baholaydi?",
+      "c": "Gramm hisobida",
+      "w": [
+        "Kunlik hisobida",
+        "Yillik hisobida",
+        "Haftalik hisobida",
+        "Hojatxona hisobida"
+      ],
+      "x": "«Miqdoriy usullar, masalan Kato-Katz, najasdagi tuxumlarni gramm hisobida baholashga yordam beradi»"
+    },
+    {
+      "q": "Najasni zararsizlantirish uchun qaysi usullar qo'llanilishi mumkin?",
+      "c": "Issiqlik, kimyoviy ishlov yoki kompostlash",
+      "w": [
+        "Quyosh, kimyoviy ishlov yoki suyultirish",
+        "Ochiq qoldirish, kimyoviy ishlov yoki kompostlash",
+        "Issiqlik, ochiq qoldirish yoki kompostlash",
+        "Issiqlik, kimyoviy ishlov yoki ochiq qoldirish"
+      ],
+      "x": "«Najasni zararsizlantirish uchun issiqlik, kimyoviy ishlov yoki kompostlash usullari qo'llanilishi mumkin»"
+    },
+    {
+      "q": "Hojatxona sanitariya holati tuxumlarning tarqalishiga qanday ta'sir qiladi?",
+      "c": "Yopiq va toza hojatxonalar xavfni kamaytiradi",
+      "w": [
+        "Ochiq hojatxonalar xavfni kamaytiradi",
+        "Yopiq hojatxonalar tuproqni ifloslantiradi",
+        "Toza hojatxonalar tuxumlarni ko'paytiradi",
+        "Ochiq va yopiq hojatxonalar bir xil"
+      ],
+      "x": "«Ochiq yoki yopiq bo'lmagan hojatxonalar tuproqni ifloslantiradi, yopiq va toza hojatxonalar esa bu xavfni kamaytiradi»"
+    },
+    {
+      "q": "Urug'lanmagan askarida tuxumi qanday bo'ladi?",
+      "c": "Uzunroq va ichi ko'proq donador",
+      "w": [
+        "Oval va qalin qobiqli",
+        "Uzunroq va ichi silliq",
+        "Lemonsimon va tiqinli",
+        "Barrel shaklida va shaffof tiqinli"
+      ],
+      "x": "«Urug'lanmagan tuxum uzunroq va ichi ko'proq donador bo'ladi»"
+    },
+    {
+      "q": "Davolashdan keyin tuxumlarning chiqishi kamayishi nimani ko'rsatadi?",
+      "c": "Davolash samaradorligini",
+      "w": [
+        "Hojatxona holatini",
+        "Tuproq ifloslanishini",
+        "Najas miqdorini",
+        "Gijja yoshini"
+      ],
+      "x": "«Davolashdan keyin tuxumlarning chiqishi kamayadi, bu davolash samaradorligini ko'rsatadi»"
+    }
+  ],
+  "043": [
+    {
+      "q": "Voyaga yetgan urg'ochi askaridaning uzunligi odatda qancha bo'ladi?",
+      "c": "20–35 santimetrgacha",
+      "w": [
+        "15–30 santimetrgacha",
+        "10–15 santimetrgacha",
+        "40–50 santimetrgacha",
+        "5–10 santimetrgacha"
+      ],
+      "x": "«Odatda voyaga yetgan urg'ochi askarida 20–35 santimetrgacha, erkagi esa 15–30 santimetrgacha bo'ladi»"
+    },
+    {
+      "q": "Urg'ochi askaridaning dumi qanday bo'ladi?",
+      "c": "To'g'ri va uchi o'tkir",
+      "w": [
+        "Orqaga qayrilgan va ilgak shaklida",
+        "To'g'ri va uchi ilgak shaklida",
+        "Orqaga qayrilgan va uchi o'tkir",
+        "Yo'g'on va ikki spikulali"
+      ],
+      "x": "«Urg'ochi askarida uzunroq va yo'g'onroq bo'ladi, uning dumi to'g'ri va uchi o'tkir»"
+    },
+    {
+      "q": "Erkak askaridaning dumi qanday bo'ladi?",
+      "c": "Orqaga qayrilgan, ilgak shaklida",
+      "w": [
+        "To'g'ri va uchi o'tkir",
+        "To'g'ri, ilgak shaklida",
+        "Orqaga qayrilgan, uchi o'tkir",
+        "Yo'g'on, uchi o'tkir"
+      ],
+      "x": "«erkagining dumi esa orqaga qayrilgan va ilgak shaklida bo'ladi»"
+    },
+    {
+      "q": "Juda uzun askaridalar qanday asoratga sabab bo'lishi mumkin?",
+      "c": "Ichak tutilishiga",
+      "w": [
+        "Ichak fermentlariga",
+        "Kutikula himoyasiga",
+        "Tuxum urug'lanishiga",
+        "Jinsiy organ rivojlanishiga"
+      ],
+      "x": "«Juda uzun gijjalar ichak bo'shlig'ini to'sib qo'yishi, ichak tutilishiga sabab bo'lishi mumkin»"
+    },
+    {
+      "q": "Kutikula askaridani nimadan himoya qiladi?",
+      "c": "Ichak fermentlaridan",
+      "w": [
+        "Ichak harakatidan",
+        "Jarrohlik aralashuvdan",
+        "Tuxum urug'lanishidan",
+        "Ichak oqimidan"
+      ],
+      "x": "«Kutikula gijjani ichak fermentlaridan himoya qiladi»"
+    },
+    {
+      "q": "Erkak askaridada jinsiy organ qayerda joylashgan?",
+      "c": "Dum qismida",
+      "w": [
+        "Tana qismida",
+        "Ichak qismida",
+        "Bachadon ichida",
+        "Ilgak qismida"
+      ],
+      "x": "«Erkak askaridada jinsiy organ dum qismida joylashgan va ikki spikulasi bor»"
+    },
+    {
+      "q": "Urg'ochi askaridaning jinsiy organi nimalardan iborat?",
+      "c": "Uzun tuxumdonlar va bachadon",
+      "w": [
+        "Ikki spikula va tuxumdon",
+        "Dum va bachadon",
+        "Kutikula va tuxumdon",
+        "Ichak va bachadon"
+      ],
+      "x": "«Urg'ochi askaridaning jinsiy organi uzun tuxumdonlardan va bachadondan iborat bo'lib»"
+    },
+    {
+      "q": "Gijjalar ichakda bir-biriga chigallashsa, bolalarda qanday belgilar kuzatiladi?",
+      "c": "Kuchli qorin og'rig'i va qusish",
+      "w": [
+        "Kuchli qorin og'rig'i va noqulaylik",
+        "Kuchli qorin og'rig'i va isitma",
+        "Yengil qorin og'rig'i va qusish",
+        "Qorin rentgenografiyasi va jarrohlik"
+      ],
+      "x": "«Bunday holat ayniqsa bolalarda kuchli qorin og'rig'i va qusish bilan namoyon bo'ladi va shoshilinch tekshiruvni talab qiladi»"
+    },
+    {
+      "q": "Chiqarilgan askarida tahlil uchun qayerda saqlanadi?",
+      "c": "Fiziologik eritma yoki formalin ichida",
+      "w": [
+        "Maxsus blankada yoki formalin yonida",
+        "Fiziologik eritma yoki maxsus blanka ichida",
+        "Maxsus idish yoki bemor ismi ichida",
+        "Formalin yoki bemor ma'lumoti ichida"
+      ],
+      "x": "«Chiqarilgan gijja tahlil uchun maxsus idishda, fiziologik eritma yoki formalin ichida saqlanadi»"
+    },
+    {
+      "q": "Askarida o'lchanayotganda qanday holatda bo'lishi kerak?",
+      "c": "Tabiiy holatda, cho'zilmasdan",
+      "w": [
+        "Cho'zilgan va shikastlangan holatda",
+        "Tirik va cho'zilgan holatda",
+        "Shikastlangan va yaroqsiz holatda",
+        "Tirik, lekin cho'zilgan holatda"
+      ],
+      "x": "«O'lchash paytida gijja tabiiy holatda bo'lishi va cho'zilmasligi kerak»"
+    }
+  ],
+  "044": [
+    {
+      "q": "Nefrotik sindromda qonda qaysi modda ko'payadi?",
+      "c": "Xolesterin",
+      "w": [
+        "Oqsil",
+        "Albumin",
+        "Antitana",
+        "Antigen"
+      ],
+      "x": "«qon oqsilining pasayishi va xolesterin ko'payishi»"
+    },
+    {
+      "q": "Qaysi guruhda nefrotik sindrom ko'proq uchraydi?",
+      "c": "Bolalarda",
+      "w": [
+        "Kattalarda",
+        "Diyetologlarda",
+        "Mutaxassislarda",
+        "Shifokorlarda"
+      ],
+      "x": "«Bolalarda nefrotik sindrom kattalarga qaraganda ko'proq uchraydi»"
+    },
+    {
+      "q": "Immun kompleks bilan bog'liq glomerulonefrit nimani kuchaytiradi?",
+      "c": "Oqsil yo'qotilishini",
+      "w": [
+        "Tuz yo'qotilishini",
+        "Suyuqlik yo'qotilishini",
+        "Shishni kamaytirishni",
+        "Shish kamayishini"
+      ],
+      "x": "«Immun kompleks bilan bog'liq glomerulonefrit oqsil yo'qotilishini kuchaytiradi va nefrotik sindromning asosiy mexanizmi hisoblanadi»"
+    },
+    {
+      "q": "Nefrotik sindrom tashxisi qaysi tekshiruvlar bilan qo'yiladi?",
+      "c": "Siydik tahlili, qon oqsillari va buyrak biopsiyasi",
+      "w": [
+        "Siydik tahlili, tuz miqdori va parhez nazorati",
+        "Qon oqsillari, diyetolog maslahati va jismoniy faollik",
+        "Buyrak biopsiyasi, antibiotik terapiyasi va parhez",
+        "Siydik tahlili, dori rejimi va maktabga qaytish"
+      ],
+      "x": "«Nefrotik sindrom tashxisi siydik tahlili, qon oqsillari va buyrak biopsiyasi bilan qo'yiladi»"
+    },
+    {
+      "q": "Boshqa sabablarni istisno qilish uchun qaysi tekshiruvlar qo'llaniladi?",
+      "c": "Immunologik testlar va buyrak tasviri",
+      "w": [
+        "Siydik tahlili va buyrak biopsiyasi",
+        "Parhez va suyuqlik balansi",
+        "Antibiotik terapiyasi va tuz cheklovi",
+        "Dori rejimi va jismoniy faollik"
+      ],
+      "x": "«Boshqa sabablarni istisno qilish uchun immunologik testlar va buyrak tasviri ham qo'llaniladi»"
+    },
+    {
+      "q": "Nefrotik sindromning prognozi nimaga bog'liq?",
+      "c": "Asosiy infeksiyaning davolanishi va buyrak zararlanishi darajasiga",
+      "w": [
+        "Tuz miqdorining cheklanishi va suyuqlik balansi darajasiga",
+        "Maktabga qaytish muddati va diyetolog maslahatiga",
+        "Diyetolog maslahati va jismoniy faollik darajasiga",
+        "Biopsiya natijasi va antibiotik terapiyasi muddatiga"
+      ],
+      "x": "«Nefrotik sindrom bilan kasallangan bemorning prognozi asosiy infeksiyaning davolanishi va buyrak zararlanishining darajasiga bog'liq»"
+    },
+    {
+      "q": "Shishni kamaytiruvchi dorilar bilan birga qaysi vositalar qo'llaniladi?",
+      "c": "Qon bosimini nazorat qiluvchi vositalar",
+      "w": [
+        "Qon oqsilini oshiruvchi vositalar",
+        "Tuz miqdorini oshiruvchi vositalar",
+        "Suyuqlikni ko'paytiruvchi vositalar",
+        "Siydik oqsilini ko'paytiruvchi vositalar"
+      ],
+      "x": "«Qo'shimcha ravishda shishni kamaytiruvchi dorilar, qon bosimini nazorat qiluvchi vositalar va oqsil yo'qotilishini cheklovchi choralar qo'llaniladi»"
+    },
+    {
+      "q": "Buyrak funksiyasi buzilgan bemorlarda parhezda oqsil bilan nima qilinishi mumkin?",
+      "c": "Oqsil cheklovi qo'llanishi mumkin",
+      "w": [
+        "Tuz miqdori ko'paytirilishi mumkin",
+        "Suyuqlik cheklovi bekor qilinishi mumkin",
+        "Oqsil miqdori oshirilishi mumkin",
+        "Suyuqlik balansi nazoratsiz qoldirilishi mumkin"
+      ],
+      "x": "«lekin buyrak funksiyasi buzilgan bemorlarda oqsil cheklovi ham qo'llanishi mumkin»"
+    },
+    {
+      "q": "Kasalxonaga yotqizilgan og'ir bemorlarda infeksiya belgilari bo'lsa, nima qo'shilishi mumkin?",
+      "c": "Antibiotik terapiyasi",
+      "w": [
+        "Tuz terapiyasi",
+        "Parhez terapiyasi",
+        "Biopsiya terapiyasi",
+        "Immun kompleks terapiyasi"
+      ],
+      "x": "«Infeksiya belgilari bo'lsa, antibiotik terapiyasi qo'shilishi mumkin»"
+    },
+    {
+      "q": "Bolalarda nefrotik sindrom kuzatuvi nimalarni baholashni o'z ichiga oladi?",
+      "c": "Bola o'sishi, vazni, shishlari va siydik ko'rsatkichlarini",
+      "w": [
+        "Bola o'sishi, tuz miqdori, shishlari va biopsiyani",
+        "Vazni, antibiotik terapiyasi, shishlari va diyetani",
+        "Shishlari, siydik ko'rsatkichlari, biopsiya va dori rejimini",
+        "Bola o'sishi, parhez, tuz miqdori va maktabga qaytishni"
+      ],
+      "x": "«Bolalarda nefrotik sindrom kuzatuvi bola o'sishi, vazni, shishlari va siydik ko'rsatkichlarini muntazam baholashni o'z ichiga oladi»"
+    }
+  ],
+  "045": [
+    {
+      "q": "Chivin ichida parazit qanday bosqichdan o'tib, sporozoitlar hosil qiladi?",
+      "c": "Jinsiy bosqichdan",
+      "w": [
+        "Ichak bosqichidan",
+        "Oosista bosqichidan",
+        "Sutkalik bosqichdan",
+        "Mavsumiy bosqichdan"
+      ],
+      "x": "«Chivin ichida parazit jinsiy bosqichdan o'tib, sporozoitlar hosil qiladi»"
+    },
+    {
+      "q": "Chivin ichidagi rivojlanish harorat past bo'lsa qanday o'zgaradi?",
+      "c": "Sekinlashadi yoki to'xtaydi",
+      "w": [
+        "Tezlashadi yoki qisqaradi",
+        "O'zgarmaydi yoki tezlashadi",
+        "Qisqaradi yoki kuchayadi",
+        "To'xtamaydi yoki tezlashadi"
+      ],
+      "x": "«Harorat past bo'lsa, rivojlanish sekinlashadi yoki to'xtaydi, yuqori bo'lsa tezlashadi»"
+    },
+    {
+      "q": "Issiq mavsumda chivin ichidagi rivojlanish qanday o'zgaradi?",
+      "c": "Tezlashadi, yuqish xavfi ortadi",
+      "w": [
+        "Sekinlashadi, yuqish xavfi ortadi",
+        "To'xtaydi, yuqish xavfi pasayadi",
+        "Tezlashadi, yuqish xavfi pasayadi",
+        "Sekinlashadi, yuqish xavfi pasayadi"
+      ],
+      "x": "«Issiq mavsumda harorat chivin ichidagi rivojlanishni tezlashtiradi, shu sababli yuqish xavfi ortadi»"
+    },
+    {
+      "q": "Chivin ichagida gametalar urug'lanib nima hosil qiladi?",
+      "c": "Zigota",
+      "w": [
+        "Oosista",
+        "Sporozoit",
+        "Gametotsit",
+        "Gameta"
+      ],
+      "x": "«Gametalar urug'lanib, zigota hosil qiladi, zigota esa ichak devorini kesib o'tib, oosista hosil qiladi»"
+    },
+    {
+      "q": "Oosistada keyinchalik nima rivojlanadi?",
+      "c": "Sporozoitlar",
+      "w": [
+        "Gametotsitlar",
+        "Zigotalar",
+        "Oosistalar",
+        "Gametalar"
+      ],
+      "x": "«Oosistada keyinchalik sporozoitlar rivojlanadi va ular chivinning so'lak bezlariga o'tadi»"
+    },
+    {
+      "q": "Sporogoniya jarayoni nimalarga bog'liq?",
+      "c": "Harorat va namlikka",
+      "w": [
+        "Chivin umri va zichligiga",
+        "Chivin soni va faolligiga",
+        "Qon so'rish chastotasiga",
+        "Mavsum va chivin zichligiga"
+      ],
+      "x": "«Sporogoniya deb ataladigan bu jarayon harorat va namlikka bog'liq»"
+    },
+    {
+      "q": "Sovuq sharoitda chivinlar yuqtirish qobiliyatiga ega bo'lmasligi mumkin, chunki nima kerak?",
+      "c": "Parazit yetilishi uchun chivin yetarlicha uzoq yashashi kerak",
+      "w": [
+        "Parazit yetilishi uchun chivin qon so'rmasligi kerak",
+        "Parazit yetilishi uchun chivin sovuq joyda yashashi kerak",
+        "Parazit yetilishi uchun chivin tezroq yashashi kerak",
+        "Parazit chivin so'lagida yetilmaydi"
+      ],
+      "x": "«Chivinning umri ham bu jarayonga ta'sir qiladi: parazit yetilishi uchun chivin yetarlicha uzoq yashashi kerak»"
+    },
+    {
+      "q": "Mo'tadil haroratda sporogoniya davri qancha cho'ziladi?",
+      "c": "Bir necha haftagacha",
+      "w": [
+        "Bir necha mavsumgacha",
+        "Bir necha bosqichgacha",
+        "Bir necha martagacha",
+        "Bir necha tuxumgacha"
+      ],
+      "x": "«Mo'tadil haroratda bu davr bir necha haftagacha cho'ziladi, issiq sharoitda esa tezroq tugallanadi»"
+    },
+    {
+      "q": "Urg'ochi chivin har qon so'rgandan keyin tuxum rivojlanishi uchun nima qiladi?",
+      "c": "Bir necha kun kutadi",
+      "w": [
+        "Bir necha hafta kutadi",
+        "Bir necha marta kutadi",
+        "Bir necha mavsum kutadi",
+        "Sovuq mavsumni kutadi"
+      ],
+      "x": "«Urg'ochi chivin har qon so'rgandan keyin tuxum rivojlanishi uchun bir necha kun kutadi»"
+    },
+    {
+      "q": "Qaysi nazorat chorasi chivin umrini qisqartirib, yuqish davrini qisqartirishga yordam beradi?",
+      "c": "Insektitsid bilan ishlov berish",
+      "w": [
+        "Harorat datchiklari bilan o'lchash",
+        "Tuzoq qo'yish",
+        "Epidemiologik xaritaga kiritish",
+        "Datchiklar bilan monitoring"
+      ],
+      "x": "«Chivinning umrini qisqartiradigan nazorat choralari, masalan insektitsid bilan ishlov berish, yuqish davrini qisqartirishga yordam beradi»"
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+ "101": [
+  {
+   "q": "Bezgak asosiy yuqish yo'li bo'yicha qanday kasallik hisoblanadi?",
+   "c": "Vektor orqali yuqadigan kasallik",
+   "w": [
+    "Oziq orqali yuqadigan kasallik",
+    "Teri orqali yuqadigan kasallik",
+    "Igna orqali yuqadigan kasallik",
+    "Qon quyish orqali yuqadigan kasallik"
+   ],
+   "x": "«Bezgak asosiy yuqish yo'li bo'yicha vektor orqali yuqadigan kasallik hisoblanadi»"
+  },
+  {
+   "q": "Qo'zg'atuvchi odam va chivin organizmida qanday rivojlanish bosqichlaridan o'tadi?",
+   "c": "Ketma-ket ikki xil rivojlanish bosqichidan",
+   "w": [
+    "Ketma-ket bitta rivojlanish bosqichidan",
+    "Odamda ikki xil bosqichdan",
+    "Chivinda ikki xil bosqichdan",
+    "Ketma-ket ikki xil insektitsid bosqichidan"
+   ],
+   "x": "«qo'zg'atuvchi odam va chivin organizmida ketma-ket ikki xil rivojlanish bosqichidan o'tadi»"
+  },
+  {
+   "q": "Odam organizmida bezgak parazitining miqdori qonda qanday o'zgaradi?",
+   "c": "Oshadi",
+   "w": [
+    "Kamayadi",
+    "Kamroq bo'ladi",
+    "Tarqaladi",
+    "Parchalanadi"
+   ],
+   "x": "«Odam organizmida parazit jinssiz ko'payadi va qonda miqdori oshadi»"
+  },
+  {
+   "q": "Vektor bo'lmagan yuqish yo'llari qanday uchraydi?",
+   "c": "Kam uchraydi",
+   "w": [
+    "Ko'p uchraydi",
+    "Ko'proq uchraydi",
+    "Ko'payadi va uchraydi",
+    "Ko'p tarqaladi"
+   ],
+   "x": "«Bu yo'llar kam uchraydi, ammo ularni epidemiologik tekshiruvda inobatga olish lozim»"
+  },
+  {
+   "q": "Chivinlar ko'payishi uchun daryo sohillaridan tashqari qaysi joy qulay?",
+   "c": "Botqoqlashgan suv havzalari",
+   "w": [
+    "Eshik va derazalar",
+    "Chiqindi va insektitsidlar",
+    "Ochiq derazalar",
+    "To'rli karavotlar"
+   ],
+   "x": "«ko'payish uchun eng qulay joylar daryo sohillari, botqoqlashgan suv havzalari, sholipoyalar»"
+  },
+  {
+   "q": "Xavf guruhlari epidemiologik nazoratda qanday hisobga olinadi?",
+   "c": "Alohida hisobga olinadi",
+   "w": [
+    "Faqat sayohatchilar hisobga olinadi",
+    "Mavsumga qarab hisobga olinadi",
+    "Bemorlar bilan hisobga olinadi",
+    "Chivinlar bilan hisobga olinadi"
+   ],
+   "x": "«Epidemiologik nazoratda ushbu guruhlar alohida hisobga olinadi»"
+  },
+  {
+   "q": "Sporozoitlar odam qoniga tushgach, qon oqimi bilan qayerga boradi?",
+   "c": "Jigarga",
+   "w": [
+    "Chivinga",
+    "Eritrotsitlarga",
+    "Suvga",
+    "Karavotga"
+   ],
+   "x": "«Ular qon oqimi bilan jigarga boradi»"
+  },
+  {
+   "q": "Eritrotsitlar parchalanganda qonga nima chiqadi?",
+   "c": "Ko'p miqdorda parazit",
+   "w": [
+    "Ko'p miqdorda chivin",
+    "Ko'p miqdorda insektitsid",
+    "Ko'p miqdorda baliq",
+    "Ko'p miqdorda sporozoit"
+   ],
+   "x": "«Eritrotsitlar parchalanganda qonga ko'p miqdorda parazit chiqadi»"
+  },
+  {
+   "q": "Chivinlarga qarshi kurashda ko'payish joylarida yana qaysi chora qo'llaniladi?",
+   "c": "Insektitsidlar bilan ishlov berish",
+   "w": [
+    "Donorlar bilan ishlov berish",
+    "Insektitsidlar bilan suv berish",
+    "Kiyim bilan ishlov berish",
+    "Repellentlar bilan ishlov berish"
+   ],
+   "x": "«insektitsidlar bilan ishlov berish»"
+  },
+  {
+   "q": "Yuqish mexanizmini bilish kimning asosiy vazifasi hisoblanadi?",
+   "c": "Epidemiolog",
+   "w": [
+    "Donor",
+    "Sayohatchi",
+    "Dezinfeksiya",
+    "Insektitsid"
+   ],
+   "x": "«Yuqish mexanizmini bilish epidemiolog uchun asosiy vazifa»"
+  }
+ ],
+ "102": [
+  {
+   "q": "Og'ir bezgakda qanday asoratlar kuzatilishi mumkin?",
+   "c": "Ong buzilishi, tutqanoq, nafas yetishmovchiligi, qon kamayishi va buyrak yetishmovchiligi",
+   "w": [
+    "Ong buzilishi, tutqanoq, nafas yetishmovchiligi, qon ketishi va buyrak yetishmovchiligi",
+    "Ong buzilishi, tutqanoq, nafas yetishmovchiligi, qon kamayishi va jigar yetishmovchiligi",
+    "Xotira buzilishi, tutqanoq, nafas yetishmovchiligi, qon kamayishi va buyrak yetishmovchiligi",
+    "Ong buzilishi, tutqanoq, yurak yetishmovchiligi, qon kamayishi va buyrak yetishmovchiligi"
+   ],
+   "x": "«Og'ir bezgakda ong buzilishi, tutqanoq, nafas yetishmovchiligi, qon kamayishi va buyrak yetishmovchiligi kuzatilishi mumkin»"
+  },
+  {
+   "q": "Sayohatchilar uchun tropik bezgak nima sababdan xavfli?",
+   "c": "Noto'g'ri tashxis tufayli kech aniqlanadi",
+   "w": [
+    "Noto'g'ri davolash tufayli kech aniqlanadi",
+    "Noto'g'ri transport tufayli kech aniqlanadi",
+    "Noto'g'ri tashxis tufayli erta aniqlanadi",
+    "Noto'g'ri tashxis tufayli kech davolanadi"
+   ],
+   "x": "«chunki kasallik noto'g'ri tashxis tufayli kech aniqlanadi»"
+  },
+  {
+   "q": "Intensiv terapiyada qaysi ko'rsatkichlar doimiy kuzatiladi?",
+   "c": "Nafas olish, qon bosimi, yurak urishi va siydik miqdori",
+   "w": [
+    "Nafas olish, qon bosimi, yurak urishi va qon miqdori",
+    "Nafas olish, qon bosimi, jigar urishi va siydik miqdori",
+    "Ong olish, qon bosimi, yurak urishi va siydik miqdori",
+    "Nafas olish, buyrak bosimi, yurak urishi va siydik miqdori"
+   ],
+   "x": "«Nafas olish, qon bosimi, yurak urishi va siydik miqdori doimiy kuzatiladi»"
+  },
+  {
+   "q": "Qaysi bemorlarga neyropsixologik baholash va reabilitatsiya dasturi tavsiya etiladi?",
+   "c": "Nevrologik o'zgarishlar uzoq saqlanib qolgan bemorlarga",
+   "w": [
+    "Buyrak o'zgarishlari uzoq saqlanib qolgan bemorlarga",
+    "Nevrologik o'zgarishlar yengil kechgan bemorlarga",
+    "Psixologik o'zgarishlar yo'q bemorlarga",
+    "Nevrologik o'zgarishlar uzoq saqlanib qolgan donorlarga"
+   ],
+   "x": "«Og'ir tropik bezgakdan tuzalgan bemorlarda ba'zan nevrologik o'zgarishlar, masalan xotira va diqqat pasayishi, uzoq saqlanib qolishi mumkin. Bunday bemorlarga neyropsixologik baholash va reabilitatsiya dasturi tavsiya etiladi»"
+  },
+  {
+   "q": "Bolalarda og'ir bezgak nimalarga ta'sir qilishi mumkin?",
+   "c": "O'quv faoliyatiga va o'sishga",
+   "w": [
+    "Maktab faoliyatiga va ovqatga",
+    "Donor faoliyatiga va o'sishga",
+    "O'quv faoliyatiga va qon bosimiga",
+    "Transport faoliyatiga va o'sishga"
+   ],
+   "x": "«Bolalarda og'ir bezgak o'quv faoliyatiga va o'sishga ta'sir qilishi mumkin»"
+  },
+  {
+   "q": "Qon almashtirish yoki eritrotsit massasi quyish qachon ko'rib chiqiladi?",
+   "c": "Parazit yuklamasi juda yuqori bo'lsa",
+   "w": [
+    "Parazit yuklamasi juda kamaysa",
+    "Donor yuklamasi juda yuqori bo'lsa",
+    "Parazit yuklamasi juda yuqori bo'lmasa",
+    "Bolalar yuklamasi juda yuqori bo'lsa"
+   ],
+   "x": "«Og'ir bezgakda parazit yuklamasi juda yuqori bo'lsa, shifokor qon almashtirish yoki eritrotsit massasi quyish masalasini ko'rib chiqishi mumkin»"
+  },
+  {
+   "q": "Tiklanayotgan og'ir bezgak bemoriga nima tavsiya etiladi?",
+   "c": "Yengil ovqat, suyuqlik va vitaminlar",
+   "w": [
+    "Og'ir ovqat, suyuqlik va vitaminlar",
+    "Yengil ovqat, qon va vitaminlar",
+    "Yengil ovqat, siydik va vitaminlar",
+    "Yengil ovqat, suyuqlik va stress"
+   ],
+   "x": "«tiklanayotgan bemorga yengil ovqat, suyuqlik va vitaminlar tavsiya etiladi»"
+  },
+  {
+   "q": "Ko'p a'zoli nazoratda qaysi funksiyalar bir vaqtda nazorat qilinadi?",
+   "c": "Jigar, buyrak, o'pka va miya",
+   "w": [
+    "Jigar, buyrak, yurak va miya",
+    "Jigar, siydik, o'pka va miya",
+    "Qon, buyrak, o'pka va miya",
+    "Jigar, buyrak, o'pka va yurak"
+   ],
+   "x": "«jigar, buyrak, o'pka va miya funksiyalari bir vaqtda nazorat qilinadi»"
+  },
+  {
+   "q": "Og'ir bezgakli bemorlarni boshqarishning asosiy mezonlari qaysilar?",
+   "c": "Har soatlik baholash, dori dozalarini aniq hisoblash va organlar funksiyasini qo'llab-quvvatlash",
+   "w": [
+    "Har soatlik baholash, dori dozalarini aniq hisoblash va organlar funksiyasini kuzatish",
+    "Har soatlik baholash, dori dozalarini qo'shimcha hisoblash va oila funksiyasini qo'llab-quvvatlash",
+    "Har soatlik tashish, dori dozalarini aniq hisoblash va organlar funksiyasini qo'llab-quvvatlash",
+    "Har soatlik baholash, qon dozalarini aniq hisoblash va organlar funksiyasini qo'llab-quvvatlash"
+   ],
+   "x": "«har soatlik baholash, dori dozalarini aniq hisoblash va organlar funksiyasini qo'llab-quvvatlash asosiy mezonlardir»"
+  },
+  {
+   "q": "Og'ir bezgakdan omon qolgan bemorlarda qanday belgilar uzoq saqlanishi mumkin?",
+   "c": "Xavotir, uyqusizlik va stress",
+   "w": [
+    "Xavotir, qusish va stress",
+    "Xotira, uyqusizlik va stress",
+    "Xavotir, uyqusizlik va tutqanoq",
+    "Siydik, uyqusizlik va stress"
+   ],
+   "x": "«bemorlarda xavotir, uyqusizlik va stress belgilari uzoq saqlanishi mumkin»"
+  }
+ ],
+ "103": [
+  {
+   "q": "Kontaktli gelmintozlar qanday infeksiyalar hisoblanadi?",
+   "c": "Tuxumlari odamdan odamga bevosita yuqadigan infeksiyalar",
+   "w": [
+    "Tuxumlari odamdan suvda yuqadigan infeksiyalar",
+    "Tuxumlari teri orqali bevosita yuqadigan infeksiyalar",
+    "Tuxumlari ovqat orqali bevosita yuqadigan infeksiyalar",
+    "Tuxumlari quruq muhitda yuqadigan infeksiyalar"
+   ],
+   "x": "«tuxumlari odamdan odamga bevosita, kontakt orqali (qo'l, kiyim, narsalar orqali) yuqadigan gelmint infeksiyalaridir»"
+  },
+  {
+   "q": "Kontakt orqali yuqadigan gelmintozlarning tuxumlari qayerlarda saqlanadi?",
+   "c": "Tirnoq ostida, qo'lda, kiyim va choyshabda",
+   "w": [
+    "Tirnoq ostida, qo'lda, sovun va choyshabda",
+    "Tirnoq ostida, qo'lda, kiyim va suvda",
+    "Teri ostida, qo'lda, kiyim va choyshabda",
+    "Tirnoq ostida, sovunda, kiyim va choyshabda"
+   ],
+   "x": "«Tuxumlar tirnoq ostida, qo'lda, kiyim va choyshabda saqlanadi»"
+  },
+  {
+   "q": "Kiyim va choyshablarni qanday suvda yuvish tuxumlarni yo'q qiladi?",
+   "c": "Issiq suvda",
+   "w": [
+    "Quruq suvda",
+    "Oddiy suvda",
+    "Ochiq suvda",
+    "Sodda suvda"
+   ],
+   "x": "«Kiyim va choyshablarni issiq suvda yuvish tuxumlarni yo'q qiladi»"
+  },
+  {
+   "q": "Tuxumlar quruq sharoitda qancha vaqt tirik qolishi ehtimoli bor?",
+   "c": "Bir necha hafta",
+   "w": [
+    "Bir necha marta",
+    "Bir necha oila",
+    "Bir necha guruh",
+    "Bir necha kishi"
+   ],
+   "x": "«Tuxumlar quruq sharoitda ham bir necha hafta tirik qolishi ehtimoli bor»"
+  },
+  {
+   "q": "Oilaviy strategiya nimadan iborat?",
+   "c": "Bemorni va yaqin a'zolarni bir vaqtda tekshirish va davolash",
+   "w": [
+    "Bemorni va yaqin a'zolarni bir martada tekshirish va davolash",
+    "Faqat bemorni tekshirish va davolash",
+    "Bemorni va yaqin a'zolarni bir vaqtda tekshirish va o'qitish",
+    "Maktabni va yaqin a'zolarni bir vaqtda tekshirish va davolash"
+   ],
+   "x": "«oilaviy strategiya bemorni va uning yaqin a'zolarini bir vaqtda tekshirish va davolashdan iborat»"
+  },
+  {
+   "q": "Jamoaviy strategiyada bolalar muassasalarida nimalar tashkil etiladi?",
+   "c": "Muntazam gigiyena dasturi, tekshiruv va o'qitish",
+   "w": [
+    "Muntazam gigiyena dasturi, tekshiruv va hujjat",
+    "Muntazam gigiyena dasturi, davolash va o'qitish",
+    "Muntazam sovun dasturi, tekshiruv va o'qitish",
+    "Muntazam gigiyena dasturi, davolash va hujjat"
+   ],
+   "x": "«bolalar muassasalarida muntazam gigiyena dasturi, tekshiruv va o'qitish tashkil etiladi»"
+  },
+  {
+   "q": "Kontaktlarni qayta tekshirish tartibi nimani hisobga oladi?",
+   "c": "Tuxumlarning notekis chiqishini",
+   "w": [
+    "Tuxumlarning notekis yutilishini",
+    "Tuxumlarning notekis saqlanishini",
+    "Kontaktlarning notekis roziligini",
+    "Tuxumlarning notekis tozalanishini"
+   ],
+   "x": "«Bu tartib tuxumlarning notekis chiqishini hisobga oladi»"
+  },
+  {
+   "q": "Davolash kimlarga beriladi?",
+   "c": "Bemorga va musbat natija bergan kontaktlarga",
+   "w": [
+    "Bemorga va manfiy natija bergan kontaktlarga",
+    "Faqat bemorga va oilasiga",
+    "Bemorga va hamshiralarga",
+    "Bemorga va musbat natija bergan donorlarga"
+   ],
+   "x": "«Davolash faqat bemorga emas, balki musbat natija bergan kontaktlarga ham beriladi»"
+  },
+  {
+   "q": "Kontaktlarni tekshirishda nimalar ta'minlanadi?",
+   "c": "Roziligi olinadi, shaxsiy ma'lumotlar maxfiy saqlanadi",
+   "w": [
+    "Roziligi olinadi, shaxsiy ma'lumotlar ochiq saqlanadi",
+    "Roziligi qayd etiladi, shaxsiy ma'lumotlar maxfiy saqlanadi",
+    "Roziligi olinadi, shaxsiy ma'lumotlar jamoada saqlanadi",
+    "Ruxsat olinadi, shaxsiy ma'lumotlar hujjatlar saqlanadi"
+   ],
+   "x": "«ularning roziligi olinadi, shaxsiy ma'lumotlar maxfiy saqlanadi»"
+  },
+  {
+   "q": "Kontaktlar ro'yxatga olinganda nimalar qayd etiladi?",
+   "c": "Ismi, yoshi, manzili va bemor bilan aloqa darajasi",
+   "w": [
+    "Ismi, yoshi, manzili va bemor bilan tekshiruv darajasi",
+    "Ismi, yoshi, jadvali va bemor bilan aloqa darajasi",
+    "Ismi, yoshi, manzili va oila bilan davolash darajasi",
+    "Ismi, yoshi, manzili va bemor bilan hujjat darajasi"
+   ],
+   "x": "«ularning ismi, yoshi, manzili va bemor bilan aloqa darajasi qayd etiladi»"
+  }
+ ],
+ "104": [
+  {
+   "q": "Enterobioz asosan qanday yuqadi?",
+   "c": "Odamdan odamga bevosita",
+   "w": [
+    "Odamdan havoga bevosita",
+    "Idishdan odamga bevosita",
+    "Eshikdan odamga bevosita",
+    "Suvdan odamga bevosita"
+   ],
+   "x": "«Enterobioz (ostritsa) asosan odamdan odamga bevosita yuqadi»"
+  },
+  {
+   "q": "Ostritsa tuxumlari qayerda qo'yiladi?",
+   "c": "Anal soha atrofidagi teri yuzasida",
+   "w": [
+    "Anal soha atrofidagi kiyim yuzasida",
+    "Og'iz atrofidagi teri yuzasida",
+    "Tirnoq ostidagi teri yuzasida",
+    "Anal soha atrofidagi stol yuzasida"
+   ],
+   "x": "«Gijja tuxumlari bemorning anal sohasi atrofidagi teri yuzasida qo'yiladi»"
+  },
+  {
+   "q": "Retroinfeksiya natijasida bemor nimaga uchraydi?",
+   "c": "O'z-o'zini qayta zararlashga",
+   "w": [
+    "Boshqalarni qayta zararlashga",
+    "O'z-o'zini davolashga",
+    "O'z-o'zini tozalashga",
+    "Bemorni qayta zararlashga"
+   ],
+   "x": "«bemor o'z-o'zini qayta zararlashiga olib keladi»"
+  },
+  {
+   "q": "Kiyimni silkitib tozalash nimaga sabab bo'lishi mumkin?",
+   "c": "Tuxumlar havoga ko'tarilib, boshqalar nafas yo'liga tushishiga",
+   "w": [
+    "Tuxumlar havoga ko'tarilib, boshqalar qo'liga tushishiga",
+    "Tuxumlar quyoshda quritilib, boshqalar nafas yo'liga tushishiga",
+    "Tuxumlar suvga tushib, boshqalar nafas yo'liga tushishiga",
+    "Tuxumlar havoga ko'tarilib, boshqalar eshikka tushishiga"
+   ],
+   "x": "«tuxumlarni havoga ko'tarib, boshqalar nafas yo'liga tushishiga sabab bo'lishi mumkin»"
+  },
+  {
+   "q": "Ota-onalarda enterobioz xavfi nima sababdan bo'lishi mumkin?",
+   "c": "Bolani parvarish qilish paytida tuxumlarni qo'llariga oladi",
+   "w": [
+    "Bolani parvarish qilish paytida tuxumlarni og'ziga oladi",
+    "Bolani parvarish qilish paytida tuxumlarni qo'llariga qo'yadi",
+    "Bolani tekshirish paytida kiyimlarni qo'llariga oladi",
+    "Bolani parvarish qilish paytida eshiklarni qo'llariga oladi"
+   ],
+   "x": "«ular bolani parvarish qilish paytida tuxumlarni qo'llariga oladi»"
+  },
+  {
+   "q": "Yuqishni kamaytirish strategiyasi qaysi uch yo'nalishni o'z ichiga oladi?",
+   "c": "Bemorni davolash, muhitni tozalash va gigiyena odatlarini shakllantirish",
+   "w": [
+    "Bemorni davolash, muhitni tozalash va gigiyena odatlarini kuchaytirish",
+    "Bemorni tekshirish, muhitni tozalash va gigiyena odatlarini shakllantirish",
+    "Bemorni davolash, eshikni tozalash va gigiyena odatlarini shakllantirish",
+    "Bemorni davolash, muhitni tozalash va gigiyena kiyimini shakllantirish"
+   ],
+   "x": "«Strategiya uch yo'nalishni o'z ichiga oladi: bemorni davolash, muhitni tozalash va gigiyena odatlarini shakllantirish»"
+  },
+  {
+   "q": "Uyda har kuni qanday chora tavsiya etiladi?",
+   "c": "Chang yig'ish, eshik tutqichlari va stol yuzalarini dezinfeksiya qilish",
+   "w": [
+    "Chang yig'ish, eshik tutqichlari va stol yuzalarini quritish",
+    "Chang silkitish, eshik tutqichlari va stol yuzalarini dezinfeksiya qilish",
+    "Chang yig'ish, eshik tutqichlari va kiyim yuzalarini dezinfeksiya qilish",
+    "Chang yig'ish, mebel tutqichlari va stol yuzalarini dezinfeksiya qilish"
+   ],
+   "x": "«har kuni chang yig'ish, eshik tutqichlari va stol yuzalarini dezinfeksiya qilish tavsiya etiladi»"
+  },
+  {
+   "q": "Choyshab va kiyimni yuvishda nima tavsiya etiladi?",
+   "c": "Issiq suvda yuvish, quyoshda quritish va yuvishdan oldin silkitmaslik",
+   "w": [
+    "Issiq suvda yuvish, uyda quritish va yuvishdan oldin silkitish",
+    "Issiq suvda yuvish, quyoshda quritish va yuvishdan keyin silkitish",
+    "Suvda yuvish, quyoshda quritish va yuvishdan oldin chang yig'ish",
+    "Issiq suvda tozalash, quyoshda quritish va yuvishdan oldin silkitish"
+   ],
+   "x": "«issiq suvda yuvish, quyoshda quritish va yuvishdan oldin silkitmaslik kerakligi haqida oila a'zolari ogohlantiriladi»"
+  },
+  {
+   "q": "Bog'cha yoki maktabda enterobioz aniqlansa, rahbariyat nima qilishi kerak?",
+   "c": "Ota-onalarni xabardor qilishi va guruhni tekshirish rejasini tuzishi",
+   "w": [
+    "Ota-onalarni xabardor qilishi va guruhni yopish rejasini tuzishi",
+    "Xodimlarni xabardor qilishi va guruhni tekshirish rejasini tuzishi",
+    "Ota-onalarni xabardor qilishi va guruhni davolash rejasini tuzishi",
+    "Ota-onalarni ogohlantirishi va guruhni tekshirish jadvalini tuzishi"
+   ],
+   "x": "«muassasa rahbariyati ota-onalarni xabardor qilishi va guruhni tekshirish rejasini tuzishi kerak»"
+  },
+  {
+   "q": "Bog'cha va maktabda enterobioz tekshiruvi qanchalik tez-tez tavsiya etiladi?",
+   "c": "Yiliga bir necha marta",
+   "w": [
+    "Haftada bir necha marta",
+    "Kunda bir necha marta",
+    "Yiliga bitta marta",
+    "Haftada bitta marta"
+   ],
+   "x": "«tekshiruvi yiliga bir necha marta o'tkazilishi tavsiya etiladi»"
+  }
+ ],
+ "105": [
+  {
+   "q": "Patognomonik belgi nima?",
+   "c": "Boshqa kasalliklardan aniq farqlaydigan belgi",
+   "w": [
+    "Boshqa kasalliklarga o'xshash belgi",
+    "Faqat bemor aniqlaydigan belgi",
+    "Davolashdan keyin chiqadigan belgi",
+    "Boshqa kasalliklarda ko'p uchraydigan belgi"
+   ],
+   "x": "«Patognomonik belgi — boshqa kasalliklardan aniq farqlaydigan, tashxisni deyarli aniq tasdiqlaydigan belgidir»"
+  },
+  {
+   "q": "Teniarinxoz bo'g'imlari qanday shakl va rangda bo'ladi?",
+   "c": "To'rtburchak shaklda, oq-sarg'ish rangda",
+   "w": [
+    "Uzunchoq shaklda, oq-sarg'ish rangda",
+    "To'rtburchak shaklda, shaffof rangda",
+    "To'rtburchak shaklda, bo'yoqli rangda",
+    "Kichik shaklda, oq-sarg'ish rangda"
+   ],
+   "x": "«bo'g'imlari to'rtburchak shaklida, oq-sarg'ish rangda bo'ladi»"
+  },
+  {
+   "q": "Bemor teniarinxoz bo'g'imlarini qayerda ko'rishi mumkin?",
+   "c": "Tuvaletda yoki kiyimda",
+   "w": [
+    "Tuvaletda yoki idishda",
+    "Hojatxonada yoki namunada",
+    "Idishda yoki kiyimda",
+    "Tuvaletda yoki plastinkada"
+   ],
+   "x": "«bemor ularni tuvaletda yoki kiyimda ko'rishi mumkin»"
+  },
+  {
+   "q": "Bo'g'imning topilishi nimani bildiradi?",
+   "c": "Yuqish manbai borligini",
+   "w": [
+    "Tashxis xatosi borligini",
+    "Tuxum topilmasligini",
+    "Namuna buzilganini",
+    "Bo'g'im o'zgarganini"
+   ],
+   "x": "«bo'g'im topilishi yuqish manbai borligini bildiradi»"
+  },
+  {
+   "q": "Bo'g'imni boshqa lenta bo'g'imlaridan ajratishda nima ko'rinadi?",
+   "c": "Jinsiy organlarning shoxlangan tuzilishi",
+   "w": [
+    "Jinsiy organlarning tuxum tuzilishi",
+    "Najasning shoxlangan tuzilishi",
+    "Bo'yoqning shoxlangan tuzilishi",
+    "Tuxumning shoxlangan tuzilishi"
+   ],
+   "x": "«Bo'g'im ichida jinsiy organlarning shoxlangan tuzilishi ko'rinadi»"
+  },
+  {
+   "q": "Laborant tur aniqlash uchun bo'g'imni qanday ko'radi?",
+   "c": "Shaffof plastinka ustida shoxlarni sanaydi",
+   "w": [
+    "Shaffof plastinka ustida tuxumlarni sanaydi",
+    "Bo'yoqli plastinka ustida shoxlarni sanaydi",
+    "Shaffof plastinka ustida najasni sanaydi",
+    "Shaffof idishga shoxlarni sanaydi"
+   ],
+   "x": "«laborant bo'g'imni shaffof plastinka ustida ko'rib, shoxlarni sanaydi»"
+  },
+  {
+   "q": "Bo'g'imlarni najasdan ajratishda nimadan foydalanish mumkin?",
+   "c": "Shisha tayoqcha yoki pinset",
+   "w": [
+    "Shisha tayoqcha yoki oyna",
+    "Plastinka yoki pinset",
+    "Shaffof tayoqcha yoki idish",
+    "Shisha plastinka yoki suyuqlik"
+   ],
+   "x": "«Ularni shisha tayoqcha yoki pinset yordamida ajratib»"
+  },
+  {
+   "q": "Bo'g'im namunasi nima sababdan tez tekshirilishi kerak?",
+   "c": "Quriydi va ko'rinishi o'zgaradi",
+   "w": [
+    "Namlanadi va ko'rinishi o'zgaradi",
+    "Quriydi va ko'rinishi saqlanadi",
+    "Harakatlanadi va ko'rinishi o'zgaradi",
+    "Quriydi va tuxumi o'zgaradi"
+   ],
+   "x": "«Bo'g'im namunasi tez tekshirilishi kerak, chunki u quriydi va ko'rinishi o'zgaradi»"
+  },
+  {
+   "q": "Bo'g'im namunasi qanday muhitda saqlanadi?",
+   "c": "Namlangan muhitda",
+   "w": [
+    "Quritilgan muhitda",
+    "Toza muhitda",
+    "Bo'yoqli muhitda",
+    "Shaffof muhitda"
+   ],
+   "x": "«bo'g'im namunasi namlangan muhitda saqlanadi»"
+  },
+  {
+   "q": "Teniarinxoz bo'g'imlari ko'pincha qachon ko'rinadi?",
+   "c": "Tungi uyqudan keyin yoki hojatxonada",
+   "w": [
+    "Tungi uyqudan oldin yoki hojatxonada",
+    "Tungi uyqudan keyin yoki idishda",
+    "Tungi ovqatlanishdan keyin yoki hojatxonada",
+    "Tungi uyqudan keyin yoki laboratoriyada"
+   ],
+   "x": "«Bo'g'imlar ko'pincha tungi uyqudan keyin yoki hojatxonada ko'rinadi»"
+  }
+ ]
+}
