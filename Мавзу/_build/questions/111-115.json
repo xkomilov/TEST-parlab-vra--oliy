@@ -1,0 +1,562 @@
+{
+ "111": [
+  {
+   "q": "Teniarinxoz asosan qaysi hududlarda uchraydi?",
+   "c": "Chorvachilik va yetarlicha pishirilmagan go'sht iste'moli keng tarqalgan hududlarda",
+   "w": [
+    "Chorvachilik va yetarlicha pishirilgan go'sht iste'moli keng tarqalgan hududlarda",
+    "Sanoat va yetarlicha pishirilmagan go'sht iste'moli keng tarqalgan hududlarda",
+    "Chorvachilik va yetarlicha pishirilmagan go'sht iste'moli kam tarqalgan hududlarda",
+    "Shahar va yetarlicha pishirilmagan go'sht iste'moli keng tarqalgan hududlarda"
+   ],
+   "x": "«Teniarinxoz (mol lentasi) asosan chorvachilik va yetarlicha pishirilmagan go'sht iste'moli keng tarqalgan hududlarda uchraydi»"
+  },
+  {
+   "q": "Qishloq joylarida teniarinxoz qachon ko'proq uchraydi?",
+   "c": "Veterinariya nazorati zaif bo'lsa",
+   "w": [
+    "Veterinariya nazorati kuchli bo'lsa",
+    "Sanitariya nazorati kuchli bo'lsa",
+    "Veterinariya nazorati kuchaygan bo'lsa",
+    "Go'sht iste'moli kam bo'lsa"
+   ],
+   "x": "«Qishloq joylarida veterinariya nazorati zaif bo'lsa, kasallik ko'proq uchraydi»"
+  },
+  {
+   "q": "Hududiy monitoring nimalarni aniqlaydi?",
+   "c": "Bemorlar sonini va ularning yashash joylarini",
+   "w": [
+    "Bemorlar sonini va ularning go'sht turini",
+    "Sigirlar sonini va ularning yashash joylarini",
+    "Bemorlar yoshini va ularning yashash joylarini",
+    "Go'sht sonini va ularning sotish joylarini"
+   ],
+   "x": "«Hududiy monitoring bemorlar sonini va ularning yashash joylarini aniqlaydi»"
+  },
+  {
+   "q": "Xavfli hududlarda profilaktika sifatida nimalar o'tkaziladi?",
+   "c": "Go'sht nazorati, sigirlarni veterinariya tekshiruvi va go'shtni yaxshi pishirish bo'yicha targ'ibot",
+   "w": [
+    "Go'sht nazorati, sigirlarni veterinariya tekshiruvi va go'shtni yaxshi sotish bo'yicha targ'ibot",
+    "Go'sht nazorati, sigirlarni jarrohlik tekshiruvi va go'shtni yaxshi pishirish bo'yicha targ'ibot",
+    "Sanitariya nazorati, sigirlarni veterinariya tekshiruvi va go'shtni yaxshi pishirish bo'yicha dastur",
+    "Go'sht nazorati, odamlarni veterinariya tekshiruvi va go'shtni yaxshi pishirish bo'yicha targ'ibot"
+   ],
+   "x": "«Xavfli hududlarda go'sht nazorati, sigirlarni veterinariya tekshiruvi va aholi orasida go'shtni yaxshi pishirish bo'yicha targ'ibot o'tkaziladi»"
+  },
+  {
+   "q": "Qanday taomlar ko'p bo'lsa, kasallanish yuqori bo'ladi?",
+   "c": "Xom holda iste'mol qilinadigan taomlar",
+   "w": [
+    "Qovurilgan holda iste'mol qilinadigan taomlar",
+    "Qaynatilgan holda iste'mol qilinadigan taomlar",
+    "Xom holda sotiladigan taomlar",
+    "Pishirilgan holda tayyorlanadigan taomlar"
+   ],
+   "x": "«Hududda go'sht qovurish yoki qaynatish o'rniga xom holda iste'mol qilinadigan taomlar ko'p bo'lsa, kasallanish yuqori bo'ladi»"
+  },
+  {
+   "q": "Sigirlarning finnalar bilan zararlanishi ortishi go'sht uchun nimaga olib keladi?",
+   "c": "Go'shtning yaroqsiz bo'lib qolishiga",
+   "w": [
+    "Go'shtning sifatli bo'lib qolishiga",
+    "Go'shtning arzon bo'lib qolishiga",
+    "Go'shtning ko'proq sotilishiga",
+    "Go'shtning yaxshi pishishiga"
+   ],
+   "x": "«Bu holat go'shtning yaroqsiz bo'lib qolishiga va odamlar uchun xavf tug'dirishga olib keladi»"
+  },
+  {
+   "q": "Shaharlarda kasallanishning muhim manbai nima bo'lishi mumkin?",
+   "c": "Go'sht bozorlari va ovqatlanish muassasalari",
+   "w": [
+    "Go'sht sanoati va ovqatlanish muassasalari",
+    "Go'sht bozorlari va maktablar",
+    "Chorvachilik xo'jaliklari va bozorlar",
+    "Go'sht bozorlari va veterinar xodimlari"
+   ],
+   "x": "«Shaharlarda go'sht bozorlari va ovqatlanish muassasalari kasallanishning muhim manbai bo'lishi mumkin»"
+  },
+  {
+   "q": "Shifokorlar bemorning oilasi bilan birgalikda tekshiruvdan o'tishini nima uchun tavsiya qiladi?",
+   "c": "Oila a'zolari bir xil ovqatni iste'mol qiladi va xavf umumiy bo'ladi",
+   "w": [
+    "Oila a'zolari bir xil ovqatni sotadi va xavf umumiy bo'ladi",
+    "Oila a'zolari turli ovqatni iste'mol qiladi va xavf umumiy bo'ladi",
+    "Oila a'zolari bir xil ovqatni iste'mol qiladi va xavf alohida bo'ladi",
+    "Oila a'zolari bir xil go'shtni pishiradi va xavf yo'q bo'ladi"
+   ],
+   "x": "«oila a'zolari bir xil ovqatni iste'mol qiladi va xavf umumiy bo'ladi»"
+  },
+  {
+   "q": "Chorvachilik xo'jaliklarida hayvonlarda tarqalishni kamaytirish uchun nima qilinadi?",
+   "c": "Sigirlarni veterinariya ko'rigidan o'tkazish va so'yishdan oldin tekshirish",
+   "w": [
+    "Sigirlarni veterinariya ko'rigidan o'tkazish va so'yishdan keyin tekshirish",
+    "Sigirlarni jarrohlik ko'rigidan o'tkazish va so'yishdan oldin tekshirish",
+    "Odamlarni veterinariya ko'rigidan o'tkazish va so'yishdan oldin tekshirish",
+    "Sigirlarni veterinariya ko'rigidan o'tkazish va sotishdan oldin tekshirish"
+   ],
+   "x": "«sigirlarni veterinariya ko'rigidan o'tkazish va go'shtni so'yishdan oldin tekshirish teniarinxozning hayvonlarda tarqalishini kamaytiradi»"
+  },
+  {
+   "q": "Go'sht sotish nuqtalarida nimalar nazorat qilinadi?",
+   "c": "Veterinariya hujjatlari, mahsulot sanasi va sifat belgilari",
+   "w": [
+    "Veterinariya hujjatlari, mahsulot narxi va sifat belgilari",
+    "Sanitariya hujjatlari, mahsulot sanasi va sifat belgilari",
+    "Veterinariya hujjatlari, mahsulot sanasi va sotuvchi belgilari",
+    "Veterinariya jarimalari, mahsulot sanasi va sifat belgilari"
+   ],
+   "x": "«Go'sht sotish nuqtalarida veterinariya hujjatlari, mahsulot sanasi va sifat belgilari nazorat qilinadi»"
+  }
+ ],
+ "112": [
+  {
+   "q": "Mavzuda bezgakning yuqishi bo'yicha qaysi jihatlar qamrab olinadi?",
+   "c": "Yuqish mexanizmi, qo'zg'atuvchining aylanish bosqichlari va yuqish manbalari",
+   "w": [
+    "Yuqish mexanizmi, qo'zg'atuvchining aylanish bosqichlari va davolash manbalari",
+    "Yuqish mexanizmi, chivinning aylanish bosqichlari va yuqish manbalari",
+    "Tarqalish mexanizmi, qo'zg'atuvchining aylanish bosqichlari va yuqish manbalari",
+    "Yuqish mexanizmi, qo'zg'atuvchining ko'payish bosqichlari va himoya manbalari"
+   ],
+   "x": "«Mavzuda savol bezgakning yuqish mexanizmini, qo'zg'atuvchining aylanish bosqichlarini va yuqish manbalarini qamrab oladi»"
+  },
+  {
+   "q": "Shaxsiy himoya choralari ayniqsa qaysi hududlarga sayohatda muhim?",
+   "c": "Tropik va subtropik hududlarga",
+   "w": [
+    "Endemik va subtropik hududlarga",
+    "Tropik va sovuq hududlarga",
+    "Sovuq va subtropik hududlarga",
+    "Tropik va endemik hududlarga"
+   ],
+   "x": "«Bu choralar ayniqsa tropik va subtropik hududlarga sayohatda muhim»"
+  },
+  {
+   "q": "Yuqish xavfi omillarini baholash nimaning bir qismi hisoblanadi?",
+   "c": "Epidemiologik tekshiruvning",
+   "w": [
+    "Epidemiologik tahlilning",
+    "Epidemiologik nazoratning",
+    "Sanitariya tekshiruvining",
+    "Epidemiologik davolashning"
+   ],
+   "x": "«Bu omillarni baholash epidemiologik tekshiruvning bir qismi hisoblanadi»"
+  },
+  {
+   "q": "Bezgak nazorat choralari nimaga qaratiladi?",
+   "c": "Bemorni davolash va chivinlarni kamaytirishga",
+   "w": [
+    "Bemorni davolash va chivinlarni ko'paytirishga",
+    "Bemorni aniqlash va chivinlarni ko'paytirishga",
+    "Chivinni davolash va bemorni kamaytirishga",
+    "Bemorni yotqizish va chivinlarni kamaytirishga"
+   ],
+   "x": "«Nazorat choralari bemorni davolash va chivinlarni kamaytirishga qaratiladi»"
+  },
+  {
+   "q": "Bolalar, homilador ayollar va immuniteti past odamlardan tashqari yana kimlar yuqori xavf guruhiga kiradi?",
+   "c": "Chet ellarga sayohat qiladigan kishilar",
+   "w": [
+    "Chet ellardan kelgan donorlar",
+    "Endemik hududda yashamaydigan kishilar",
+    "Daryo sohillarida yashovchi kishilar",
+    "Kasallangan odamlar"
+   ],
+   "x": "«Bunga bolalar, homilador ayollar, immuniteti past odamlar va chet ellarga sayohat qiladigan kishilar kiradi»"
+  },
+  {
+   "q": "Chivin umri davomida bir necha marta chaqishi nimani saqlab turadi?",
+   "c": "Yuqish xavfini uzoq vaqt",
+   "w": [
+    "Yuqish xavfini qisqa vaqt",
+    "Davolash xavfini uzoq vaqt",
+    "Yuqish xavfini bir marta",
+    "Parazit xavfini kam vaqt"
+   ],
+   "x": "«Bu holat yuqish xavfini uzoq vaqt saqlab turadi»"
+  },
+  {
+   "q": "Bezgak yuqish zanjirining asosiy halqalari qaysilar?",
+   "c": "Bemor va chivin",
+   "w": [
+    "Bemor va baliq",
+    "Chivin va donor",
+    "Bemor va suv havzasi",
+    "Chivin va kiyim"
+   ],
+   "x": "«bemor va chivin yuqish zanjirining asosiy halqalari hisoblanadi»"
+  },
+  {
+   "q": "Parazit miqdori yuqori bo'lgan bemorni chivin chaqqanida nima ortadi?",
+   "c": "Parazitni olish ehtimoli",
+   "w": [
+    "Parazitni yo'qotish ehtimoli",
+    "Chivinni olish ehtimoli",
+    "Parazitni davolash ehtimoli",
+    "Insektitsidni olish ehtimoli"
+   ],
+   "x": "«chivin uni chaqqanida parazitni olish ehtimoli ortadi»"
+  },
+  {
+   "q": "Chivinlar ko'payishi uchun qulay joylarga qaysi biri kiradi?",
+   "c": "Axlat chiqindilari to'plangan joylar",
+   "w": [
+    "Himoya to'rlari o'rnatilgan joylar",
+    "To'rli karavotlar",
+    "Ochiq derazalar",
+    "Insektitsid ishlov berilgan joylar"
+   ],
+   "x": "«axlat chiqindilari to'plangan joylar va turg'un suvli ariqlardir»"
+  },
+  {
+   "q": "Odam organizmida bezgak qo'zg'atuvchisi qaysi sikllardan o'tadi?",
+   "c": "Birinchi (to'qima) va ikkinchi (eritrotsitar) sikl",
+   "w": [
+    "Birinchi (to'qima) va ikkinchi (chivin) sikl",
+    "Birinchi (eritrotsitar) va ikkinchi (to'qima) sikl",
+    "Birinchi (jinsiy) va ikkinchi (eritrotsitar) sikl",
+    "Birinchi (to'qima) va ikkinchi (jinsiy) sikl"
+   ],
+   "x": "«birinchi (to'qima) rivojlanish siklini o'taydi. Keyin parazitlar qonga qaytib, eritrotsitlarga kirib oladi va ikkinchi (eritrotsitar) siklda ko'payadi»"
+  }
+ ],
+ "113": [
+  {
+   "q": "Hymenolepis nana tuxumlarining yuqish xavfi qanday muddatli bo'ladi?",
+   "c": "Qisqa muddatli",
+   "w": [
+    "Uzoq muddatli",
+    "Ko'p muddatli",
+    "Bevosita muddatli",
+    "Oila muddatli"
+   ],
+   "x": "«tuxumlarning yuqish xavfi qisqa muddatli bo'ladi»"
+  },
+  {
+   "q": "Gimenolepidoz tuxumlari qayerlarda uchraydi?",
+   "c": "Qo'lda, oziq-ovqatda, o'yinchoqda va changda",
+   "w": [
+    "Qo'lda, oziq-ovqatda, o'yinchoqda va ko'rpada",
+    "Qo'lda, najasda, o'yinchoqda va changda",
+    "Qo'lda, oziq-ovqatda, hasharotda va changda",
+    "Tirnoqda, oziq-ovqatda, o'yinchoqda va changda"
+   ],
+   "x": "«Tuxumlar qo'lda, oziq-ovqatda, o'yinchoqda va changda uchraydi»"
+  },
+  {
+   "q": "Bitta bemor davolanmasa, oilaning boshqa a'zolari nima qilishi mumkin?",
+   "c": "Kasallikni uzoq vaqt saqlab qolishi mumkin",
+   "w": [
+    "Kasallikni darhol yo'qotishi mumkin",
+    "Kasallikni uzoq vaqt davolashi mumkin",
+    "Kasallikni uzoq vaqt tekshirishi mumkin",
+    "Kasallikni qisqa vaqt saqlab qolishi mumkin"
+   ],
+   "x": "«oilaning boshqa a'zolari ham uzoq vaqt kasallikni saqlab qolishi mumkin»"
+  },
+  {
+   "q": "Bog'cha tarbiyachilari va xodimlari qo'l yuvishni qachon nazorat qilishi kerak?",
+   "c": "Ovqatdan oldin va hojatxonadan keyin",
+   "w": [
+    "Ovqatdan keyin va hojatxonadan oldin",
+    "O'yindan oldin va hojatxonadan keyin",
+    "Ovqatdan oldin va o'yindan keyin",
+    "Ovqatdan oldin va kiyimdan keyin"
+   ],
+   "x": "«ayniqsa ovqatdan oldin va hojatxonadan keyin qo'l yuvishni nazorat qilishi kerak»"
+  },
+  {
+   "q": "Nazorat najas tekshiruvi natijasi ijobiy bo'lsa, nima qilinadi?",
+   "c": "Davolash takrorlanadi",
+   "w": [
+    "Davolash saqlanadi",
+    "Davolash kamaytiriladi",
+    "Davolash almashtiriladi",
+    "Davolash tozalanadi"
+   ],
+   "x": "«Natija ijobiy bo'lsa, davolash takrorlanadi»"
+  },
+  {
+   "q": "O'yinchoq va sport jihozlarini muntazam tozalash nima uchun tavsiya etiladi?",
+   "c": "Tuxumlar ularda uzoq saqlanishi mumkin",
+   "w": [
+    "Tuxumlar ularda darhol yo'qoladi",
+    "Lichinkalar ularda uzoq saqlanishi mumkin",
+    "Tuxumlar ularda kam saqlanishi mumkin",
+    "Bolalar ularda uzoq o'ynashi mumkin"
+   ],
+   "x": "«chunki tuxumlar ularda uzoq saqlanishi mumkin»"
+  },
+  {
+   "q": "Autoinfeksiya tufayli to'liq yo'qotish uchun nima kerak bo'ladi?",
+   "c": "Qayta kurs yoki nazorat tekshiruvi",
+   "w": [
+    "Qayta kasallik yoki nazorat tekshiruvi",
+    "Qayta kurs yoki oila tekshiruvi",
+    "Bir martalik kurs yoki nazorat tekshiruvi",
+    "Qayta kurs yoki hojatxona tekshiruvi"
+   ],
+   "x": "«to'liq yo'qotish uchun qayta kurs yoki nazorat tekshiruvi kerak bo'ladi»"
+  },
+  {
+   "q": "Kasallik aniqlanganda bolalar ko'rpa-to'shaklari va kiyimlari bilan nima qilish tavsiya etiladi?",
+   "c": "Alohida yuvish",
+   "w": [
+    "Birga yuvish",
+    "Alohida almashtirish",
+    "Alohida saqlash",
+    "Birga tozalash"
+   ],
+   "x": "«bolalar ko'rpa-to'shaklarini va kiyimlarini alohida yuvish tavsiya etiladi»"
+  },
+  {
+   "q": "Gimenolepidozni nazorat qilishda ota-onalar va o'qituvchilar nimani nazorat qiladi?",
+   "c": "Ota-onalar uyda, o'qituvchilar muassasada gigiyena qoidalarini",
+   "w": [
+    "Ota-onalar muassasada, o'qituvchilar uyda gigiyena qoidalarini",
+    "Ota-onalar uyda, o'qituvchilar muassasada davolash qoidalarini",
+    "Ota-onalar uyda, o'qituvchilar muassasada jadval qoidalarini",
+    "Ota-onalar uyda, shifokorlar muassasada gigiyena qoidalarini"
+   ],
+   "x": "«Ota-onalar uy sharoitida, o'qituvchilar esa muassasada gigiyena qoidalarini nazorat qiladi»"
+  },
+  {
+   "q": "Gimenolepidozda davolash nimaga qarab tanlanadi?",
+   "c": "Bemorning yoshiga, vazniga va umumiy holatiga qarab",
+   "w": [
+    "Bemorning yoshiga, vazniga va umumiy ovqatiga qarab",
+    "Bemorning kasbiga, vazniga va umumiy holatiga qarab",
+    "Bemorning yoshiga, vazniga va oilaviy holatiga qarab",
+    "Bemorning yoshiga, tuxumiga va umumiy holatiga qarab"
+   ],
+   "x": "«davolash bemorning yoshiga, vazniga va umumiy holatiga qarab tanlanadi»"
+  }
+ ],
+ "114": [
+  {
+   "q": "Bolalar muassasalarida enterobioz yuqishini nima kuchaytiradi?",
+   "c": "O'yin paytida buyumlarni almashtirish va umumiy idishdan foydalanish",
+   "w": [
+    "O'yin paytida buyumlarni almashtirish va alohida idishdan foydalanish",
+    "Dars paytida buyumlarni almashtirish va umumiy idishdan foydalanish",
+    "O'yin paytida buyumlarni tozalash va umumiy idishdan foydalanish",
+    "O'yin paytida buyumlarni almashtirish va kiyimdan foydalanish"
+   ],
+   "x": "«Bolalar muassasalarida o'yin paytida buyumlarni almashtirish va umumiy idishdan foydalanish yuqishni kuchaytiradi»"
+  },
+  {
+   "q": "Bolalar bog'chasi va maktab yotoqxonalarida yuqish nimadan kuchayadi?",
+   "c": "Zich yashashdan",
+   "w": [
+    "Tungi kiyimdan",
+    "Qo'l yuvishdan",
+    "Chang yig'ishdan",
+    "Quyoshda quritishdan"
+   ],
+   "x": "«bolalar bog'chasi va maktab yotoqxonalarida zich yashash yuqishni kuchaytiradi»"
+  },
+  {
+   "q": "Maktab yoshidagi bolalar nima sababdan ostritsa yuqishi uchun eng xavfli guruh hisoblanadi?",
+   "c": "Ko'p vaqtni jamoada o'tkazadi va o'zaro buyum almashadi",
+   "w": [
+    "Ko'p vaqtni uyda o'tkazadi va o'zaro buyum almashadi",
+    "Ko'p vaqtni jamoada o'tkazadi va buyum almashmaydi",
+    "Kam vaqtni jamoada o'tkazadi va o'zaro buyum almashadi",
+    "Ko'p vaqtni jamoada o'tkazadi va o'zaro qo'l almashadi"
+   ],
+   "x": "«ular ko'p vaqtni jamoada o'tkazadi va o'zaro buyum almashadi»"
+  },
+  {
+   "q": "Sinf xonalarida qanday holat tarqalishga yordam beradi?",
+   "c": "Yaqin o'tirish",
+   "w": [
+    "Chang yig'ish",
+    "Quyoshda quritish",
+    "Sovun bilan yuvish",
+    "Eshik tutqichlarini tozalash"
+   ],
+   "x": "«Sinf xonalaridagi yaqin o'tirish ham tarqalishga yordam beradi»"
+  },
+  {
+   "q": "Bolalar muassasalarida enterobiozning oldini olish dasturi nimalarni o'z ichiga oladi?",
+   "c": "Gigiyena ta'limi, muntazam tekshiruv va kerak bo'lsa profilaktik davolash",
+   "w": [
+    "Gigiyena ta'limi, muntazam tekshiruv va kerak bo'lsa jarrohlik davolash",
+    "Qo'l yuvish ta'limi, muntazam tekshiruv va kerak bo'lsa profilaktik davolash",
+    "Gigiyena ta'limi, muntazam tekshiruv va kerak bo'lsa profilaktik jarima",
+    "Gigiyena ta'limi, yillik tekshiruv va kerak bo'lsa profilaktik davolash"
+   ],
+   "x": "«dasturi gigiyena ta'limi, muntazam tekshiruv va kerak bo'lsa profilaktik davolashni o'z ichiga oladi»"
+  },
+  {
+   "q": "Tekshiruv va davolash muddatlari oilada qayerda belgilanadi?",
+   "c": "Oila kalendarida",
+   "w": [
+    "Oila jadvalida",
+    "Oila eslatmasida",
+    "Oila ko'rsatmasida",
+    "Oila hisobotida"
+   ],
+   "x": "«Tekshiruv va davolash muddatlari oila kalendarida belgilanib»"
+  },
+  {
+   "q": "Bog'chada enterobioz tarqalishi qanday boshlanadi?",
+   "c": "Bitta bolaning tirnog'i orqali",
+   "w": [
+    "Bitta bolaning kiyimi orqali",
+    "Bitta bolaning idishi orqali",
+    "Bitta xodimning tirnog'i orqali",
+    "Bitta bolaning choyshabi orqali"
+   ],
+   "x": "«Bog'chada enterobioz tarqalishi bitta bolaning tirnog'i orqali boshlanib»"
+  },
+  {
+   "q": "Yuqish xavfini kamaytirish uchun kechqurun qaysi odat tavsiya etiladi?",
+   "c": "Tungi kiyimni almashtirish",
+   "w": [
+    "Tungi kiyimni silkitish",
+    "Tungi kiyimni quritish",
+    "Tungi idishni almashtirish",
+    "Tungi choyshabni silkitish"
+   ],
+   "x": "«kechqurun tungi kiyimni almashtirish va choyshabni haftada bir necha marta yuvish enterobioz yuqishini kamaytiradi»"
+  },
+  {
+   "q": "Urg'ochi gijja anal soha atrofiga tuxumni qaysi paytda qo'yadi?",
+   "c": "Tungi paytda",
+   "w": [
+    "O'yin paytida",
+    "Qo'l yuvish paytida",
+    "Chang yig'ish paytida",
+    "Quyoshli paytida"
+   ],
+   "x": "«Urg'ochi gijja tungi paytda anal soha atrofiga tuxum qo'yadi»"
+  },
+  {
+   "q": "Bog'cha va maktab tekshiruvi jadvali ota-onalarga qachon e'lon qilinadi?",
+   "c": "Oldindan",
+   "w": [
+    "Keyinroq",
+    "Tekshiruvdan keyin",
+    "Davolashdan keyin",
+    "Yiliga bir marta"
+   ],
+   "x": "«Jadval ota-onalarga oldindan e'lon qilinadi»"
+  }
+ ],
+ "115": [
+  {
+   "q": "Ichakka qaytgan askarida lichinkasi u yerda nimaga aylanadi?",
+   "c": "Voyaga yetgan gijjaga",
+   "w": [
+    "Yetilgan tuxumga",
+    "Boshqa kichik gijjaga",
+    "Allergik kichik gijjaga",
+    "Yetilgan lichinkaga"
+   ],
+   "x": "«Ichakka qaytgan lichinka u yerda voyaga yetgan gijjaga aylanadi»"
+  },
+  {
+   "q": "Migratsiya bosqichida balg'amda nima aniqlanishi mumkin?",
+   "c": "Lichinkalar",
+   "w": [
+    "Tuxumlar",
+    "Urg'ochilar",
+    "Sindromlar",
+    "Eozinofillar"
+   ],
+   "x": "«Balg'amda lichinkalar ham aniqlanishi mumkin»"
+  },
+  {
+   "q": "Migratsiya davrida allergik reaksiya qanday belgilar bilan namoyon bo'lishi mumkin?",
+   "c": "Teri toshmasi, qichishish va nafas siqilishi",
+   "w": [
+    "Teri toshmasi, yo'tal va nafas siqilishi",
+    "Teri toshmasi, qichishish va qon tupurish",
+    "Balg'am, qichishish va nafas siqilishi",
+    "Teri toshmasi, qichishish va ichak siqilishi"
+   ],
+   "x": "«Allergik reaksiya teri toshmasi, qichishish va nafas siqilishi kabi belgilar bilan namoyon bo'lishi mumkin»"
+  },
+  {
+   "q": "Gijjaning ko'p lichinkalari bir vaqtda o'tsa, nima bo'ladi?",
+   "c": "O'pka belgilari og'irlashadi",
+   "w": [
+    "O'pka belgilari kamayadi",
+    "Ichak belgilari og'irlashadi",
+    "O'pka belgilari yengillashadi",
+    "Tuxum belgilari og'irlashadi"
+   ],
+   "x": "«Gijjaning ko'p lichinkalari bir vaqtda o'tsa, o'pka belgilari og'irlashadi»"
+  },
+  {
+   "q": "Yo'tal va isitma bilan kelgan bolalarda tashxisni kechiktirmaslik uchun nima tekshiruvga kiritiladi?",
+   "c": "Askaridoz",
+   "w": [
+    "Pnevmonit",
+    "Eozinofiliya",
+    "Lyoffler",
+    "Allergiya"
+   ],
+   "x": "«Bolalarda yo'tal va isitma bilan kelgan holatlarda askaridoz ham tekshiruvga kiritiladi»"
+  },
+  {
+   "q": "Migratsiya bosqichidagi belgilar ko'pincha qaysi infeksiyaga o'xshaydi?",
+   "c": "O'tkir respirator infeksiyaga",
+   "w": [
+    "O'tkir ichak infeksiyasiga",
+    "O'tkir yurak infeksiyasiga",
+    "O'tkir allergik infeksiyaga",
+    "Respirator allergik infeksiyaga"
+   ],
+   "x": "«Migratsiya bosqichidagi belgilar ko'pincha o'tkir respirator infeksiyaga o'xshaydi»"
+  },
+  {
+   "q": "Migratsiya davrida bemorga qanday ovqat tavsiya etiladi?",
+   "c": "Yengil va oson hazm bo'ladigan ovqat",
+   "w": [
+    "Og'ir va oson hazm bo'ladigan ovqat",
+    "Yengil va qiyin hazm bo'ladigan ovqat",
+    "Yengil va allergik ovqat",
+    "Kuchli va oson hazm bo'ladigan ovqat"
+   ],
+   "x": "«Migratsiya davrida bemorga yengil va oson hazm bo'ladigan ovqat tavsiya etiladi»"
+  },
+  {
+   "q": "Kechikkan tashxis nimaga olib kelishi mumkin?",
+   "c": "Lichinkalarning ko'p to'planishiga va og'ir o'pka asoratlariga",
+   "w": [
+    "Lichinkalarning kam to'planishiga va og'ir o'pka asoratlariga",
+    "Lichinkalarning ko'p to'planishiga va yengil o'pka asoratlariga",
+    "Tuxumlarning ko'p to'planishiga va og'ir o'pka asoratlariga",
+    "Lichinkalarning ko'p to'planishiga va og'ir ichak asoratlariga"
+   ],
+   "x": "«Kechikkan tashxis lichinkalarning ko'p to'planishiga va og'ir o'pka asoratlariga olib kelishi mumkin»"
+  },
+  {
+   "q": "Bola uyquda yo'talsa yoki hushidan ketsa, nima qilish shart?",
+   "c": "Shifokorga murojaat qilish",
+   "w": [
+    "Ovqatni o'zgartirish",
+    "Rentgenni kechiktirish",
+    "Uyquda kuzatish",
+    "Kuchli ovqatlanish"
+   ],
+   "x": "«Ayniqsa, bola uyquda yo'talsa yoki tez-tez hushidan ketsa, shifokorga murojaat qilish shart»"
+  },
+  {
+   "q": "Lichinkalar o'pkadan o'tib bo'lgach, belgilar odatda qancha vaqtda yo'qoladi?",
+   "c": "Bir necha hafta ichida",
+   "w": [
+    "Bir necha kun ichida",
+    "Bir necha soat ichida",
+    "Bir necha oy ichida",
+    "Bir necha yil ichida"
+   ],
+   "x": "«Lichinkalar o'pkadan o'tib bo'lgach, belgilar odatda bir necha hafta ichida yo'qoladi»"
+  }
+ ]
+}
