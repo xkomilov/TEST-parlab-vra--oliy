@@ -1,0 +1,562 @@
+{
+  "026": [
+    {
+      "q": "Voyaga yetgan xo'kiz tizmasi odam ichagida qancha yashashi mumkin?",
+      "c": "Bir necha yil, ba'zan o'n yilgacha",
+      "w": [
+        "Bir necha hafta, ba'zan bir yilgacha",
+        "Bir necha yil, ba'zan o'n haftagacha",
+        "Bir necha hafta, ba'zan o'n yilgacha",
+        "Bir necha yil, ba'zan bir yilgacha"
+      ],
+      "x": "«Voyaga yetgan gijja ichakda bir necha yil, ba'zan o'n yilgacha yashashi mumkin»"
+    },
+    {
+      "q": "Odam ichagiga finna tushgach, gijja nima qiladi?",
+      "c": "Ichak devoriga yopishadi va bo'g'imlar hosil qiladi",
+      "w": [
+        "Ichak devoridan ajraladi va tuxum yutadi",
+        "Mushaklarda joylashadi va finna hosil qiladi",
+        "Najas bilan chiqadi va lichinka hosil qiladi",
+        "Ichak devoriga yopishadi va tuxum yutadi"
+      ],
+      "x": "«Odam ichagiga finna tushgandan so'ng, gijja ichak devoriga yopishadi va o'sib, bo'g'imlar hosil qiladi»"
+    },
+    {
+      "q": "Yetilgan bo'g'imlar gijja tanasidan ajralgach, qayerga chiqadi?",
+      "c": "Najas bilan tashqariga",
+      "w": [
+        "Sigir bilan tashqariga",
+        "Mushaklarga",
+        "Ichak devoriga",
+        "Finna bilan tashqariga"
+      ],
+      "x": "«Yetilgan bo'g'imlar gijja tanasidan ajralib, najas bilan tashqariga chiqadi»"
+    },
+    {
+      "q": "Bo'g'imdagi tuxumlar kim tomonidan yutilganda yangi lichinka rivojlanadi?",
+      "c": "Sigir",
+      "w": [
+        "Odam",
+        "Bemor",
+        "Chorvador",
+        "Shifokor"
+      ],
+      "x": "«Bo'g'im ichida minglab tuxumlar bo'ladi, ular tashqi muhitga tushib, sigir tomonidan yutilganda yangi lichinka rivojlanishiga sabab bo'ladi»"
+    },
+    {
+      "q": "Davolanmagan bemor atrof-muhit uchun nima bo'lib qoladi?",
+      "c": "Tuxum tarqatuvchi manba",
+      "w": [
+        "Finna tarqatuvchi manba",
+        "Chorva manbai",
+        "Sigir mushagi",
+        "Oraliq bosqich"
+      ],
+      "x": "«Shuningdek, bemor tuxum tarqatuvchi manba bo'lib qoladi, bu esa chorva va atrof-muhitning zararlanishiga olib keladi»"
+    },
+    {
+      "q": "Gijjaning odam ichagida yashash muddati nimalarga bog'liq?",
+      "c": "Ichak muhiti, immun holat va oziqlanish sifati",
+      "w": [
+        "Ichak muhiti, sigir mushagi va finna soni",
+        "Bo'g'imlar soni, sigir mushagi va tuxum",
+        "Sayohat, oilaviy holat va go'sht narxi",
+        "Immun holat, finna soni va sigir mushagi"
+      ],
+      "x": "«Bu muddat ichak muhiti, bemorning immun holati va oziqlanish sifatiga bog'liq»"
+    },
+    {
+      "q": "Lichinka bosqichi qayerda davom etadi?",
+      "c": "Sigirning mushaklarida",
+      "w": [
+        "Sigirning ichagida",
+        "Bemorning ichagida",
+        "Najas bilan tashqarida",
+        "Odamning mushaklarida"
+      ],
+      "x": "«Lichinka bosqichi sigirning mushaklarida davom etadi va bu bosqich odam kasalligiga bevosita ta'sir qilmaydi»"
+    },
+    {
+      "q": "Uzoq yashagan gijja bemorga qanday noqulayliklar berishi mumkin?",
+      "c": "Holsizlik, ishtaha o'zgarishi va qorin og'rig'i",
+      "w": [
+        "Ich qotishi, bezovtalik va uyatchanlik",
+        "Ich qotishi, vazn yo'qotish va uyatchanlik",
+        "Bezovtalik, uyatchanlik va charchoq",
+        "Uyatchanlik, charchoq va vitamin ko'payishi"
+      ],
+      "x": "«bemorga umumiy holsizlik, ishtaha o'zgarishi va qorin og'rig'i kabi noqulayliklar berishi mumkin»"
+    },
+    {
+      "q": "Gijjaning uzoq yashashi bemor tanasidagi nimani o'zgartirishi mumkin?",
+      "c": "Moddalar almashinuvini",
+      "w": [
+        "Ichak shilliq qavatini",
+        "Sigir immun holatini",
+        "Oziqlanish sifatini",
+        "Sigir mushaklarini"
+      ],
+      "x": "«Gijjaning uzoq yashashi bemor tanasidagi moddalar almashinuvini ham o'zgartirishi mumkin»"
+    },
+    {
+      "q": "Teniarinxoz davolanib, tekshiruv natijalari manfiy bo'lsa, nima davom etishi kerak?",
+      "c": "Uzoq muddatli kuzatuv",
+      "w": [
+        "Ovqatlanish rejasi",
+        "Sigirlarni davolash",
+        "Ruhiy davolash",
+        "Tuxum tarqatish"
+      ],
+      "x": "«Biroq uzoq muddatli kuzatuv va gigiyena qoidalariga rioya qilish davom etishi kerak»"
+    }
+  ],
+  "027": [
+    {
+      "q": "Ostritsa hayot siklida nima talab qilmaydi?",
+      "c": "Oraliq xo'jayin",
+      "w": [
+        "Anal soha tuxumi",
+        "Yo'g'on ichak",
+        "Gigiyena qoidalari",
+        "Antigelmintik preparat"
+      ],
+      "x": "«Ostritsa (Enterobius vermicularis) hayot siklida oraliq xo'jayin talab qilmaydi, u bitta organizm — odamda to'liq rivojlanadi»"
+    },
+    {
+      "q": "Urg'ochi ostritsa tuxum qo'yish vaqtida qayerdan chiqadi?",
+      "c": "Anal teshik orqali",
+      "w": [
+        "Yo'g'on ichak orqali",
+        "Ko'r ichak orqali",
+        "Choyshab orqali",
+        "Teri yuzasi orqali"
+      ],
+      "x": "«Tuxum qo'yish vaqtida u anal teshik orqali chiqib, teri yuzasiga yopishqoq suyuqlik bilan tuxumlarni qo'yadi va yana ichakka qaytadi»"
+    },
+    {
+      "q": "Tuxum qo'yish jarayoni bemorda nimani keltirib chiqaradi?",
+      "c": "Qichishishni",
+      "w": [
+        "Immunitet hosil bo'lishini",
+        "Retroinfeksiyani",
+        "Lichinkalar chiqishini",
+        "Erkak gijja juftlashishini"
+      ],
+      "x": "«bu jarayon bemorda qichishishni keltirib chiqaradi»"
+    },
+    {
+      "q": "Antigelmintik preparatlar qaysi gijjalarga to'liq ta'sir qilmasligi mumkin?",
+      "c": "Tuxumdan yangi chiqqan lichinkalarga",
+      "w": [
+        "Voyaga yetgan urg'ochi gijjalarga",
+        "Voyaga yetgan erkak gijjalarga",
+        "Anal soha atrofidagi tuxumlarga",
+        "Tirnoq ostiga tushgan tuxumlarga"
+      ],
+      "x": "«preparatlar voyaga yetgan gijjalarga ta'sir qiladi, ammo tuxumdan yangi chiqqan lichinkalarga to'liq ta'sir qilmasligi mumkin»"
+    },
+    {
+      "q": "Qayta tekshiruv natijasi manfiy bo'lsa ham, nima davom ettiriladi?",
+      "c": "Gigiyena choralari",
+      "w": [
+        "Takroriy doza",
+        "Saskob usuli",
+        "Oilaviy yig'ilishlar",
+        "Yozma ko'rsatma"
+      ],
+      "x": "«Qayta tekshiruv natijasi manfiy bo'lsa ham, qayta yuqish xavfi saqlanadi, shuning uchun gigiyena choralari davom ettiriladi»"
+    },
+    {
+      "q": "Qaysi yoshdagilarda ostritsa infeksiyasi ko'pincha yengil kechadi?",
+      "c": "Yoshi kattalarda",
+      "w": [
+        "Bolalarda",
+        "Qayta zararlanganlarda",
+        "Oila a'zolarida",
+        "Bemor kontaktlarida"
+      ],
+      "x": "«Yoshi kattalarda infeksiya ko'pincha yengil kechadi, ammo bolalarda qichishish va uyqu buzilishi kuchli bo'ladi»"
+    },
+    {
+      "q": "Bemor xonasini tozalash paytida changni yutish yuqishning qaysi yo'lini bildiradi?",
+      "c": "Tuxumlarning havoga ko'tarilishi",
+      "w": [
+        "Tuxumlarning kiyimga yopishishi",
+        "Tuxumlarning tirnoq ostiga tushishi",
+        "Tuxumlarning choyshabda yig'ilishi",
+        "Tuxumlarning o'yinchoqda yig'ilishi"
+      ],
+      "x": "«Tuxumlar havoga ham ko'tarilishi mumkin, shuning uchun bemor xonasini tozalash paytida changni yutish ham yuqish yo'llaridan biridir»"
+    },
+    {
+      "q": "Bolalarga tungi kiyimni almashtirish va tirnoqlarni qisqa tutish nima uchun o'rgatiladi?",
+      "c": "Tuxumlarni teri yuzasidan tozalashga yordam beradi",
+      "w": [
+        "Tuxumlarni ichakda ko'paytirishga yordam beradi",
+        "Gijjalarni najas bilan chiqarishga yordam beradi",
+        "Saskob natijasini manfiy qilishga yordam beradi",
+        "Dorini ichakda saqlashga yordam beradi"
+      ],
+      "x": "«chunki bu tuxumlarni teri yuzasidan tozalashga yordam beradi»"
+    },
+    {
+      "q": "Ostritsa infeksiyasini davolash rejasi nimalarni o'z ichiga oladi?",
+      "c": "Davolash kunlarini, takroriy dozalarni va tekshiruv sanalarini",
+      "w": [
+        "Davolash kunlarini, tuxum sonini va retroinfeksiya sanalarini",
+        "Takroriy dozalarni, erkak gijjalarni va changni yutish sanalarini",
+        "Saskob sonini, oila a'zolari yoshini va kiyim narxini",
+        "Tekshiruv sanalarini, tuxum yetilishini va kiyim almashtirishni"
+      ],
+      "x": "«Reja davolash kunlarini, takroriy dozalarni va keyingi tekshiruv sanalarini o'z ichiga oladi»"
+    },
+    {
+      "q": "Ostritsa tashxisi qo'yilganda shifokor bemorga qaysi ma'lumotlarni beradi?",
+      "c": "Kasallikning tabiati, yuqish yo'llari va davolash muddati",
+      "w": [
+        "Kasallikning tabiati, erkak gijja va davolash muddati",
+        "Yuqish yo'llari, erkak gijja soni va davolash narxi",
+        "Davolash muddati, oila a'zolari yoshi va changni yutish",
+        "Kasallik tabiati, kiyim turi va tuxum yetilishi"
+      ],
+      "x": "«shifokor bemorga kasallikning tabiati, yuqish yo'llari va davolash muddati haqida batafsil ma'lumot beradi»"
+    }
+  ],
+  "028": [
+    {
+      "q": "Bevosita yuqadigan gelmintozlarda bemor kim bo'lib qoladi?",
+      "c": "Yuqtirish manbai",
+      "w": [
+        "Oraliq xo'jayin",
+        "Tashqi muhit bosqichi",
+        "Hasharot xo'jayin",
+        "Nazorat xodimi"
+      ],
+      "x": "«chunki bemor o'zi yuqtirish manbai bo'lib qoladi»"
+    },
+    {
+      "q": "Gimenolepis nana qanday gijja?",
+      "c": "Qisqa lenta gijjasi",
+      "w": [
+        "Qisqa ostritsa gijjasi",
+        "Lenta tuxumi",
+        "Oraliq xo'jayin gijjasi",
+        "Lenta gijjasi tuxumi"
+      ],
+      "x": "«Gimenolepis nana (qisqa lenta gijjasi) odamdan odamga bevosita, ayniqsa tuxumlar bilan ifloslangan qo'l va narsalar orqali yuqishi mumkin»"
+    },
+    {
+      "q": "Gimenolepis nana asosan qanday yuqishi mumkin?",
+      "c": "Tuxumlar bilan ifloslangan qo'l va narsalar",
+      "w": [
+        "Oraliq xo'jayin va hasharotlar orqali",
+        "Ifloslangan kiyim va choyshab orqali",
+        "Bemor tarashi va sochiqi orqali",
+        "Hasharotlar va ifloslangan narsalar orqali"
+      ],
+      "x": "«Gimenolepis nana (qisqa lenta gijjasi) odamdan odamga bevosita, ayniqsa tuxumlar bilan ifloslangan qo'l va narsalar orqali yuqishi mumkin»"
+    },
+    {
+      "q": "Enterobiozning eng tipik bevosita yuqish yo'li qanday?",
+      "c": "Tuxumlarni teri yuzasidan olib, og'izga solish",
+      "w": [
+        "Tuxumlarni hasharotdan olib, teriga solish",
+        "Tuxumlarni og'izdan olib, teri yuzasiga solish",
+        "Tuxumlarni choyshabdan olib, ichakka solish",
+        "Tuxumlarni narsadan olib, qonga solish"
+      ],
+      "x": "«Ostritsa (Enterobius vermicularis) tuxumlarini bemor o'zi teri yuzasidan olib, og'ziga solishi natijasida qayta yuqadi yoki boshqa odamga o'tadi»"
+    },
+    {
+      "q": "Bevosita yuqish xavfini oshiradigan asosiy omillar qaysilar?",
+      "c": "Zich yashash sharoiti, bolalar jamoalari va gigiyena qoidalarining buzilishi",
+      "w": [
+        "Havo almashinuvi, chang yig'ish va uy buyumlarini yuvish",
+        "Gigiyena ta'limi, vizual materiallar va amaliy mashg'ulotlar",
+        "Sovun, quritish vositalari va umumiy hojatxonalar",
+        "Tibbiy ruxsat, oilaviy tekshiruv va davolash rejasi"
+      ],
+      "x": "«Bevosita yuqadigan gelmintozlar uchun asosiy xavf omillari zich yashash sharoiti, bolalar jamoalari va gigiyena qoidalarining buzilishidir»"
+    },
+    {
+      "q": "Bemor maktab yoki bog'chaga qaytishda nima oladi?",
+      "c": "Tibbiy ruxsat",
+      "w": [
+        "Oilaviy ma'lumotnoma",
+        "Sanitariya hisoboti",
+        "Oilaviy ruxsat",
+        "Sanitariya ruxsati"
+      ],
+      "x": "«Bemor maktab yoki bog'chaga qaytishda tibbiy ruxsat oladi»"
+    },
+    {
+      "q": "Bemorning qaysi shaxsiy buyumlari alohida ishlatilishi kerak?",
+      "c": "Tarash, sochiq va tirnoq qaychisi",
+      "w": [
+        "Sovun, sochiq va hojatxona",
+        "Sochiq, oshxona buyumi va o'yinchoq",
+        "Tarash, sovun va quritish vositasi",
+        "Sovun, o'yinchoq va hojatxona"
+      ],
+      "x": "«Bevosita yuqadigan gelmintozlarda bemorning shaxsiy buyumlari, masalan tarash, sochiq va tirnoq qaychisi, alohida ishlatilishi kerak»"
+    },
+    {
+      "q": "Buyumlarni issiq suvda yuvish va quyosh nurida quritish nimaga yordam beradi?",
+      "c": "Tuxumlarni zararsizlantirishga",
+      "w": [
+        "Bemorni oiladan ajratishga",
+        "Qo'l yuvishni o'rgatishga",
+        "Gigiyena ta'limini kuchaytirishga",
+        "Bolalar muassasasiga qaytarishga"
+      ],
+      "x": "«Buyumlarni issiq suvda yuvish va quyosh nuri ostida quritish tuxumlarni zararsizlantirishga yordam beradi»"
+    },
+    {
+      "q": "Bevosita yuqadigan gelmintozda oila a'zolarining har bir musbat holati nima qilinadi?",
+      "c": "Davolanadi",
+      "w": [
+        "Ajratiladi",
+        "Tekshiriladi",
+        "Dezinfeksiya qilinadi",
+        "O'qitiladi"
+      ],
+      "x": "«Oila a'zolarining tekshiruv natijalari yozib boriladi va har bir musbat holat davolanadi»"
+    },
+    {
+      "q": "Bolalarga gigiyena odatlarini o'rgatishni osonlashtiradigan usul qaysi?",
+      "c": "O'ynab o'rgatish, masalan qo'shiq va rasm orqali",
+      "w": [
+        "Ajratib o'rgatish, masalan sovun va quritish orqali",
+        "Yozib o'rgatish, masalan hisobot va jurnal orqali",
+        "Tushuntirib o'rgatish, masalan sovun va hisobot orqali",
+        "Davolab o'rgatish, masalan dori va ruxsat orqali"
+      ],
+      "x": "«Bolalarga bu odatlarni o'ynab o'rgatish, masalan qo'shiq va rasm orqali, ularning qabul qilishini osonlashtiradi»"
+    }
+  ],
+  "029": [
+    {
+      "q": "Enterobiozning asosiy belgisi qaysi?",
+      "c": "Anal soha atrofidagi qichishish",
+      "w": [
+        "Qorin og'rig'i va vazn yo'qotish",
+        "Ishtaha o'zgarishi va yallig'lanish",
+        "Jinsiy a'zolar atrofidagi oqindi",
+        "Soha atrofidagi teri kasalligi"
+      ],
+      "x": "«Enterobiozning asosiy belgisi anal soha atrofidagi qichishishdir»"
+    },
+    {
+      "q": "Enterobiozda qichishish qachon kuchayadi?",
+      "c": "Kechqurun, bemor yotganda",
+      "w": [
+        "Ertalab, bemor uyg'onganda",
+        "Kunduzi, bemor yotganda",
+        "Kunduzi, tuxum qo'yilganda",
+        "Ertalab, tuxum qo'yilganda"
+      ],
+      "x": "«Qichishish odatda kechqurun, bemor yotganda kuchayadi, chunki urg'ochi gijjalar shu vaqtda tuxum qo'yadi»"
+    },
+    {
+      "q": "Bemor teri yuzasini tirnasa, tuxumlar qayerga tushadi?",
+      "c": "Tirnoq ostiga",
+      "w": [
+        "Teri yuzasiga",
+        "Shilliq qavatga",
+        "Oila a'zolariga",
+        "Jinsiy a'zolarga"
+      ],
+      "x": "«bu esa tuxumlarni tirnoq ostiga olib tushadi va ularning qayta yutilishiga sharoit yaratadi»"
+    },
+    {
+      "q": "Tungi qichishish bolada kunduzi qanday holatlarni keltirib chiqaradi?",
+      "c": "Charchoq, diqqatni jamlashda qiyinchilik va g'azablanish",
+      "w": [
+        "Charchoq, ishtaha o'zgarishi va vazn yo'qotish",
+        "Diqqat jamlanishi, xotirjamlik va uyqu",
+        "G'azablanish, jinsiy oqindi va qorin og'rig'i",
+        "Yallig'lanish, tirnalish va oqindi"
+      ],
+      "x": "«Tungi qichishish bolaning uyqusini buzadi, natijada u kunduzi charchoq, diqqatni jamlashda qiyinchilik va g'azablanish kabi holatlarni boshdan kechiradi»"
+    },
+    {
+      "q": "Ikki yoshgacha bo'lgan bolalarda enterobioz nima sababdan deyarli uchramaydi?",
+      "c": "Anal soha atrofini kam tirnaydi",
+      "w": [
+        "Anal soha atrofini ko'p tirnaydi",
+        "Kechqurun qichishishni kam sezadi",
+        "Tuxumlar tirnoq ostiga tushmaydi",
+        "Uyqusi buzilmaydi"
+      ],
+      "x": "«Ikki yoshgacha bo'lgan bolalarda enterobioz deyarli uchramaydi, chunki ular anal soha atrofini kam tirnaydi»"
+    },
+    {
+      "q": "Qaysi yoshda qichishish eng ko'p ko'rinadigan belgi bo'ladi?",
+      "c": "Maktabgacha yoshda",
+      "w": [
+        "Ikki yoshgacha",
+        "O'smirlarda",
+        "Kattalik yoshida",
+        "Tungi soatlarda"
+      ],
+      "x": "«Maktabgacha yoshda esa qichishish eng ko'p ko'rinadigan belgi bo'ladi»"
+    },
+    {
+      "q": "Enterobiozni tasdiqlash uchun nima zarur?",
+      "c": "Saskob usulida tuxumlarni topish",
+      "w": [
+        "Anal soha atrofini tirnash",
+        "Teri kasalliklarini davolash",
+        "Zamburug' infeksiyasini aniqlash",
+        "Gemorroyni tekshirish"
+      ],
+      "x": "«Shu sababli enterobiozni tasdiqlash uchun saskob usulida tuxumlarni topish zarur»"
+    },
+    {
+      "q": "Anal qichishish enterobiozdan boshqa qaysi holatlar bilan bog'liq bo'lishi mumkin?",
+      "c": "Teri kasalliklari, zamburug' infeksiyalari va gemorroy",
+      "w": [
+        "Tuxumlar, qizarish va shilliq qavat zararlanishi",
+        "Uyqusizlik, bezovtalik va tungi noqulaylik",
+        "Saskob usuli, kuzatuv jurnali va oilaviy tekshiruv",
+        "Charchoq, diqqat pasayishi va maktabdagi o'zlashtirish"
+      ],
+      "x": "«Anal qichishish teri kasalliklari, zamburug' infeksiyalari va gemorroy bilan ham bog'liq bo'lishi mumkin»"
+    },
+    {
+      "q": "Enterobioz belgilarining uchinchi bosqichida qanday asoratlar paydo bo'lishi mumkin?",
+      "c": "Yallig'lanish, shilliq qavat zararlanishi va ikkilamchi infeksiya",
+      "w": [
+        "Uyqu buzilishi, bezovtalik va charchoq",
+        "Vazn yo'qotish, ishtaha o'zgarishi va qorin og'rig'i",
+        "Tirnoq ostiga tuxum tushishi va qayta yutilishi",
+        "Kechqurun qichishish, tuxum qo'yish va tirnalish"
+      ],
+      "x": "«Uchinchi bosqichda teri tirnalishi natijasida yallig'lanish, shilliq qavat zararlanishi va ikkilamchi infeksiya paydo bo'lishi mumkin»"
+    },
+    {
+      "q": "Davolashdan keyin ham ba'zi bemorlarda bir necha kun nima davom etishi mumkin?",
+      "c": "Qichishish",
+      "w": [
+        "Yallig'lanish",
+        "Ishtaha o'zgarishi",
+        "Oqindi",
+        "Tirnalish"
+      ],
+      "x": "«Davolashdan keyin ham ba'zi bemorlarda bir necha kun qichishish davom etishi mumkin»"
+    }
+  ],
+  "030": [
+    {
+      "q": "Bezgakning asosiy yuqish manbai kim?",
+      "c": "Parazit tashuvchi bemor",
+      "w": [
+        "Suvga tuxum qo'yadigan chivin",
+        "Daryo sohilidagi botqoq joylar",
+        "Qonida parazit bo'lmagan donor",
+        "Lichinka yeydigan baliqlar"
+      ],
+      "x": "«Asosiy yuqish manbai kasallik belgilari bilan yoki yashirin shaklda parazit tashuvchi bemordir»"
+    },
+    {
+      "q": "Bezgakning vektor bo'lmagan yuqish yo'llariga qaysi biri kiradi?",
+      "c": "Qon quyish",
+      "w": [
+        "Chivin chaqishi",
+        "Suv havzalari",
+        "Daryo sohili",
+        "Sholipoyalar"
+      ],
+      "x": "«masalan qon quyish, organ transplantatsiyasi yoki bir igna bilan ko'p odamga inyeksiya qilish»"
+    },
+    {
+      "q": "Chivin parazitni qachon oladi?",
+      "c": "Kasallangan odamni chaqqanda",
+      "w": [
+        "Sog'lom odamni chaqqanda",
+        "Suvga tuxum qo'yib bo'lgandan keyin",
+        "Daryo sohilida uchib yurganda",
+        "Baliq lichinkani yegandan keyin"
+      ],
+      "x": "«Anopheles urg'ochi chivini bezgak bilan kasallangan odamni chaqqanda, u bilan birga parazit ham chivin organizmiga tushadi»"
+    },
+    {
+      "q": "Suv havzalarida chivin lichinkalarini yeydigan hayvonlar qaysilar?",
+      "c": "Baliqlar",
+      "w": [
+        "Chivinlar",
+        "G'umbaklar",
+        "Odamlar",
+        "Bemorlar"
+      ],
+      "x": "«suv havzalarida chivin lichinkalarini yeydigan baliqlardan foydalanish ham samarali chora hisoblanadi»"
+    },
+    {
+      "q": "Chivinlar ko'payadigan joylarda qaysi chora samarali hisoblanadi?",
+      "c": "Keraksiz suv havzalarini yo'qotish",
+      "w": [
+        "Suv havzalarini ko'paytirish",
+        "Axlat chiqindilarini to'plash",
+        "Ariqlarda turg'un suv saqlash",
+        "Sholipoyalarni ko'paytirish"
+      ],
+      "x": "«Chivinlar ko'payadigan joylardagi keraksiz suv havzalarini yo'qotish, insektitsidlar bilan ishlov berish va suv havzalarida chivin lichinkalarini yeydigan baliqlardan foydalanish ham samarali chora hisoblanadi»"
+    },
+    {
+      "q": "Bezgak yuqish xavfi qaysi omillarga bog'liq?",
+      "c": "Parazit miqdori, chivin zichligi va himoya darajasi",
+      "w": [
+        "Parazit miqdori, sholipoya maydoni va baliq soni",
+        "Chivin zichligi, bemor yoshi va donor qoni",
+        "Himoya darajasi, suv harorati va g'umbak soni",
+        "Mavsum, inyeksiya va transplantatsiya"
+      ],
+      "x": "«Yuqish xavfi bemorning qonidagi parazit miqdori, chivinlarning zichligi va odamlarning chivin chaqishidan himoyalanish darajasiga bog'liq»"
+    },
+    {
+      "q": "Parazit miqdori yuqori bo'lgan bemor chivinlar uchun nima hisoblanadi?",
+      "c": "Ko'proq yuqish manbai",
+      "w": [
+        "Kamroq yuqish manbai",
+        "Himoya vositasi",
+        "Davolash manbai",
+        "Profilaktika choralari"
+      ],
+      "x": "«Parazit miqdori yuqori bo'lgan bemor chivinlar uchun ko'proq yuqish manbai hisoblanadi, chunki chivin uni chaqqanida parazitni olish ehtimoli ortadi»"
+    },
+    {
+      "q": "Chivinlarning soni qaysi davrlarda keskin oshadi?",
+      "c": "Iliq va nam davrlarda",
+      "w": [
+        "Sovuq mavsumda",
+        "Sovuq va nam davrlarda",
+        "Mavsum boshlanishidan oldin",
+        "Donor qoni tekshirilganda"
+      ],
+      "x": "«Iliq va nam davrlarda chivinlarning soni keskin oshadi»"
+    },
+    {
+      "q": "Donor qoni va endemik hududdan kelgan donorlar bo'yicha nima tavsiya etiladi?",
+      "c": "Skrining va alohida tekshirish",
+      "w": [
+        "Davolash va alohida tekshirish",
+        "Insektitsid bilan ishlov berish",
+        "Himoya to'rlari o'rnatish",
+        "Baliqlardan foydalanish"
+      ],
+      "x": "«Donor qoni bezgak bo'yicha skrining qilinishi, endemik hududdan kelgan donorlar alohida tekshirilishi tavsiya etiladi»"
+    },
+    {
+      "q": "Shaxsiy himoya uchun qaysi chora tavsiya etiladi?",
+      "c": "To'rli karavotdan foydalanish",
+      "w": [
+        "Derazalarni kechqurun ochiq qoldirish",
+        "Qisqa yengli kiyim kiyish",
+        "Ochiq teri yuzasini yopmaslik",
+        "Uzun yengli kiyimni yechish"
+      ],
+      "x": "«kechqurun uyda derazalarni yopish, to'rli karavotdan foydalanish, uzun yengli kiyim kiyish va chivinlarni qaytaruvchi vositalarni teri yuziga to'g'ri surtish»"
+    }
+  ]
+}

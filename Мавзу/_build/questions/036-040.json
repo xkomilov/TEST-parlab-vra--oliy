@@ -1,0 +1,562 @@
+{
+  "036": [
+    {
+      "q": "Exinokokkning oxirgi xo'jayini kim?",
+      "c": "It va boshqa itsimonlar",
+      "w": [
+        "Odam va boshqa itsimonlar",
+        "Chorva va boshqa itsimonlar",
+        "Boshqa hayvonlar va odam",
+        "Odam va chorva hayvonlari"
+      ],
+      "x": "«Javob: it va boshqa itsimonlar oxirgi xo'jayin hisoblanadi, odam esa oraliq xo'jayin bo'lib, kistalar hosil qiladi»"
+    },
+    {
+      "q": "Odam exinokokk uchun qanday xo'jayin hisoblanadi?",
+      "c": "Oraliq xo'jayin",
+      "w": [
+        "Oxirgi xo'jayin",
+        "Asosiy tarqatuvchi",
+        "Voyaga yetgan gijja egasi",
+        "Veterinariya xo'jayini"
+      ],
+      "x": "«Shuning uchun odam exinokokkning oxirgi xo'jayini emas, faqat oraliq xo'jayin hisoblanadi»"
+    },
+    {
+      "q": "Odam tuxumni tasodifan yutganda lichinka qaysi organlarda kista hosil qiladi?",
+      "c": "Jigar va o'pkada",
+      "w": [
+        "Ichak va najasda",
+        "Bo'g'imlar va tuxumda",
+        "Itning ichagida",
+        "Itning najasida"
+      ],
+      "x": "«Tuxumdan chiqqan lichinka organlarda, ayniqsa jigar va o'pkada, kista hosil qiladi»"
+    },
+    {
+      "q": "Voyaga yetgan exinokokk itning qayerida yashaydi?",
+      "c": "Ichagida",
+      "w": [
+        "Jigarida",
+        "O'pkasida",
+        "Najasida",
+        "Kistasida"
+      ],
+      "x": "«It ichagida exinokokk voyaga yetadi va u yerda bo'g'imlar hosil qiladi»"
+    },
+    {
+      "q": "Voyaga yetgan lenta itning ichagida nima qiladi?",
+      "c": "Yangi bo'g'imlar hosil qiladi",
+      "w": [
+        "Kistalar hosil qiladi",
+        "Jigarda lichinka hosil qiladi",
+        "Tuxumlarni ichakda saqlaydi",
+        "Eski bo'g'imlarni ichakda saqlaydi"
+      ],
+      "x": "«Ichakda lenta yangi bo'g'imlar hosil qiladi, eski bo'g'imlar esa najas bilan chiqadi»"
+    },
+    {
+      "q": "Itning infeksiyasi ko'pincha nima bilan bog'liq?",
+      "c": "O'lik hayvonlarning organlarini yeyish",
+      "w": [
+        "Muntazam deparazitatsiya qilish",
+        "Ro'yxatga olish va hisobi",
+        "Bolalardan uzoqroq saqlash",
+        "Qo'lni yuvish va sabzavot yuvish"
+      ],
+      "x": "«Itning infeksiyasi ko'pincha yirtqich yoki o'lik hayvonlarning organlarini yeyish bilan bog'liq»"
+    },
+    {
+      "q": "Exinokokkozni kamaytirish uchun itlarga nima qilinadi?",
+      "c": "Muntazam deparazitatsiya qilish",
+      "w": [
+        "Xom ichki organ berish",
+        "O'lik hayvonlar organlarini ochiq qoldirish",
+        "Ichki organlarni xavfli qoldirish",
+        "Itlarni nazoratsiz qoldirish"
+      ],
+      "x": "«Itlarni nazorat qilish uchun ularni muntazam deparazitatsiya qilish, ichki organlarni xavfsiz yo'q qilish va itlarning ovqatiga xom ichki organ berilmasligini ta'minlash tavsiya etiladi»"
+    },
+    {
+      "q": "Itlarni deparazitatsiya qilishda doza nimaga qarab hisoblanadi?",
+      "c": "Itning vazni va yoshiga",
+      "w": [
+        "Itning yoshi va ovqatiga",
+        "Hududning xavfiga",
+        "Lentaning bo'g'imlariga",
+        "Egasining yoshi va ovqatiga"
+      ],
+      "x": "«Har bir it uchun dozasi uning vazni va yoshiga qarab hisoblanadi»"
+    },
+    {
+      "q": "Qaysi xodimlar exinokokkoz xavfi ostida turadi?",
+      "c": "Veterinar, it boqish xizmati va boshpana xodimlari",
+      "w": [
+        "Mahalla faollari, o'qituvchilar va bolalar",
+        "Hokimiyat, mahalla faollari va aholi",
+        "Bolalar, keksalar va it egalari",
+        "Mahalla faollari, bolalar va aholi"
+      ],
+      "x": "«Veterinar, it boqish xizmati va boshpana xodimlari itlar bilan doimiy aloqada bo'lgani uchun exinokokkoz xavfi ostida turadi»"
+    },
+    {
+      "q": "Bolalar itlar bilan o'ynaganidan keyin nima qilishi kerak?",
+      "c": "Qo'lni yuvishi",
+      "w": [
+        "Qo'lqop kiyishi",
+        "Itlarni ro'yxatga olishi",
+        "Itlarni deparazitatsiya qilishi",
+        "Itning ichki organini yeyishi"
+      ],
+      "x": "«Bolalar itlar bilan o'ynaganidan keyin qo'lni yuvishi, itlarning tanasini tozalashda qo'lqop ishlatishi kerakligi tushuntiriladi»"
+    }
+  ],
+  "037": [
+    {
+      "q": "Nefrotik sindrom qaysi tuzilmaning zararlanishi natijasida rivojlanadi?",
+      "c": "Buyrak glomerulalari",
+      "w": [
+        "Qon bosimi",
+        "Siydik tahlili",
+        "Buyrak biopsiyasi",
+        "Immun komplekslar"
+      ],
+      "x": "«Nefrotik sindrom buyrak glomerulalari zararlanishi natijasida rivojlanadigan holat bo'lib»"
+    },
+    {
+      "q": "Nefrotik sindromda siydik bilan nima ko'p yo'qotiladi?",
+      "c": "Siydik bilan oqsil",
+      "w": [
+        "Siydik bilan xolesterin",
+        "Siydik bilan tuz",
+        "Siydik bilan suyuqlik",
+        "Siydik bilan antitana"
+      ],
+      "x": "«siydik bilan ko'p oqsil yo'qotilishi, shish va qon oqsillarining pasayishi bilan xarakterlanadi»"
+    },
+    {
+      "q": "Nefrotik sindrom bezgakning qanday kechishi fonida paydo bo'lishi mumkin?",
+      "c": "Uzoq davom etgan yoki og'ir",
+      "w": [
+        "Uzoq davom etgan yoki og'ir glomerula",
+        "Uzoq davom etgan yoki og'ir shish",
+        "Uzoq davom etgan yoki og'ir parhez",
+        "Immun reaksiyalar kuchaygan siydikda"
+      ],
+      "x": "«Javob: uzoq davom etgan yoki og'ir bezgak, ayniqsa surunkali infeksiya fonida, shuningdek immun reaksiyalar kuchaygan holatlarda»"
+    },
+    {
+      "q": "Surunkali bezgakda parazit antigenlari buyrak glomerulalariga o'tiradigan qanday hosilani hosil qiladi?",
+      "c": "Immun kompleks",
+      "w": [
+        "Qon oqsili",
+        "Siydik oqsili",
+        "Xolesterin",
+        "Antibiotik"
+      ],
+      "x": "«Surunkali bezgak va parazit antigenlari immun kompleks hosil qilib, ularning buyrak glomerulalariga o'tirishiga olib keladi»"
+    },
+    {
+      "q": "Nefrotik sindromda shish qayerda seziladi?",
+      "c": "Oyoq va yuzda",
+      "w": [
+        "Siydik va yuzda",
+        "Qon va yuzda",
+        "Oqsil va yuzda",
+        "Xolesterin va yuzda"
+      ],
+      "x": "«Nefrotik sindromning asosiy belgilari: oyoq va yuzda shish, siydikda ko'p oqsil, qon oqsilining pasayishi va xolesterin ko'payishi»"
+    },
+    {
+      "q": "Nefrotik sindromda shish odatda qachon qayerda ko'proq seziladi?",
+      "c": "Ertalab yuzda, kechqurun oyoqlarda",
+      "w": [
+        "Ertalab oyoqlarda, kechqurun yuzda",
+        "Kechqurun yuzda, ertalab oyoqlarda",
+        "Ertalab yuzda, kechqurun siydikda",
+        "Kechqurun oyoqlarda, ertalab qonda"
+      ],
+      "x": "«Shish odatda ertalab yuzda, kechqurun esa oyoqlarda ko'proq seziladi»"
+    },
+    {
+      "q": "Nefrotik sindromda bezgak aniqlansa, avvalo nima qilinadi?",
+      "c": "Qo'zg'atuvchini yo'q qilish",
+      "w": [
+        "Buyrak holatini nazorat qilish",
+        "Shishni kamaytirish",
+        "Parhezni cheklash",
+        "Biopsiya o'tkazish"
+      ],
+      "x": "«Bezgak aniqlansa, avvalo qo'zg'atuvchini yo'q qilish, so'ngra buyrak holatini nazorat qilish zarur»"
+    },
+    {
+      "q": "Bolalarda nefrotik sindromda shish ko'pincha qayerdan boshlanadi?",
+      "c": "Ko'z atrofidan",
+      "w": [
+        "Oyoq atrofidan",
+        "Siydik atrofidan",
+        "Buyrak atrofidan",
+        "Xolesterin atrofidan"
+      ],
+      "x": "«Bolaning shishi ko'pincha ko'z atrofidan boshlanadi, siydik miqdori kamayadi va ko'pik paydo bo'ladi»"
+    },
+    {
+      "q": "Nefrotik sindromda tuz miqdori nima sababdan cheklanadi?",
+      "c": "Tuz shishni kuchaytiradi",
+      "w": [
+        "Tuz shishni kamaytiradi",
+        "Tuz oqsil yo'qotilishini to'xtatadi",
+        "Tuz buyrak funksiyasini tiklaydi",
+        "Tuz immun kompleks hosil qiladi"
+      ],
+      "x": "«Nefrotik sindromda bemorga tuz miqdorini cheklovchi parhez tavsiya etiladi, chunki tuz shishni kuchaytiradi»"
+    },
+    {
+      "q": "Nefrotik sindrom takrorlanishining oldini olish uchun nima kerak?",
+      "c": "Infeksiya to'liq davolanishi",
+      "w": [
+        "Infeksiya davolanmasligi",
+        "Parhezga rioya qilinmasligi",
+        "Immunitet nazorat qilinmasligi",
+        "Kuzatuv jadvali bekor qilinishi"
+      ],
+      "x": "«Nefrotik sindrom takrorlanishining oldini olish uchun infeksiya to'liq davolanishi, immunitet holati nazorat qilinishi va shifokor tavsiyalariga rioya qilinishi kerak»"
+    }
+  ],
+  "038": [
+    {
+      "q": "Chivin lichinkalarining yashash muhitini kamaytirish uchun turg'un suv havzalari bilan nima qilinadi?",
+      "c": "Quritiladi yoki oqimi tezlashtiriladi",
+      "w": [
+        "Ko'paytiriladi yoki turg'un qoldiriladi",
+        "Tozalanadi yoki o'simlik bilan qoplanadi",
+        "Quritiladi yoki chiqindi tashlanadi",
+        "Boshqariladi yoki baliqsiz qoldiriladi"
+      ],
+      "x": "«ularni quritish yoki oqimini tezlashtirish mumkin»"
+    },
+    {
+      "q": "Biologik nazorat usuli sifatida suv havzalarida nima ko'paytiriladi?",
+      "c": "Lichinkalarni yeyuvchi baliqlar",
+      "w": [
+        "Lichinkalarni ko'paytiruvchi baliqlar",
+        "Lichinkalarni yeyuvchi chivinlar",
+        "Kattalar chivinlarini yeyuvchi o'simliklar",
+        "Lichinkalarni tozalovchi insektitsidlar"
+      ],
+      "x": "«Lichinkalarni yeyuvchi baliqlarni (masalan gambuziya) suv havzalarida ko'paytirish biologik nazorat usuli sifatida qo'llaniladi»"
+    },
+    {
+      "q": "Kattalar chivinlarni kamaytirish uchun nima qo'llaniladi?",
+      "c": "Insektitsidlar bilan ishlov berish",
+      "w": [
+        "Suv havzalarini ko'paytirish",
+        "Baliqlarni kamaytirish",
+        "Botqoqlarni ko'paytirish",
+        "Botqoqlarni saqlash"
+      ],
+      "x": "«Uy ichi va tashqarisidagi kattalar chivinlarni kamaytirish uchun insektitsidlar bilan ishlov berish, ayniqsa uy devorlari va ko'payish joylariga, qo'llaniladi»"
+    },
+    {
+      "q": "Insektitsidlarni kimlar qo'llaydi?",
+      "c": "Faqat vakolatli xodimlar",
+      "w": [
+        "Mahalla faollari",
+        "Mahalliy hokimiyat",
+        "Fermerlar va aholi",
+        "Mahalla faollari va aholi"
+      ],
+      "x": "«shuning uchun ularni faqat vakolatli xodimlar qo'llaydi»"
+    },
+    {
+      "q": "Insektitsidga chidamlilik paydo bo'lmasligi uchun nima tavsiya etiladi?",
+      "c": "Turli sinf preparatlarini navbatma-navbat qo'llash",
+      "w": [
+        "Bir sinf preparatini navbatsiz qo'llash",
+        "Preparat dozasini oshirib, navbatsiz qo'llash",
+        "Ishlovni aholi navbatsiz qo'llash",
+        "Monitoringni to'xtatib, ishlovni takrorlash"
+      ],
+      "x": "«Insektitsidlarga chivinlarning chidamliligi paydo bo'lishi mumkin, shuning uchun turli sinf preparatlarini navbatma-navbat qo'llash tavsiya etiladi»"
+    },
+    {
+      "q": "Sholi maydonlarida lichinkalarning yashash muhitini kamaytirish uchun nima qilinadi?",
+      "c": "Suvni navbatma-navbat almashtirish",
+      "w": [
+        "Suvni turg'un qoldirish",
+        "Suvni doimiy ko'paytirish",
+        "O'simlik qoldiqlarini ko'paytirish",
+        "Botqoqlarni saqlash"
+      ],
+      "x": "«sholi maydonlarida suvni navbatma-navbat almashtirish va botqoqlarni quritish chivin lichinkalarining yashash muhitini kamaytiradi»"
+    },
+    {
+      "q": "Chivinlar shaharlarda asosan qayerlarda ko'payadi?",
+      "c": "Sun'iy suv havzalari, drenaj tizimi va xarobalarda",
+      "w": [
+        "Sholipoyalar, sug'orish kanallari va turg'un ariqlarda",
+        "Sun'iy suv havzalari, sholipoyalar va ariqlarda",
+        "Drenaj tizimi, sug'orish kanallari va botqoqlarda",
+        "Xarobalar, sholipoyalar va turg'un ariqlarda"
+      ],
+      "x": "«Shaharlarda chivinlar asosan sun'iy suv havzalari, drenaj tizimi va xarobalarda ko'payadi»"
+    },
+    {
+      "q": "Qishloqlarda chivinlarning asosiy manbalari qaysilar?",
+      "c": "Sholipoyalar, sug'orish kanallari va turg'un suvli ariqlar",
+      "w": [
+        "Sun'iy suv havzalari, drenaj tizimi va xarobalar",
+        "Sun'iy suv havzalari, sholipoyalar va xarobalar",
+        "Drenaj tizimi, sug'orish kanallari va xarobalar",
+        "Sholipoyalar, kanalizatsiya va chiqindi tizimi"
+      ],
+      "x": "«Qishloqlarda esa sholipoyalar, sug'orish kanallari va turg'un suvli ariqlar asosiy manba hisoblanadi»"
+    },
+    {
+      "q": "Insektitsid ishlovi qachon rejalashtiriladi?",
+      "c": "Chivinlar faol davrining boshlanishidan oldin",
+      "w": [
+        "Chivinlar faol davrining tugashidan keyin",
+        "Chivinlar faol davrining o'rtasida",
+        "Monitoring natijalaridan keyin",
+        "Aholi xabardor bo'lgandan keyin"
+      ],
+      "x": "«Insektitsid ishlovi chivinlar faol davrining boshlanishidan oldin rejalashtiriladi»"
+    },
+    {
+      "q": "Insektitsid ishlovi vaqtida aholi va oziq-ovqat bilan nima qilinadi?",
+      "c": "Aholi uy ichida bo'lmaydi, oziq-ovqat va suv ochiq qolmaydi",
+      "w": [
+        "Aholi uy ichida qoladi, oziq-ovqat va suv ochiq qoladi",
+        "Aholi uy ichida bo'lmaydi, oziq-ovqat va suv ochiq qoladi",
+        "Aholi uy ichida qoladi, oziq-ovqat va suv ochiq qolmaydi",
+        "Aholi hovlini tozalaydi, oziq-ovqat va suv ochiq qoladi"
+      ],
+      "x": "«Ishlov berish vaqtida aholi uy ichida bo'lmasligi, oziq-ovqat va suv ochiq qolmasligi kerak»"
+    }
+  ],
+  "039": [
+    {
+      "q": "Shizont nima?",
+      "c": "Parazitning jigar yoki eritrotsitlar ichida rivojlanadigan yetuk bosqichi",
+      "w": [
+        "Parazitning eritrotsit yuzasida rivojlanadigan halqa bosqichi",
+        "Parazitning jigar hujayrasida rivojlanadigan yosh bosqichi",
+        "Parazitning periferik qonda aylanib yuradigan yetuk bosqichi",
+        "Parazitning eritrotsit ichida rivojlanadigan yosh trofozoit bosqichi"
+      ],
+      "x": "«Shizont esa parazitning jigar yoki eritrotsitlar ichida rivojlanadigan yetuk bosqichi bo'lib, undan merozoitlar chiqadi»"
+    },
+    {
+      "q": "Shizont yorilganda nima chiqadi?",
+      "c": "Merozoitlar",
+      "w": [
+        "Trofozoitlar",
+        "Eritrotsitlar",
+        "Kapillyarlar",
+        "Qon surtmasi"
+      ],
+      "x": "«Shizont esa parazitning jigar yoki eritrotsitlar ichida rivojlanadigan yetuk bosqichi bo'lib, undan merozoitlar chiqadi»"
+    },
+    {
+      "q": "Shizont qanday hosil bo'ladi?",
+      "c": "Parazit yadrosining ko'p marta bo'linishi natijasida",
+      "w": [
+        "Parazit yadrosining ko'p marta yorilishi natijasida",
+        "Eritrotsit yadrosining ko'p marta bo'linishi natijasida",
+        "Parazit qobig'ining bir marta bo'linishi natijasida",
+        "Merozoit yadrosining bir marta yorilishi natijasida"
+      ],
+      "x": "«Shizont parazit yadrosining ko'p marta bo'linishi natijasida hosil bo'ladi»"
+    },
+    {
+      "q": "Eritrotsitar shizontlar yorilganda bemorda nima kuzatiladi?",
+      "c": "Isitma xuruji, qaltirash va kamqonlik",
+      "w": [
+        "Isitma xuruji, qaltirash va yallig'lanish",
+        "Qaltirash, jigar bosqichi va tutqanoq",
+        "Kamqonlik, immersiya moyi va qaltirash",
+        "Merozoit chiqishi, jigar shizonti va kamqonlik"
+      ],
+      "x": "«Bu holat bemorda isitma xuruji, qaltirash va kamqonlikka olib keladi»"
+    },
+    {
+      "q": "Uch kunlik bezgakda xuruj shizontlarning yetilish davriga ko'ra qanday takrorlanadi?",
+      "c": "Ikki kunda bir",
+      "w": [
+        "Uch kunda bir",
+        "Bir kunda bir",
+        "Bir kunda ikki marta",
+        "To'rt kunda bir"
+      ],
+      "x": "«uch kunlik bezgakda ikki kunda bir, to'rt kunlik bezgakda uch kunda bir takrorlanadi»"
+    },
+    {
+      "q": "Qon surtmasida shizontlarni topish nimaga yordam beradi?",
+      "c": "Bezgakni tasdiqlash va turini aniqlashga",
+      "w": [
+        "Bezgakni istisno qilish va turini o'zgartirishga",
+        "Merozoitlarni yo'qotish va turini o'zgartirishga",
+        "Jigar bosqichini davolash va turini o'zgartirishga",
+        "Eritrotsitlarni sanash va turini o'zgartirishga"
+      ],
+      "x": "«Qon surtmasida shizontlarni topish bezgakni tasdiqlash va turini aniqlashga yordam beradi»"
+    },
+    {
+      "q": "Qaysi namunada shizontlar ko'proq uchraydi?",
+      "c": "Isitma xuruji paytida olingan namunada",
+      "w": [
+        "Davolash tugagandan keyin olingan namunada",
+        "Isitma yo'q paytda olingan namunada",
+        "Sekin tayyorlangan surtmada",
+        "Jigar bosqichida olingan namunada"
+      ],
+      "x": "«Isitma xuruji paytida olingan namunada shizontlar ko'proq uchraydi»"
+    },
+    {
+      "q": "Eritrotsit ichida parazit qanday bosqichlardan o'tadi?",
+      "c": "Halqa shakl, o'sgan trofozoit va yetuk shizont",
+      "w": [
+        "Yetuk shizont, halqa shakl va o'sgan trofozoit",
+        "O'sgan trofozoit, yetuk shizont va halqa shakl",
+        "Halqa shakl, yetuk shizont va o'sgan trofozoit",
+        "Yetuk shizont, o'sgan trofozoit va halqa shakl"
+      ],
+      "x": "«Eritrotsit ichida rivojlanayotgan parazit avval halqa shakl, keyin o'sgan trofozoit va nihoyat yetuk shizont bosqichlaridan o'tadi»"
+    },
+    {
+      "q": "Shizont yorilganda gemoglobin qonga chiqsa, nima sodir bo'lishi mumkin?",
+      "c": "Sariqlik va siydik rangining o'zgarishi",
+      "w": [
+        "Sariqlik va qaltirashning kuchayishi",
+        "Kamqonlik va jigar bosqichining qisqarishi",
+        "Qaltirash va jigar hujayralarining ko'payishi",
+        "Isitma xurujining to'xtashi va kamqonlik"
+      ],
+      "x": "«Bu jarayon sariqlik va siydik rangining o'zgarishiga sabab bo'lishi mumkin»"
+    },
+    {
+      "q": "Davolash samaradorligi qon surtmasida nima bilan baholanadi?",
+      "c": "Shizontlar sonining kamayishi",
+      "w": [
+        "Shizontlar soni kamaymasligi",
+        "Merozoitlar rangi o'zgarishi",
+        "Jigar bosqichidagi shizontlar",
+        "Eritrotsitlar parchalanishi"
+      ],
+      "x": "«Davolash samaradorligi qon surtmasida shizontlar soni kamayishi bilan baholanadi»"
+    }
+  ],
+  "040": [
+    {
+      "q": "Buyum oynalarini tozalashning eng keng tarqalgan usuli qaysi?",
+      "c": "Iliq suvda yuvuvchi vosita bilan yuvib, spirt bilan artish",
+      "w": [
+        "Xromli aralashma bilan yuvib, ksilol bilan artish",
+        "Iliq suvda yuvib, moy bilan artish",
+        "Quruq matoda ishqalab, ksilol bilan artish",
+        "Sovuq suvda yuvib, kislotali eritma bilan artish"
+      ],
+      "x": "«Eng keng tarqalgan usul — buyum oynalarini iliq suvda yuvuvchi vosita bilan yuvib, so'ngra spirt (etil yoki izopropil) bilan artish»"
+    },
+    {
+      "q": "Spirt buyum oynasidan nimani yaxshi olib tashlaydi?",
+      "c": "Yog' va qoldiqlarni",
+      "w": [
+        "Bo'yoq va chiziqlarni",
+        "Dog' va tirnalishlarni",
+        "Chang va namlikni",
+        "Chiziq va dog'larni"
+      ],
+      "x": "«Spirt yog' va qoldiqlarni yaxshi olib tashlaydi»"
+    },
+    {
+      "q": "Xromli aralashma va maxsus kislotali eritmalar qanday vositalar hisoblanadi?",
+      "c": "Xavfli, ehtiyotkorlik talab qiladi",
+      "w": [
+        "Zararsiz, ehtiyotkorlik talab qilmaydi",
+        "Eng keng tarqalgan va xavfsiz",
+        "Faqat yangi oynalarga qo'llanadi",
+        "Spirt qoldiqlarini olib tashlamaydi"
+      ],
+      "x": "«Ba'zi laboratoriyalarda xromli aralashma yoki maxsus kislotali eritmalar ishlatiladi, ammo ular xavfli bo'lgani uchun ehtiyotkorlik talab qiladi»"
+    },
+    {
+      "q": "Toza buyum oynasini qo'lda qanday ushlash tavsiya etiladi?",
+      "c": "Chetidan",
+      "w": [
+        "Sirtidan",
+        "Barmoq uchlari bilan sirtidan",
+        "Sirtini ishqalab",
+        "Barmoq izlari bilan sirtidan"
+      ],
+      "x": "«Ularni qo'lda ushlashda barmoq izi qolmasligi uchun chetidan ushlash tavsiya etiladi»"
+    },
+    {
+      "q": "Bemor namunasi tegib qolgan oynalar qanday tartibda yig'iladi?",
+      "c": "Avval dezinfeksiya eritmasiga solinadi, so'ngra maxsus idishda yig'iladi",
+      "w": [
+        "Avval maxsus idishga solinadi, so'ngra dezinfeksiya eritmasida yig'iladi",
+        "Avval oddiy axlatga solinadi, so'ngra maxsus idishda yig'iladi",
+        "Avval spirt bilan artiladi, so'ngra oddiy axlatga tashlanadi",
+        "Avval quruq matoda ishqalanadi, so'ngra dezinfeksiya eritmasida yig'iladi"
+      ],
+      "x": "«Bemor namunasi tegib qolgan oynalar avval dezinfeksiya eritmasiga solinadi, so'ngra maxsus idishda yig'iladi»"
+    },
+    {
+      "q": "Moyli immersiya ob'ektividan keyin buyum oynasidagi moy qoldiqlari nima bilan olinadi?",
+      "c": "Ksilol yoki maxsus tozalovchi eritma",
+      "w": [
+        "Spirt yoki maxsus kimyoviy eritma",
+        "Yuvish vositasi yoki maxsus kimyoviy eritma",
+        "Yuvuvchi vosita yoki spirt aralashmasi",
+        "Xromli aralashma yoki kislotali eritma"
+      ],
+      "x": "«Bu qoldiqlar ksilol yoki maxsus tozalovchi eritma bilan olinadi, so'ngra spirt bilan artiladi»"
+    },
+    {
+      "q": "Ksilolni ishlatishda qanday sharoit talab qilinadi?",
+      "c": "Shamollatiladigan xonada va qo'lqop kiyib",
+      "w": [
+        "Yopiq xonada va qo'lqop kiymasdan",
+        "Changli xonada va qo'lqop kiymasdan",
+        "Shamollatilmaydigan xonada va qo'lqopsiz",
+        "Yopiq xonada va qo'lqopsiz"
+      ],
+      "x": "«Ksilol zaharli modda bo'lgani uchun uni ishlatishda shamollatiladigan xonada va qo'lqop kiyib ishlash kerak»"
+    },
+    {
+      "q": "Tozalangan oynalar sirtida nima qolmasligi kerak?",
+      "c": "Chiziq, chang yoki dog'",
+      "w": [
+        "Yorug'lik, shaffoflik yoki silliqlik",
+        "Qalinlik, tekislik yoki sertifikat",
+        "Sana, yorliq yoki quti",
+        "Spirt, suv yoki mato"
+      ],
+      "x": "«Tozalangan oynalar sirtida chiziq, chang yoki dog' qolmasligi kerak»"
+    },
+    {
+      "q": "Buyum oynalari qanday holatda saqlanadi?",
+      "c": "Gorizontal holatda, bir-biriga tegmasdan",
+      "w": [
+        "Vertikal holatda, bir-biriga tegib",
+        "Gorizontal holatda, bir-biriga tegib",
+        "Vertikal holatda, bir-biriga tegmasdan",
+        "Gorizontal holatda, changli xonada"
+      ],
+      "x": "«Oynalar gorizontal holatda, bir-biriga tegmasdan saqlanadi, aks holda sirtida tirnalishlar paydo bo'ladi»"
+    },
+    {
+      "q": "Sinib qolgan oynalar qayerga tashlanadi?",
+      "c": "Maxsus idishga",
+      "w": [
+        "Oddiy axlatga",
+        "Dezinfeksiya eritmasiga",
+        "Spirt idishiga",
+        "Zaxira qutisiga"
+      ],
+      "x": "«sinib qolgan oynalar maxsus idishga tashlanadi va ularni oddiy axlatga qo'shib bo'lmaydi»"
+    }
+  ]
+}
