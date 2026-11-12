@@ -1,19 +1,19 @@
-# Hisobot — Parazitologiya bo'yicha mavzu testlari (001–050)
+# Hisobot — Parazitologiya bo'yicha mavzu testlari (001–075)
 
 Rol: test tuzuvchi, Parazitologiya bo'yicha oliy toifali shifokor.
 Manba: `Мавзу.zip` (121 ta `NNN.docx`). Natija papkasi: `Тест/`. Shablon: `shablon.xlsx`.
-Bajarilgan: 001–050 mavzulari (10 partiya × 5 mavzu). 051–121 mavzulari hali bajarilmagan.
+Bajarilgan: 001–075 mavzulari (15 partiya × 5 mavzu). 076–121 mavzulari hali bajarilmagan.
 
 ## 1. Fayllar va savollar soni
-- Fayllar: 50 ta (`Тест/001.xlsx` … `Тест/050.xlsx`).
-- Savollar: 500 ta (har faylda 10 ta). Har savolda 5 variant (A–E), bitta to'g'ri javob, izoh — mavzu matnidan «» ichida aynan iqtibos.
+- Fayllar: 75 ta (`Тест/001.xlsx` … `Тест/075.xlsx`).
+- Savollar: 750 ta (har faylda 10 ta). Har savolda 5 variant (A–E), bitta to'g'ri javob, izoh — mavzu matnidan «» ichida aynan iqtibos.
 - QA (`build_tests.js`, qat'iy rejim): xato 0. Qayta o'qish (jszip): savollar soni, harf taqsimoti, ketma-ket 3 ta bir xil harf yo'qligi, izohda iqtibos borligi, kirill aralashmasi yo'qligi — barchasi o'tdi (xato fayl 0).
 
 ## 2. A/B/C/D/E taqsimoti
-A = 100, B = 100, C = 100, D = 100, E = 100.
+A = 150, B = 150, C = 150, D = 150, E = 150.
 
 ## 3. To'g'ri javob 10% dan uzun bo'lgan savollar ulushi
-73 ta savol (14,6%). Ular QA'da ogohlantirish sifatida chiqdi; 30% dan uzun hech biri yo'q.
+114 ta savol (15,2%). Ular QA'da ogohlantirish sifatida chiqdi; 30% dan uzun hech biri yo'q.
 
 ## 4. Mavzu matnlari o'rtasidagi farqlar va nomuvofiqliklar
 Bir xil matnli mavzular (savollar bir-biridan farqli jihatlar bo'yicha yozildi):
@@ -26,6 +26,7 @@ Bir xil matnli mavzular (savollar bir-biridan farqli jihatlar bo'yicha yozildi):
 7. 022 va 035: matnlar bir xil (P. falciparum shizogoniyasi).
 8. 034 va 046: matnlar bir xil (mikroskopni saqlash).
 9. 037 va 044: matnlar bir xil (nefrotik sindrom).
+10a. Yangi (051–075): 040=053, 025=057=058, 051=059, 038=061 (chivin nazorati), 047=064=067=069 (askaridaning oxirgi xo‘jayini), 029=065, 017=068 (sporozoit), 032=072 (skoleks), 034=046=073 (mikroskop saqlash), 020=074 (kasallik va o‘limni kamaytirish). Har bir nusxa uchun boshqa jihatlar bo‘yicha savollar yozildi.
 
 Sarlavha va matn orasidagi farqlar:
 10. 047 sarlavhasi «so'nggi bo'shlig'i» deb yozilgan, matn esa askaridaning oxirgi xo'jayini haqida. 032 sarlavhasi «Buqa tizmasining oxirgi boshlig'i», matnda «Xo'kiz tizmasi». 045 sarlavhasi aniq harorat haqida, matnda esa aniq qiymat «tasdiqlanishi kerak» deb qoldirilgan.
@@ -52,7 +53,14 @@ Hech biri savolning to'g'ri javobi yoki variantiga kiritilmadi.
 - 017: sog'lom organizmni zararlash uchun zarur sporozoit soni.
 - 042: urg'ochi askarida kuniga qo'yadigan tuxum soni (ikki yuz mingdan ortiq).
 - 045: P. vivax uchun o'rtacha sutkalik harorat (16–18 daraja).
+- 066: dispanser kuzatuvining aniq muddati (milliy protokolga havola).
+- 068: sog‘lom organizmni zararlash uchun zarur sporozoit soni va minimal doza (017 bilan bir xil matn).
 - Faqat adabiyotlar ro'yxatida belgilangan mavzular: 001–005, 007, 009, 013, 014, 019, 020, 023–025, 028, 029 va boshqalar.
+
+## 6. 051–075 bo‘yicha qo‘shimcha izoh
+- 067 va 069 sarlavhalari («oxirgi xo‘jayini», «so‘nggi boshlig‘i») bir xil matnga ega; 069 sarlavhasidagi «boshlig‘i» so‘zi matnda xo‘jayin ma’nosida.
+- 073 sarlavhasi «ishlatilmasa qayerda saqlash» deb qo‘yilgan, matn mikroskop saqlash va parvarishi haqida to‘liq (034/046 bilan bir xil).
+- 066 va 068 dagi `[tasdiqlanmagan]` belgili gaplar savol qilinmadi.
 
 ## Eslatma
 Tibbiy mazmun (dozalar, muddatlar, me'yorlar) mutaxassis tomonidan tekshirilishi kerak. Skript faqat matn mosligini tekshiradi.

@@ -1,0 +1,562 @@
+{
+ "061": [
+  {
+   "q": "Chivin nazoratida monitoring qanday usullar bilan amalga oshiriladi?",
+   "c": "Tuzoqlar, dala kuzatuvlari va lichinkalarni hisoblash",
+   "w": [
+    "Tuzoqlar, geografik tizimlar va suvni hisoblash",
+    "Insektitsid, dala kuzatuvlari va lichinkalarni hisoblash",
+    "Tuzoqlar, baliqlar va lichinkalarni quritish",
+    "Dala kuzatuvlari, drenaj tizimi va baliqlarni hisoblash"
+   ],
+   "x": "«Chivinlar zichligini bilish uchun tuzoqlar, dala kuzatuvlari va lichinkalarni hisoblash usullari qo'llaniladi»"
+  },
+  {
+   "q": "Chivin lichinkalarining yashash joyini kamaytirish uchun qaysi o'simliklar olib tashlanadi?",
+   "c": "Soyali o'simliklar",
+   "w": [
+    "Sholi o'simliklari",
+    "Suvli o'simliklar",
+    "Toza o'simliklar",
+    "Quyoshli o'simliklar"
+   ],
+   "x": "«Suv havzalarini quritish, oqimini ta'minlash va soyali o'simliklarni olib tashlash lichinkalarning yashash joyini kamaytiradi»"
+  },
+  {
+   "q": "Ekologik yondashuv nimaga bog'liqlikni kamaytiradi?",
+   "c": "Insektitsidlarga",
+   "w": [
+    "Baliqlarga",
+    "Hokimiyatga",
+    "Fermerlarga",
+    "Suv havzalariga"
+   ],
+   "x": "«Ekologik yondashuv insektitsidlarga bog'liqlikni kamaytiradi va atrof-muhitga zararni cheklaydi»"
+  },
+  {
+   "q": "Ekologik yondashuv qachon eng samarali bo'ladi?",
+   "c": "Mahalliy aholi va hokimiyat ishtirokida bajarilganda",
+   "w": [
+    "Faqat sanitariya xodimlari kuchi bilan bajarilganda",
+    "Insektitsid va kimyoviy vositalar bilan bajarilganda",
+    "Hokimiyat va fermerlar ishtirokisiz bajarilganda",
+    "Aholi va o'qituvchilar ishtirokisiz bajarilganda"
+   ],
+   "x": "«Bu yondashuv mahalliy aholi va hokimiyat ishtirokida bajarilganda eng samarali bo'ladi»"
+  },
+  {
+   "q": "Biologik nazorat kimyoviy vositalarga nisbatan qanday hisoblanadi?",
+   "c": "Atrof-muhitga zararsizroq",
+   "w": [
+    "Atrof-muhitga zararliroq",
+    "Insektitsidga bog'liqroq",
+    "Xarajatli va zararliroq",
+    "Baliqlarga zararliroq"
+   ],
+   "x": "«Bu usul kimyoviy vositalarga nisbatan atrof-muhitga zararsizroq hisoblanadi»"
+  },
+  {
+   "q": "Biologik nazoratni qo'llashdan oldin nima baholanadi?",
+   "c": "Suv havzasining ekologik holati",
+   "w": [
+    "Begona organizmlarning soni",
+    "Baliqlarning soni va turi",
+    "Hokimiyat tajribasi va roli",
+    "Chivinlar soni va turi"
+   ],
+   "x": "«Biologik nazoratni qo'llashdan oldin har bir suv havzasining ekologik holati baholanadi, chunki begona turlar boshqa organizmlarga zarar yetkazishi mumkin»"
+  },
+  {
+   "q": "Chivin nazoratining iqtisodiy samaradorligi nimada namoyon bo'ladi?",
+   "c": "Davolash xarajatlarini kamaytirishda",
+   "w": [
+    "Davolash xarajatlarini oshirishda",
+    "Kasallikni ko'paytirishda",
+    "Insektitsid xarajatlarini oshirishda",
+    "Monitoring xarajatlarini ko'paytirishda"
+   ],
+   "x": "«Chivin nazoratining iqtisodiy samaradorligi kasallanish oldini olish orqali davolash xarajatlarini kamaytirishda namoyon bo'ladi»"
+  },
+  {
+   "q": "Aholi o'z hovlisida chivinlar ko'payishini qanday kamaytiradi?",
+   "c": "Suv idishlari va chiqindilarni yo'q qilish orqali",
+   "w": [
+    "Suv idishlari va chiqindilarni ko'paytirish orqali",
+    "Baliqlar va chiqindilarni yo'q qilish orqali",
+    "Insektitsidlar va to'rlarni yo'q qilish orqali",
+    "Botqoqlar va ariqlarni ko'paytirish orqali"
+   ],
+   "x": "«Aholi o'z hovlisidagi suv idishlari va chiqindilarni yo'q qilish orqali chivinlar ko'payishini kamaytiradi»"
+  },
+  {
+   "q": "Monitoring natijalari aholiga e'lon qilinsa, nima oshadi?",
+   "c": "Xabardorlik",
+   "w": [
+    "Chivin soni",
+    "Lichinka soni",
+    "Kasallik soni",
+    "Chivinlar soni"
+   ],
+   "x": "«Monitoring natijalari aholiga e'lon qilinsa, xabardorlik oshadi va jamoatchilik ishtiroki kuchayadi»"
+  },
+  {
+   "q": "Qaysi texnologiya chivin ko'payish joylarini aniqlashga yordam beradi?",
+   "c": "Geografik axborot tizimlari",
+   "w": [
+    "Insektitsid tizimlari",
+    "Tuzoq tizimlari",
+    "Biologik tizimlar",
+    "Drenaj tizimlari"
+   ],
+   "x": "«Yangi texnologiyalar, masalan geografik axborot tizimlari, chivin ko'payish joylarini tez aniqlashga yordam beradi»"
+  }
+ ],
+ "062": [
+  {
+   "q": "Epidemiya davrida infeksiyaning asosiy manbai kim?",
+   "c": "Qo'zg'atuvchini tarqatuvchi odam yoki hayvon",
+   "w": [
+    "Qo'zg'atuvchini davolovchi odam yoki hayvon",
+    "Qo'zg'atuvchini aniqlovchi laborant yoki shifokor",
+    "Qo'zg'atuvchini tekshiruvchi epidemiolog yoki veterinar",
+    "Qo'zg'atuvchisiz odam yoki hayvon"
+   ],
+   "x": "«Epidemiya davrida infeksiyaning asosiy manbai — kasallik qo'zg'atuvchisini tarqatuvchi odam yoki hayvon bo'lib, ular kasallik belgilari bilan yoki yashirin shaklda bo'lishi mumkin»"
+  },
+  {
+   "q": "Tashuvchi bemordan nimasi bilan farq qiladi?",
+   "c": "Kasallik belgisiz bo'ladi",
+   "w": [
+    "Kasallik klinik shaklda bo'ladi",
+    "Qo'zg'atuvchini tarqatmaydi",
+    "Qo'zg'atuvchini saqlamaydi",
+    "Epidemiologik nazoratda hisobga olinmaydi"
+   ],
+   "x": "«Tashuvchi esa kasallik belgisiz bo'lib, qo'zg'atuvchini uzoq vaqt saqlaydi va tarqatadi»"
+  },
+  {
+   "q": "Parazitar kasalliklarda manba hayvon bo'lsa, qaysi hayvonlar misol bo'ladi?",
+   "c": "It, kemiruvchi yoki chorva",
+   "w": [
+    "It, odam yoki chorva",
+    "Kemiruvchi, tashuvchi yoki odam",
+    "Chorva, bemor yoki it",
+    "Kemiruvchi, bemor yoki odam"
+   ],
+   "x": "«Ayrim parazitar kasalliklarda manba hayvon bo'lishi mumkin, masalan it, kemiruvchi yoki chorva»"
+  },
+  {
+   "q": "Manbani aniqlashda bemorning qaysi ma'lumotlari so'raladi?",
+   "c": "Sayohat tarixi, kontaktlari va ovqatlanish odatlari",
+   "w": [
+    "Sayohat tarixi, moliya, kasb va jins",
+    "Kontaktlari, jins, moliya va kasb",
+    "Ovqatlanish odatlari, moliya, jins va kasb",
+    "Sayohat tarixi, yosh, moliya va kasb"
+   ],
+   "x": "«Epidemiologik tekshiruvda bemorning sayohat tarixi, kontaktlari va ovqatlanish odatlari so'raladi»"
+  },
+  {
+   "q": "Passiv kuzatuvda nima sodir bo'ladi?",
+   "c": "Tibbiy muassasalar kasallik holatlarini o'zi xabar beradi",
+   "w": [
+    "Epidemiolog xavfli guruhlarni o'zi tekshiradi",
+    "Tibbiy muassasalar xavfli guruhlarni tekshiradi",
+    "Epidemiolog kasallik holatlarini o'zi xabar beradi",
+    "Laboratoriya tashuvchilarni o'zi tekshiradi"
+   ],
+   "x": "«Passiv kuzatuvda tibbiy muassasalar kasallik holatlarini o'zi xabar beradi, faol kuzatuvda esa epidemiolog xavfli guruhlarni o'zi tekshiradi»"
+  },
+  {
+   "q": "Faol kuzatuvning passivdan farqi nima?",
+   "c": "Aniqroq ma'lumot beradi, lekin ko'proq resurs talab qiladi",
+   "w": [
+    "Arzonroq va keng qamrovli bo'ladi",
+    "Ko'p holatlar qayd etilmasligi mumkin",
+    "Aniqroq ma'lumot beradi va arzon bo'ladi",
+    "Kam resurs talab qiladi va keng qamrovli bo'ladi"
+   ],
+   "x": "«Faol kuzatuv esa aniqroq ma'lumot beradi, lekin ko'proq resurs talab qiladi»"
+  },
+  {
+   "q": "Hududiy epidemiologik xarita nimani ko'rsatadi?",
+   "c": "Kasallik holatlarini geografik joylashuvi bo'yicha",
+   "w": [
+    "Kasallik holatlarini yosh va jinsi bo'yicha",
+    "Kasallik holatlarini kasbi bo'yicha",
+    "Tashuvchilarni moliyaviy ahvoli bo'yicha",
+    "Hayvonlarni geografik tarqalishi bo'yicha"
+   ],
+   "x": "«Hududiy epidemiologik xarita kasallik holatlarini geografik joylashuvi bo'yicha ko'rsatadi»"
+  },
+  {
+   "q": "Epidemiologik tahlil kasallanish holatlarini qaysi tomonlar bo'yicha o'rganadi?",
+   "c": "Vaqt, joy va odamlar bo'yicha",
+   "w": [
+    "Vaqt, kasb va moliya bo'yicha",
+    "Joy, jins va moliya bo'yicha",
+    "Odamlar, hayvonlar va hudud bo'yicha",
+    "Vaqt, joy va hayvonlar bo'yicha"
+   ],
+   "x": "«Epidemiologik tahlil kasallanish holatlarining vaqt, joy va odamlar bo'yicha taqsimotini o'rganadi»"
+  },
+  {
+   "q": "Manba bartaraf etilgandan keyin ham kuzatuv nima sababdan davom etadi?",
+   "c": "Yashirin tashuvchilar yangi holatlarga sabab bo'lishi mumkin",
+   "w": [
+    "Yashirin tashuvchilar yangi holatlarni yo'qotishi mumkin",
+    "Passiv kuzatuv arzon bo'lishi mumkin",
+    "Xarita yangilanishi mumkin",
+    "Faol kuzatuv resurs talab qilishi mumkin"
+   ],
+   "x": "«Manba bartaraf etilgandan keyin ham kuzatuv davom etadi, chunki yashirin tashuvchilar yangi holatlarga sabab bo'lishi mumkin»"
+  },
+  {
+   "q": "Epidemiologik ma'lumotlarga kirish kimlarga beriladi?",
+   "c": "Faqat vakolatli xodimlarga",
+   "w": [
+    "Mahalla faollariga va xodimlarga",
+    "Ochiq ravishda aholiga",
+    "Bemor kontaktlariga",
+    "Sohalar xodimlariga"
+   ],
+   "x": "«Ma'lumotlarga kirish faqat vakolatli xodimlarga beriladi»"
+  }
+ ],
+ "063": [
+  {
+   "q": "Parazit foizi yuqori bo'lsa, qanday holat chuqurlashadi?",
+   "c": "Kamqonlik",
+   "w": [
+    "Xotira",
+    "Diqqat",
+    "Uyqusizlik",
+    "Stress"
+   ],
+   "x": "«Parazit foizi yuqori bo'lsa, eritrotsitlarning parchalanishi tez kechadi va kamqonlik chuqurlashadi»"
+  },
+  {
+   "q": "Eritrotsitlar yuzasida parazitlarning yopishishi nimaga olib keladi?",
+   "c": "Mikrotsirkulyatsiya buzilishiga",
+   "w": [
+    "Qon oqimi yaxshilanishiga",
+    "Qon bosimi pasayishiga",
+    "Parazit yuklamasi kamayishiga",
+    "Ong yaxshilanishiga"
+   ],
+   "x": "«Eritrotsitlar yuzasida parazitlarning yopishishi qon oqimini buzib, mikrotsirkulyatsiya buzilishiga olib keladi»"
+  },
+  {
+   "q": "Qon surtmasida parazitlar soni yuqori bo'lsa, bemor qaysi guruhga kiradi?",
+   "c": "Xavf guruhiga",
+   "w": [
+    "Sayohatchilar guruhiga",
+    "Donorlar guruhiga",
+    "Ayollar guruhiga",
+    "Yaqinlar guruhiga"
+   ],
+   "x": "«Qon surtmasida parazitlar soni yuqori bo'lsa, bemor xavf guruhiga kiradi»"
+  },
+  {
+   "q": "Parazit yuklamasi yuqori bo'lgan bemorlarda qaysi xavf oshadi?",
+   "c": "Gipoglikemiya, metabolik atsidoz va buyrak zararlanishi",
+   "w": [
+    "Gipoglikemiya, kamqonlik va xotira yaxshilanishi",
+    "Atsidoz, yengil isitma va buyrak tiklanishi",
+    "Kamqonlik, tutqanoq va qon ko'payishi",
+    "Metabolik atsidoz, uyqusizlik va yengil isitma"
+   ],
+   "x": "«Parazit yuklamasi yuqori bo'lgan bemorlarda gipoglikemiya, metabolik atsidoz va buyrak zararlanishi xavfi oshadi»"
+  },
+  {
+   "q": "Qaysi guruhlar og'ir bezgak xavfi ostida turadi?",
+   "c": "Bolalar, homilador ayollar va immuniteti pasaygan odamlar",
+   "w": [
+    "Bolalar, hamshiralar va immuniteti pasaygan odamlar",
+    "Nevrologlar, homilador ayollar va bolalar",
+    "Donorlar, nefrologlar va hamshiralar",
+    "Hamshiralar, shifokorlar va nevrologlar"
+   ],
+   "x": "«Bolalar, homilador ayollar va immuniteti pasaygan odamlar og'ir bezgak xavfi ostida turadi»"
+  },
+  {
+   "q": "Og'ir bezgakda bemor qayerga yotqiziladi?",
+   "c": "Intensiv terapiya bo'limiga",
+   "w": [
+    "Uy sharoitiga",
+    "Reabilitatsiya bo'limiga",
+    "Nevrologiya bo'limiga",
+    "Maktabga"
+   ],
+   "x": "«Og'ir bezgakda bemor intensiv terapiya bo'limiga yotqiziladi»"
+  },
+  {
+   "q": "Qon transfuziyasi kerak bo'lganda oldindan nima aniqlanadi?",
+   "c": "Qon guruhi va rezus omili",
+   "w": [
+    "Qon bosimi va yurak ritmi",
+    "Siydik miqdori va nafas",
+    "Parazit foizi va siydik miqdori",
+    "Donor qoni va bemor yoshi"
+   ],
+   "x": "«Qon guruhi va rezus omili oldindan aniqlanadi»"
+  },
+  {
+   "q": "Og'ir tropik bezgakdan tuzalgan bemorlarda qanday uzoq muddatli oqibat bo'lishi mumkin?",
+   "c": "Xotira va diqqat pasayishi",
+   "w": [
+    "Xotira va diqqat yaxshilanishi",
+    "Buyrak va jigar yaxshilanishi",
+    "Nafas va yurak ritmi tiklanishi",
+    "Qon bosimi va ong yaxshilanishi"
+   ],
+   "x": "«Og'ir tropik bezgakdan tuzalgan bemorlarda ba'zan nevrologik o'zgarishlar, masalan xotira va diqqat pasayishi, uzoq saqlanib qolishi mumkin»"
+  },
+  {
+   "q": "Og'ir bezgakni erta aniqlash uchun qaysi belgilar baholanadi?",
+   "c": "Ong o'zgarishi, qusish yoki qon ketishi",
+   "w": [
+    "Ong o'zgarishi, isitma yoki nafas",
+    "Qusish, isitma yoki nafas",
+    "Isitma, nafas yoki qon bosimi",
+    "Qon bosimi, siydik yoki nafas"
+   ],
+   "x": "«ong o'zgarishi, qusish, tez nafas olish yoki qon ketishi kabi belgilar baholanadi»"
+  },
+  {
+   "q": "Og'ir bezgakda o'lim xavfini kamaytirish uchun tashxis va davolash qachon boshlanishi kerak?",
+   "c": "Birinchi soatlarda",
+   "w": [
+    "Birinchi soatlik baholashda",
+    "Birinchi tashxisdan keyin",
+    "Tiklanishdan keyin",
+    "Davolashdan keyin"
+   ],
+   "x": "«tashxis va davolash birinchi soatlarda boshlanishi kerak»"
+  }
+ ],
+ "064": [
+  {
+   "q": "Askaridaning tuxumi qayerda yetiladi?",
+   "c": "To'g'ridan-to'g'ri tuproqda",
+   "w": [
+    "Oraliq xo'jayin organizmida",
+    "Ichak shirasi yordamida",
+    "Odam o'pkasida",
+    "Odam ichagida"
+   ],
+   "x": "«tuxum to'g'ridan-to'g'ri tuproqda yetiladi va odamga yuqadi»"
+  },
+  {
+   "q": "Voyaga yetgan gijjalar bir-biri bilan chigallashsa, qanday xavf tug'iladi?",
+   "c": "Ichak tutilishi",
+   "w": [
+    "Allergik reaksiya",
+    "Immun reaksiya",
+    "Oqsil yetishmovchiligi",
+    "Vazn yo'qotish"
+   ],
+   "x": "«Voyaga yetgan gijjalar bir-biri bilan chigallashib, ichak tutilishiga olib kelishi mumkin, ayniqsa kuchli zararlanishda»"
+  },
+  {
+   "q": "Askaridozning epidemiologik zanjiri qaysi vosita orqali davom etadi?",
+   "c": "Faqat inson va uning tuxumlari orqali",
+   "w": [
+    "Inson va oraliq xo'jayin orqali",
+    "Hayvon va uning tuxumlari orqali",
+    "Inson va oila orqali",
+    "Hayvon va oraliq xo'jayin orqali"
+   ],
+   "x": "«askaridozning epidemiologik zanjiri faqat inson va uning tuxumlari orqali davom etadi»"
+  },
+  {
+   "q": "Eozinofillar va IgE antitanalari ko'payishi nimaga yordam beradi?",
+   "c": "Parazitni kurashda yo'q qilishga",
+   "w": [
+    "Parazitni ko'paytirishga",
+    "Allergik reaksiyani yo'qotishga",
+    "Ichak tutilishini kamaytirishga",
+    "Oziqlanishni yaxshilashga"
+   ],
+   "x": "«Eozinofillar va IgE antitanalari ko'payadi, bu parazitni kurashda yo'q qilishga yordam beradi, ammo ayni paytda allergik reaksiyalarga ham sabab bo'lishi mumkin»"
+  },
+  {
+   "q": "Qaysi bemorlarda askaridoz engil kechadi?",
+   "c": "Oziqlanish holati yaxshi bo'lgan bemorlarda",
+   "w": [
+    "Oziqlanish holati yomon bo'lgan bemorlarda",
+    "Kambag'al ovqatlangan bemorlarda",
+    "Gijjalar soni ko'p bemorlarda",
+    "Immun javobi susaygan bemorlarda"
+   ],
+   "x": "«Oziqlanish holati yaxshi bo'lgan bemorlarda kasallik engil kechadi, kambag'al ovqatlanishda esa og'ir belgilar paydo bo'ladi»"
+  },
+  {
+   "q": "Kattalarda gijja uzoq yashashi ayniqsa qachon mumkin?",
+   "c": "Ifloslangan sabzavot va suvdan foydalanganda",
+   "w": [
+    "Toza sabzavot va suvdan foydalanganda",
+    "Ifloslangan oziq va ichak shirasidan",
+    "Davolash va ovqatlanish dasturida",
+    "Ifloslangan sabzavotdan foydalanmaganda"
+   ],
+   "x": "«Kattalarda ham gijja uzoq yashashi mumkin, ayniqsa ular ifloslangan sabzavot va suvdan foydalanganda»"
+  },
+  {
+   "q": "Gijjalar sonini hisoblash nimada foydali?",
+   "c": "Davolash natijasini baholashda",
+   "w": [
+    "Oqsilni hisoblash jarayonida",
+    "Temir va oqsilni hisoblashda",
+    "Vitaminlarni baholash jarayonida",
+    "Tuxumni yo'q qilish jarayonida"
+   ],
+   "x": "«Gijjalar sonini hisoblash davolash natijasini baholashda va profilaktik dasturlarni rejalashtirishda foydalidir»"
+  },
+  {
+   "q": "Askaridoz bilan kasallangan bemorning ovqatlanish dasturi nimalarga boy mahsulotlarni o'z ichiga oladi?",
+   "c": "Oqsil, temir va vitaminlarga",
+   "w": [
+    "Kambag'al oziq va vitaminlarga",
+    "Tuxum, temir va kambag'al ovqatga",
+    "Oqsil, kambag'al ovqat va tuxumga",
+    "Tuxum, vitamin va kambag'al ovqatga"
+   ],
+   "x": "«Askaridoz bilan kasallangan bemorning ovqatlanish dasturi oqsil, temir va vitaminlarga boy mahsulotlarni o'z ichiga oladi»"
+  },
+  {
+   "q": "Bemorning ovqatlanish dasturi kim bilan birgalikda tuziladi?",
+   "c": "Shifokor va diyetolog",
+   "w": [
+    "Shifokor va oila",
+    "Diyetolog va maktab",
+    "Oila va maktab",
+    "Mahalla va hamjamiyat"
+   ],
+   "x": "«Ovqatlanish dasturi shifokor va diyetolog bilan birgalikda tuziladi»"
+  },
+  {
+   "q": "Askaridozni nazorat qilish uchun qaysi tomonlar birgalikda harakat qilishi kerak?",
+   "c": "Oila, maktab va mahalla",
+   "w": [
+    "Oila, shifokor va diyetolog",
+    "Maktab, shifokor va oila",
+    "Mahalla, diyetolog va maktab",
+    "Oila, ichak va maktab"
+   ],
+   "x": "«Askaridozni nazorat qilish uchun oila, maktab va mahalla birgalikda harakat qilishi kerak»"
+  }
+ ],
+ "065": [
+  {
+   "q": "Enterobiozda qichishish nima bilan bog'liq?",
+   "c": "Urg'ochi gijjaning tuxum qo'yishi",
+   "w": [
+    "Bolaning tirnoq ishqalashi",
+    "Gemorroyning kuchayishi",
+    "Zamburug' infeksiyasining kuchayishi",
+    "Teri qavatining qizarishi"
+   ],
+   "x": "«Qichishish urg'ochi gijjaning tuxum qo'yishi bilan bog'liq»"
+  },
+  {
+   "q": "Ertalab qichishish qanday bo'lishi mumkin?",
+   "c": "Kamayishi mumkin",
+   "w": [
+    "Kuchayishi mumkin",
+    "Yo'qolishi mumkin",
+    "Tunda seziladi",
+    "Seziladi va kuchayadi"
+   ],
+   "x": "«Ertalab qichishish kamayishi mumkin»"
+  },
+  {
+   "q": "Qiz bolalar va ayollarda qanday holat kuzatilgan?",
+   "c": "Jinsiy a'zolar atrofida yallig'lanish va oqindi",
+   "w": [
+    "Anal soha atrofida qizarish va oqindi",
+    "Jinsiy a'zolar atrofida qizarish va tirnoq",
+    "Qorin og'rig'i va vazn yo'qotish",
+    "Ishtaha o'zgarishi va oqindi"
+   ],
+   "x": "«Qiz bolalar va ayollarda jinsiy a'zolar atrofida yallig'lanish va oqindi paydo bo'lishi kuzatilgan holatlar tasvirlangan»"
+  },
+  {
+   "q": "Qorin og'rig'i, ishtaha o'zgarishi va vazn yo'qotish enterobiozda qanday belgilar hisoblanadi?",
+   "c": "Kam uchraydi va asosiy tashxis mezoni emas",
+   "w": [
+    "Eng ko'p uchraydi va asosiy tashxis mezoni",
+    "Doim uchraydi va tashxisni tasdiqlaydi",
+    "Kam uchraydi va asosiy tashxis mezoni",
+    "Eng ko'p uchraydi va tashxisga xalaqit beradi"
+   ],
+   "x": "«Ayrim bemorlarda qorin og'rig'i, ishtaha o'zgarishi va vazn yo'qotish kabi belgilar bo'lishi mumkin, ammo bu belgilar kam uchraydi va boshqa kasalliklarga ham xos. Shu sababli ular asosiy tashxis mezoni hisoblanmaydi»"
+  },
+  {
+   "q": "Bolalarda uyqu buzilishi maktabda nimaga ta'sir qilishi mumkin?",
+   "c": "O'zlashtirishga",
+   "w": [
+    "Qorin og'rig'iga",
+    "Vazn yo'qotishga",
+    "Ishtaha o'zgarishiga",
+    "Tirnoq qizarishiga"
+   ],
+   "x": "«Bu o'zgarishlar maktabdagi o'zlashtirishga ham ta'sir qilishi mumkin»"
+  },
+  {
+   "q": "Ota-onalar kechqurun bolaning qaysi holatini tekshirib ko'rishi mumkin?",
+   "c": "Anal soha atrofining qizarishi yoki tirnalishini",
+   "w": [
+    "Qorin atrofining qizarishi yoki tirnalishini",
+    "Anal soha atrofining oqindisi yoki sovushini",
+    "Burun atrofining qizarishi yoki tirnalishini",
+    "Anal soha atrofining vazni yoki yoshini"
+   ],
+   "x": "«Ota-onalar kechqurun bolaning anal soha atrofini tekshirib, qizarish yoki tirnalish belgilarini ko'rishi mumkin»"
+  },
+  {
+   "q": "Ota-onalar bola belgilarini jurnalda yozib borsa, shifokor nimani aniq baholay oladi?",
+   "c": "Kasallik dinamikasini",
+   "w": [
+    "Kasallik jinsini",
+    "Kasallik yoshini",
+    "Kasallik sifatini",
+    "Kasallik xarakterini"
+   ],
+   "x": "«Ota-onalar bola belgilarini kundalik jurnalda yozib borsa, shifokor kasallik dinamikasini aniq baholay oladi»"
+  },
+  {
+   "q": "Shifokor qichishish haqida nimalarni so'raydi?",
+   "c": "Vaqti, kuchayishi va oilada o'xshash holatlarni",
+   "w": [
+    "Vaqti, jinsi va oilada o'xshash narsalarni",
+    "Kuchayishi, yoshi va maktabdagi o'xshash holatlarni",
+    "Vaqti, kasbi va oilada o'xshash holatlarni",
+    "Jinsi, kuchayishi va maktabdagi holatlarni"
+   ],
+   "x": "«Shu sababli shifokor qichishishning vaqti, kuchayishi va oilada o'xshash holatlar borligini so'raydi»"
+  },
+  {
+   "q": "Enterobioz belgilari bezovtalik bilan birga kelganda nima bilan adashtiriladi?",
+   "c": "Bolaning xulq-atvoridagi o'zgarish",
+   "w": [
+    "Bolaning ishtahasidagi o'zgarish",
+    "Bolaning uyqusidagi o'zgarish",
+    "Bolaning gemorroyi",
+    "Bolaning qorin og'rig'i"
+   ],
+   "x": "«Enterobioz belgilari uyqusizlik va bezovtalik bilan birga kelganda, bu ko'pincha bolaning xulq-atvoridagi o'zgarish bilan adashtiriladi»"
+  },
+  {
+   "q": "Belgilar haftalar yoki oylar davomida davom etsa, bu nimani ko'rsatadi?",
+   "c": "Kasallikning surunkali kechishini",
+   "w": [
+    "Kasallikning sust kechishini",
+    "Kasallikning tiklanishini",
+    "Kasallikning davolanishini",
+    "Kasallikning yangi bosqichini"
+   ],
+   "x": "«Ba'zi bemorlarda belgilar haftalar yoki oylar davomida davom etishi mumkin, bu esa kasallikning surunkali kechishini ko'rsatadi»"
+  }
+ ]
+}

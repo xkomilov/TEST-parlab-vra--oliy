@@ -1,0 +1,562 @@
+{
+  "051": [
+    {
+      "q": "Lambliya va uning kistalarini aniqlash uchun eng to'g'ri material qaysi?",
+      "c": "Bemorning najasi",
+      "w": [
+        "Qoplag'ich oyna",
+        "Lugol bo'yog'i",
+        "Fiziologik eritma",
+        "Konservant aralashmasi"
+      ],
+      "x": "«Lamblya (Giardia lamblia) va uning sistalarini aniqlash uchun eng to'g'ri material — bemorning najasi hisoblanadi»"
+    },
+    {
+      "q": "Najas namunasi nima sababdan bir necha kun ketma-ket olinadi?",
+      "c": "Kistalar najas bilan notekis chiqadi",
+      "w": [
+        "Kistalar najasda tekis taqsimlanadi",
+        "Trofozoitlar tashqi muhitda parchalanmaydi",
+        "Kistalar najas bilan tekis chiqadi",
+        "Namuna sifati bir marta aniqlanadi"
+      ],
+      "x": "«Namuna bir necha kun ketma-ket olinadi, chunki kistalar najas bilan notekis chiqadi»"
+    },
+    {
+      "q": "Qaysi usul najasda kistalarni aniqlash sezgirligini oshiradi?",
+      "c": "Konsentratsiya usuli",
+      "w": [
+        "To'g'ridan-to'g'ri surtma usuli",
+        "Issiqda saqlash",
+        "Qoplag'ich oynasiz ko'rish",
+        "Quyoshda saqlash"
+      ],
+      "x": "«Najasni to'g'ridan-to'g'ri surtma yoki konsentratsiya usulida tekshirish mumkin, konsentratsiya sezgirlikni oshiradi»"
+    },
+    {
+      "q": "Duodenal aspirat qanday hollarda qo'llaniladi?",
+      "c": "Najasda parazit topilmaganda",
+      "w": [
+        "Najasda parazit topilganda",
+        "Namuna sifati yuqori bo'lganda",
+        "Kistalar aniq topilganda",
+        "Namuna yaxshi bo'lganda"
+      ],
+      "x": "«Ba'zi hollarda, najasda parazit topilmasa, o'n ikki barmoq ichakdan suyuqlik olinib tekshiriladi»"
+    },
+    {
+      "q": "Duodenal aspirat usuli qanday usul hisoblanadi?",
+      "c": "Invaziv usul",
+      "w": [
+        "Molekulyar usul",
+        "Konsentratsiya usuli",
+        "Antigen usuli",
+        "Surtma usuli"
+      ],
+      "x": "«Bu usul invaziv bo'lgani uchun shifokor tomonidan zarur bo'lganda qo'llaniladi»"
+    },
+    {
+      "q": "Najasni uzoq tashishda namuna nima bilan ishlanadi?",
+      "c": "Formalin yoki PVA aralashmasi",
+      "w": [
+        "Lugol yoki fiziologik eritma",
+        "Formalin yoki quyosh nuri",
+        "Sovutgich yoki issiq xona",
+        "PVA yoki qoplag'ich oyna"
+      ],
+      "x": "«Agar tashish uzoq davom etsa, namuna konservant bilan, masalan formalin yoki PVA aralashmasi bilan ishlanadi»"
+    },
+    {
+      "q": "Lugol bo'yog'i qo'shilsa, kistalarning qaysi qismi yaxshi ko'rinadi?",
+      "c": "Yadrolari",
+      "w": [
+        "O'lchami",
+        "Shakli",
+        "Soni",
+        "Raqami"
+      ],
+      "x": "«Lugol bo'yog'i qo'shilsa, kistalarning yadrolari yaxshi ko'rinadi»"
+    },
+    {
+      "q": "Konsentratsiya usulida najas qanday ishlanadi?",
+      "c": "Markazdan qochma kuch bilan cho'ktiriladi",
+      "w": [
+        "Fiziologik eritma bilan yoyiladi",
+        "Konservant bilan aralashtiriladi",
+        "Qoplag'ich oyna bilan yopiladi",
+        "Formalin bilan suyultiriladi"
+      ],
+      "x": "«Konsentratsiya usulida najas suyultiriladi va markazdan qochma kuch bilan cho'ktiriladi, so'ngra cho'kma tekshiriladi»"
+    },
+    {
+      "q": "Eng yuqori sezgirlikka ega molekulyar usul qaysi?",
+      "c": "PSR",
+      "w": [
+        "Surtma",
+        "Lugol",
+        "Konsentratsiya",
+        "Duodenal aspirat"
+      ],
+      "x": "«Molekulyar usullar, masalan PSR, eng yuqori sezgirlikka ega, lekin ular narxi yuqori bo'lgani uchun asosan ilmiy va maxsus laboratoriyalarda ishlatiladi»"
+    },
+    {
+      "q": "Najas namunasi idishida nimalar aniq yozilishi kerak?",
+      "c": "Bemor ismi, sana va namuna tartib raqami",
+      "w": [
+        "Bemor ismi, manzil va namuna narxi",
+        "Namuna rangi, sana va bemor yoshi",
+        "Bemor ismi, konservant va namuna hajmi",
+        "Sana, laborant ismi va namuna narxi"
+      ],
+      "x": "«Har bir idishda bemor ismi, sana va namuna tartib raqami aniq yozilishi kerak, bu xatolarning oldini oladi»"
+    }
+  ],
+  "052": [
+    {
+      "q": "ZTL qo'zg'atuvchisining tabiiy rezervuarlari kimlar?",
+      "c": "It va kemiruvchilar",
+      "w": [
+        "Odam va kemiruvchilar",
+        "It va qum pashshasi",
+        "Odam va qum pashshasi",
+        "Pashsha va chorva"
+      ],
+      "x": "«Javob: it, kemiruvchilar (sichqon, qum sichqoni) va boshqa yovvoyi sutemizuvchilar»"
+    },
+    {
+      "q": "ZTL qo'zg'atuvchisi qaysi vektor orqali uzatiladi?",
+      "c": "Qum pashshasi",
+      "w": [
+        "Qum sichqoni",
+        "Yovvoyi sutemizuvchi",
+        "Kemiruvchi",
+        "Sichqon"
+      ],
+      "x": "«Qo'zg'atuvchi qum pashshasi (Phlebotomus) orqali uzatiladi»"
+    },
+    {
+      "q": "Shahar va qishloq hududlarida ko'pincha asosiy rezervuar kim hisoblanadi?",
+      "c": "It hisoblanadi",
+      "w": [
+        "Pashsha hisoblanadi",
+        "Odam hisoblanadi",
+        "Chorva hisoblanadi",
+        "Kemiruvchi hisoblanadi"
+      ],
+      "x": "«Shahar va qishloq hududlarida it ko'pincha asosiy rezervuar hisoblanadi»"
+    },
+    {
+      "q": "Qishloq va cho'l hududlarida rezervuar vazifasini kimlar bajaradi?",
+      "c": "Kemiruvchilar, ayniqsa yovvoyi sichqonlar",
+      "w": [
+        "It, ayniqsa yovvoyi it",
+        "Pashshalar, ayniqsa qum pashshalari",
+        "Chorva, ayniqsa yovvoyi sichqonlar",
+        "Odamlar, ayniqsa yovvoyi sutemizuvchilar"
+      ],
+      "x": "«Kemiruvchilar, ayniqsa yovvoyi sichqonlar, qishloq va cho'l hududlarida rezervuar vazifasini bajaradi»"
+    },
+    {
+      "q": "Qum pashshasi parazitni qanday oladi?",
+      "c": "Rezervuar hayvondan qonni so'rib",
+      "w": [
+        "Boshqa hayvondan qonni so'rib",
+        "Rezervuar hayvondan oziqni so'rib",
+        "Rezervuar hayvondan qonni to'kib",
+        "Kemiruvchidan qonni so'rib"
+      ],
+      "x": "«Pashsha rezervuar hayvondan qonni so'rib, parazitni oladi va boshqa hayvon yoki odamga yuqtiradi»"
+    },
+    {
+      "q": "Rezervuar hayvon ko'pincha qanday ko'rinadi?",
+      "c": "Belgisiz, sog'lom ko'rinadi",
+      "w": [
+        "Og'ir belgili, kasal ko'rinadi",
+        "Teri yarali, kasal ko'rinadi",
+        "Yaralari bor, kasal ko'rinadi",
+        "Vazn yo'qotgan, kasal ko'rinadi"
+      ],
+      "x": "«Rezervuar hayvon ko'pincha belgisiz bo'ladi, shu sababli u sog'lom ko'rinadi»"
+    },
+    {
+      "q": "Itlarda leyshmanioz ko'pincha qaysi a'zolar zararlanishi bilan kechadi?",
+      "c": "Teri, ko'z va ichki organlar",
+      "w": [
+        "Teri, vazn va ichki organlar",
+        "Ko'z, vazn va ichki organlar",
+        "Teri, ko'z va vazn yo'qotish",
+        "Teri, ko'z va yovvoyi organlar"
+      ],
+      "x": "«It leyshmaniozi ko'pincha teri, ko'z va ichki organlarning zararlanishi bilan kechadi»"
+    },
+    {
+      "q": "Rezervuar hayvonlarda infeksiyani aniqlash uchun nimalar qo'llaniladi?",
+      "c": "Serologik testlar va teri tekshiruvi",
+      "w": [
+        "Serologik testlar va qum tekshiruvi",
+        "Teri tekshiruvi va pashsha tekshiruvi",
+        "Qum tekshiruvi va oziq tekshiruvi",
+        "Siydik tekshiruvi va oziq tekshiruvi"
+      ],
+      "x": "«Rezervuar hayvonlarda infeksiyani aniqlash uchun serologik testlar va teri tekshiruvi ishlatiladi»"
+    },
+    {
+      "q": "Leyshmaniozning tarqalishi nimaga bog'liq?",
+      "c": "Qum pashshalarining yashash joylariga",
+      "w": [
+        "Kemiruvchilarning yashash joylariga",
+        "Aholining yashash joylariga",
+        "Rezervuar hayvonlarning ovqatlanishiga",
+        "Veterinarlarning yashash joylariga"
+      ],
+      "x": "«Leyshmaniozning tarqalishi qum pashshalarining yashash joylariga bog'liq»"
+    },
+    {
+      "q": "Rezervuar hayvonlar bilan odamlarning yaqin aloqasida qaysi holat infeksiya xavfini oshiradi?",
+      "c": "Uy hayvonlarini erkalash va ularning yotoqlarida uxlash",
+      "w": [
+        "Uy hayvonlarini veterinardan o'tkazish va ularni davolash",
+        "Hayvon yarasini bog'lash va qo'lqop kiyish",
+        "Uy hayvonlarini pashshadan himoya qilish",
+        "Hayvonlarni veterinardan o'tkazish va hisobot"
+      ],
+      "x": "«Rezervuar hayvonlar bilan odamlarning yaqin aloqasi, masalan uy hayvonlarini erkalash va ularning yotoqlarida uxlash, infeksiya uzatilish xavfini oshiradi»"
+    }
+  ],
+  "053": [
+    {
+      "q": "Yangi buyum oynalarining sirti qanday bo'ladi?",
+      "c": "Silliq va toza",
+      "w": [
+        "Chiziqli va changli",
+        "Moyli va dog'li",
+        "Xiralashib va tirnalishlar",
+        "Tirnalishlar va xiralashib"
+      ],
+      "x": "«Yangi buyum oynalari sirti silliq va toza bo'ladi, ishlatilgan oynalarda esa qoldiq bo'yoq, moy va preparat izlari qoladi»"
+    },
+    {
+      "q": "Ishlatilgan oynalarda qanday izlar qoladi?",
+      "c": "Qoldiq bo'yoq, moy va preparat izlari",
+      "w": [
+        "Qoldiq bo'yoq, chang va barmoq izi",
+        "Qoldiq spirt, moy va ksilol izlari",
+        "Yorliq, sana va partiya izlari",
+        "Qoldiq spirt, mato va chang izlari"
+      ],
+      "x": "«ishlatilgan oynalarda esa qoldiq bo'yoq, moy va preparat izlari qoladi»"
+    },
+    {
+      "q": "Oynalar qutilarida nima qayd etiladi?",
+      "c": "Yorliq va sanasi",
+      "w": [
+        "Qalinlik va sirt",
+        "Soni va muddati",
+        "Hisobi va jurnali",
+        "Sertifikati va soni"
+      ],
+      "x": "«Qutilar yorliqlanadi va sanasi qayd etiladi»"
+    },
+    {
+      "q": "Yuvish suvi toza bo'lmasa, nima bo'ladi?",
+      "c": "Oynada dog' qoladi va tasvir buziladi",
+      "w": [
+        "Chiziq paydo bo'ladi va tasvir aniqlashadi",
+        "Sirt silliqlashadi va dog' kamayadi",
+        "Qoldiq izlari kamayadi va oyna toza bo'ladi",
+        "Yaroqsiz oyna sinib qoladi"
+      ],
+      "x": "«chunki suvdagi qoldiqlar oynada dog' qoldiradi va tasvirni buzadi»"
+    },
+    {
+      "q": "Buyum oynalarining sifati uchun nimalar tekshiriladi?",
+      "c": "Tekisligi, qalinligi va sirtining silliqligi",
+      "w": [
+        "Tekisligi, qalinligi va sirtining izlari",
+        "Qalinligi, sirtining izlari va sanasi",
+        "Silliqligi, sanasi va jurnali",
+        "Tekisligi, sanasi va jurnalining sirti"
+      ],
+      "x": "«Buyum oynalarining sifati uchun ularning tekisligi, qalinligi va sirtining silliqligi tekshiriladi»"
+    },
+    {
+      "q": "Yangi partiya oynalarni sotib olishda laboratoriya nimani tekshiradi?",
+      "c": "Sifat sertifikatini",
+      "w": [
+        "Zaxira jurnalini",
+        "Yorliq sanasini",
+        "Partiya sanasini",
+        "Jurnal hisobini"
+      ],
+      "x": "«Shu sababli laboratoriya yangi partiya oynalarni sotib olishda sifat sertifikatini tekshiradi»"
+    },
+    {
+      "q": "Oynalarni tozalashda dastlab nima qilinadi?",
+      "c": "Quruq matoda ishqalanadi",
+      "w": [
+        "Spirt bilan artiladi",
+        "Havoda quritiladi",
+        "Toza suvda chayiladi",
+        "Yuvish vositasi bilan yuviladi"
+      ],
+      "x": "«Oynalarni tozalashda avval ular quruq matoda ishqalanadi, so'ngra yuvish vositasi bilan yuviladi va toza suvda chayiladi»"
+    },
+    {
+      "q": "Oynalar spirt bilan artilgach, oxirida nima qilinadi?",
+      "c": "Havoda quritiladi yoki toza mato bilan silliqlanadi",
+      "w": [
+        "Quruq matoda ishqalanadi yoki suvda chayiladi",
+        "Yuvish vositasi bilan yuviladi yoki spirtda saqlanadi",
+        "Dezinfeksiya eritmasiga solinadi yoki yoriladi",
+        "Qutida yorliqlanadi yoki yuvilib quritiladi"
+      ],
+      "x": "«Oxirida spirt bilan artilib, havoda quritiladi yoki toza mato bilan silliqlanadi»"
+    },
+    {
+      "q": "Oynalar zaxirasi kam bo'lsa, nima tavsiya etiladi?",
+      "c": "Oynalarni oldindan buyurtma qilish",
+      "w": [
+        "Oynalarni sinib qolguncha ishlatish",
+        "Ishlatilgan oynalarni yuvmasdan ishlatish",
+        "Oynalarni oddiy axlatga tashlash",
+        "Oynalarni qutisiz saqlash"
+      ],
+      "x": "«Zaxira kam bo'lsa, tekshiruv sifati pasayishi mumkin, shu sababli oynalarni oldindan buyurtma qilish tavsiya etiladi»"
+    },
+    {
+      "q": "Ishlatilgan va sinib qolgan oynalar hisobi qayerga yoziladi?",
+      "c": "Jurnalga",
+      "w": [
+        "Daftarga",
+        "Sertifikatga",
+        "Yorliqqa",
+        "Stellajga"
+      ],
+      "x": "«Ishlatilgan va sinib qolgan oynalar hisobi jurnalga yoziladi, bu sarf-xarajatlarni nazorat qilishga yordam beradi»"
+    }
+  ],
+  "054": [
+    {
+      "q": "Leyshmaniozni qaysi avlod parazitlari keltirib chiqaradi?",
+      "c": "Leishmania",
+      "w": [
+        "Phlebotomus",
+        "Lutzomyia",
+        "Amastigot",
+        "Promastigot"
+      ],
+      "x": "«Leyshmanioz — Leishmania avlodiga mansub bir hujayrali parazitlar keltirib chiqaradigan kasallik»"
+    },
+    {
+      "q": "Qum pashshasi ichagida leyshmaniya qaysi shaklda bo'ladi?",
+      "c": "Promastigot",
+      "w": [
+        "Amastigot",
+        "Makrofag",
+        "Lichinka",
+        "G'umbak"
+      ],
+      "x": "«Qo'zg'atuvchi ikki shaklda bo'ladi: qum pashshasi ichagida promastigot, odam va hayvon hujayralarida amastigot»"
+    },
+    {
+      "q": "Promastigot odam terisiga tushgach, qaysi hujayralarda amastigotga aylanadi?",
+      "c": "Makrofaglarda",
+      "w": [
+        "Jigar hujayralarida",
+        "Teri hujayralarida",
+        "Pashsha ichagida",
+        "Taloq hujayralarida"
+      ],
+      "x": "«Pashsha chaqqanda promastigot odam terisiga tushadi va makrofaglarda amastigotga aylanadi»"
+    },
+    {
+      "q": "Visseral leyshmanioz qaysi organlar zararlanishi bilan kechadi?",
+      "c": "Jigar, taloq, suyak iligi",
+      "w": [
+        "Burun, og'iz, halqum",
+        "Teri, burun, og'iz",
+        "Jigar, taloq, burun",
+        "Taloq, burun, suyak"
+      ],
+      "x": "«visseral leyshmanioz esa ichki organlar (jigar, taloq, suyak iligi) zararlanishi bilan kechadi»"
+    },
+    {
+      "q": "Shilliq leyshmaniozda qaysi qismlar zararlanadi?",
+      "c": "Burun va og'iz shilliq qavatlari",
+      "w": [
+        "Jigar va taloq shilliq qavatlari",
+        "Teri va ko'z shilliq qavatlari",
+        "Taloq va suyak iligi",
+        "Burun va jigar shilliq qavatlari"
+      ],
+      "x": "«Shilliq leyshmaniozda esa burun va og'iz shilliq qavatlari zararlanadi»"
+    },
+    {
+      "q": "Visseral shakl qanday belgilar bilan namoyon bo'ladi?",
+      "c": "Uzoq isitma, vazn yo'qotish va taloq kattalashishi",
+      "w": [
+        "Teri yarasi, vazn yo'qotish va chandiq",
+        "Uzoq isitma, burun yarasi va chandiq",
+        "Teri yarasi, taloq kattalashishi va isitma",
+        "Chandiq, burun yarasi va vazn yo'qotish"
+      ],
+      "x": "«Teri shakli yara bilan, visseral shakli esa uzoq isitma, vazn yo'qotish va taloq kattalashishi bilan namoyon bo'ladi»"
+    },
+    {
+      "q": "Qum pashshasining erkagi nima bilan oziqlanadi?",
+      "c": "O'simlik shirasi",
+      "w": [
+        "Qon",
+        "Chirigan o'simliklar",
+        "Tuproq",
+        "Makrofaglar"
+      ],
+      "x": "«Urg'ochisi qon so'radi, erkagi esa o'simlik shirasi bilan oziqlanadi»"
+    },
+    {
+      "q": "Qum pashshasining qaysi jinsi qon so'radi?",
+      "c": "Urg'ochisi",
+      "w": [
+        "Erkagi",
+        "Lichinkasi",
+        "G'umbagi",
+        "Lichinkasi va g'umbagi"
+      ],
+      "x": "«Urg'ochisi qon so'radi, erkagi esa o'simlik shirasi bilan oziqlanadi»"
+    },
+    {
+      "q": "Leyshmaniya makrofaglar ichida nima qiladi?",
+      "c": "Omon qoladi va ko'payadi",
+      "w": [
+        "Yo'q bo'ladi va tarqaladi",
+        "Yo'q bo'ladi, parchalaydi",
+        "Makrofagni yo'qotadi va tarqaladi",
+        "Ko'payadi, makrofagni parchalaydi"
+      ],
+      "x": "«Makrofaglar odatda infeksiyani yo'q qilishi kerak, ammo parazit ularning ichida omon qoladi va ko'payadi»"
+    },
+    {
+      "q": "Leyshmaniozda tashxis qanday qo'yiladi?",
+      "c": "Yara yoki organ materialida amastigotlarni topish",
+      "w": [
+        "Terida promastigotlarni topish",
+        "Yara materialida tuxumlarni topish",
+        "Pashsha ichagida amastigotlarni topish",
+        "Antigen testida amastigotlarni topish"
+      ],
+      "x": "«Leyshmaniozda tashxis yara yoki organ materialidan preparat tayyorlab, mikroskopda amastigotlarni topish orqali qo'yiladi»"
+    }
+  ],
+  "055": [
+    {
+      "q": "Sayohatdan oldin shifokorga qachon murojaat qilish tavsiya etiladi?",
+      "c": "Kamida bir necha hafta oldin",
+      "w": [
+        "Sayohatdan keyin darhol",
+        "Sayohat davomida darhol",
+        "Kamida bir kun oldin",
+        "Sayohat paytida darhol"
+      ],
+      "x": "«Sayohatdan kamida bir necha hafta oldin shifokorga murojaat qilish tavsiya etiladi»"
+    },
+    {
+      "q": "Profilaktik dori zarurligini kim aniqlaydi?",
+      "c": "Shifokor",
+      "w": [
+        "Sayohat kompaniyasi",
+        "Sayohatchining o'zi",
+        "Sug'urta kompaniyasi",
+        "Tashkilotchi"
+      ],
+      "x": "«Shifokor sayohat yo'nalishini, muddatini va bemor sog'lig'ini baholab, profilaktik dori zarurligini aniqlaydi»"
+    },
+    {
+      "q": "Chivin chaqishidan himoyalanish vositalariga nimalar kiradi?",
+      "c": "Repellent, to'r, yopiq kiyim",
+      "w": [
+        "Repellent, sug'urta, yopiq kiyim",
+        "Polis, to'r, yopiq kiyim",
+        "Repellent, to'r, emlash guvohnomasi",
+        "Dori, sug'urta, repellent"
+      ],
+      "x": "«Shuningdek, chivin chaqishidan himoyalanish vositalari (repellent, to'r, yopiq kiyim) tayyorlanadi»"
+    },
+    {
+      "q": "Sayohat davomida kechqurun va tunda nima tavsiya etiladi?",
+      "c": "To'rli uyda qolish",
+      "w": [
+        "Ochiq havoda qolish",
+        "Yopiq kiyimsiz yurish",
+        "Guruh bilan qolish",
+        "Repellentsiz qolish"
+      ],
+      "x": "«Ayniqsa kechqurun va tunda to'rli uyda qolish tavsiya etiladi»"
+    },
+    {
+      "q": "Sayohat davomida isitma paydo bo'lsa, nima qilinadi?",
+      "c": "Darhol tibbiy muassasaga murojaat",
+      "w": [
+        "Yozma ko'rsatma beriladi",
+        "Sug'urtaga murojaat qilinadi",
+        "Faqat dori qabul qilinadi",
+        "Qon tekshiruvi tayinlanadi"
+      ],
+      "x": "«Agar isitma yoki boshqa belgilar paydo bo'lsa, darhol mahalliy tibbiy muassasaga murojaat qilish lozim»"
+    },
+    {
+      "q": "Sayohatdan qaytgan bemorlar uchun kuzatuv muddati odatda qancha davom etadi?",
+      "c": "Bir necha oy",
+      "w": [
+        "Bir necha marta",
+        "Bir necha hafta",
+        "Bir necha tavsiya",
+        "Bir necha yo'nalish"
+      ],
+      "x": "«Sayohatdan qaytgan bemorlar uchun kuzatuv muddati odatda bir necha oy davom etadi»"
+    },
+    {
+      "q": "Qaysi turlar uzoq vaqt keyin ham belgi berishi mumkin?",
+      "c": "P. vivax va P. ovale",
+      "w": [
+        "P. vivax va tropik turlar",
+        "P. ovale va tropik turlar",
+        "Tropik turlar va Afrika turlari",
+        "Afrika va tropik turlar"
+      ],
+      "x": "«Ba'zi turlar, ayniqsa P. vivax va P. ovale, uzoq vaqt keyin ham belgi berishi mumkin»"
+    },
+    {
+      "q": "Turli hududlarda bezgakning nimasi farq qiladi?",
+      "c": "Bezgak turi va dori qarshiligi",
+      "w": [
+        "Bezgak turi va sug'urta muddati",
+        "Dori narxi va sayohat muddati",
+        "Dori nomi va sayohat hujjati",
+        "Sug'urta va dori nomi"
+      ],
+      "x": "«chunki turli hududlarda bezgak turi va dori qarshiligi farq qiladi»"
+    },
+    {
+      "q": "Endemik hududga birinchi marta boradigan odamlar nima sababdan ko'proq xavf ostida?",
+      "c": "Ularda immunitet yo'q",
+      "w": [
+        "Ularda sug'urta yo'q",
+        "Ularda dori yo'q",
+        "Ularda hujjat yo'q",
+        "Ularda repellent yo'q"
+      ],
+      "x": "«Endemik hududga birinchi marta boradigan odamlar ko'proq xavf ostida bo'ladi, chunki ularda immunitet yo'q»"
+    },
+    {
+      "q": "Sayohatchi o'zi bilan qaysi hujjatlarni olib yurishi kerak?",
+      "c": "Tibbiy polis, emlash guvohnomasi va dori ro'yxati",
+      "w": [
+        "Tibbiy polis, sug'urta nusxasi va dori narxi",
+        "Emlash guvohnomasi, dori ro'yxati va sayohat narxi",
+        "Tibbiy polis, repellent va guruh ro'yxati",
+        "Dori ro'yxati, to'r va emlash narxi"
+      ],
+      "x": "«Sayohatchi tibbiy polisi, emlash guvohnomasi va dori ro'yxatini o'zi bilan olib yurishi kerak»"
+    }
+  ]
+}
