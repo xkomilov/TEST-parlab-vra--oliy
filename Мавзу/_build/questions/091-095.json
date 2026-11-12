@@ -1,0 +1,562 @@
+{
+ "091": [
+  {
+   "q": "Askaridoz qaysi hududlarda ko'proq uchraydi?",
+   "c": "Issiq va nam hududlarda, tuproq ifloslangan joylarda",
+   "w": [
+    "Sovuq va quruq hududlarda, tuproq ifloslangan joylarda",
+    "Issiq va nam hududlarda, tuproq toza joylarda",
+    "Issiq va quruq hududlarda, suv ifloslangan joylarda",
+    "Sovuq va nam hududlarda, tuproq toza joylarda"
+   ],
+   "x": "«Issiq va nam hududlarda, tuproq ifloslangan joylarda kasallik ko'proq uchraydi»"
+  },
+  {
+   "q": "Askaridoz uchun qaysi joylar yuqori xavfli hisoblanadi?",
+   "c": "Qishloq joylari, sanitariya inshootlari yetarli bo'lmagan hududlar va ichimlik suvi sifati past joylar",
+   "w": [
+    "Shahar joylari, sanitariya inshootlari yetarli bo'lgan hududlar va ichimlik suvi sifati yaxshi joylar",
+    "Qishloq joylari, sanitariya inshootlari yetarli bo'lgan hududlar va ichimlik suvi sifati past joylar",
+    "Qishloq joylari, sanitariya inshootlari yetarli bo'lmagan hududlar va ichimlik suvi sifati yaxshi joylar",
+    "Shahar joylari, sanitariya inshootlari yetarli bo'lmagan hududlar va ichimlik suvi sifati past joylar"
+   ],
+   "x": "«Qishloq joylari, sanitariya inshootlari yetarli bo'lmagan hududlar va ichimlik suvi sifati past joylar askaridoz uchun yuqori xavfli hisoblanadi»"
+  },
+  {
+   "q": "Iliq va nam sharoitda askarida tuxumlari qanday bo'ladi?",
+   "c": "Tezda yetiladi va uzoq saqlanadi",
+   "w": [
+    "Sekin yetiladi va uzoq saqlanadi",
+    "Sekin yetiladi va yaxshi saqlanadi",
+    "Sovuq yetiladi va uzoq saqlanadi",
+    "Quruq yetiladi va uzoq saqlanadi"
+   ],
+   "x": "«Iliq va nam sharoitda askarida tuxumlari tez yetiladi va uzoq saqlanadi»"
+  },
+  {
+   "q": "Quruq va sovuq iqlimda tuxumlarning yetilishi qanday bo'ladi?",
+   "c": "Sekinlashadi",
+   "w": [
+    "Kuchayadi",
+    "Saqlanadi",
+    "Yaxshilanadi",
+    "Mustahkamlanadi"
+   ],
+   "x": "«Quruq va sovuq iqlimda esa tuxumlarning yetilishi sekinlashadi»"
+  },
+  {
+   "q": "Qaysi tuproqda askarida tuxumlari uzoq saqlanadi?",
+   "c": "Nam, organik moddaga boy va inson chiqindilari bilan ifloslangan tuproqda",
+   "w": [
+    "Quruq, organik moddaga boy va inson chiqindilari bilan ifloslangan tuproqda",
+    "Nam, organik moddaga kam va inson chiqindilari bilan ifloslangan tuproqda",
+    "Nam, organik moddaga boy va inson chiqindilari yo'q tuproqda",
+    "Sovuq, organik moddaga boy va inson chiqindilari bilan ifloslangan tuproqda"
+   ],
+   "x": "«nam, organik moddaga boy va inson chiqindilari bilan ifloslangan tuproqda tuxumlar uzoq saqlanadi»"
+  },
+  {
+   "q": "Qaysi muassasalar kasallikning asosiy o'choqlari hisoblanadi?",
+   "c": "Qishloq maktablari va bog'chalari",
+   "w": [
+    "Shahar maktablari va poliklinikalari",
+    "Qishloq poliklinikalari va shifoxonalari",
+    "Qishloq maktablari va hokimiyati",
+    "Shahar bog'chalari va shifoxonalari"
+   ],
+   "x": "«Bolalar jamoalari, ayniqsa qishloq maktablari va bog'chalari, kasallikning asosiy o'choqlari hisoblanadi»"
+  },
+  {
+   "q": "Viloyat darajasida askaridoz monitoringi uchun qaysi ma'lumotlar birlashtiriladi?",
+   "c": "Maktab tekshiruvlari, shifoxona statistikasi, sanitariya nazorati natijalari va aholi so'rovlari",
+   "w": [
+    "Maktab tekshiruvlari, shifoxona statistikasi, byudjet natijalari va aholi so'rovlari",
+    "Maktab tekshiruvlari, hokimiyat statistikasi, sanitariya nazorati natijalari va aholi so'rovlari",
+    "Poliklinika tekshiruvlari, shifoxona statistikasi, sanitariya nazorati natijalari va hisobot so'rovlari",
+    "Maktab tekshiruvlari, shifoxona statistikasi, sanitariya nazorati natijalari va iqlim so'rovlari"
+   ],
+   "x": "«Viloyat darajasida askaridoz monitoringi uchun maktab tekshiruvlari, shifoxona statistikasi, sanitariya nazorati natijalari va aholi so'rovlari birlashtiriladi»"
+  },
+  {
+   "q": "Viloyatlar bo'yicha prioritet nimalar bilan belgilanadi?",
+   "c": "Kasallanish ko'rsatkichlari, aholi zichligi va sanitariya holati",
+   "w": [
+    "Kasallanish ko'rsatkichlari, aholi zichligi va iqlim holati",
+    "Kasallanish byudjeti, aholi zichligi va sanitariya holati",
+    "Kasallanish ko'rsatkichlari, maktab zichligi va sanitariya holati",
+    "Hokimiyat ko'rsatkichlari, aholi zichligi va sanitariya holati"
+   ],
+   "x": "«Viloyatlar bo'yicha prioritet kasallanish ko'rsatkichlari, aholi zichligi va sanitariya holati bilan belgilanadi»"
+  },
+  {
+   "q": "Tuman darajasida askaridozga qarshi ish qaysi tashkilotlar orqali tashkil etiladi?",
+   "c": "Poliklinika, maktab va mahalla faollari",
+   "w": [
+    "Poliklinika, hokimiyat va mahalla faollari",
+    "Shifoxona, maktab va mahalla faollari",
+    "Poliklinika, maktab va viloyat rahbarlari",
+    "Poliklinika, bog'cha va hokimiyat faollari"
+   ],
+   "x": "«Tuman darajasida askaridozga qarshi ish poliklinika, maktab va mahalla faollari orqali tashkil etiladi»"
+  },
+  {
+   "q": "Qo'shni tumanlar va viloyatlar bilan hamkorlik nimani oldini oladi?",
+   "c": "Askaridozning hududlararo tarqalishini",
+   "w": [
+    "Askaridozning hududiy tahlil qilinishini",
+    "Askaridozning byudjet taqsimlanishini",
+    "Askaridozning iqlim o'zgarishini",
+    "Askaridozning maktab tekshiruvini"
+   ],
+   "x": "«Qo'shni tumanlar va viloyatlar bilan hamkorlik askaridozning hududlararo tarqalishini oldini oladi»"
+  }
+ ],
+ "092": [
+  {
+   "q": "Oynalar toza bo'lmasa, tasvir aniq ko'rinmasligiga nimalar sabab bo'ladi?",
+   "c": "Yog', chang yoki qoldiq",
+   "w": [
+    "Yog', chang yoki spirt",
+    "Yog', bo'yoq yoki eritma",
+    "Moy, chang yoki kislota",
+    "Chiziq, spirt yoki qoldiq"
+   ],
+   "x": "«Oynalar toza bo'lmasa, yog', chang yoki qoldiq tufayli tasvir aniq ko'rinmaydi»"
+  },
+  {
+   "q": "Ishlatilgan oynalarni qayta ishlatishdan oldin nima qilinadi?",
+   "c": "Yuviladi, spirt bilan tozalanadi va quritiladi",
+   "w": [
+    "Yuviladi, spirt bilan bo'yaladi va quritiladi",
+    "Quritiladi, spirt bilan tozalanadi va yuviladi",
+    "Yuviladi, ksilol bilan tozalanadi va yoritiladi",
+    "Dezinfeksiya qilinadi, spirt bilan tozalanadi va tashlanadi"
+   ],
+   "x": "«Ishlatilgan oynalarni qayta ishlatishdan oldin ular yuvilib, spirt bilan tozalanadi va quritiladi»"
+  },
+  {
+   "q": "Qoldiqli oynalarda tasvir buzilsa, bu nimaga olib kelishi mumkin?",
+   "c": "Tashxis xatosiga",
+   "w": [
+    "Tashxis jarayoniga",
+    "Bo'yoq sifatiga",
+    "Spirt xavfsizligiga",
+    "Sertifikat xatosiga"
+   ],
+   "x": "«Qoldiqli oynalarda tasvir buzilib, tashxis xatosiga olib kelishi mumkin»"
+  },
+  {
+   "q": "Ksilol qanday modda hisoblanadi?",
+   "c": "Zaharli modda",
+   "w": [
+    "Xavfsiz modda",
+    "Quruq modda",
+    "Yangi modda",
+    "Zararsiz modda"
+   ],
+   "x": "«Ksilol zaharli modda bo'lgani uchun uni ishlatishda shamollatiladigan xonada va qo'lqop kiyib ishlash kerak»"
+  },
+  {
+   "q": "Sifatsiz oynalar nima bilan almashtiriladi?",
+   "c": "Yangi oynalar",
+   "w": [
+    "Ishlatilgan oynalar",
+    "Sinib qolgan oynalar",
+    "Qoldiqli oynalar",
+    "Yaroqsiz oynalar"
+   ],
+   "x": "«Sifatsiz oynalar yangi bilan almashtiriladi»"
+  },
+  {
+   "q": "Tozalangan buyum oynalari qayerda saqlanadi?",
+   "c": "Maxsus quti yoki stellajda",
+   "w": [
+    "Maxsus idish yoki jurnalda",
+    "Oddiy quti yoki axlatda",
+    "Maxsus xona yoki xalatda",
+    "Spirt idishi yoki stellajda"
+   ],
+   "x": "«Tozalangan buyum oynalari maxsus quti yoki stellajda saqlanadi»"
+  },
+  {
+   "q": "Oynalarni bir xonadan boshqasiga tashishda qanday tavsiya etiladi?",
+   "c": "Qopqoqli quti ichida olib borish",
+   "w": [
+    "Ochiq quti ichida olib borish",
+    "Qo'lqopsiz qo'lda olib borish",
+    "Spirt ichida olib borish",
+    "Jurnal ichida olib borish"
+   ],
+   "x": "«Oynalarni bir xonadan boshqasiga tashishda ularni qopqoqli quti ichida olib borish tavsiya etiladi»"
+  },
+  {
+   "q": "Ishlatilgan oynalarni oddiy axlatga tashlash nima uchun mumkin emas?",
+   "c": "Sanitariya qoidalarini buzadi",
+   "w": [
+    "Sertifikat qoidalarini buzadi",
+    "Spirt qoidalarini buzadi",
+    "Jurnal qoidalarini buzadi",
+    "Standart qoidalarini buzadi"
+   ],
+   "x": "«Ularni oddiy axlatga tashlash mumkin emas, chunki bu sanitariya qoidalarini buzadi»"
+  },
+  {
+   "q": "Kimyoviy vositalar bilan ishlashda nima taqish zarur?",
+   "c": "Qo'lqop va himoya ko'zoynagi",
+   "w": [
+    "Qo'lqop va himoya xalati",
+    "Xalat va himoya ko'zoynagi",
+    "Qo'lqop va yorug'lik ko'zoynagi",
+    "Ko'zoynak va sanitariya xalati"
+   ],
+   "x": "«Kimyoviy vositalar bilan ishlashda qo'lqop va himoya ko'zoynagi taqish zarur»"
+  },
+  {
+   "q": "Yaroqsiz oynalarni chiqarib tashlash va almashtirish tartibi qanday belgilanadi?",
+   "c": "Yozma ravishda",
+   "w": [
+    "Jurnal ravishda",
+    "Sertifikatli ravishda",
+    "Standart ravishda",
+    "Oddiy ravishda"
+   ],
+   "x": "«ularni chiqarib tashlash va yangisi bilan almashtirish tartibi yozma ravishda belgilanadi»"
+  }
+ ],
+ "093": [
+  {
+   "q": "Gametotsitlar odam qonida qayerda yetiladi?",
+   "c": "Eritrotsitlar ichida",
+   "w": [
+    "Hujayralar ichida",
+    "Zigota ichida",
+    "Chivin ichida",
+    "Oosista ichida"
+   ],
+   "x": "«Odam qonida gametotsitlar eritrotsitlar ichida yetiladi»"
+  },
+  {
+   "q": "Gametotsitlar odam organizmida qanday bo'ladi?",
+   "c": "Ko'paymaydi",
+   "w": [
+    "Ko'payadi",
+    "Urug'lanadi",
+    "Yorilib o'tadi",
+    "Sporozoitga aylanadi"
+   ],
+   "x": "«Bu shakllar kasallikni tarqatishga qodir, lekin odam ichida ko'paymaydi»"
+  },
+  {
+   "q": "Chivin ichagida gametotsitlar urug'lanib, nima hosil qiladi?",
+   "c": "Zigota",
+   "w": [
+    "Oosista",
+    "Sporozoit",
+    "Eritrotsit",
+    "Spermatozoid"
+   ],
+   "x": "«Chivin ichagida gametotsitlar urug'lanib, zigota hosil qiladi»"
+  },
+  {
+   "q": "Oosistalarda nima rivojlanadi?",
+   "c": "Ko'plab sporozoitlar",
+   "w": [
+    "Ko'plab zigotalar",
+    "Ko'plab gametotsitlar",
+    "Ko'plab eritrotsitlar",
+    "Ko'plab spermatozoidlar"
+   ],
+   "x": "«Oosistalarda ko'plab sporozoitlar rivojlanadi»"
+  },
+  {
+   "q": "Oosista yorilgach, sporozoitlar qayerga o'tadi?",
+   "c": "Chivin so'lak bezlariga",
+   "w": [
+    "Chivin ichak devoriga",
+    "Odam eritrotsitlariga",
+    "Chivin tana bo'shlig'iga",
+    "Odam so'lak bezlariga"
+   ],
+   "x": "«Sporozoitlar oosista yorilgach, chivin so'lak bezlariga o'tadi»"
+  },
+  {
+   "q": "Erkak gametotsit eksflagellyatsiya jarayonida nima hosil qiladi?",
+   "c": "Harakatchan spermatozoidlar",
+   "w": [
+    "Harakatchan zigotalar",
+    "Harakatchan oosistalar",
+    "Harakatchan sporozoitlar",
+    "Harakatchan eritrotsitlar"
+   ],
+   "x": "«erkak gametotsit eksflagellyatsiya deb ataluvchi jarayonda harakatchan spermatozoidlar hosil qiladi»"
+  },
+  {
+   "q": "Gametotsitlar bemorga klinik jihatdan qanday ta'sir qiladi?",
+   "c": "Odatda klinik belgi bermaydi, lekin bemor chivinlar uchun manba bo'ladi",
+   "w": [
+    "Odatda klinik belgi beradi, lekin bemor chivinlar uchun manba bo'lmaydi",
+    "Odatda klinik belgi bermaydi, shuning uchun bemor chivinlar uchun xavfli emas",
+    "Odatda og'ir belgi beradi va bemor chivinlar uchun manba bo'ladi",
+    "Odatda klinik belgi bermaydi, lekin bemor donorlar uchun manba bo'ladi"
+   ],
+   "x": "«Gametotsitlar odatda bemorda klinik belgi bermaydi, ammo ular bor bemor chivinlar uchun manba bo'ladi»"
+  },
+  {
+   "q": "Bezgakdan tuzalgan yoki infeksiyalangan donorlar bilan nima qilinadi?",
+   "c": "Qon topshirishdan chetlatiladi",
+   "w": [
+    "Qon topshirishga chaqiriladi",
+    "Qon topshirish uchun tekshiriladi",
+    "Qon topshirishdan oldin davolanadi",
+    "Qon topshirishga qodir bo'ladi"
+   ],
+   "x": "«bezgakdan tuzalgan yoki infeksiyalangan donorlar qon topshirishdan chetlatiladi»"
+  },
+  {
+   "q": "Qon surtmasida gametotsitlarni aniqlash mikroskopchidan nimani talab qiladi?",
+   "c": "Shakl va o'lchamni farqlashni",
+   "w": [
+    "Tuzilishi va o'lchamni farqlashni",
+    "Shakl va tuzilishi farqlashni",
+    "Shakl va hujjatni farqlashni",
+    "Eritrotsit va o'lchamni farqlashni"
+   ],
+   "x": "«Qon surtmasida gametotsitlarni aniqlash mikroskopchidan shakl va o'lchamni farqlashni talab qiladi»"
+  },
+  {
+   "q": "Chivin ichida oosista yetilgach, sporozoitlar chivin gemolimfasi orqali qayerga yetib boradi?",
+   "c": "So'lak bezlariga",
+   "w": [
+    "Ichak devoriga",
+    "Tana bo'shlig'iga",
+    "Eritrotsitlarga",
+    "Zigotaga"
+   ],
+   "x": "«Sporozoitlar chivin gemolimfasi orqali so'lak bezlariga yetib boradi»"
+  }
+ ],
+ "094": [
+  {
+   "q": "Anopheles turlarining qaysi qismi bezgakni yuqtirish qobiliyatiga ega?",
+   "c": "Faqat bir qismi",
+   "w": [
+    "Barcha turlari",
+    "Ko'plab qismi",
+    "Kamroq qismi",
+    "Asosiy qismi"
+   ],
+   "x": "«ulardan faqat bir qismi bezgakni yuqtirish qobiliyatiga ega»"
+  },
+  {
+   "q": "Ba'zi Anopheles turlari odamni qachon chaqadi?",
+   "c": "Asosan kechqurun",
+   "w": [
+    "Asosan tunda faol",
+    "Asosan bahorda",
+    "Asosan kuzda",
+    "Asosan yozda"
+   ],
+   "x": "«Ba'zi turlar odamni asosan kechqurun chaqadi, boshqalari tunda faol bo'ladi»"
+  },
+  {
+   "q": "Anopheles chivinlari dam olish holatida qanday ajralib turadi?",
+   "c": "Orqa tomoni bilan yuzaga nisbatan burchak ostida turadi",
+   "w": [
+    "Orqa tomoni bilan yuzaga nisbatan parallel turadi",
+    "Old tomoni bilan yuzaga nisbatan burchak ostida turadi",
+    "Orqa tomoni bilan suvga nisbatan burchak ostida suzadi",
+    "Qanotlari bilan yuzaga nisbatan burchak ostida turadi"
+   ],
+   "x": "«ular orqa tomoni bilan yuzaga nisbatan burchak ostida turadi»"
+  },
+  {
+   "q": "Urg'ochi chivin qon so'rgandan keyin tuxum rivojlanishi uchun nima qiladi?",
+   "c": "Bir necha kun dam oladi",
+   "w": [
+    "Bir necha kun qon so'radi",
+    "Bir necha kun suvda oziqlanadi",
+    "Darhol yangi qon so'radi",
+    "Bir necha kun o'simlik shirasi so'radi"
+   ],
+   "x": "«Urg'ochi chivin qon so'rgandan keyin tuxum rivojlanishi uchun bir necha kun dam oladi»"
+  },
+  {
+   "q": "Anopheles tuxumlari qayerga qo'yiladi?",
+   "c": "Suv yuzasiga",
+   "w": [
+    "Inson terisiga",
+    "Quyosh yuzasiga",
+    "O'simlik yuzasiga",
+    "Chivin yuzasiga"
+   ],
+   "x": "«Tuxumlar suv yuzasiga qo'yiladi»"
+  },
+  {
+   "q": "Anopheles turlari qaysi qit'ada uchramaydi?",
+   "c": "Antarktidada",
+   "w": [
+    "Afrikada",
+    "Osiyoda",
+    "O'zbekistonda",
+    "Barcha qit'alarda"
+   ],
+   "x": "«Anopheles avlodining turlari Antarktidadan tashqari barcha qit'alarda uchraydi»"
+  },
+  {
+   "q": "Zamonaviy usullarda Anopheles turlarini aniqlash uchun nima qo'llanilmoqda?",
+   "c": "DNK tahlili va molekulyar markerlar",
+   "w": [
+    "DNK tahlili va morfologik belgilar",
+    "Rentgen tahlili va molekulyar markerlar",
+    "DNK tahlili va xulq-atvor belgilari",
+    "Dala kuzatuvi va molekulyar markerlar"
+   ],
+   "x": "«zamonaviy usullarda DNK tahlili va molekulyar markerlar qo'llanilmoqda»"
+  },
+  {
+   "q": "Anopheles lichinkalari suvda nimalar bilan oziqlanadi?",
+   "c": "Organik moddalar va mikroorganizmlar",
+   "w": [
+    "Organik moddalar va baliqlar",
+    "Qurbaqalar va mikroorganizmlar",
+    "O'simlik shirasi va mikroorganizmlar",
+    "Organik moddalar va qurbaqalar"
+   ],
+   "x": "«ularning lichinkalari suvdagi organik moddalar va mikroorganizmlar bilan oziqlanadi»"
+  },
+  {
+   "q": "Ichkarida chaqadigan Anopheles turlariga qarshi qanday nazorat qo'llaniladi?",
+   "c": "Uy ichida to'rlar va insektitsid ishlovi",
+   "w": [
+    "Uy ichida suv havzalari nazorati",
+    "Tashqarida to'rlar va insektitsid ishlovi",
+    "Tashqarida suv havzalari nazorati",
+    "Uy ichida baliqlar va insektitsid ishlovi"
+   ],
+   "x": "«Ichkarida chaqadigan turlarga uy ichida to'rlar va insektitsid ishlovi, tashqarida faol turlarga esa suv havzalari nazorati qo'llaniladi»"
+  },
+  {
+   "q": "Anopheles lichinkalari odatda qanday suvda uchraydi?",
+   "c": "O'simlik bilan qoplangan, quyosh tushadigan va sekin oqadigan suvda",
+   "w": [
+    "O'simliksiz, quyosh tushadigan va sekin oqadigan suvda",
+    "O'simlik bilan qoplangan, soyali va sekin oqadigan suvda",
+    "O'simlik bilan qoplangan, quyosh tushadigan va tezroq oqadigan suvda",
+    "O'simliksiz, quyosh tushadigan va tezroq oqadigan suvda"
+   ],
+   "x": "«Anopheles lichinkalari odatda o'simlik bilan qoplangan, quyosh tushadigan va sekin oqadigan suvda uchraydi»"
+  }
+ ],
+ "095": [
+  {
+   "q": "Qilbosh gijjasi odam organizmida qayerda voyaga yetadi?",
+   "c": "Yo'g'on ichakda",
+   "w": [
+    "Ingichka ichakda",
+    "Bo'shliqda",
+    "Oraliq xo'jayinda",
+    "Najasda"
+   ],
+   "x": "«Gijja odam yo'g'on ichagida voyaga yetadi va u yerda tuxum qo'yadi»"
+  },
+  {
+   "q": "Qilbosh gijjasining ingichka uzun old qismi (boshi) qayerga kirib turadi?",
+   "c": "Yo'g'on ichak shilliq qavatiga",
+   "w": [
+    "Ingichka ichak shilliq qavatiga",
+    "Yo'g'on ichak bo'shlig'iga",
+    "Ingichka ichak bo'shlig'iga",
+    "Yo'g'on ichak orqa qismiga"
+   ],
+   "x": "«Qilbosh gijjasining ingichka uzun old qismi (boshi) yo'g'on ichak shilliq qavatiga kirib turadi»"
+  },
+  {
+   "q": "Qilbosh gijjasi nima sababdan qiyin davolanadi?",
+   "c": "Boshi shilliq qavatga mahkam joylashgan",
+   "w": [
+    "Boshi tuproqda mahkam joylashgan",
+    "Tanasi shilliq qavatga mahkam joylashgan",
+    "Oraliq xo'jayini mahkam joylashgan",
+    "Tuxumi shilliq qavatga mahkam joylashgan"
+   ],
+   "x": "«Gijjaning boshi shilliq qavatga mahkam joylashgani uchun u qiyin davolanadi va uzoq nazorat talab qiladi»"
+  },
+  {
+   "q": "Qilbosh gijjasining yuqishi qanday sodir bo'ladi?",
+   "c": "Tuproqdagi yetilgan tuxumlar orqali",
+   "w": [
+    "Oraliq xo'jayinning tuxumlari orqali",
+    "Tuproqdagi lichinkalar va najas orqali",
+    "Ichakdagi yetilgan lichinkalar orqali",
+    "Odamning yetilgan najasi orqali"
+   ],
+   "x": "«yuqish to'g'ridan-to'g'ri tuproqdagi yetilgan tuxumlar orqali sodir bo'ladi»"
+  },
+  {
+   "q": "Qilbosh gijjasi odam organizmida nimadan oziqlanadi?",
+   "c": "Odamning qonidan",
+   "w": [
+    "Odamning najasidan",
+    "Ichak najasidan",
+    "Tuproqdan",
+    "Oziq-ovqatdan"
+   ],
+   "x": "«Qilbosh gijjasi odamning qonidan oziqlanadi»"
+  },
+  {
+   "q": "Kuchli qilbosh infeksiyasida ichakdan qon yo'qotilishi nimaga olib keladi?",
+   "c": "Kamqonlikka",
+   "w": [
+    "Ichak ishlashiga",
+    "Immun javobga",
+    "O'sish ehtiyojiga",
+    "Parhez ehtiyojiga"
+   ],
+   "x": "«Bu holat ichakdan qon yo'qotilishiga va kamqonlikka olib keladi»"
+  },
+  {
+   "q": "Og'ir infeksiyada to'g'ri ichakda qanday holat kuzatilishi mumkin?",
+   "c": "Qon ketishi va to'g'ri ichakning chiqib qolishi (prolaps)",
+   "w": [
+    "Qon ketishi va yo'g'on ichakning kengayishi",
+    "Yallig'lanish va to'g'ri ichakning chiqib qolishi",
+    "Qon ketishi va ingichka ichakning chiqib qolishi",
+    "Qon ketishi va to'g'ri ichakning tiqilib qolishi"
+   ],
+   "x": "«natijada qon ketishi va to'g'ri ichakning chiqib qolishi (prolaps) kuzatilishi mumkin»"
+  },
+  {
+   "q": "Bir martalik manfiy najas natijasi nimani anglatadi?",
+   "c": "Gijja yo'qligini kafolatlamaydi",
+   "w": [
+    "Gijja yo'qligini kafolatlaydi",
+    "Davolash samarali ekanini kafolatlaydi",
+    "Tuxum yo'qligini kafolatlaydi",
+    "Kamqonlik yo'qligini kafolatlaydi"
+   ],
+   "x": "«Bir martalik manfiy natija gijja yo'qligini kafolatlamaydi»"
+  },
+  {
+   "q": "Qilbosh gijjasining yuqishini kamaytirish uchun qanday chora zarur?",
+   "c": "Sabzavot va mevalarni yaxshilab yuvish, qo'lni sovun bilan yuvish",
+   "w": [
+    "Sabzavot va mevalarni yaxshilab pishirish, qo'lni sovun bilan yuvish",
+    "Sabzavot va mevalarni yaxshilab yuvish, tuproqni sovun bilan yuvish",
+    "Faqat sabzavotni yuvish, qo'lni suv bilan yuvish",
+    "Sabzavot va mevalarni quritish, qo'lni sovun bilan yuvish"
+   ],
+   "x": "«sabzavot va mevalarni yaxshilab yuvish, qo'lni sovun bilan yuvish va hojatxonadan keyin gigiyena qoidalariga rioya qilish zarur»"
+  },
+  {
+   "q": "Qilbosh gijjasi yo'g'on ichakning asosan qaysi sohasida yashaydi?",
+   "c": "Ko'r ichak va kolon sohasida",
+   "w": [
+    "Ingichka ichak va kolon sohasida",
+    "Ko'r ichak va oshqozon sohasida",
+    "To'g'ri ichak va jigar sohasida",
+    "Ko'r ichak va o'pka sohasida"
+   ],
+   "x": "«Qilbosh gijjasi yo'g'on ichakda, asosan ko'r ichak va kolon sohasida yashaydi»"
+  }
+ ]
+}

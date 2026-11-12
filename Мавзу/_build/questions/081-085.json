@@ -1,0 +1,562 @@
+{
+ "081": [
+  {
+   "q": "Bezgak triadasi nimalardan iborat?",
+   "c": "Isitma xuruji, jigar va taloq kattalashishi hamda kamqonlik",
+   "w": [
+    "Isitma xuruji, jigar va taloq yorilishi hamda kamqonlik",
+    "Isitma xuruji, jigar va taloq kattalashishi hamda leykemiya",
+    "Qusish, jigar va taloq kattalashishi hamda kamqonlik",
+    "Isitma xuruji, tutqanoq va taloq kattalashishi hamda kamqonlik"
+   ],
+   "x": "«isitma xuruji, jigar va taloqning kattalashishi va kamqonlikdan iborat»"
+  },
+  {
+   "q": "Isitma xurujining uch bosqichi qaysilar?",
+   "c": "Sovuq qotish, qizish va terlash",
+   "w": [
+    "Sovuq qotish, qizish va qusish",
+    "Qizish, terlash va tutqanoq",
+    "Sovuq qotish, terlash va nafas",
+    "Qaltirash, qizish va holsizlik"
+   ],
+   "x": "«Isitma xuruji uch bosqichdan iborat: sovuq qotish, qizish va terlash»"
+  },
+  {
+   "q": "Uch kunlik bezgakda xuruj qanday takrorlanadi?",
+   "c": "Ikki kunda bir marta",
+   "w": [
+    "Har kuni bir marta",
+    "Ikki kunda ikki marta",
+    "Uch kunda bir marta",
+    "Bir haftada bir marta"
+   ],
+   "x": "«Uch kunlik bezgakda xuruj ikki kunda bir marta kuzatiladi»"
+  },
+  {
+   "q": "Taloq va jigarning kattalashishi kasallik haqida nimani ko'rsatadi?",
+   "c": "Kasallikning uzoq davom etganini",
+   "w": [
+    "Kasallikning boshlanish bosqichini",
+    "Kasallikning tezda tiklanishini",
+    "Kasallikning yuqumli bo'lishini",
+    "Kasallikning endemik bo'lmasligini"
+   ],
+   "x": "«Taloq va jigarning kattalashishi kasallikning uzoq davom etganini ko'rsatadi»"
+  },
+  {
+   "q": "Jigar kattalashganda og'riq qayerda sezilishi mumkin?",
+   "c": "Qorin o'ng yuqori qismida",
+   "w": [
+    "Qorin chap yuqori qismida",
+    "Chap qovurg'a ostida",
+    "Bemorning yuqori qismida",
+    "Nafas yuqori qismida"
+   ],
+   "x": "«Jigar ham kattalashib, qorin o'ng yuqori qismida og'riq sezilishi mumkin»"
+  },
+  {
+   "q": "Kamqonlikda bemorda qanday belgilar kuzatiladi?",
+   "c": "Holsizlik, rangi oqarishi va nafas qisilishi",
+   "w": [
+    "Holsizlik, bosh aylanishi va nafas qisilishi",
+    "Qusish, tutqanoq va nafas qisilishi",
+    "Holsizlik, isitma ko'tarilishi va nafas qisilishi",
+    "Holsizlik, terlash va qorin qisilishi"
+   ],
+   "x": "«Bemor holsizlanadi, rangi oqaradi va nafas qisilishi kuzatiladi»"
+  },
+  {
+   "q": "Uzoq davom etgan kasallikda taloq hajmi oshsa, og'riq qayerda sezilishi mumkin?",
+   "c": "Chap qovurg'a ostida",
+   "w": [
+    "O'ng qovurg'a ostida",
+    "Chap qorin ostida",
+    "Qorin o'ng yuqori qismida",
+    "Chap bosh ostida"
+   ],
+   "x": "«taloq hajmi oshadi va chap qovurg'a ostida og'riq sezilishi mumkin»"
+  },
+  {
+   "q": "Davolashdan keyin kamqonlik qancha vaqt davomida tiklanadi?",
+   "c": "Bir necha hafta davomida",
+   "w": [
+    "Bir necha kun ichida",
+    "Bir necha soat ichida",
+    "Bir necha marta davomida",
+    "Bir necha xuruj davomida"
+   ],
+   "x": "«kamqonlik esa bir necha hafta davomida tiklanadi»"
+  },
+  {
+   "q": "Triadaning faqat bitta belgisi topilsa, nima qilinadi?",
+   "c": "Bezgakni istisno qilmasdan qon tekshiruvi o'tkaziladi",
+   "w": [
+    "Bezgak istisno qilinib, jarrohlik o'tkaziladi",
+    "Bezgakni istisno qilmasdan jarrohlik o'tkaziladi",
+    "Leykemiyani istisno qilmasdan qon tekshiruvi o'tkaziladi",
+    "Bezgakni istisno qilmasdan dori beriladi"
+   ],
+   "x": "«faqat bitta belgi topilsa ham, bezgakni istisno qilmasdan qon tekshiruvi o'tkaziladi»"
+  },
+  {
+   "q": "Bezgakning aniq tashxisi qaysi usul bilan qo'yiladi?",
+   "c": "Qon surtmasi",
+   "w": [
+    "Isitma jurnali",
+    "Taloq hajmi",
+    "Jigar funksiyasi",
+    "Gemoglobin miqdori"
+   ],
+   "x": "«lekin aniq tashxis qon surtmasi bilan qo'yiladi»"
+  }
+ ],
+ "082": [
+  {
+   "q": "Askaridozni davolashda eng keng qo'llaniladigan preparatlar qaysilar?",
+   "c": "Albendazol va mebendazol",
+   "w": [
+    "Levamizol va tubulin",
+    "Albendazol va benzimidazol",
+    "Mebendazol va glyukoza",
+    "Levamizol va nikotin"
+   ],
+   "x": "«Albendazol va mebendazol askaridozni davolashda eng keng qo'llaniladigan preparatlar hisoblanadi»"
+  },
+  {
+   "q": "Levamizol ayrim hollarda qanday preparat sifatida qo'llanadi?",
+   "c": "Muqobil",
+   "w": [
+    "Asosiy",
+    "Birinchi",
+    "Standart",
+    "Doimiy"
+   ],
+   "x": "«Levamizol ham samarali preparat bo'lib, ayrim hollarda muqobil sifatida qo'llanadi»"
+  },
+  {
+   "q": "Albendazol va mebendazol gijja hujayralarida qaysi oqsil bilan bog'lanadi?",
+   "c": "Tubulin",
+   "w": [
+    "Glyukoza",
+    "Nikotin",
+    "Mikrotubula",
+    "Metabolizm"
+   ],
+   "x": "«Ular gijja hujayralarida tubulin oqsili bilan bog'lanib, mikrotubulalar hosil bo'lishini buzadi»"
+  },
+  {
+   "q": "Levamizol gijja mushaklariga qanday ta'sir qiladi?",
+   "c": "Doimiy qisqarish va falajlanishga olib keladi",
+   "w": [
+    "Glyukoza iste'moli kamayishiga olib keladi",
+    "Mikrotubulalar hosil bo'lishiga olib keladi",
+    "Nikotin retseptorlari kamayishiga olib keladi",
+    "Doimiy qisqarish va glyukoza kamayishiga olib keladi"
+   ],
+   "x": "«mushaklarning doimiy qisqarishi va falajlanishiga olib keladi»"
+  },
+  {
+   "q": "Takroriy kurs oralig'i odatda qancha deb tavsiya etiladi?",
+   "c": "Ikki hafta",
+   "w": [
+    "Ikki marta",
+    "Bir hafta",
+    "Ikki doza",
+    "Bir kurs"
+   ],
+   "x": "«Takroriy kurs oralig'i odatda ikki hafta deb tavsiya etiladi»"
+  },
+  {
+   "q": "Antigelmintik preparatlar qabul qilinganda ayrim bemorlarda qanday nojo'ya ta'sirlar kuzatilishi mumkin?",
+   "c": "Qorin og'rig'i, ko'ngil aynishi, bosh og'rig'i yoki allergik toshma",
+   "w": [
+    "Qorin og'rig'i, ko'ngil aynishi, bosh og'rig'i yoki jigar funksiyasi pasayishi",
+    "Buyrak og'rig'i, ko'ngil aynishi, bosh og'rig'i yoki allergik toshma",
+    "Qorin og'rig'i, glyukoza iste'moli, bosh og'rig'i yoki allergik toshma",
+    "Qorin og'rig'i, ko'ngil aynishi, ishtaha kamayishi yoki mushaklar falajlanishi"
+   ],
+   "x": "«ayrim bemorlarda qorin og'rig'i, ko'ngil aynishi, bosh og'rig'i yoki allergik toshma kuzatilishi mumkin»"
+  },
+  {
+   "q": "Askaridozni davolash qachon muvaffaqiyatli deb hisoblanadi?",
+   "c": "Tuxumlar yo'qolgan bo'lsa",
+   "w": [
+    "Tuxumlar qolgan bo'lsa",
+    "Doza oshirilgan bo'lsa",
+    "Kurs takrorlangan bo'lsa",
+    "Najas tekshirilmagan bo'lsa"
+   ],
+   "x": "«Tuxumlar yo'qolgan bo'lsa, davolash muvaffaqiyatli deb hisoblanadi»"
+  },
+  {
+   "q": "Bolalar uchun antigelmintik preparat dozasi nima bo'yicha hisoblanadi?",
+   "c": "Vazn bo'yicha",
+   "w": [
+    "Tana bo'yicha",
+    "Kurs bo'yicha",
+    "Muddat bo'yicha",
+    "Ovqat bo'yicha"
+   ],
+   "x": "«Bolalar uchun antigelmintik preparatlar dozasi vazn bo'yicha hisoblanadi»"
+  },
+  {
+   "q": "Antigelmintik preparatlar qanday joyda saqlanadi?",
+   "c": "Quruq, salqin va bolalar qo'li yetmaydigan joyda",
+   "w": [
+    "Quruq, salqin va hamshira qo'li yetmaydigan joyda",
+    "Quruq, mahalliy va bolalar qo'li yetmaydigan joyda",
+    "Quruq, salqin va shifokor qo'li yetmaydigan joyda",
+    "Quruq, sifatli va bolalar qo'li yetmaydigan joyda"
+   ],
+   "x": "«quruq, salqin va bolalar qo'li yetmaydigan joyda saqlanadi»"
+  },
+  {
+   "q": "Ommaviy davolash dasturlari qayerlarda amalga oshiriladi?",
+   "c": "Maktab va qishloqlarda",
+   "w": [
+    "Oilaviy va qishloqlarda",
+    "Maktab va kontaktlarda",
+    "Hamshira va qishloqlarda",
+    "Mahalliy va maktablarda"
+   ],
+   "x": "«Bu dasturlar maktab va qishloqlarda amalga oshiriladi»"
+  }
+ ],
+ "083": [
+  {
+   "q": "Exinokokkoz qanday kasallik hisoblanadi?",
+   "c": "Zoonoz kasallik",
+   "w": [
+    "Allergik kasallik",
+    "Serologik kasallik",
+    "Nofaol kasallik",
+    "Ijtimoiy kasallik"
+   ],
+   "x": "«keltirib chiqaradigan zoonoz kasallik»"
+  },
+  {
+   "q": "Voyaga yetgan Echinococcus lentasi qayerda yashaydi?",
+   "c": "Itning ichagida",
+   "w": [
+    "Odamning ichagida",
+    "Echkining ichagida",
+    "Sigirning ichagida",
+    "Itning jigarida"
+   ],
+   "x": "«Voyaga yetgan lenta itning ichagida yashaydi»"
+  },
+  {
+   "q": "Odamda kista ko'pincha qaysi organlarda joylashadi?",
+   "c": "Jigar va o'pkada",
+   "w": [
+    "Jigar va ichakda",
+    "Jigar va qorinda",
+    "Ichak va o'pkada",
+    "Qorin va o'pkada"
+   ],
+   "x": "«Odamda kista ko'pincha jigar va o'pkada joylashadi»"
+  },
+  {
+   "q": "Odam Echinococcus granulosus uchun qanday xo'jayin hisoblanadi?",
+   "c": "Oraliq xo'jayin",
+   "w": [
+    "Asosiy xo'jayin",
+    "Birinchi xo'jayin",
+    "Faol xo'jayin",
+    "Qo'shimcha xo'jayin"
+   ],
+   "x": "«Odam Echinococcus granulosus uchun oraliq xo'jayin bo'lib»"
+  },
+  {
+   "q": "Exinokokkozli odam bemorida faqat nima bo'ladi?",
+   "c": "Kista",
+   "w": [
+    "Lenta",
+    "Tuxum",
+    "Ilgak",
+    "Bo'g'im"
+   ],
+   "x": "«Shu sababli odam bemorida lenta gijjasi bo'lmaydi, faqat kista bo'ladi»"
+  },
+  {
+   "q": "Exinokokk kistasi qanday o'sadi?",
+   "c": "Sekin o'sadi va yillar davomida belgisiz bo'lishi mumkin",
+   "w": [
+    "Faol o'sadi va yillar davomida belgisiz bo'lishi mumkin",
+    "Sekin o'sadi va yillar davomida allergik shok beradi",
+    "Sekin o'sadi va yillar davomida faol bo'lishi mumkin",
+    "Katta o'sadi va yillar davomida belgisiz bo'lishi mumkin"
+   ],
+   "x": "«Exinokokk kistasi sekin o'sadi va yillar davomida belgisiz bo'lishi mumkin»"
+  },
+  {
+   "q": "Kistaning joylashuvi va o'lchamini aniqlashda birinchi tanlov usuli qaysi?",
+   "c": "Ultratovush tekshiruvi",
+   "w": [
+    "Kompyuter tomografiyasi",
+    "Serologik testlar",
+    "Klinik ma'lumotlar",
+    "Operatsiya tekshiruvi"
+   ],
+   "x": "«Ultratovush tekshiruvi kistaning joylashuvi va o'lchamini aniqlashda birinchi tanlov usuli hisoblanadi»"
+  },
+  {
+   "q": "Exinokokk kistasi qanday qavatlardan iborat?",
+   "c": "Tashqi nozik qavat va ichki germinativ qatlam",
+   "w": [
+    "Tashqi germinativ qavat va ichki nozik qatlam",
+    "Tashqi nozik qavat va ichki chuqurchalar",
+    "Tashqi nozik qavat va ichki ilgak qatlam",
+    "Tashqi ilgak qavat va ichki germinativ chuqurchalar"
+   ],
+   "x": "«Exinokokk kistasi tashqi nozik qavat va ichki germinativ qatlamdan iborat»"
+  },
+  {
+   "q": "Kista organlarda yorilib ketsa, nimalar yuzaga kelishi mumkin?",
+   "c": "Allergik shok yoki yangi kista o'choqlari",
+   "w": [
+    "Allergik shok yoki yangi lenta o'choqlari",
+    "Serologik shok yoki yangi kista o'choqlari",
+    "Allergik shok yoki yangi organ o'choqlari",
+    "Allergik shok yoki yangi tuxum o'choqlari"
+   ],
+   "x": "«suyuqlik qorin bo'shlig'iga yoki qon tomirlariga o'tishi mumkin va allergik shok yoki yangi kista o'choqlarini keltirib chiqaradi»"
+  },
+  {
+   "q": "Kichik faol kista qanday boshqarilishi mumkin?",
+   "c": "Kuzatuvda qoldirilishi mumkin",
+   "w": [
+    "Jarrohlik bilan olib tashlanadi",
+    "Maxsus dori bilan davolanadi",
+    "Faqat jarrohlik qilinadi",
+    "Tasvirlash bilan baholanadi"
+   ],
+   "x": "«kichik faol kista kuzatuvda qoldirilishi, katta yoki asorat bergan kista esa jarrohlik yoki maxsus dori bilan davolanishi mumkin»"
+  }
+ ],
+ "084": [
+  {
+   "q": "Askaridoz klinikasi qaysi ikki asosiy bosqichdan iborat?",
+   "c": "O'pka belgilari va ichak belgilari",
+   "w": [
+    "Ichak belgilari va oshqozon belgilari",
+    "O'pka belgilari va nafas belgilari",
+    "Ichak belgilari va bolalar belgilari",
+    "Nafas belgilari va oshqozon belgilari"
+   ],
+   "x": "«Uning klinikasi ikki asosiy bosqichdan iborat: lichinka o'pkadan o'tayotgandagi o'pka belgilari va voyaga yetgan gijja ichakda bo'lgandagi ichak belgilari»"
+  },
+  {
+   "q": "Ichak bosqichida qanday belgilar kuzatiladi?",
+   "c": "Qorin og'rig'i, ishtaha o'zgarishi, ko'ngil aynishi va qusish",
+   "w": [
+    "Qorin og'rig'i, ishtaha o'zgarishi, yo'tal va qusish",
+    "Yo'tal, ishtaha o'zgarishi, ko'ngil aynishi va qusish",
+    "Qorin og'rig'i, nafas qisilishi, ko'ngil aynishi va isitma",
+    "Qorin og'rig'i, ishtaha o'zgarishi, ko'ngil aynishi va nafas qisilishi"
+   ],
+   "x": "«qorin og'rig'i, ishtaha o'zgarishi, ko'ngil aynishi va ayrim hollarda qusish kuzatiladi»"
+  },
+  {
+   "q": "O'pka bosqichida qanday belgilar paydo bo'ladi?",
+   "c": "Yo'tal, nafas qisilishi va isitma",
+   "w": [
+    "Yo'tal, qorin og'rig'i va isitma",
+    "Qusish, nafas qisilishi va isitma",
+    "Yo'tal, nafas qisilishi va vazn yo'qotish",
+    "Ishtaha o'zgarishi, nafas qisilishi va isitma"
+   ],
+   "x": "«O'pka bosqichida yo'tal, nafas qisilishi va isitma paydo bo'ladi»"
+  },
+  {
+   "q": "Askarida ovqat hazm qilishni buzib, nimani kamaytiradi?",
+   "c": "Oziq moddalar so'rilishini",
+   "w": [
+    "Oziq moddalar tarkibini",
+    "Ichak shilliq qavatini",
+    "Bolalar ishtahasini",
+    "Askarida sonini"
+   ],
+   "x": "«ovqat hazm qilishni buzadi va oziq moddalar so'rilishini kamaytiradi»"
+  },
+  {
+   "q": "Askaridozda tashxis nima bilan qo'yiladi?",
+   "c": "Najasda askarida tuxumlarini topish",
+   "w": [
+    "Najasda askarida lichinkalarini topish",
+    "Rentgenda askarida tuxumlarini topish",
+    "Najasda ichak tuxumlarini topish",
+    "Najasda askarida bakteriyalarini topish"
+   ],
+   "x": "«Tashxis najasda askarida tuxumlarini topish bilan qo'yiladi»"
+  },
+  {
+   "q": "Tuxumlarni topish sezgirligini qaysi usullar oshiradi?",
+   "c": "Konsentratsiya usullari",
+   "w": [
+    "Rentgen usullari",
+    "Anamnez usullari",
+    "Migratsiya usullari",
+    "Mexanik usullar"
+   ],
+   "x": "«Konsentratsiya usullari sezgirlikni oshiradi»"
+  },
+  {
+   "q": "Ichak tutilishi qanday holat bilan kechadi?",
+   "c": "Qattiq qorin og'rig'i, qusish va gaz chiqarmaslik",
+   "w": [
+    "Qattiq qorin og'rig'i, qusish va ishtaha oshishi",
+    "Yo'tal, qusish va gaz chiqarmaslik",
+    "Qattiq qorin og'rig'i, isitma va gaz chiqarmaslik",
+    "Qattiq nafas qisilishi, qusish va gaz chiqarmaslik"
+   ],
+   "x": "«Bunday holat qattiq qorin og'rig'i, qusish va gaz chiqarmaslik bilan kechadi»"
+  },
+  {
+   "q": "Najasda tuxum topilmasa ham askaridoz har doim istisno qilinmaydi, nima sababdan?",
+   "c": "Urg'ochi gijjalar hali tuxum qo'ymagan bo'lishi mumkin",
+   "w": [
+    "Lichinkalar hali tuxum qo'ymagan bo'lishi mumkin",
+    "Urg'ochi gijjalar hali o'pkada bo'lishi mumkin",
+    "Najas hali tekshirilmagan bo'lishi mumkin",
+    "Gijjalar hali ichakdan chiqqan bo'lishi mumkin"
+   ],
+   "x": "«ularning yo'qligi har doim kasallikni istisno qilmaydi, chunki urg'ochi gijjalar hali tuxum qo'ymagan bo'lishi mumkin»"
+  },
+  {
+   "q": "Qon tahlilida askaridozda nima aniqlanishi mumkin?",
+   "c": "Eozinofiliya va kamqonlik",
+   "w": [
+    "Eozinofiliya va migratsiya",
+    "Kamqonlik va obstruksiya",
+    "Anamnez va kamqonlik",
+    "Eozinofiliya va vitamin tanqisligi"
+   ],
+   "x": "«Qon tahlilida eozinofiliya va kamqonlik aniqlanishi mumkin»"
+  },
+  {
+   "q": "Kamqonlik bo'lsa, tiklash ishlari qanday olib boriladi?",
+   "c": "Temir preparatlari va to'g'ri ovqatlanish",
+   "w": [
+    "Vitamin preparatlari va to'g'ri ovqatlanish",
+    "Temir preparatlari va jarrohlik aralashuvi",
+    "Temir preparatlari va doimiy gigiyena",
+    "Vitamin preparatlari va tolali mahsulotlar"
+   ],
+   "x": "«temir preparatlari va to'g'ri ovqatlanish bilan tiklash ishlari olib boriladi»"
+  }
+ ],
+ "085": [
+  {
+   "q": "Bezgak qaysi yosh guruhlarida yuqishi mumkin?",
+   "c": "Barcha yosh guruhlarida",
+   "w": [
+    "Faqat bolalarda",
+    "Ayollar guruhida",
+    "Endemik guruhida",
+    "Homilador guruhida"
+   ],
+   "x": "«Bezgak barcha yosh guruhlarida yuqishi mumkin»"
+  },
+  {
+   "q": "Urg'ochi bezgak chivini tuxumni qayerga qo'yadi?",
+   "c": "Suvga",
+   "w": [
+    "Qonga",
+    "Kiyimga",
+    "Derazaga",
+    "Karavotga"
+   ],
+   "x": "«Urg'ochisi suvga tuxum qo'yadi»"
+  },
+  {
+   "q": "Xavf guruhlarida qaysi choralar ustuvor ko'riladi?",
+   "c": "Chivin chaqishidan himoya choralari",
+   "w": [
+    "Chivin tuxumidan himoya choralari",
+    "Donor qonidan himoya choralari",
+    "Suv havzalaridan himoya choralari",
+    "Insektitsid ishlov choralari"
+   ],
+   "x": "«Bu guruhlarda chivin chaqishidan himoya choralari ustuvor ko'riladi»"
+  },
+  {
+   "q": "Chivin bezgak jarayonida nima uchun muhim halqa hisoblanadi?",
+   "c": "Parazitni bir odamdan boshqasiga tashiydi",
+   "w": [
+    "Parazitni bir chivindan boshqasiga tashiydi",
+    "Parazitni jigardan qonga tashiydi",
+    "Parazitni bir odamdan suvga tashiydi",
+    "Parazitni bir odamdan boshqasiga ko'paytiradi"
+   ],
+   "x": "«Chivin ham bu jarayonda muhim halqa hisoblanadi, chunki u parazitni bir odamdan boshqasiga tashiydi»"
+  },
+  {
+   "q": "Faqat bitta yo'nalishdagi chora-tadbir qanday natija berishi mumkin?",
+   "c": "Kutilgan natijani bermasligi mumkin",
+   "w": [
+    "Kutilgan natijani oshirishi mumkin",
+    "Kutilgan natijani yo'qotishi mumkin",
+    "Kutilgan natijani qoldirib bo'lmaydi",
+    "Kutilgan natijani tashiydi"
+   ],
+   "x": "«Faqat bitta yo'nalishdagi chora-tadbir kutilgan natijani bermasligi mumkin»"
+  },
+  {
+   "q": "Chivinlarni qaytaruvchi vositalar qanday surtiladi?",
+   "c": "Teri yuziga to'g'ri",
+   "w": [
+    "Kiyim yuziga to'g'ri",
+    "Suv yuziga to'g'ri",
+    "Eshik yuziga to'g'ri",
+    "Teri yuziga ochiq"
+   ],
+   "x": "«chivinlarni qaytaruvchi vositalarni teri yuziga to'g'ri surtish»"
+  },
+  {
+   "q": "Chivin chaqishidan himoyalanish uchun qanday kiyim kiyish tavsiya etiladi?",
+   "c": "Uzun yengli kiyim",
+   "w": [
+    "Ochiq yengli kiyim",
+    "Uzun ochiq kiyim",
+    "To'rli yengli kiyim",
+    "Qanotli yengli kiyim"
+   ],
+   "x": "«uzun yengli kiyim kiyish»"
+  },
+  {
+   "q": "Sanitariya xizmati mavsum boshlanishidan oldin nima qiladi?",
+   "c": "Profilaktik choralarni rejalashtiradi va suv havzalarini tekshiradi",
+   "w": [
+    "Profilaktik choralarni rejalashtiradi va suv havzalarini yo'qotadi",
+    "Insektitsid choralarni rejalashtiradi va suv havzalarini tekshiradi",
+    "Profilaktik choralarni kamaytiradi va suv havzalarini tekshiradi",
+    "Profilaktik choralarni rejalashtiradi va donorlarni tekshiradi"
+   ],
+   "x": "«sanitariya xizmati mavsum boshlanishidan oldin profilaktik choralarni rejalashtiradi va suv havzalarini tekshiradi»"
+  },
+  {
+   "q": "Xavf guruhlariga yo'naltirilgan profilaktik yondashuv nimaga qaratilgan?",
+   "c": "Og'ir shakllar va o'limning oldini olishga",
+   "w": [
+    "Og'ir shakllar va chivinlarning oldini olishga",
+    "Mavsum shakllari va o'limning oldini olishga",
+    "Og'ir shakllar va sayohatning oldini olishga",
+    "Sovuq shakllar va o'limning oldini olishga"
+   ],
+   "x": "«Bu yondashuv kasallikning og'ir shakllari va o'limning oldini olishga qaratilgan»"
+  },
+  {
+   "q": "Chivin organizmida parazit bir necha kun rivojlanib, nimaga aylanadi?",
+   "c": "Yuqumli shaklga",
+   "w": [
+    "Jinssiz shaklga",
+    "Eritrotsitar shaklga",
+    "Jigar shaklga",
+    "Qanotli shaklga"
+   ],
+   "x": "«Chivin organizmida parazit bir necha kun rivojlanadi va yuqumli shaklga aylanadi»"
+  }
+ ]
+}

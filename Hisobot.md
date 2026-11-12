@@ -1,19 +1,19 @@
-# Hisobot — Parazitologiya bo'yicha mavzu testlari (001–075)
+# Hisobot — Parazitologiya bo'yicha mavzu testlari (001–100)
 
 Rol: test tuzuvchi, Parazitologiya bo'yicha oliy toifali shifokor.
 Manba: `Мавзу.zip` (121 ta `NNN.docx`). Natija papkasi: `Тест/`. Shablon: `shablon.xlsx`.
-Bajarilgan: 001–075 mavzulari (15 partiya × 5 mavzu). 076–121 mavzulari hali bajarilmagan.
+Bajarilgan: 001–100 mavzulari (20 partiya × 5 mavzu). 101–121 mavzulari hali bajarilmagan.
 
 ## 1. Fayllar va savollar soni
-- Fayllar: 75 ta (`Тест/001.xlsx` … `Тест/075.xlsx`).
-- Savollar: 750 ta (har faylda 10 ta). Har savolda 5 variant (A–E), bitta to'g'ri javob, izoh — mavzu matnidan «» ichida aynan iqtibos.
+- Fayllar: 100 ta (`Тест/001.xlsx` … `Тест/100.xlsx`).
+- Savollar: 1000 ta (har faylda 10 ta). Har savolda 5 variant (A–E), bitta to'g'ri javob, izoh — mavzu matnidan «» ichida aynan iqtibos.
 - QA (`build_tests.js`, qat'iy rejim): xato 0. Qayta o'qish (jszip): savollar soni, harf taqsimoti, ketma-ket 3 ta bir xil harf yo'qligi, izohda iqtibos borligi, kirill aralashmasi yo'qligi — barchasi o'tdi (xato fayl 0).
 
 ## 2. A/B/C/D/E taqsimoti
-A = 150, B = 150, C = 150, D = 150, E = 150.
+A = 200, B = 200, C = 200, D = 200, E = 200.
 
 ## 3. To'g'ri javob 10% dan uzun bo'lgan savollar ulushi
-114 ta savol (15,2%). Ular QA'da ogohlantirish sifatida chiqdi; 30% dan uzun hech biri yo'q.
+135 ta savol (13,5%). Ular QA'da ogohlantirish sifatida chiqdi; 30% dan uzun hech biri yo'q.
 
 ## 4. Mavzu matnlari o'rtasidagi farqlar va nomuvofiqliklar
 Bir xil matnli mavzular (savollar bir-biridan farqli jihatlar bo'yicha yozildi):
@@ -57,10 +57,17 @@ Hech biri savolning to'g'ri javobi yoki variantiga kiritilmadi.
 - 068: sog‘lom organizmni zararlash uchun zarur sporozoit soni va minimal doza (017 bilan bir xil matn).
 - Faqat adabiyotlar ro'yxatida belgilangan mavzular: 001–005, 007, 009, 013, 014, 019, 020, 023–025, 028, 029 va boshqalar.
 
-## 6. 051–075 bo‘yicha qo‘shimcha izoh
+10b. Yangi (076–100): 062=076 (epidemiya manbai), 077=120 (askarida hayot aylanishi), 078=016=027 (ostritsa), 079=047=064=067=069 (askarida oxirgi xo‘jayini, 5-nusxa), 080=085=009=030=050=101=112 (bezgak yuqishi, 7 nusxa), 081=098 (triada), 086=054 (leyshmaniya), 087=006 (uch kunlik bezgak residivi), 089=084 (askaridoz klinikasi), 090=038=061 (chivin nazorati), 092=040=053 (predmet oynalari), 096=051=059 (lamblya najasi), 097=020=074 (kasallik va o‘limni kamaytirish), 100=113 (gimenolepidoz yuqishi). Har bir nusxa uchun alohida jihatlar bo‘yicha savollar yozildi.
+
+## 6. 051–100 bo‘yicha qo‘shimcha izoh
 - 067 va 069 sarlavhalari («oxirgi xo‘jayini», «so‘nggi boshlig‘i») bir xil matnga ega; 069 sarlavhasidagi «boshlig‘i» so‘zi matnda xo‘jayin ma’nosida.
 - 073 sarlavhasi «ishlatilmasa qayerda saqlash» deb qo‘yilgan, matn mikroskop saqlash va parvarishi haqida to‘liq (034/046 bilan bir xil).
 - 066 va 068 dagi `[tasdiqlanmagan]` belgili gaplar savol qilinmadi.
+- 076–100: `[tasdiqlanmagan]` gaplar savol qilinmadi — 087 (aniq dozalar va kuzatuv jadvali), 091 (viloyatlar bo‘yicha aniq ko‘rsatkichlar), 093 (chivin ichida rivojlanish uchun harorat chegarasi), 094 (Anopheles turlarining aniq soni).
+- 077: hayot sikli davomiyligi «bir necha oydan bir necha oygacha» deb yozilgan (mazmunan noaniq), voyaga yetgan gijja umri esa bir joyda «bir necha oy», boshqa joyda «taxminan bir yil». Bu gaplar savol qilinmadi.
+- 088: appendiks haqidagi matnda «lümen» kabi aralash yozuv uchraydi; mexanizm «taxmin qilinadi» deb berilgan, savollar shu ehtiyotkor ifoda bilan tuzildi.
+- 092 (predmet oynalari) sarlavhasi «ideal vosita» deydi, matn esa yuvish vositasi + spirtni «eng ko‘p qo‘llaniladigan» deb ataydi.
+- 099: O‘zbekiston bo‘yicha tarixiy yillar va viloyat nomlari savol qilinmadi (manba tasdig‘i kerak).
 
 ## Eslatma
 Tibbiy mazmun (dozalar, muddatlar, me'yorlar) mutaxassis tomonidan tekshirilishi kerak. Skript faqat matn mosligini tekshiradi.

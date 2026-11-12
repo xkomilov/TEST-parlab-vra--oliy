@@ -1,0 +1,562 @@
+{
+ "086": [
+  {
+   "q": "Teri leyshmaniozida yara qanday bitadi?",
+   "c": "Sekin bitadi va chandiq qoldirishi mumkin",
+   "w": [
+    "Sekin bitadi va chandiq qoldirmaydi",
+    "Sekin kengayadi va chandiq qoldirishi mumkin",
+    "Sekin bitadi va doim yuqumli bo'ladi",
+    "Sekin bitadi va yillab davom etishi mumkin"
+   ],
+   "x": "«Teri leyshmaniozida yara odatda sekin bitadi va chandiq qoldirishi mumkin»"
+  },
+  {
+   "q": "Makrofag parchalanganda amastigotlar nima qiladi?",
+   "c": "Boshqa hujayralarga tarqaladi",
+   "w": [
+    "Boshqa hasharotlarga tarqaladi",
+    "Makrofaglarni parchalaydi",
+    "Terida qoladi",
+    "Pashsha ichagida ko'payadi"
+   ],
+   "x": "«makrofag parchalanadi va yangi amastigotlar boshqa hujayralarga tarqaladi»"
+  },
+  {
+   "q": "Leyshmaniyaning makrofaglar ichida yashashi kasallikning qanday kechishiga sabab bo'ladi?",
+   "c": "Surunkali kechishiga",
+   "w": [
+    "Sust kechishiga",
+    "Faol kechishiga",
+    "Oddiy kechishiga",
+    "Kuchli kechishiga"
+   ],
+   "x": "«Bu xususiyat kasallikning surunkali kechishiga sabab bo'ladi»"
+  },
+  {
+   "q": "Qum pashshasi tuxumini qayerga qo'yadi?",
+   "c": "Tuproq va chirigan o'simliklar orasiga",
+   "w": [
+    "Tuproq va chirigan hayvonlar orasiga",
+    "Teri va chirigan o'simliklar orasiga",
+    "Odam va chirigan o'simliklar orasiga",
+    "Tuproq va chirigan terining ostiga"
+   ],
+   "x": "«Qum pashshasi tuxumini tuproq va chirigan o'simliklar orasiga qo'yadi»"
+  },
+  {
+   "q": "Qum pashshasi lichinkasi nima bilan oziqlanadi?",
+   "c": "Chirigan organik moddalar",
+   "w": [
+    "Chirigan hayvon moddalari",
+    "O'simlik shirasi",
+    "Makrofaglar",
+    "Terining moddalari"
+   ],
+   "x": "«Lichinka bosqichida pashsha chirigan organik moddalar bilan oziqlanadi»"
+  },
+  {
+   "q": "Leyshmaniya makrofaglarning qaysi funksiyasini susaytiradi?",
+   "c": "Antigen taqdim etish funksiyasini",
+   "w": [
+    "Antigen ko'paytirish funksiyasini",
+    "Parazit ko'paytirish funksiyasini",
+    "Hujayra taqdim etish funksiyasini",
+    "Antigen parchalash funksiyasini"
+   ],
+   "x": "«ularning antigen taqdim etish funksiyasini susaytiradi»"
+  },
+  {
+   "q": "Qum pashshalaridan himoyalanish uchun qanday to'rlar tavsiya etiladi?",
+   "c": "Mayda teshikli to'rlar",
+   "w": [
+    "Oddiy teshikli to'rlar",
+    "Mayda teshiksiz to'rlar",
+    "Mayda mo'ynali to'rlar",
+    "Chirigan teshikli to'rlar"
+   ],
+   "x": "«mayda teshikli to'rlar, kechqurun yopiq xonada qolish va repellentlar qo'llanilishi tavsiya etiladi»"
+  },
+  {
+   "q": "Chandiq qaysi joylarda ayniqsa ruhiy tushkunlikka sabab bo'lishi mumkin?",
+   "c": "Yuz va qo'llarda",
+   "w": [
+    "Burun va halqumda",
+    "Og'iz va qo'llarda",
+    "Ichki organlarda",
+    "Pashsha va qo'llarda"
+   ],
+   "x": "«ayniqsa yuz va qo'llarda, ruhiy tushkunlikka sabab bo'lishi mumkin»"
+  },
+  {
+   "q": "Yara yuqumli infeksiya bilan murakkablashsa, qanday davolash qo'shimcha talab qilinadi?",
+   "c": "Antibiotik davolash",
+   "w": [
+    "Antigen davolash",
+    "Psixologik davolash",
+    "Molekulyar davolash",
+    "Kosmetik davolash"
+   ],
+   "x": "«Yara yuqumli infeksiya bilan murakkablashsa, antibiotik davolash qo'shimcha talab qilinadi»"
+  },
+  {
+   "q": "Leyshmaniozda davolashga javob nimalarga bog'liq?",
+   "c": "Qo'zg'atuvchi turi, bemorning immun holati va kasallik davomiyligi",
+   "w": [
+    "Qo'zg'atuvchi turi, bemorning immun holati va pashsha davomiyligi",
+    "Qo'zg'atuvchi turi, bemorning ruhiy holati va kasallik davomiyligi",
+    "Hayvon turi, bemorning immun holati va kasallik davomiyligi",
+    "Qo'zg'atuvchi turi, bemorning immun holati va chandiq hajmi"
+   ],
+   "x": "«davolashga javob qo'zg'atuvchi turi, bemorning immun holati va kasallik davomiyligiga bog'liq»"
+  }
+ ],
+ "087": [
+  {
+   "q": "Uch kunlik bezgakda davolash qachon boshlanadi?",
+   "c": "Qonda parazit aniqlangan zahoti",
+   "w": [
+    "Qonda parazit aniqlanmagan zahoti",
+    "Residiv belgilari paydo bo'lgan zahoti",
+    "Gipnozoit aniqlangan zahoti",
+    "Qonda parazit aniqlangan haftalarda"
+   ],
+   "x": "«Qonda parazit aniqlangan zahoti davolash boshlanadi»"
+  },
+  {
+   "q": "Og'ir ahvoldagi bemor qanday davolanadi?",
+   "c": "Kasalxonaga yotqizilib, mutaxassis nazoratida",
+   "w": [
+    "Uyda yotqizilib, mutaxassis nazoratida",
+    "Kasalxonaga yotqizilib, oila nazoratida",
+    "Uyda davolanib, oila nazoratida",
+    "Kasalxonaga yotqizilib, protokol nazoratida"
+   ],
+   "x": "«Bemor og'ir ahvolda bo'lsa, u kasalxonaga yotqizilishi va davolash mutaxassis nazoratida o'tkazilishi kerak»"
+  },
+  {
+   "q": "Tafenokin qachon qo'llaniladi?",
+   "c": "Faqat sifatli miqdoriy G6PD tekshiruvi mavjud bo'lganda",
+   "w": [
+    "Sifatli miqdoriy glyukozo tekshiruvi mavjud bo'lmaganda",
+    "Har doim miqdoriy G6PD tekshiruvi mavjud bo'lganda",
+    "Sifatli miqdoriy G6PD tekshiruvi mavjud bo'lmaganda",
+    "Barcha yosh va sharoitda G6PD tekshiruvi mavjud bo'lganda"
+   ],
+   "x": "«bu preparat faqat sifatli miqdoriy G6PD tekshiruvi mavjud bo'lganda va muayyan yosh hamda sharoitda qo'llaniladi»"
+  },
+  {
+   "q": "Xlorokin yoki gidroksixlorokin bilan davolashda ikki-uch kundan keyin nima kutiladi?",
+   "c": "Harorat me'yorlashishi va umumiy holat yaxshilanishi",
+   "w": [
+    "Harorat kuchayishi va umumiy holat yaxshilanishi",
+    "Harorat me'yorlashishi va qorin og'rig'i kuchayishi",
+    "Parazit soni me'yorlashishi va umumiy holat kuchayishi",
+    "Harorat kamayishi va umumiy holat kuchayishi"
+   ],
+   "x": "«ikki-uch kun ichida harorat me'yorlashishi va umumiy holat yaxshilanishi kutiladi»"
+  },
+  {
+   "q": "Parazit soni kamaymasa yoki isitma davom etsa, nima haqida o'ylash kerak?",
+   "c": "Dori qarshiligi yoki boshqa asoratlar",
+   "w": [
+    "Dori narxi yoki boshqa asoratlar",
+    "Dori qarshiligi yoki boshqa preparatlar",
+    "Tafenoxin qarshiligi yoki boshqa asoratlar",
+    "Dori qarshiligi yoki boshqa kontaktlar"
+   ],
+   "x": "«bu dori qarshiligi yoki boshqa asoratlar haqida o'ylashga sabab bo'ladi»"
+  },
+  {
+   "q": "Primakin qabul qilgan bemorlarda qanday nojo'ya ta'sirlar bo'lishi mumkin?",
+   "c": "Ko'ngil aynishi, qorin og'rig'i va bosh og'rig'i",
+   "w": [
+    "Ko'ngil aynishi, qorin og'rig'i va isitma kuchayishi",
+    "Ko'ngil aynishi, siydik og'rig'i va bosh og'rig'i",
+    "Qon aynishi, qorin og'rig'i va bosh og'rig'i",
+    "Ko'ngil aynishi, qorin og'rig'i va rangi o'zgarishi"
+   ],
+   "x": "«jumladan ko'ngil aynishi, qorin og'rig'i va bosh og'rig'i»"
+  },
+  {
+   "q": "Homilador ayollarda radikal davolash muddati va usuli kim tomonidan belgilanadi?",
+   "c": "Shifokor tomonidan individual",
+   "w": [
+    "Protokol tomonidan individual",
+    "Shifokor tomonidan umumiy",
+    "Oila tomonidan individual",
+    "Perinatal tomonidan umumiy"
+   ],
+   "x": "«radikal davolash muddati va usuli shifokor tomonidan individual belgilanadi»"
+  },
+  {
+   "q": "Davolashdan keyin isitma qaytsa, nima qilinadi?",
+   "c": "Darhol qon tekshiruvi o'tkaziladi",
+   "w": [
+    "Darhol gemoliz tekshiruvi o'tkaziladi",
+    "Darhol primakin dozasi uzaytiriladi",
+    "Darhol oila tekshiruvi o'tkaziladi",
+    "Darhol dori to'xtatiladi"
+   ],
+   "x": "«Isitma qaytsa, darhol qon tekshiruvi o'tkaziladi»"
+  },
+  {
+   "q": "Primakin qo'llaganda gemoliz belgilari paydo bo'lsa, nima qilinadi?",
+   "c": "Dori darhol to'xtatiladi",
+   "w": [
+    "Dori darhol uzaytiriladi",
+    "Primakin darhol uzaytiriladi",
+    "Dori ovqat bilan qabul qilinadi",
+    "Dori bekor qilinmaydi"
+   ],
+   "x": "«Agar gemoliz belgilari paydo bo'lsa, dori darhol to'xtatiladi va bemor shifokor nazoratiga olinadi»"
+  },
+  {
+   "q": "Residivga qarshi davolashning amaliy tartibi qanday ketma-ketlikda bo'ladi?",
+   "c": "Qon tekshiruvi, G6PD holatini aniqlash, qon bosqichini davolash, radikal davolash va nazorat",
+   "w": [
+    "G6PD holatini aniqlash, qon tekshiruvi, qon bosqichini davolash, radikal davolash va nazorat",
+    "Qon tekshiruvi, radikal davolash, G6PD holatini aniqlash, qon bosqichini davolash va nazorat",
+    "Qon tekshiruvi, G6PD holatini aniqlash, radikal davolash, qon bosqichini davolash va nazorat",
+    "Qon bosqichini davolash, qon tekshiruvi, G6PD holatini aniqlash, radikal davolash va nazorat"
+   ],
+   "x": "«Amaliy tartib quyidagicha: qon tekshiruvi, G6PD holatini aniqlash, qon bosqichini davolash, so'ngra radikal davolash va davolashdan keyingi nazorat»"
+  }
+ ],
+ "088": [
+  {
+   "q": "Appendisitga o'xshash klinik belgilarga ega bo'lgan gijja kasalligi qaysi?",
+   "c": "Enterobioz (ostritsa kasalligi)",
+   "w": [
+    "Enterobioz (appendiks kasalligi)",
+    "Eozinofiliya (ostritsa kasalligi)",
+    "Invaginatsiya (ichak kasalligi)",
+    "Limfadenit (ostritsa kasalligi)"
+   ],
+   "x": "«Enterobioz (ostritsa kasalligi) ba'zi bemorlarda o'tkir qorin og'rig'i bilan kechishi mumkin»"
+  },
+  {
+   "q": "Enterobiozda qaysi belgilar appendisitga o'xshash bo'lishi mumkin?",
+   "c": "Qorin o'ng pastki qismida og'riq, isitma va ko'ngil aynishi",
+   "w": [
+    "Qorin o'ng pastki qismida og'riq, qusish va ko'ngil aynishi",
+    "Qorin o'ng pastki qismida og'riq, isitma va anal qichishish",
+    "Anal soha atrofida og'riq, isitma va ko'ngil aynishi",
+    "Qorin o'ng pastki qismida og'riq, uyqu buzilishi va ko'ngil aynishi"
+   ],
+   "x": "«Enterobiozda qorin o'ng pastki qismida og'riq, isitma va ko'ngil aynishi kuzatilishi mumkin»"
+  },
+  {
+   "q": "Enterobiozdagi og'riq ko'pincha qanday bo'ladi?",
+   "c": "Doimiy emas, balki vaqti-vaqti bilan paydo bo'ladi",
+   "w": [
+    "Doimiy va kuchli, ko'pincha lokal bo'ladi",
+    "Doimiy va lokal, vaqti-vaqti bilan paydo bo'ladi",
+    "Doimiy emas, balki kuchli paydo bo'ladi",
+    "Doimiy va kuchli, balki vaqti-vaqti bilan paydo bo'ladi"
+   ],
+   "x": "«Og'riq ko'pincha doimiy emas, balki vaqti-vaqti bilan paydo bo'ladi»"
+  },
+  {
+   "q": "Shifokor anamnezda diagnostik xatolarning oldini olish uchun nimani so'raydi?",
+   "c": "Anal qichishish va oilaviy kasallik",
+   "w": [
+    "Anal qichishish va oilaviy ovqat",
+    "Qorin og'rig'i va oilaviy tarix",
+    "Isitma va oilaviy kasallik",
+    "Anal qichishish va operatsiya tarixi"
+   ],
+   "x": "«shifokor anamnezda anal qichishish va oilaviy kasallik haqida so'raydi»"
+  },
+  {
+   "q": "Ostritsa appendiksda yallig'lanishni qanday keltirib chiqarishi mumkin?",
+   "c": "Appendiks ichini to'sishi yoki shilliq qavatini tirnashi",
+   "w": [
+    "Appendiks ichini bo'shatishi yoki shilliq qavatini tirnashi",
+    "Appendiks ichini to'sishi yoki shilliq qavatini yo'qotishi",
+    "Ichak ichini to'sishi yoki shilliq qavatini tirnashi",
+    "Appendiks ichini to'sishi yoki tuxumini tirnashi"
+   ],
+   "x": "«yoki shilliq qavatini tirnashi natijasida yallig'lanish paydo bo'lishi mumkin»"
+  },
+  {
+   "q": "Gijjani aniqlash uchun qaysi usul tavsiya etiladi?",
+   "c": "Saskob usuli",
+   "w": [
+    "Anal usuli",
+    "Tasvirlash usuli",
+    "Qorin usuli",
+    "Namuna usuli"
+   ],
+   "x": "«Gijjani aniqlash uchun saskob usuli tavsiya etiladi»"
+  },
+  {
+   "q": "Appendisit shubhasi kuchli bo'lsa, nima qilinadi?",
+   "c": "Jarrohga murojaat qilinadi",
+   "w": [
+    "Laboratoriyaga murojaat qilinadi",
+    "Enterobiozga murojaat qilinadi",
+    "Onalarga murojaat qilinadi",
+    "Kontaktlarga murojaat qilinadi"
+   ],
+   "x": "«Appendisit shubhasi kuchli bo'lsa, jarrohga murojaat qilinadi»"
+  },
+  {
+   "q": "Eozinofiliya gijja infeksiyasida qanday ma'lumot hisoblanadi?",
+   "c": "Faqat yordamchi ma'lumot",
+   "w": [
+    "Asosiy ma'lumot",
+    "Jarrohlik ma'lumoti",
+    "Doimiy ma'lumot",
+    "Anal ma'lumot"
+   ],
+   "x": "«Eozinofiliya gijja infeksiyasiga xos belgi bo'lishi mumkin, ammo bu faqat yordamchi ma'lumot hisoblanadi»"
+  },
+  {
+   "q": "Bolalarda qorin og'rig'i sabablariga qaysilar kiradi?",
+   "c": "Mezenterial limfadenit va ichak invaginatsiyasi",
+   "w": [
+    "Mezenterial limfadenit va ichak ostritsasi",
+    "Anal limfadenit va ichak invaginatsiyasi",
+    "Mezenterial leykotsitlar va ichak invaginatsiyasi",
+    "Eozinofiliya va ichak qoldiqlari"
+   ],
+   "x": "«mezenterial limfadenit, ichak invaginatsiyasi va boshqa holatlar»"
+  },
+  {
+   "q": "Appendiksda gijja topilgan bemorga operatsiyadan keyin nima tavsiya etiladi?",
+   "c": "Keyingi davolash va oilaviy kontaktlarni tekshirish",
+   "w": [
+    "Keyingi operatsiya va oilaviy kontaktlarni tekshirish",
+    "Keyingi davolash va oilaviy ovqatlarni tekshirish",
+    "Keyingi davolash va jarrohlik kontaktlarni tekshirish",
+    "Keyingi tekshirish va oilaviy kontaktlarni davolash"
+   ],
+   "x": "«bemorga keyingi davolash va oilaviy kontaktlarni tekshirish tavsiya etiladi»"
+  }
+ ],
+ "089": [
+  {
+   "q": "Askaridozning ichak bosqichida bolalarda nima orqada qolishi mumkin?",
+   "c": "Vazn va o'sish",
+   "w": [
+    "Vazn va ishtaha",
+    "Yo'tal va o'sish",
+    "Vazn va isitma",
+    "Qusish va o'sish"
+   ],
+   "x": "«Bolalarda vazn va o'sish orqada qolishi mumkin»"
+  },
+  {
+   "q": "Kuchli zararlanishda gijjalar o'zaro chigallashib, nimani keltirib chiqaradi?",
+   "c": "Ichak tutilishini",
+   "w": [
+    "Ichak tuxumlarini",
+    "Ichak mikroflorasini",
+    "Ichak eozinofiliyasini",
+    "Ichak asoratlarini"
+   ],
+   "x": "«gijjalar o'zaro chigallashib, ichak tutilishi (obstruksiya) ni keltirib chiqaradi»"
+  },
+  {
+   "q": "Gijja nimalarga kirib qolishi tasvirlangan, lekin kam uchraydi?",
+   "c": "O't yo'llari yoki oshqozon osti bezi kanaliga",
+   "w": [
+    "O't yo'llari yoki oshqozon yuqori bezi kanaliga",
+    "Nafas yo'llari yoki oshqozon osti bezi kanaliga",
+    "O't yo'llari yoki ichak osti bezi kanaliga",
+    "O'pka yo'llari yoki oshqozon osti qavatiga"
+   ],
+   "x": "«Gijja o't yo'llariga yoki oshqozon osti bezi kanaliga kirib qolishi ham tasvirlangan holatlardir»"
+  },
+  {
+   "q": "Rentgen tekshiruvi o'pka bosqichida nimani ko'rsatishi mumkin?",
+   "c": "Vaqtinchalik o'zgarishlarni",
+   "w": [
+    "Doimiy o'zgarishlarni",
+    "Tuxum o'zgarishlarini",
+    "Ichak o'zgarishlarini",
+    "Vaqtinchalik tuxumlarni"
+   ],
+   "x": "«Rentgen tekshiruvi esa o'pka bosqichida vaqtinchalik o'zgarishlarni ko'rsatishi mumkin»"
+  },
+  {
+   "q": "Og'ir askaridoz bolalarda o'sish va rivojlanishni qaysi yo'llar bilan sekinlashtiradi?",
+   "c": "Ovqat hazm qilish buzilishi, vitamin tanqisligi va kamqonlik",
+   "w": [
+    "Ovqat hazm qilish buzilishi, vitamin tanqisligi va eozinofiliya",
+    "Ovqat hazm qilish buzilishi, oqsil tanqisligi va kamqonlik",
+    "Yo'tal, vitamin tanqisligi va kamqonlik",
+    "Ovqat hazm qilish buzilishi, isitma va kamqonlik"
+   ],
+   "x": "«ovqat hazm qilish buzilishi, vitamin tanqisligi va kamqonlik orqali o'sish va rivojlanishni sekinlashtiradi»"
+  },
+  {
+   "q": "Askaridoz nimaga ta'sir qilib, ovqat hazm qilishda noqulaylik keltirib chiqarishi mumkin?",
+   "c": "Ichak mikroflorasi muvozanatiga",
+   "w": [
+    "Ichak shilliq qavati muvozanatiga",
+    "Ichak tuxumi muvozanatiga",
+    "Oshqozon mikroflorasi muvozanatiga",
+    "O'pka mikroflorasi muvozanatiga"
+   ],
+   "x": "«Askaridoz ichak mikroflorasi muvozanatini o'zgartirishi mumkin»"
+  },
+  {
+   "q": "Uzoq davom etgan askaridoz qanday oqibatlarga olib kelishi mumkin?",
+   "c": "Ichak faoliyatining doimiy buzilishi, o'sishda orqada qolish va immunitet pasayishi",
+   "w": [
+    "Ichak faoliyatining doimiy buzilishi, o'sishda tezlashish va immunitet pasayishi",
+    "Ichak faoliyatining vaqtinchalik buzilishi, o'sishda orqada qolish va immunitet oshishi",
+    "Ichak faoliyatining doimiy yaxshilanishi, o'sishda orqada qolish va immunitet pasayishi",
+    "Ichak tutilishining doimiy buzilishi, vazn oshishi va immunitet pasayishi"
+   ],
+   "x": "«ichak faoliyatining doimiy buzilishi, o'sishda orqada qolish va immunitet pasayishiga olib kelishi mumkin»"
+  },
+  {
+   "q": "Askaridoz davolanganidan keyin bolaning ovqatlanish rejasi qaysi mahsulotlarni o'z ichiga oladi?",
+   "c": "Tolali va oqsilli mahsulotlarni",
+   "w": [
+    "Tolali va vitaminli mahsulotlarni",
+    "Oqsilli va vitaminli mahsulotlarni",
+    "Tolali va temirli mahsulotlarni",
+    "Temir va vitaminli mahsulotlarni"
+   ],
+   "x": "«Ovqatlanish rejasi tolali va oqsilli mahsulotlarni o'z ichiga oladi»"
+  },
+  {
+   "q": "Askaridozning klinik oqibatlarini kamaytirish uchun kimlar birgalikda ishlaydi?",
+   "c": "Oila va maktab",
+   "w": [
+    "Oila va shifokor",
+    "Shifokor va onalar",
+    "Maktab va onalar",
+    "Maktab va laborant"
+   ],
+   "x": "«askaridozning klinik oqibatlarini kamaytirish uchun oila va maktab birgalikda ishlaydi»"
+  },
+  {
+   "q": "Askaridoz bilan kasallangan bemorning kundalik parvarishida nimalar kuzatiladi?",
+   "c": "Tana harorati, ishtaha va najas",
+   "w": [
+    "Tana harorati, ishtaha va yo'tal",
+    "Tana vazni, ishtaha va najas",
+    "Tana harorati, uyqu va najas",
+    "Tana harorati, ishtaha va qon"
+   ],
+   "x": "«kundalik parvarishida tana harorati, ishtaha va najas kuzatiladi»"
+  }
+ ],
+ "090": [
+  {
+   "q": "Chivin yo'q qilinsa yoki kamaytirilsa, nima uziladi?",
+   "c": "Yuqish zanjiri",
+   "w": [
+    "Ko'payish zanjiri",
+    "Yuqish nazorati",
+    "Monitoring zanjiri",
+    "Ekologik zanjir"
+   ],
+   "x": "«Chivin yo'q qilinsa yoki kamaytirilsa, yuqish zanjiri uziladi»"
+  },
+  {
+   "q": "Chivin lichinkalari qanday suvda rivojlanadi?",
+   "c": "Turg'un va sekin oqadigan suvda",
+   "w": [
+    "Sun'iy va sekin oqadigan suvda",
+    "Turg'un va soyali oqadigan suvda",
+    "Toza va tashqarisidagi oqadigan suvda",
+    "Turg'un va sholi oqadigan suvda"
+   ],
+   "x": "«Chivin lichinkalari turg'un va sekin oqadigan suvda rivojlanadi»"
+  },
+  {
+   "q": "Insektitsidlar bilan ishlov berish ayniqsa qayerlarga qo'llanadi?",
+   "c": "Uy devorlari va ko'payish joylariga",
+   "w": [
+    "Uy devorlari va suv idishlariga",
+    "Uy ichi va baliqlar joylariga",
+    "Suv havzalari va kanallar joylariga",
+    "Uy devorlari va oziq joylariga"
+   ],
+   "x": "«ayniqsa uy devorlari va ko'payish joylariga, qo'llaniladi»"
+  },
+  {
+   "q": "Insektitsid ishlovi belgilangan tartibda kim tomonidan amalga oshiriladi?",
+   "c": "Dezinfeksiya xizmatlari",
+   "w": [
+    "Sanitariya xizmatlari",
+    "Hokimiyat xizmatlari",
+    "Fermerlar xizmatlari",
+    "Monitoring xizmatlari"
+   ],
+   "x": "«Ishlov berish dezinfeksiya xizmatlari tomonidan belgilangan tartibda amalga oshiriladi»"
+  },
+  {
+   "q": "Chivin monitoringi natijalari qayerga topshiriladi?",
+   "c": "Sanitariya-epidemiologiya xizmatiga",
+   "w": [
+    "Dezinfeksiya va hokimiyat xizmatiga",
+    "Hokimiyat va aholi xizmatiga",
+    "Fermerlar va aholi xizmatiga",
+    "Aholi va sanitariya xizmatiga"
+   ],
+   "x": "«Monitoring natijalari sanitariya-epidemiologiya xizmatiga topshiriladi»"
+  },
+  {
+   "q": "Ishlov beruvchi xodimlar nimalardan foydalanadi?",
+   "c": "Shaxsiy himoya vositalaridan",
+   "w": [
+    "Shaxsiy monitoring vositalaridan",
+    "Ekologik himoya vositalaridan",
+    "Biologik himoya vositalaridan",
+    "Sanitariya tuzoq vositalaridan"
+   ],
+   "x": "«Ishlov beruvchi xodimlar shaxsiy himoya vositalaridan foydalanadi»"
+  },
+  {
+   "q": "Monitoring natijalari yillar bo'yicha solishtirilsa, nima haqida xulosa chiqariladi?",
+   "c": "Chora-tadbirlar samaradorligi haqida",
+   "w": [
+    "Chora-tadbirlar xarajati haqida",
+    "Chivin turlari haqida",
+    "Aholi soni haqida",
+    "Hukumat roli haqida"
+   ],
+   "x": "«Monitoring natijalari yillar bo'yicha solishtiriladi, shunda chora-tadbirlar samaradorligi haqida xulosa chiqariladi»"
+  },
+  {
+   "q": "Shahar sharoitida chivin nazorati nimani yaxshilashga bog'liq?",
+   "c": "Kanalizatsiya va chiqindi tizimini",
+   "w": [
+    "Drenaj va chiqindi tizimini",
+    "Sug'orish va chiqindi tizimini",
+    "Drenaj va monitoring tizimini",
+    "Sun'iy va chiqindi tizimini"
+   ],
+   "x": "«Shahar sharoitida chivin nazorati kanalizatsiya va chiqindi tizimini yaxshilash bilan bog'liq»"
+  },
+  {
+   "q": "Mahalla faollari va o'qituvchilar chivin nazorati jarayonida qanday ishtirok etadi?",
+   "c": "Axborot tarqatuvchi sifatida",
+   "w": [
+    "Insektitsid beruvchi sifatida",
+    "Tuzoq tarqatuvchi sifatida",
+    "Baliq tarqatuvchi sifatida",
+    "Dezinfeksiya tarqatuvchi sifatida"
+   ],
+   "x": "«Mahalla faollari va o'qituvchilar bu jarayonda axborot tarqatuvchi sifatida ishtirok etadi»"
+  },
+  {
+   "q": "Nazorat dasturlari qaysi hamkorlik asosida moliyalashtirilsa, barqarorligi oshadi?",
+   "c": "Hukumat, xususiy sektor va aholi hamkorligi",
+   "w": [
+    "Hukumat, ilmiy sektor va aholi hamkorligi",
+    "Hukumat, xususiy sektor va fermerlar hamkorligi",
+    "Hokimiyat, xususiy sektor va maktab hamkorligi",
+    "Hukumat, dezinfeksiya sektor va aholi hamkorligi"
+   ],
+   "x": "«Nazorat dasturlari hukumat, xususiy sektor va aholi hamkorligida moliyalashtirilsa, ularning uzoq muddatli barqarorligi oshadi»"
+  }
+ ]
+}

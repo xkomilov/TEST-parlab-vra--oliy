@@ -1,0 +1,562 @@
+{
+ "076": [
+  {
+   "q": "Bemor va tashuvchi nima uchun epidemiologik nazoratda alohida hisobga olinadi?",
+   "c": "Tashuvchilarni aniqlash qiyin",
+   "w": [
+    "Bemorlarni aniqlash qiyin",
+    "Tashuvchilarni davolash arzon",
+    "Tashuvchilarni aniqlash osonlashadi",
+    "Hayvonlarni aniqlash qiyin"
+   ],
+   "x": "«Ikkala guruh ham epidemiologik nazoratda alohida hisobga olinadi, chunki tashuvchilarni aniqlash qiyin»"
+  },
+  {
+   "q": "Manba hayvon bo'lsa, epidemiologik nazoratning bir qismi qaysi nazorat bo'ladi?",
+   "c": "Veterinariya nazorati",
+   "w": [
+    "Sanitariya nazorati",
+    "Laboratoriya nazorati",
+    "Hududiy nazorat",
+    "Tibbiy nazorat"
+   ],
+   "x": "«Bunday hollarda veterinariya nazorati epidemiologik nazoratning bir qismi bo'ladi»"
+  },
+  {
+   "q": "Manbani aniqlash uchun epidemiolog birinchi navbatda nimani tuzadi?",
+   "c": "Kasallik holatlarining ketma-ketligini",
+   "w": [
+    "Kasallik holatlarining xaritasini",
+    "Kontaktlarning ro'yxatini",
+    "Populyatsiyaning hisobotini",
+    "Bemorlarning ovqatlanish dasturini"
+   ],
+   "x": "«epidemiolog birinchi navbatda kasallik holatlarining ketma-ketligini tuzadi»"
+  },
+  {
+   "q": "Bir guruh bemorlar bir xil manba bilan bog'liq bo'lsa, bu nimani anglatadi?",
+   "c": "Manba haqida kuchli dalil hisoblanadi",
+   "w": [
+    "Manba haqida umumiy dalil hisoblanadi",
+    "Manba aniqlanmaganini ko'rsatadi",
+    "Hayvon manbasi borligini ko'rsatadi",
+    "Kontaktlar tekshirilmaganini ko'rsatadi"
+   ],
+   "x": "«Agar bir guruh bemorlar bir xil manba bilan bog'liq bo'lsa, bu manba haqida kuchli dalil hisoblanadi»"
+  },
+  {
+   "q": "Laboratoriya natijalari manbani topishda nimani aniqlaydi?",
+   "c": "Parazit turini",
+   "w": [
+    "Parazit tarixini",
+    "Hayvon turini",
+    "Odam turini",
+    "Manba xaritasini"
+   ],
+   "x": "«Laboratoriya natijalari parazit turini aniqlaydi»"
+  },
+  {
+   "q": "Turning tabiiy rezervuari hayvon bo'lsa, manba qanday belgilanadi?",
+   "c": "Hayvon sifatida",
+   "w": [
+    "Odam sifatida",
+    "Tashuvchi sifatida",
+    "Bemor sifatida",
+    "Chorva sifatida"
+   ],
+   "x": "«Turning tabiiy rezervuari odam bo'lsa, manba odam, hayvon bo'lsa, hayvon sifatida belgilanadi»"
+  },
+  {
+   "q": "Populyatsiya tahlilida qaysi guruhlar alohida ko'rib chiqiladi?",
+   "c": "Bolalar va chorvadorlar",
+   "w": [
+    "Bolalar va tashuvchilar",
+    "Rahbarlar va chorvadorlar",
+    "Xodimlar va tashuvchilar",
+    "Bolalar va rahbarlar"
+   ],
+   "x": "«Ayniqsa bolalar va chorvadorlar alohida guruh sifatida ko'rib chiqiladi»"
+  },
+  {
+   "q": "Manba aniqlanishidan oldin qaysi profilaktik tadbirlar boshlanadi?",
+   "c": "Aholini xabardor qilish va sanitariya nazoratini kuchaytirish",
+   "w": [
+    "Aholini xabardor qilish va veterinariya nazoratini kamaytirish",
+    "Tashuvchilarni davolash va sanitariya nazoratini kuchaytirish",
+    "Aholini ro'yxatga olish va sanitariya nazoratini kamaytirish",
+    "Hayvonlarni davolash va hududiy nazoratni cheklash"
+   ],
+   "x": "«masalan aholini xabardor qilish va sanitariya nazoratini kuchaytirish»"
+  },
+  {
+   "q": "Epidemiologik nazorat nima sababdan uzluksiz bo'lishi kerak?",
+   "c": "Bir martalik tekshiruv yetarli emas",
+   "w": [
+    "Bir martalik tekshiruv arzon bo'ladi",
+    "Bir martalik monitoring yetarli bo'ladi",
+    "Hududiy tekshiruv yetarli bo'ladi",
+    "Xodimlar soni yetarli bo'ladi"
+   ],
+   "x": "«Epidemiologik nazorat uzluksiz bo'lishi kerak, chunki bir martalik tekshiruv yetarli emas»"
+  },
+  {
+   "q": "Epidemiologik hisobotlarda nima cheklanadi?",
+   "c": "Shaxsni aniqlovchi ma'lumotlar",
+   "w": [
+    "Hududiy tahlil ma'lumotlari",
+    "Laboratoriya natijalari ma'lumotlari",
+    "Kasallik sanasi ma'lumotlari",
+    "Veterinariya ma'lumotlari"
+   ],
+   "x": "«Hisobotlarda shaxsni aniqlovchi ma'lumotlar cheklanadi»"
+  }
+ ],
+ "077": [
+  {
+   "q": "Askaridaning inson organizmidagi hayot aylanishi nimadan boshlanadi?",
+   "c": "Yetilgan tuxumni yutishdan",
+   "w": [
+    "Lichinkani yutishdan",
+    "Tuxum qo'yishdan",
+    "Najas bilan chiqishdan",
+    "Voyaga yetishdan"
+   ],
+   "x": "«hayot aylanishi odamning ichagida yetilgan tuxumni yutishdan boshlanadi»"
+  },
+  {
+   "q": "Askarida tuxumining qobig'i ichakda nima ta'sirida yemiriladi?",
+   "c": "Ichak shirasi",
+   "w": [
+    "Ichak devori",
+    "Qon oqimi",
+    "Nafas yo'llari",
+    "Alveolalar devori"
+   ],
+   "x": "«ichak shirasi ta'sirida qobig'i yemiriladi»"
+  },
+  {
+   "q": "Lichinka qon oqimi bilan qaysi organlarga boradi?",
+   "c": "Jigar, yurak va o'pkaga",
+   "w": [
+    "Yurak, qorin va o'pkaga",
+    "Jigar, yurak va yutqunga",
+    "Jigar, ichak va yurakka",
+    "Ichak, yutqun va o'pkaga"
+   ],
+   "x": "«qon oqimi bilan jigar, yurak va o'pkaga boradi»"
+  },
+  {
+   "q": "O'pkada lichinka qaysi tuzilmalarni kesib o'tadi?",
+   "c": "Alveolalarni",
+   "w": [
+    "Kapillyarlarni",
+    "Qorinchalarni",
+    "Tomirlarni",
+    "Nafas yo'llarini"
+   ],
+   "x": "«O'pkada u alveolalarni kesib o'tib, nafas yo'llariga chiqadi»"
+  },
+  {
+   "q": "Nafas yo'llariga chiqqan lichinka yutqunga qanday ko'tariladi?",
+   "c": "Yo'tal orqali",
+   "w": [
+    "Qon orqali",
+    "Najas orqali",
+    "Nafas orqali",
+    "Tuproq orqali"
+   ],
+   "x": "«lichinka yo'tal bilan yutqunga ko'tariladi»"
+  },
+  {
+   "q": "Urg'ochi askarida kuniga nima qo'yadi?",
+   "c": "Minglab tuxum",
+   "w": [
+    "Minglab lichinka",
+    "Minglab gijja",
+    "Bir necha tuxum",
+    "Bir necha gijja"
+   ],
+   "x": "«Urg'ochisi kuniga minglab tuxum qo'yadi»"
+  },
+  {
+   "q": "Faqat qaysi tuxumlar yuqish qobiliyatiga ega?",
+   "c": "Yetilgan tuxumlar",
+   "w": [
+    "Urug'lanmagan tuxumlar",
+    "Najasdagi tuxumlar",
+    "Yopiq tuxumlar",
+    "Quruq tuxumlar"
+   ],
+   "x": "«faqat yetilgan tuxumlar yuqish qobiliyatiga ega»"
+  },
+  {
+   "q": "Tuproqda askarida tuxumlarining yetilishini nima tezlashtiradi?",
+   "c": "Tuproq namligi va iliqligi",
+   "w": [
+    "Tuproq quruqligi va sovuqligi",
+    "Tuproq namligi va sovuqligi",
+    "Tuproq iliqligi va quruqligi",
+    "Tuproq harorati va ochiqligi"
+   ],
+   "x": "«Tuproq namligi va iliqligi tuxumlarning yetilishini tezlashtiradi»"
+  },
+  {
+   "q": "Lichinkalar ichak devoridan o'tganda nimaga sabab bo'lishi mumkin?",
+   "c": "Kichik qon ketishlariga va mahalliy yallig'lanishga",
+   "w": [
+    "Kichik qon ketishlariga va mahalliy yo'talga",
+    "Qorin og'rig'iga va jinsiy yallig'lanishga",
+    "Kichik alveolalar ketishlariga va yurak yallig'lanishiga",
+    "Nafas yo'llari ketishlariga va mahalliy yo'talga"
+   ],
+   "x": "«Bu jarayon kichik qon ketishlariga va mahalliy yallig'lanishga sabab bo'lishi mumkin»"
+  },
+  {
+   "q": "Askarida hayot siklini uzish uchun qaysi uchta chora birgalikda qo'llanadi?",
+   "c": "Bemorni davolash, tuxumlarni zararsizlantirish va ichimlik suvini nazorat qilish",
+   "w": [
+    "Bemorni davolash, tuxumlarni zararsizlantirish va tuproqni nazorat qilish",
+    "Bemorni davolash, najasni ochiq tashlash va ichimlik suvini nazorat qilish",
+    "Lichinkalarni davolash, tuxumlarni yutish va ichimlik suvini nazorat qilish",
+    "Bemorni davolash, tuxumlarni yutish va ichimlik suvini nazorat qilish"
+   ],
+   "x": "«hayot siklini uzish uchun bemorni davolash, tuxumlarni zararsizlantirish va ichimlik suvini nazorat qilish birgalikda qo'llanadi»"
+  }
+ ],
+ "078": [
+  {
+   "q": "Tuxum qo'yish vaqtida ostritsa tuxumlarini qayerga yopishtiradi?",
+   "c": "Teri yuziga",
+   "w": [
+    "Ichak yuziga",
+    "Najas yuziga",
+    "Tuxum yuziga",
+    "Ko'r ichak yuziga"
+   ],
+   "x": "«Tuxumlar yopishqoq suyuqlik bilan teri yuziga mahkam yopishadi»"
+  },
+  {
+   "q": "Bir martalik tekshiruvda manfiy natija nima sababdan ko'p kuzatiladi?",
+   "c": "Tuxumlar notekis qo'yiladi",
+   "w": [
+    "Tuxumlar ichakda chiqmaydi",
+    "Gijjalar ichakda juftlashadi",
+    "Erkak gijjalar notekis o'ladi",
+    "Lichinkalar notekis yetiladi"
+   ],
+   "x": "«Bir martalik tekshiruvda manfiy natija ko'p hollarda tuxumlarning notekis qo'yilishi bilan bog'liq bo'ladi»"
+  },
+  {
+   "q": "Tuxumlar tirnoq ostiga tushgach, qanday yo'l bilan qayta yutiladi?",
+   "c": "Qo'l orqali og'izga",
+   "w": [
+    "Qo'l orqali ichakka",
+    "Kiyim orqali og'izga",
+    "Choyshab orqali og'izga",
+    "Mebel orqali ichakka"
+   ],
+   "x": "«tirnog'i ostiga tushadi va qo'l orqali og'izga qayta yutiladi»"
+  },
+  {
+   "q": "Ostritsa tuxumlari qaysi buyumlarda topilishi mumkin?",
+   "c": "Choyshab, kiyim, o'yinchoq, mebel va eshik tutqichlarida",
+   "w": [
+    "Choyshab, kiyim, o'yinchoq, najas va eshik tutqichlarida",
+    "Choyshab, kiyim, preparat, mebel va eshik tutqichlarida",
+    "Tirnoq, kiyim, o'yinchoq, mebel va eshik tutqichlarida",
+    "Choyshab, kiyim, o'yinchoq, mebel va oila tutqichlarida"
+   ],
+   "x": "«Tuxumlar choyshab, kiyim, o'yinchoq, mebel va eshik tutqichlarida topilishi mumkin»"
+  },
+  {
+   "q": "Oilada bir kishi kasallangan bo'lsa, nima kerak?",
+   "c": "Boshqa a'zolar ham tekshirilishi kerak",
+   "w": [
+    "Faqat bemor tekshirilishi kerak",
+    "Boshqa a'zolar tozalanishi kerak",
+    "Choyshab tekshirilishi kerak",
+    "Bemor xonasi davolanishi kerak"
+   ],
+   "x": "«oilada bir kishi kasallangan bo'lsa, boshqa a'zolar ham tekshirilishi kerak»"
+  },
+  {
+   "q": "Ostritsa tashxisi asosan nima orqali qo'yiladi?",
+   "c": "Urg'ochining tuxumlarini aniqlash",
+   "w": [
+    "Erkakning tuxumlarini aniqlash",
+    "Urg'ochining najasini aniqlash",
+    "Erkakni najasda topish",
+    "Lichinkani teri yuzasida aniqlash"
+   ],
+   "x": "«tashxis asosan urg'ochining tuxumlarini aniqlash orqali qo'yiladi»"
+  },
+  {
+   "q": "Gijjaning hayot sikli bir necha hafta davom etsa, davolashdan keyin nima zarur?",
+   "c": "Qayta tekshirish va kuzatuv",
+   "w": [
+    "Davolashdan oldin qayta tekshirish va kuzatuv",
+    "Qo'l yuvish va kuzatuv",
+    "Doza oshirish va kuzatuv",
+    "Takroriy doza va kuzatuv"
+   ],
+   "x": "«shu sababli davolashdan keyin qayta tekshirish va kuzatuv zarur»"
+  },
+  {
+   "q": "Kasallik zanjirini uzish uchun nimalar birgalikda amalga oshiriladi?",
+   "c": "Bemor va kontaktlari davolanadi, uy tozalanadi, gigiyena o'rgatiladi",
+   "w": [
+    "Bemor va kontaktlari tekshiriladi, uy tozalanadi, gigiyena o'rgatiladi",
+    "Bemor va kontaktlari davolanadi, kiyim tozalanadi, doza o'rgatiladi",
+    "Bemor va kontaktlari davolanadi, uy tozalanadi, tuxum o'rgatiladi",
+    "Faqat bemor davolanadi, uy tozalanadi, gigiyena o'rgatiladi"
+   ],
+   "x": "«bemor va uning kontaktlari birgalikda davolanadi, uy tozalanadi va gigiyena qoidalari bir vaqtda o'rgatiladi»"
+  },
+  {
+   "q": "Kasallikning qayta tiklanishi ehtimoli haqida oldindan xabar berilsa, bemor nima qiladi?",
+   "c": "Mas'uliyatni his qilib, rejani o'z vaqtida bajaradi",
+   "w": [
+    "Mas'uliyatni his qilmay, rejani o'z vaqtida bajaradi",
+    "Tekshiruvdan qochib, rejani o'z vaqtida bajaradi",
+    "Mas'uliyatni his qilib, rejani oilaga tushuntiradi",
+    "Mas'uliyatni his qilib, tekshiruvdan qochishi mumkin"
+   ],
+   "x": "«bemor davolash bo'yicha mas'uliyatni his qiladi va rejani o'z vaqtida bajaradi»"
+  },
+  {
+   "q": "Odam organizmi ostritsaga kuchli immunitet hosil qilmasa, nima bo'lishi mumkin?",
+   "c": "Bemor qayta-qayta zararlanishi mumkin",
+   "w": [
+    "Bemor qayta-qayta davolanishi mumkin",
+    "Bemor bir marta zararlanishi mumkin",
+    "Oila qayta-qayta tekshirilishi mumkin",
+    "Gijja qayta-qayta davolanishi mumkin"
+   ],
+   "x": "«Shu sababli bemor qayta-qayta zararlanishi mumkin»"
+  }
+ ],
+ "079": [
+  {
+   "q": "Parazit immun ta'sirini kamaytiruvchi moddalar chiqarsa, bemorda nima saqlanishi mumkin?",
+   "c": "Uzoq muddatli infeksiya",
+   "w": [
+    "Uzoq muddatli immunitet",
+    "Uzoq muddatli reaksiya",
+    "Uzoq muddatli ovqatlanish",
+    "Uzoq muddatli gigiyena"
+   ],
+   "x": "«Shu sababli bemorda uzoq muddatli infeksiya saqlanishi mumkin»"
+  },
+  {
+   "q": "Gijja ichak devorini zararlaganda nima kamayadi?",
+   "c": "Oziq moddalarning so'rilishi",
+   "w": [
+    "Oziq moddalarning iste'moli",
+    "Ichak shirasining so'rilishi",
+    "Gijja tuxumlarining so'rilishi",
+    "Oziq moddalarning ko'payishi"
+   ],
+   "x": "«Gijja ichakdagi oziq moddalarni qisman iste'mol qiladi va ichak devorini zararlaganda so'rilishni kamaytiradi»"
+  },
+  {
+   "q": "Ko'p gijjali bemorlarda oqsil va temir iste'moli kamaysa, nimaga olib keladi?",
+   "c": "Kamqonlik va vazn yo'qotishga",
+   "w": [
+    "Allergik reaksiya va vazn yo'qotishga",
+    "Kamqonlik va ichak tutilishiga",
+    "Immun javob va o'sish sekinlashuviga",
+    "Eozinofillar va vazn yo'qotishga"
+   ],
+   "x": "«bu esa kamqonlik va vazn yo'qotishga olib keladi»"
+  },
+  {
+   "q": "Askaridoz zanjirini uzish uchun nimalar birgalikda olib boriladi?",
+   "c": "Bemorni davolash va tuxumlarni yo'q qilish",
+   "w": [
+    "Bemorni davolash va oraliq xo'jayinni yo'q qilish",
+    "Bemorni tekshirish va tuxumlarni ko'paytirish",
+    "Kontaktlarni tekshirish va ovqatlanishni yo'q qilish",
+    "Oilani davolash va maktabni yo'q qilish"
+   ],
+   "x": "«Bu zanjirni uzish uchun bemorni davolash va tuxumlarni yo'q qilish birgalikda olib boriladi»"
+  },
+  {
+   "q": "Askaridozni nazorat qilishda nima asosiy e'tiborda bo'ladi?",
+   "c": "Odam va uning muhiti",
+   "w": [
+    "Odam va oraliq xo'jayin",
+    "Gijja va uning tuxumlari",
+    "Bolalar va uning ovqati",
+    "Oila va uning mahallasi"
+   ],
+   "x": "«odam va uning muhiti asosiy e'tiborda bo'ladi»"
+  },
+  {
+   "q": "Bitta odamda gijjalar soni qanday bo'ladi?",
+   "c": "Kamdan-kam hollarda ko'p bo'ladi",
+   "w": [
+    "Odatda juda ko'p bo'ladi",
+    "Ko'pincha ko'p bo'ladi",
+    "Barcha hollarda ko'p bo'ladi",
+    "Oilada juda ko'p bo'ladi"
+   ],
+   "x": "«Bitta odamda gijjalar soni kamdan-kam hollarda ko'p bo'ladi»"
+  },
+  {
+   "q": "Qaysi bemorlarda ichak funksiyasi sezilarli buziladi?",
+   "c": "Ko'p gijja bo'lgan bemorlarda",
+   "w": [
+    "Ovqatlanishi yaxshi bemorlarda",
+    "Immun javobi kuchli bemorlarda",
+    "Kattalar bemorlarda",
+    "Gigiyenasi yaxshi bemorlarda"
+   ],
+   "x": "«ko'p gijja bo'lgan bemorlarda ichak funksiyasi sezilarli buziladi»"
+  },
+  {
+   "q": "Kattalarda gijja uzoq yashashi mumkinligi sababli nima tavsiya etiladi?",
+   "c": "Oiladagi barcha a'zolarni tekshirish",
+   "w": [
+    "Faqat bemorning o'zini tekshirish",
+    "Oilaga ovqatlanish dasturini tavsiya etish",
+    "Mahalla faollarini tekshirish",
+    "Maktabdagi gijjalarni nazorat qilish"
+   ],
+   "x": "«Shu sababli oiladagi barcha a'zolarni tekshirish tavsiya etiladi»"
+  },
+  {
+   "q": "Hamjamiyat faollari nimani davom ettiradi?",
+   "c": "Gigiyena va profilaktika bo'yicha targ'ibotni",
+   "w": [
+    "Gigiyena va profilaktika bo'yicha davolashni",
+    "Oqsil va temir bo'yicha targ'ibotni",
+    "Gigiyena va profilaktika bo'yicha tekshiruvni",
+    "Hamjamiyat va maktab bo'yicha targ'ibotni"
+   ],
+   "x": "«Hamjamiyat faollari gigiyena va profilaktika bo'yicha targ'ibotni davom ettiradi»"
+  },
+  {
+   "q": "Oilaviy va jamoaviy nazorat hamda gigiyena qoidalariga rioya qilish nimani oshiradi?",
+   "c": "Davolash samaradorligini",
+   "w": [
+    "Davolash xavfsizligini",
+    "Gijjalar sonini",
+    "Tuxumlar sonini",
+    "Oilaviy kontaktlarni"
+   ],
+   "x": "«gigiyena qoidalariga rioya qilish davolash samaradorligini oshiradi»"
+  }
+ ],
+ "080": [
+  {
+   "q": "Bezgak nazorat choralari qaysi bo'g'inlarga qaratiladi?",
+   "c": "Bemorni aniqlash, chivinni kamaytirish va odamni chaqishdan himoya qilish",
+   "w": [
+    "Bemorni aniqlash, chivinni ko'paytirish va odamni chaqishdan himoya qilish",
+    "Bemorni aniqlash, suvni kamaytirish va odamni chaqishdan himoya qilish",
+    "Chivinni aniqlash, bemorni kamaytirish va odamni chaqishdan himoya qilish",
+    "Bemorni aniqlash, chivinni kamaytirish va donorni chaqishdan himoya qilish"
+   ],
+   "x": "«bemorni aniqlash, chivinni kamaytirish va odamni chaqishdan himoya qilish»"
+  },
+  {
+   "q": "Parazitlar qonga qaytgach, ikkinchi siklda qayerda ko'payadi?",
+   "c": "Eritrotsitlarda",
+   "w": [
+    "Jigarda",
+    "Chivin so'lagida",
+    "Qon oqimida",
+    "Sporozoitlarda"
+   ],
+   "x": "«parazitlar qonga qaytib, eritrotsitlarga kirib oladi va ikkinchi (eritrotsitar) siklda ko'payadi»"
+  },
+  {
+   "q": "Qon quyishdan tashqari qaysi usullar bezgakning vektor bo'lmagan yuqish yo'llariga kiradi?",
+   "c": "Organ transplantatsiyasi va bir igna bilan inyeksiya",
+   "w": [
+    "Donor transplantatsiyasi va bir igna bilan skrining",
+    "Organ transplantatsiyasi va bir igna bilan sayohat",
+    "Chivin transplantatsiyasi va bir igna bilan inyeksiya",
+    "Organ skrining va bir kishi bilan inyeksiya"
+   ],
+   "x": "«masalan qon quyish, organ transplantatsiyasi yoki bir igna bilan ko'p odamga inyeksiya qilish»"
+  },
+  {
+   "q": "Daryo sohillaridan tashqari chivinlar ko'payishi uchun qulay joylar qaysilar?",
+   "c": "Sholipoyalar va turg'un suvli ariqlar",
+   "w": [
+    "Sholipoyalar va turg'un baliqlar",
+    "Uylar va turg'un suvli ariqlar",
+    "Derazalar va turg'un suvli ariqlar",
+    "Sholipoyalar va keraksiz suv uylari"
+   ],
+   "x": "«sholipoyalar, axlat chiqindilari to'plangan joylar va turg'un suvli ariqlardir»"
+  },
+  {
+   "q": "Himoya to'rlari qayerga o'rnatiladi?",
+   "c": "Eshik va derazalarga",
+   "w": [
+    "Eshik va karavotlarga",
+    "Havzalar va derazalarga",
+    "Eshik va sohillarga",
+    "Uylar va ariqlarga"
+   ],
+   "x": "«Eshik va derazalarga himoya to'rlari o'rnatish»"
+  },
+  {
+   "q": "Sanitariya xizmati mavsum boshida nima qiladi?",
+   "c": "Chivin nazoratini kuchaytiradi va suv havzalarini tekshiradi",
+   "w": [
+    "Chivin nazoratini kamaytiradi va suv havzalarini tekshiradi",
+    "Chivin nazoratini kuchaytiradi va suv havzalarini yo'qotadi",
+    "Bemor nazoratini kuchaytiradi va suv havzalarini yo'qotadi",
+    "Insektitsid nazoratini kuchaytiradi va donorlarni tekshiradi"
+   ],
+   "x": "«sanitariya xizmati mavsum boshida chivin nazoratini kuchaytiradi va suv havzalarini tekshiradi»"
+  },
+  {
+   "q": "Qaysi omillar odamlarda chivin chaqishi xavfini oshiradi?",
+   "c": "To'r o'rnatilmagan uylar, kechasi ochiq derazalar va ochiq teri yuzasi",
+   "w": [
+    "To'r o'rnatilmagan uylar, kechasi ochiq derazalar va yopiq teri yuzasi",
+    "To'r o'rnatilgan uylar, kechasi ochiq derazalar va ochiq teri yuzasi",
+    "To'r o'rnatilmagan uylar, kechqurun yopiq derazalar va ochiq teri yuzasi",
+    "To'rli karavotlar, kechasi ochiq derazalar va yengli kiyim yuzasi"
+   ],
+   "x": "«To'r o'rnatilmagan uylar, kechasi ochiq derazalar va ochiq teri yuzasi chivin chaqishi xavfini oshiradi»"
+  },
+  {
+   "q": "Insektitsid bilan ishlov berish ishlarini kim amalga oshiradi?",
+   "c": "Sanitariya-epidemiologiya xizmati va dezinfeksiya stansiyalari",
+   "w": [
+    "Epidemiolog va dezinfeksiya stansiyalari",
+    "Sanitariya-epidemiologiya xizmati va sayohat stansiyalari",
+    "Donor xizmati va dezinfeksiya stansiyalari",
+    "Sanitariya-epidemiologiya xizmati va chivin stansiyalari"
+   ],
+   "x": "«Bu ishlar sanitariya-epidemiologiya xizmati va dezinfeksiya stansiyalari tomonidan amalga oshiriladi»"
+  },
+  {
+   "q": "Kechqurun uyda chivin chaqishidan himoyalanish uchun nima qilish tavsiya etiladi?",
+   "c": "Derazalarni yopish",
+   "w": [
+    "Eshiklarni ochiq qoldirish",
+    "Suv havzalarini yo'qotish",
+    "Insektitsidlarni surtish",
+    "Karavotni ochiq qoldirish"
+   ],
+   "x": "«kechqurun uyda derazalarni yopish»"
+  },
+  {
+   "q": "Chivin zichligi nimalarga bog'liq?",
+   "c": "Mavsumga va suv havzalarining holatiga",
+   "w": [
+    "Mavsumga va bemorning holatiga",
+    "Donorga va suv havzalarining holatiga",
+    "Parazitga va suv havzalarining holatiga",
+    "Mavsumga va insektitsidlarning holatiga"
+   ],
+   "x": "«Chivin zichligi mavsumga va suv havzalarining holatiga bog'liq»"
+  }
+ ]
+}
